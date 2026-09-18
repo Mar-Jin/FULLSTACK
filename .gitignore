@@ -1,0 +1,19 @@
+# .NET build output
+bin/
+obj/
+
+# IDE's
+.vs/
+.idea/
+*.user
+*.suo
+
+# Node / Vite
+node_modules/
+dist/
+*.local
+
+# Overig
+.DS_Store
+Thumbs.db
+*.log

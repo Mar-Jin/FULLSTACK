@@ -1,0 +1,18 @@
+@import './base.css';
+@import "tailwindcss";
+
+/* Eventuele extra globale stijlen */
+body {
+  font-family: 'Inter', sans-serif; /* mooie moderne font */
+  background-color: #f3f4f6; /* fallback achtergrondkleur */
+}
+
+/* Links mooi laten overgaan bij hover */
+a {
+  transition: color 0.2s;
+}
+
+/* Material icons grootte aanpassen indien nodig */
+.material-icons {
+  vertical-align: middle;
+}
