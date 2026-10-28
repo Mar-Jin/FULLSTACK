@@ -7,8 +7,7 @@ namespace RevaliNow.Dtos
         public Patient User { get; set; } = null!;
         public List<PijnIndicatie> RecentPains { get; set; } = [];
         public List<PijnIndicatie> PainData { get; set; } = [];
-        public List<Oefenplan> UpcomingExercises { get; set; } = [];
-        public Afspraak? NextAppointment { get; set; }
-        public List<Oefenplan> Exercises { get; set; } = [];
+        public List<OefenplanDto> UpcomingExercises { get; set; } = [];
+        public AfspraakDto? NextAppointment { get; set; }
     }
 }

@@ -21,11 +21,22 @@ if (Encoding.UTF8.GetByteCount(jwtKey) < 32)
     throw new InvalidOperationException("Jwt:Key moet minstens 32 tekens lang zijn.");
 
 // Add services to the container.
-builder.Services.AddDbContext<RevaliNowDbContext>(options =>
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddSingleton<SessieContextInterceptor>();
+builder.Services.AddDbContext<RevaliNowDbContext>((serviceProvider, options) =>
     options.UseSqlServer(connectionString,
-        sql => sql.EnableRetryOnFailure())); // De database-container kan bij opstarten nog niet klaar zijn
+            sql => sql.EnableRetryOnFailure()) // De database-container kan bij opstarten nog niet klaar zijn
+        .AddInterceptors(serviceProvider.GetRequiredService<SessieContextInterceptor>()));
 
 builder.Services.AddScoped<ITokenService, TokenService>();
+builder.Services.AddScoped<IOefenplanService, OefenplanService>();
+builder.Services.AddScoped<ILogboekService, LogboekService>();
+builder.Services.AddScoped<IAfspraakService, AfspraakService>();
+// 'Nu' via TimeProvider in plaats van DateTime.Now, zodat de tijd in unit tests vast te zetten is
+builder.Services.AddSingleton(TimeProvider.System);
+
+builder.Services.AddExceptionHandler<FoutAfhandeling>();
+builder.Services.AddProblemDetails();
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
@@ -78,6 +89,8 @@ builder.Services.AddSwaggerGen(options =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+app.UseExceptionHandler();
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

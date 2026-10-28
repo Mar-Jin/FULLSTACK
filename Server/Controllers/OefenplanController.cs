@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using RevaliNow.Authorization;
-using RevaliNow.Data;
+using RevaliNow.Dtos;
 using RevaliNow.Models;
+using RevaliNow.Services;
 
 namespace RevaliNow.Controllers
 {
@@ -11,37 +11,34 @@ namespace RevaliNow.Controllers
     [ApiController]
     [Authorize(Roles = Rollen.Patient)]
     [AlleenEigenPatient]
-    public class OefenplanController(RevaliNowDbContext context) : ControllerBase
+    public class OefenplanController(IOefenplanService oefenplanService) : ControllerBase
     {
-        private readonly RevaliNowDbContext _context = context;
-
+        // GET patienten/5/oefenplannen
         [HttpGet]
-        public ActionResult<List<Oefenplan>> Get(int patientId)
+        public async Task<ActionResult<List<OefenplanDto>>> Get(int patientId)
         {
-            var oefenplannen = _context.Oefenplannen
-                .AsNoTracking()
-                .Include(p => p.Oefening)
-                .Where(p => p.PatientId == patientId)
-                .OrderBy(p => p.StartDatum)
-                .ToList();
-
-            return Ok(oefenplannen);
+            return Ok(await oefenplanService.GetOefenplannenAsync(patientId));
         }
 
+        // GET patienten/5/oefenplannen/12
         [HttpGet("{id:int}")]
-        public ActionResult<Oefenplan> GetById(int patientId, int id)
+        public async Task<ActionResult<OefenplanDto>> GetById(int patientId, int id)
         {
-            var oefenplan = _context.Oefenplannen
-                .AsNoTracking()
-                .Include(p => p.Oefening)
-                .Include(p => p.Revalidatiearts)
-                .FirstOrDefault(p => p.Id == id && p.PatientId == patientId);
+            var oefenplan = await oefenplanService.GetOefenplanAsync(patientId, id);
 
             if (oefenplan == null) {
                 return NotFound();
             }
 
             return Ok(oefenplan);
+        }
+
+        // POST patienten/5/oefenplannen/12/afvinkingen  { "isAfgevinkt": true }
+        // Legt een nieuwe afvinking vast (of het ongedaan maken ervan) en geeft de bijgewerkte voortgang terug.
+        [HttpPost("{id:int}/afvinkingen")]
+        public async Task<ActionResult<OefenplanDto>> Afvinken(int patientId, int id, [FromBody] AfvinkenDto afvinken)
+        {
+            return Ok(await oefenplanService.AfvinkenAsync(patientId, id, afvinken.IsAfgevinkt));
         }
     }
 }

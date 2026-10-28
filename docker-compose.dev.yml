@@ -6,6 +6,8 @@ services:
     environment:
       SA_PASSWORD: "RevaliNowPassword1!"
       ACCEPT_EULA: "Y"
+      # Zelfde tijdzone als de API, zodat tijden in de audit trail kloppen
+      TZ: "Europe/Amsterdam"
     healthcheck:
       test: [ "CMD", "bash", "-c", "echo > /dev/tcp/localhost/1433" ]
       interval: 10s

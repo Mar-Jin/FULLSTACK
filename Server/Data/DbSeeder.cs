@@ -23,6 +23,9 @@ public static class DbSeeder
             using var transactie = context.Database.BeginTransaction();
             context.ChangeTracker.AutoDetectChangesEnabled = false;
 
+            // Het inlezen van de dataset is geen gebruikersactie: de audit-triggers slaan dit over
+            context.Database.ExecuteSqlRaw("EXEC sp_set_session_context @key = N'Seeding', @value = 1");
+
             VoegToe(context, Lees("Zorgverzekeraars.csv", r => new Zorgverzekeraar
             {
                 Id = Int(r, "ZorgverzekeraarID"),

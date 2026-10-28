@@ -112,6 +112,53 @@ namespace RevaliNow.Migrations
                         });
                 });
 
+            modelBuilder.Entity("RevaliNow.Models.AuditLog", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
+
+                    b.Property<string>("Actie")
+                        .IsRequired()
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.Property<string>("DatabaseGebruiker")
+                        .IsRequired()
+                        .HasMaxLength(128)
+                        .HasColumnType("nvarchar(128)");
+
+                    b.Property<DateTime>("DatumTijd")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int?>("GebruikerId")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("PatientId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("RecordId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Tabelnaam")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("PatientId");
+
+                    b.HasIndex("Tabelnaam", "RecordId");
+
+                    b.ToTable("AuditLogs", t =>
+                        {
+                            t.HasCheckConstraint("CK_AuditLogs_Actie", "[Actie] IN ('INSERT', 'UPDATE', 'DELETE')");
+                        });
+                });
+
             modelBuilder.Entity("RevaliNow.Models.Declaratie", b =>
                 {
                     b.Property<int>("Id")
@@ -342,7 +389,12 @@ namespace RevaliNow.Migrations
 
                     b.HasIndex("PatientId");
 
-                    b.ToTable("Logboek");
+                    b.ToTable("Logboek", t =>
+                        {
+                            t.HasTrigger("TR_Logboek_Audit");
+                        });
+
+                    b.HasAnnotation("SqlServer:UseSqlOutputClause", false);
                 });
 
             modelBuilder.Entity("RevaliNow.Models.Medicatie", b =>
@@ -624,8 +676,12 @@ namespace RevaliNow.Migrations
 
                     b.ToTable("PijnIndicaties", t =>
                         {
+                            t.HasTrigger("TR_PijnIndicaties_Audit");
+
                             t.HasCheckConstraint("CK_PijnIndicaties_PijnScore", "[PijnScore] BETWEEN 0 AND 10");
                         });
+
+                    b.HasAnnotation("SqlServer:UseSqlOutputClause", false);
                 });
 
             modelBuilder.Entity("RevaliNow.Models.UitgevoerdeOefening", b =>
@@ -649,7 +705,12 @@ namespace RevaliNow.Migrations
 
                     b.HasIndex("OefenplanId");
 
-                    b.ToTable("UitgevoerdeOefeningen");
+                    b.ToTable("UitgevoerdeOefeningen", t =>
+                        {
+                            t.HasTrigger("TR_UitgevoerdeOefeningen_Audit");
+                        });
+
+                    b.HasAnnotation("SqlServer:UseSqlOutputClause", false);
                 });
 
             modelBuilder.Entity("RevaliNow.Models.Vergoedingsregel", b =>

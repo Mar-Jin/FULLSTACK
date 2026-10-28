@@ -5,6 +5,7 @@ using RevaliNow.Authorization;
 using RevaliNow.Data;
 using RevaliNow.Dtos;
 using RevaliNow.Models;
+using RevaliNow.Services;
 
 namespace RevaliNow.Controllers
 {
@@ -12,7 +13,8 @@ namespace RevaliNow.Controllers
     [ApiController]
     [Authorize(Roles = Rollen.Patient)]
     [AlleenEigenPatient]
-    public class PatientController(RevaliNowDbContext context) : ControllerBase
+    public class PatientController(RevaliNowDbContext context, IOefenplanService oefenplanService,
+        IAfspraakService afspraakService) : ControllerBase
     {
         private readonly RevaliNowDbContext _context = context;
 
@@ -33,7 +35,7 @@ namespace RevaliNow.Controllers
         }
 
         [HttpGet("dashboard")]
-        public ActionResult<DashboardResponseDto> GetDashboard(int patientId)
+        public async Task<ActionResult<DashboardResponseDto>> GetDashboard(int patientId)
         {
             var user = _context.Patienten.AsNoTracking().FirstOrDefault(p => p.Id == patientId);
 
@@ -52,25 +54,13 @@ namespace RevaliNow.Controllers
                 .Take(2)
                 .ToList();
 
-            var upcomingExercises = _context.Oefenplannen
-                .AsNoTracking()
-                .Include(op => op.Oefening)
-                .Where(op => op.PatientId == patientId && op.EindDatum >= DateTime.Now && op.StartDatum <= DateTime.Now)
-                .OrderBy(op => op.FrequentiePerDag)
+            // Zelfde berekening als op de oefenpagina, zodat de status van vandaag overal gelijk is
+            var upcomingExercises = (await oefenplanService.GetOefenplannenAsync(patientId))
+                .Where(op => op.IsActief)
                 .ToList();
 
-            var nextAppointment = _context.Afspraken
-                .AsNoTracking()
-                .Include(a => a.Revalidatiearts)
-                .Where(a => a.PatientId == patientId && a.DatumTijdAfspraak >= DateTime.Now)
-                .OrderBy(a => a.DatumTijdAfspraak)
-                .FirstOrDefault();
-
-            var exercises = _context.Oefenplannen
-                .AsNoTracking()
-                .Include(op => op.Oefening)
-                .Where(op => op.PatientId == patientId)
-                .ToList();
+            var nextAppointment = (await afspraakService.GetAfsprakenAsync(patientId))
+                .FirstOrDefault(a => a.IsToekomstig);
 
             var response = new DashboardResponseDto
             {
@@ -78,8 +68,7 @@ namespace RevaliNow.Controllers
                 RecentPains = recentPains,
                 PainData = painData,
                 UpcomingExercises = upcomingExercises,
-                NextAppointment = nextAppointment,
-                Exercises = exercises
+                NextAppointment = nextAppointment
             };
 
             return Ok(response);

@@ -18,7 +18,9 @@
           {{ authStore.loading ? 'Bezig met inloggen...' : 'Inloggen' }}
         </button>
 
-        <p v-if="authStore.error" class="text-red-600 mt-4 text-sm italic">{{ authStore.error }}</p>
+        <div class="mt-4">
+          <StatusMelding type="fout" :tekst="authStore.error || ''" @sluiten="authStore.error = null" />
+        </div>
       </form>
     </div>
   </div>
@@ -27,6 +29,7 @@
 <script setup>
 import { ref } from 'vue';
 import { useAuthStore } from '@/stores/authStore';
+import StatusMelding from '@/components/StatusMelding.vue';
 import { useRouter } from 'vue-router';
 
 const authStore = useAuthStore();

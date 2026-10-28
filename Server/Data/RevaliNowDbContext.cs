@@ -27,6 +27,7 @@ namespace RevaliNow.Data
         public DbSet<Vergoedingsregel> Vergoedingsregels { get; set; }
         public DbSet<Declaratie> Declaraties { get; set; }
         public DbSet<Declaratieverwerking> Declaratieverwerkingen { get; set; }
+        public DbSet<AuditLog> AuditLogs { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -104,7 +105,26 @@ namespace RevaliNow.Data
             });
 
             modelBuilder.Entity<PijnIndicatie>()
-                .ToTable(t => t.HasCheckConstraint("CK_PijnIndicaties_PijnScore", "[PijnScore] BETWEEN 0 AND 10"));
+                .ToTable(t =>
+                {
+                    t.HasCheckConstraint("CK_PijnIndicaties_PijnScore", "[PijnScore] BETWEEN 0 AND 10");
+                    t.HasTrigger("TR_PijnIndicaties_Audit");
+                });
+
+            // Tabellen met een audit-trigger (zie migratie AuditTrail). EF moet dat weten, omdat SQL Server
+            // anders de OUTPUT-clausule weigert die EF standaard gebruikt bij INSERT/UPDATE.
+            modelBuilder.Entity<Logboek>()
+                .ToTable(t => t.HasTrigger("TR_Logboek_Audit"));
+            modelBuilder.Entity<UitgevoerdeOefening>()
+                .ToTable(t => t.HasTrigger("TR_UitgevoerdeOefeningen_Audit"));
+
+            modelBuilder.Entity<AuditLog>(e =>
+            {
+                // Opvragen gebeurt vrijwel altijd per cliënt of per record
+                e.HasIndex(a => a.PatientId);
+                e.HasIndex(a => new { a.Tabelnaam, a.RecordId });
+                e.ToTable(t => t.HasCheckConstraint("CK_AuditLogs_Actie", "[Actie] IN ('INSERT', 'UPDATE', 'DELETE')"));
+            });
 
             modelBuilder.Entity<Notitie>()
                 .HasOne(n => n.Auteur).WithMany().HasForeignKey(n => n.AuteurGebruikerId);

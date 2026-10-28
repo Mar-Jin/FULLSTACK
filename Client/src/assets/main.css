@@ -2,6 +2,13 @@
 @import "tailwindcss";
 
 /* Eventuele extra globale stijlen */
+
+/* Houd altijd ruimte vrij voor de scrollbalk. Anders wordt de pagina smaller zodra er een scrollbalk
+   verschijnt (op lange pagina's) en verspringen de navigatie en de kaders bij het wisselen van pagina. */
+html {
+  scrollbar-gutter: stable;
+}
+
 body {
   font-family: 'Inter', sans-serif; /* mooie moderne font */
   background-color: #f3f4f6; /* fallback achtergrondkleur */

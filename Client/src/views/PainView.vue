@@ -2,10 +2,13 @@
 import ChartView from '@/components/ChartView.vue';
 import { ref } from 'vue';
 import { usePatientStore } from '@/stores/patientStore';
+import { useMelding } from '@/composables/useMelding';
+import StatusMelding from '@/components/StatusMelding.vue';
 import { storeToRefs } from 'pinia';
 
 const store = usePatientStore();
 const { painData } = storeToRefs(store);
+const { melding, toonSucces, toonFout, sluit } = useMelding();
 const painScore = ref(5);
 const toelichting = ref('');
 const error = ref('');
@@ -20,19 +23,21 @@ async function submitPijnindicatie() {
   try {
     // De patiënt en de datum/tijd bepaalt de server zelf
     await store.registreerPijn(Number(painScore.value), toelichting.value || null)
-    alert(`Pijnscore geregistreerd: ${painScore.value}\nToelichting: ${toelichting.value}`);
+    toonSucces(`Pijnscore ${painScore.value}/10 geregistreerd.`);
     painScore.value = 5;
     toelichting.value = '';
   }
-  catch {
-    error.value = 'Er is een fout opgetreden bij het opslaan.';
+  catch (err) {
+    toonFout(err, 'Er is een fout opgetreden bij het opslaan.');
   };
 }
 </script>
 
 <template>
-  <div class="w-4/5 mx-auto my-6 bg-white border-2 border-gray-500 shadow-[4px_4px_0_#404040] p-4 font-['Verdana'] text-[#000080] bg-[url('https://www.transparenttextures.com/patterns/grey-wash-wall.png')]">
-    <h2 class="text-3xl font-bold mb-4 font-['Times_New_Roman']">Pijnindicatie Registreren</h2>
+  <main class="w-4/5 mx-auto my-6 bg-white border-2 border-gray-500 shadow-[4px_4px_0_#404040] p-4 font-['Verdana'] text-[#000080] bg-[url('https://www.transparenttextures.com/patterns/grey-wash-wall.png')]">
+    <h1 class="text-3xl font-bold mb-4 font-['Times_New_Roman']">Pijnindicatie Registreren</h1>
+
+    <StatusMelding :type="melding.type" :tekst="melding.tekst" @sluiten="sluit" />
 
     <form @submit.prevent="submitPijnindicatie" novalidate>
       <div class="mb-6">
@@ -45,12 +50,12 @@ async function submitPijnindicatie() {
           max="10"
           step="1"
           class="w-full"
-          aria-valuemin="0"
-          aria-valuemax="10"
-          aria-valuenow="painScore"
+          :aria-valuetext="`${painScore} van 10`"
+          aria-describedby="painScoreUitleg"
         />
-        <div class="text-center mt-2 font-bold text-lg">{{ painScore }}</div>
-        <p v-if="error" class="text-red-600 mt-1">{{ error }}</p>
+        <p id="painScoreUitleg" class="flex justify-between text-sm"><span>0 = geen pijn</span><span>10 = ondraaglijke pijn</span></p>
+        <div class="text-center mt-2 font-bold text-lg" aria-hidden="true">{{ painScore }}</div>
+        <p v-if="error" class="text-red-600 mt-1" role="alert">{{ error }}</p>
       </div>
 
       <div class="mb-4">
@@ -74,5 +79,5 @@ async function submitPijnindicatie() {
 
     <h2 class="text-3xl font-bold mt-10 mb-4 font-['Times_New_Roman']">Eerdere pijnindicaties</h2>
     <ChartView :pain-data="painData" class="mt-8" />
-  </div>
+  </main>
 </template>
