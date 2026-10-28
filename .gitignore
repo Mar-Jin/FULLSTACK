@@ -17,3 +17,6 @@ dist/
 .DS_Store
 Thumbs.db
 *.log
+
+# Opdracht en toetsmatrijs van school (niet online zetten)
+opdracht/
