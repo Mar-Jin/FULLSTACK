@@ -1,0 +1,1005 @@
+VerwerkingID,DeclaratieID,ZorgverzekeraarMedewerkerID,DatumVerwerking,StatusVerwerking,VergoedBedrag,AfgekeurdBedrag,Toelichting
+1,1,24,2025-03-05T06:55:15,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+2,2,24,2025-03-24T06:55:15,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+3,3,24,2025-03-27T06:55:15,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+4,4,24,2025-03-01T10:30:15,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+5,5,24,2025-03-22T09:30:15,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+6,6,24,2025-05-02T15:30:15,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+7,7,24,2026-02-09T06:26:37,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+8,8,24,2026-01-08T06:26:37,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+9,9,24,2026-02-10T06:26:37,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+10,10,24,2026-01-19T11:00:37,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+11,11,24,2026-01-25T11:00:37,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+12,18,27,2026-02-27T07:16:18,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+13,19,27,2026-03-19T16:15:18,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+14,20,22,2026-03-28T11:30:18,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+15,21,27,2026-04-20T15:00:18,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+16,22,22,2025-08-05T10:32:23,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+17,23,27,2025-07-20T14:30:23,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+18,24,22,2025-08-27T14:30:23,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+19,30,26,2025-06-01T12:41:41,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+20,31,21,2025-06-03T16:00:41,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+21,32,21,2025-07-13T16:00:41,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+22,40,27,2025-07-16T00:34:44,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+23,41,27,2025-07-16T00:34:44,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+24,42,27,2025-08-02T00:34:44,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+25,43,22,2025-07-10T10:00:44,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+26,44,22,2025-08-12T15:00:44,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+27,45,27,2025-08-29T13:30:44,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+28,46,27,2025-09-23T10:15:44,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+29,47,27,2025-10-20T13:15:44,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+30,48,27,2026-05-09T21:28:07,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+31,49,22,2026-05-06T21:28:07,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+32,50,27,2026-05-05T21:28:07,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+33,51,22,2026-05-06T11:30:07,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+34,52,22,2026-05-22T09:15:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+35,53,22,2026-06-02T10:00:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+36,54,27,2026-06-30T15:30:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+37,55,27,2026-07-22T14:30:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+38,56,26,2025-10-08T14:15:06,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+39,57,26,2025-10-18T14:15:06,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+40,58,26,2025-09-17T16:30:06,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+41,59,21,2025-10-09T11:00:06,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+42,80,25,2025-10-16T12:33:30,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+43,81,25,2025-10-30T12:33:30,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+44,82,25,2025-10-19T13:15:30,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+45,83,25,2025-11-14T09:00:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+46,84,25,2025-12-16T10:30:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+47,85,25,2025-12-19T09:30:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+48,86,25,2026-01-28T16:00:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+49,87,25,2026-02-10T09:30:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+50,88,22,2025-04-25T22:18:25,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+51,89,22,2025-04-05T13:00:25,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+52,90,27,2025-04-22T09:00:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+53,91,22,2025-05-27T11:30:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+54,92,27,2025-06-02T09:00:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+55,93,22,2025-07-03T10:30:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+56,94,27,2025-07-21T09:00:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+57,95,22,2025-08-19T09:15:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+58,111,26,2025-07-20T08:53:49,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+59,112,26,2025-06-26T08:53:49,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+60,113,26,2025-06-15T16:30:49,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+61,114,21,2025-07-12T13:00:49,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+62,115,21,2025-07-26T16:00:49,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+63,116,21,2025-09-04T15:15:49,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+64,117,26,2025-09-23T11:30:49,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+65,118,26,2025-09-28T09:00:49,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+66,119,26,2025-11-01T15:30:49,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+67,131,26,2026-02-04T21:27:16,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+68,132,21,2025-12-29T09:00:16,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+69,133,21,2026-02-19T16:30:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+70,134,26,2026-02-24T09:30:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+71,144,21,2026-02-06T04:17:23,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+72,145,21,2026-01-30T04:17:23,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+73,146,21,2026-02-07T14:15:23,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+74,147,21,2026-02-23T13:00:23,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+75,148,26,2026-03-12T09:15:23,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+76,149,21,2026-04-17T15:15:23,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+77,150,21,2026-04-24T13:30:23,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+78,151,21,2026-06-04T16:15:23,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+79,152,26,2026-06-12T16:00:23,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+80,158,25,2026-06-13T00:36:05,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+81,159,25,2026-06-19T00:36:05,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+82,160,25,2026-06-05T13:00:05,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+83,161,25,2026-07-17T16:15:05,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+84,162,25,2026-08-10T16:30:05,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+85,163,25,2026-09-02T11:00:05,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+86,169,27,2025-05-26T14:08:54,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+87,170,27,2025-05-12T11:00:54,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+88,171,27,2025-06-22T14:00:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+89,172,27,2025-07-10T15:00:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+90,173,22,2026-04-19T11:37:46,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+91,174,22,2026-04-19T11:37:46,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+92,175,27,2026-04-17T10:30:46,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+93,176,22,2026-05-16T09:15:46,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+94,177,27,2026-06-11T09:15:46,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+95,201,24,2025-12-20T12:03:14,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+96,202,24,2025-11-19T15:00:14,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+97,203,24,2025-12-09T15:30:14,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+98,204,24,2026-01-21T11:30:14,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+99,205,24,2026-02-10T09:15:14,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+100,206,24,2026-02-24T09:15:14,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+101,207,24,2026-03-11T15:00:14,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+102,208,24,2026-04-06T16:15:14,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+103,209,24,2026-05-26T14:30:14,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+104,210,27,2025-12-31T12:42:39,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+105,211,27,2026-01-11T12:42:39,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+106,212,27,2025-12-24T12:42:39,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+107,213,27,2026-01-10T09:30:39,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+108,214,22,2026-01-14T09:30:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+109,215,22,2026-02-20T10:15:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+110,216,22,2026-02-24T10:15:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+111,217,22,2026-03-24T14:30:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+112,218,22,2026-04-21T09:30:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+113,219,26,2025-03-30T05:34:38,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+114,220,26,2025-03-29T05:34:38,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+115,221,26,2025-05-02T05:34:38,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+116,222,26,2025-03-22T13:15:38,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+117,223,26,2025-04-22T09:00:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+118,224,26,2025-05-13T11:15:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+119,225,21,2025-06-18T10:15:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+120,226,21,2025-07-11T15:15:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+121,227,26,2025-07-12T13:15:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+122,228,26,2025-08-27T09:00:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+123,229,26,2025-09-21T15:15:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+124,264,24,2025-06-18T20:14:33,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+125,265,24,2025-07-16T20:14:33,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+126,266,24,2025-06-30T20:14:33,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+127,267,24,2025-06-24T09:30:33,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+128,268,24,2025-07-30T11:30:33,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+129,269,24,2025-07-26T13:00:33,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+130,270,24,2025-09-03T14:00:33,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+131,271,24,2025-09-14T13:00:33,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+132,272,24,2025-10-17T09:15:33,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+133,281,21,2026-08-12T03:38:58,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+134,282,21,2026-08-08T03:38:58,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+135,283,21,2026-08-07T03:38:58,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+136,284,26,2026-08-03T14:00:58,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+137,285,26,2026-08-14T16:00:58,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+138,293,28,2025-06-05T02:11:16,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+139,294,23,2025-05-31T02:11:16,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+140,295,28,2025-06-08T02:11:16,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+141,296,28,2025-06-17T15:15:16,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+142,297,28,2025-07-12T09:00:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+143,298,23,2025-08-04T14:00:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+144,299,22,2025-07-14T07:02:32,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+145,300,27,2025-07-26T07:02:32,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+146,301,27,2025-06-27T07:02:32,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+147,302,27,2025-07-05T13:15:32,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+148,303,22,2025-07-31T10:15:32,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+149,304,25,2025-04-19T01:41:49,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+150,305,25,2025-04-02T10:30:49,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+151,306,25,2025-05-15T14:15:49,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+152,307,25,2025-06-06T10:00:49,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+153,308,27,2025-06-28T04:05:56,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+154,309,27,2025-07-23T04:05:56,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+155,310,27,2025-07-06T14:00:56,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+156,311,22,2025-07-24T11:30:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+157,312,22,2025-08-14T16:00:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+158,313,22,2025-08-22T09:30:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+159,314,22,2025-10-04T10:00:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+160,315,22,2025-10-15T16:00:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+161,316,27,2025-10-26T11:30:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+162,323,25,2026-09-02T14:15:59,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+163,331,23,2025-10-27T07:17:25,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+164,332,23,2025-10-19T07:17:25,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+165,333,28,2025-10-19T07:17:25,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+166,334,23,2025-10-31T11:00:25,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+167,335,23,2025-11-24T15:30:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+168,336,23,2025-12-10T14:15:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+169,337,28,2025-12-19T15:15:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+170,338,28,2026-01-31T10:15:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+171,339,28,2026-02-19T09:00:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+172,345,24,2025-06-26T19:51:13,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+173,346,24,2025-07-04T09:30:13,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+174,347,24,2025-08-02T09:15:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+175,348,24,2025-08-07T09:00:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+176,349,24,2025-09-02T14:00:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+177,350,24,2025-09-28T15:30:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+178,351,24,2025-11-04T11:00:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+179,352,24,2025-11-06T09:00:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+180,363,24,2026-03-06T23:36:31,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+181,364,24,2026-03-08T23:36:31,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+182,365,24,2026-03-26T23:36:31,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+183,366,24,2026-02-27T10:15:31,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+184,367,24,2026-04-07T13:30:31,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+185,368,24,2026-04-20T10:30:31,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+186,369,24,2026-05-25T11:30:31,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+187,370,25,2025-02-07T13:04:20,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+188,371,25,2025-02-21T13:04:20,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+189,372,25,2025-02-09T13:30:20,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+190,373,25,2025-02-27T09:00:20,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+191,374,25,2025-04-08T14:15:20,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+192,375,25,2025-04-14T11:00:20,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+193,376,24,2025-08-15T14:32:06,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+194,377,24,2025-08-26T14:32:06,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+195,378,24,2025-08-10T10:30:06,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+196,379,24,2025-09-10T09:00:06,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+197,380,24,2025-09-30T13:30:06,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+198,381,24,2025-10-25T14:00:06,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+199,382,24,2026-07-04T15:54:17,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+200,383,24,2026-06-17T15:54:17,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+201,384,24,2026-06-25T15:30:17,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+202,385,24,2026-07-07T16:15:17,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+203,397,25,2026-02-19T12:06:46,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+204,398,25,2026-02-27T12:06:46,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+205,399,25,2026-02-25T14:15:46,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+206,400,25,2026-03-01T09:00:46,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+207,401,25,2026-04-02T10:00:46,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+208,402,25,2026-04-19T09:30:46,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+209,403,25,2025-10-27T09:40:06,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+210,404,25,2025-10-28T09:40:06,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+211,405,25,2025-10-23T11:00:06,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+212,406,25,2025-11-27T13:15:06,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+213,407,25,2025-12-29T13:15:06,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+214,408,25,2025-12-27T14:15:06,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+215,415,27,2025-12-13T07:09:45,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+216,416,27,2025-12-08T07:09:45,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+217,417,27,2025-12-13T10:30:45,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+218,418,27,2025-12-20T13:30:45,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+219,427,26,2026-09-02T17:54:35,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+220,433,21,2026-04-04T05:31:10,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+221,434,26,2026-04-02T05:31:10,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+222,435,21,2026-03-17T10:30:10,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+223,436,21,2026-04-21T13:00:10,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+224,437,21,2026-05-24T09:15:10,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+225,438,26,2026-06-10T11:00:10,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+226,439,21,2026-06-05T09:30:10,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+227,440,26,2026-07-09T13:00:10,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+228,441,21,2026-07-30T13:15:10,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+229,457,25,2025-08-07T11:56:22,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+230,458,25,2025-08-09T11:56:22,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+231,459,25,2025-08-02T16:00:22,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+232,460,25,2025-08-15T11:30:22,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+233,461,25,2025-09-28T10:15:22,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+234,462,25,2025-10-05T16:15:22,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+235,463,25,2025-10-18T09:30:22,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+236,464,25,2025-11-26T16:30:22,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+237,465,25,2025-12-31T14:00:22,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+238,466,25,2025-12-31T16:30:22,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+239,467,28,2026-05-26T11:11:20,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+240,468,23,2026-05-07T11:11:20,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+241,469,23,2026-05-02T10:30:20,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+242,470,23,2026-06-08T09:30:20,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+243,471,23,2026-06-17T15:30:20,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+244,472,23,2026-07-10T09:00:20,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+245,473,28,2026-07-25T11:15:20,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+246,474,23,2026-08-22T16:00:20,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+247,475,23,2026-08-23T14:00:20,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+248,476,28,2026-07-31T12:39:28,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+249,477,23,2026-08-14T14:30:28,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+250,478,28,2026-08-28T11:00:28,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+251,480,24,2025-02-17T05:27:02,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+252,481,24,2025-01-19T05:27:02,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+253,482,24,2025-01-25T13:00:02,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+254,483,24,2025-02-11T11:00:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+255,484,24,2025-03-07T13:15:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+256,485,24,2025-04-06T09:15:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+257,486,24,2025-05-18T15:00:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+258,487,24,2025-06-15T14:30:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+259,488,24,2026-03-28T12:27:11,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+260,489,24,2026-03-01T12:27:11,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+261,490,24,2026-03-06T12:27:11,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+262,491,24,2026-03-14T13:00:11,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+263,492,24,2026-03-19T14:30:11,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+264,493,24,2026-04-13T14:30:11,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+265,494,24,2026-05-17T11:30:11,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+266,495,24,2026-06-14T14:15:11,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+267,496,24,2026-06-28T15:00:11,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+268,497,24,2026-07-18T09:30:11,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+269,498,24,2026-08-19T16:30:11,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+270,499,24,2026-07-18T00:07:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+271,500,24,2026-07-24T00:07:47,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+272,501,24,2026-08-04T00:07:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+273,502,24,2026-07-31T13:15:47,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+274,503,24,2026-09-02T16:30:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+275,504,27,2025-11-17T22:59:48,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+276,505,22,2025-11-25T22:59:48,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+277,506,27,2025-12-14T22:59:48,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+278,507,27,2025-11-22T11:15:48,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+279,508,22,2025-12-17T16:30:48,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+280,509,22,2026-01-22T16:15:48,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+281,510,25,2025-08-25T16:17:41,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+282,511,25,2025-08-13T16:17:41,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+283,512,25,2025-08-05T09:30:41,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+284,513,25,2025-09-09T09:15:41,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+285,514,25,2025-09-26T15:00:41,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+286,530,27,2026-04-21T18:25:07,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+287,531,22,2026-04-06T18:25:07,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+288,532,22,2026-04-27T18:25:07,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+289,533,22,2026-03-25T14:15:07,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+290,534,27,2026-04-27T16:15:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+291,535,22,2026-06-01T15:30:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+292,536,22,2026-06-17T13:15:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+293,553,26,2026-08-23T03:22:42,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+294,554,26,2026-08-18T03:22:42,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+295,555,21,2026-08-01T09:00:42,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+296,556,21,2026-08-14T16:15:42,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+297,563,28,2025-02-13T16:34:09,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+298,564,28,2025-03-05T14:00:09,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+299,565,23,2025-02-27T15:00:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+300,566,23,2025-03-23T09:30:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+301,567,28,2025-04-16T16:15:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+302,568,23,2025-05-08T10:00:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+303,569,23,2025-06-11T16:15:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+304,570,28,2025-06-22T15:15:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+305,571,28,2025-07-29T09:30:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+306,572,24,2026-03-08T17:33:10,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+307,573,24,2026-02-23T09:15:10,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+308,574,24,2026-03-20T11:30:10,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+309,575,24,2026-03-28T11:30:10,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+310,591,24,2025-01-31T11:57:09,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+311,592,24,2025-02-11T11:57:09,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+312,593,24,2025-02-28T11:57:09,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+313,594,24,2025-01-30T16:00:09,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+314,595,24,2025-03-02T14:00:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+315,596,24,2025-03-29T15:30:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+316,597,24,2025-04-21T16:15:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+317,598,24,2025-05-06T10:15:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+318,599,24,2025-06-01T09:15:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+319,600,24,2025-06-24T09:00:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+320,609,24,2025-11-27T23:44:54,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+321,610,24,2025-12-24T23:44:54,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+322,611,24,2025-12-21T16:30:54,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+323,612,24,2025-12-30T13:00:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+324,613,24,2026-02-10T10:15:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+325,614,21,2025-05-11T14:48:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+326,615,26,2025-06-18T14:48:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+327,616,21,2025-05-24T14:48:47,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+328,617,26,2025-05-25T14:30:47,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+329,618,26,2025-06-12T09:00:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+330,619,21,2025-07-19T09:30:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+331,620,26,2025-08-12T16:30:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+332,621,26,2025-09-03T11:30:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+333,622,26,2025-09-24T13:00:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+334,623,23,2025-01-22T22:17:12,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+335,624,28,2025-01-14T00:00:00,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+336,625,28,2025-01-12T22:17:12,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+337,626,28,2025-01-09T10:15:12,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+338,627,28,2025-02-22T15:30:12,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+339,628,24,2025-07-29T10:30:52,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+340,629,24,2025-08-20T10:30:52,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+341,630,24,2025-07-22T10:30:52,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+342,631,24,2025-08-09T10:15:52,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+343,632,24,2025-08-31T13:15:52,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+344,633,24,2025-09-14T13:15:52,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+345,634,24,2025-10-05T11:15:52,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+346,635,25,2025-10-02T16:53:48,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+347,636,25,2025-09-29T16:53:48,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+348,637,25,2025-09-03T15:30:48,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+349,638,25,2025-10-09T11:00:48,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+350,639,25,2025-11-03T13:00:48,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+351,640,25,2025-12-04T10:00:48,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+352,641,28,2026-08-10T19:20:15,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+353,642,28,2026-08-14T19:20:15,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+354,643,28,2026-08-05T19:20:15,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+355,644,23,2026-08-04T14:00:15,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+356,645,28,2026-08-22T13:30:15,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+357,664,22,2026-06-20T15:34:00,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+358,665,22,2026-06-13T15:00:00,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+359,666,22,2026-07-01T11:15:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+360,667,22,2026-07-27T14:15:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+361,668,22,2026-08-29T14:30:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+362,684,25,2026-04-05T17:46:16,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+363,685,25,2026-03-06T15:15:16,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+364,686,25,2026-04-11T14:15:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+365,687,28,2025-05-19T23:50:18,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+366,688,28,2025-05-09T23:50:18,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+367,689,23,2025-05-02T13:30:18,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+368,690,23,2025-06-06T16:00:18,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+369,691,28,2025-06-09T11:00:18,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+370,692,28,2025-07-12T11:30:18,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+371,693,23,2025-08-15T09:30:18,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+372,694,28,2025-02-01T08:15:30,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+373,695,28,2025-02-02T08:15:30,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+374,696,28,2025-01-27T08:15:30,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+375,697,28,2025-01-24T13:15:30,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+376,698,28,2025-02-14T10:00:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+377,699,23,2025-03-04T13:30:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+378,700,28,2025-11-17T02:37:52,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+379,701,23,2025-11-17T16:00:52,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+380,702,23,2025-12-06T15:15:52,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+381,703,25,2025-12-28T00:11:03,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+382,704,25,2025-12-12T14:00:03,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+383,705,25,2026-01-22T11:30:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+384,706,24,2025-10-01T23:30:39,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+385,707,24,2025-10-25T23:30:39,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+386,708,24,2025-10-13T10:15:39,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+387,709,24,2025-11-01T14:15:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+388,710,24,2025-11-17T15:15:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+389,711,24,2025-12-22T09:15:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+390,712,24,2025-12-25T11:15:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+391,713,26,2025-02-27T01:41:03,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+392,714,21,2025-02-12T01:41:03,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+393,715,26,2025-02-22T01:41:03,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+394,716,26,2025-03-04T15:00:03,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+395,717,21,2025-03-08T15:15:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+396,718,21,2025-03-31T15:30:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+397,719,26,2025-04-24T16:15:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+398,720,21,2025-05-13T09:00:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+399,721,21,2025-07-06T16:30:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+400,722,21,2025-07-06T14:30:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+401,723,21,2025-07-31T15:15:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+402,724,25,2026-01-23T20:42:07,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+403,725,25,2026-01-25T20:42:07,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+404,726,25,2026-01-17T20:42:07,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+405,727,25,2026-01-25T14:15:07,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+406,728,25,2026-02-07T10:30:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+407,729,25,2026-02-21T11:15:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+408,730,25,2026-03-13T11:30:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+409,731,21,2026-07-13T03:24:40,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+410,732,21,2026-07-28T03:24:40,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+411,733,21,2026-06-22T15:15:40,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+412,734,21,2026-07-29T09:30:40,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+413,735,21,2026-08-31T11:15:40,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+414,741,23,2026-03-07T09:24:25,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+415,742,28,2026-03-07T09:24:25,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+416,743,28,2026-02-15T09:24:25,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+417,744,23,2026-03-16T09:30:25,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+418,745,28,2026-03-23T09:15:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+419,746,23,2026-05-06T15:15:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+420,747,23,2026-05-24T15:15:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+421,748,23,2026-06-10T10:15:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+422,749,23,2026-06-16T13:15:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+423,750,28,2026-07-20T15:30:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+424,751,28,2026-08-24T16:30:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+425,752,21,2025-06-16T07:34:38,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+426,753,26,2025-06-07T07:34:38,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+427,754,26,2025-05-28T11:00:38,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+428,755,26,2025-06-19T13:15:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+429,756,26,2025-07-04T15:00:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+430,757,21,2025-07-18T16:30:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+431,758,21,2025-08-10T10:15:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+432,759,26,2025-09-08T15:30:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+433,760,26,2025-10-14T16:30:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+434,761,26,2026-06-22T07:46:21,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+435,762,26,2026-06-26T09:30:21,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+436,763,26,2026-06-29T14:30:21,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+437,764,21,2026-08-05T14:15:21,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+438,765,21,2026-08-31T16:30:21,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+439,768,26,2026-07-05T20:51:02,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+440,769,21,2026-06-15T20:51:02,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+441,770,26,2026-06-17T11:15:02,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+442,771,26,2026-07-17T10:15:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+443,772,21,2026-07-12T16:15:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+444,773,25,2026-07-11T22:40:54,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+445,774,25,2026-07-21T22:40:54,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+446,775,25,2026-06-30T11:00:54,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+447,776,25,2026-07-20T09:30:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+448,779,25,2026-07-18T13:32:45,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+449,780,25,2026-07-19T13:32:45,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+450,781,25,2026-07-21T14:00:45,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+451,782,25,2026-08-13T11:15:45,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+452,790,24,2026-02-23T02:56:10,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+453,791,24,2026-02-07T02:56:10,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+454,792,24,2026-02-09T13:15:10,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+455,793,24,2026-03-11T16:00:10,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+456,794,24,2026-04-01T16:30:10,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+457,795,24,2026-04-05T15:15:10,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+458,803,26,2025-06-11T06:52:13,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+459,804,26,2025-04-30T13:30:13,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+460,805,21,2025-06-18T16:30:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+461,806,26,2025-06-26T15:00:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+462,807,21,2025-07-24T14:00:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+463,808,21,2025-08-13T09:00:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+464,809,26,2025-09-20T10:15:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+465,810,21,2025-10-09T14:00:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+466,811,21,2025-11-05T15:15:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+467,812,26,2026-08-22T12:04:16,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+468,813,21,2026-08-24T12:04:16,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+469,814,26,2026-08-28T16:00:16,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+470,819,27,2025-10-08T08:17:14,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+471,820,22,2025-10-12T08:17:14,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+472,821,22,2025-10-17T16:30:14,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+473,822,27,2025-10-18T13:15:14,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+474,823,27,2025-11-23T14:30:14,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+475,824,26,2026-05-07T09:41:35,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+476,825,26,2026-05-17T09:41:35,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+477,826,21,2026-05-12T09:15:35,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+478,827,26,2026-06-18T15:15:35,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+479,828,21,2026-06-26T16:30:35,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+480,835,21,2025-01-25T02:11:56,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+481,836,21,2025-02-01T02:11:56,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+482,837,26,2025-02-13T13:30:56,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+483,838,26,2025-03-03T11:15:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+484,839,21,2025-04-05T14:30:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+485,840,26,2025-04-05T16:00:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+486,841,24,2026-02-15T06:17:48,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+487,842,24,2026-03-08T06:17:48,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+488,843,24,2026-03-14T16:15:48,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+489,844,24,2026-04-06T11:15:48,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+490,845,24,2026-04-07T13:15:48,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+491,846,24,2026-05-09T09:30:48,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+492,847,25,2026-03-13T02:15:16,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+493,848,25,2026-03-07T02:15:16,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+494,849,25,2026-03-06T14:00:16,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+495,850,25,2026-04-05T11:30:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+496,851,25,2026-05-02T11:30:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+497,852,25,2026-05-19T10:30:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+498,853,25,2026-05-27T10:00:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+499,854,25,2026-07-11T11:00:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+500,855,25,2026-07-14T16:30:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+501,856,22,2025-08-26T00:35:08,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+502,857,22,2025-08-18T00:35:08,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+503,858,22,2025-08-14T14:30:08,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+504,859,27,2025-09-08T15:30:08,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+505,871,28,2026-03-28T15:17:17,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+506,872,23,2026-04-03T16:00:17,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+507,873,23,2026-05-03T10:15:17,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+508,874,28,2026-06-14T09:00:17,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+509,875,28,2026-06-28T09:15:17,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+510,876,28,2026-07-18T15:15:17,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+511,877,22,2025-04-07T17:59:50,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+512,878,27,2025-04-20T17:59:50,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+513,879,27,2025-03-26T11:15:50,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+514,880,22,2025-04-09T13:00:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+515,881,27,2025-05-25T16:15:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+516,882,27,2025-06-05T11:30:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+517,883,22,2025-06-13T13:15:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+518,884,27,2025-07-20T10:00:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+519,913,25,2026-07-14T02:22:20,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+520,914,25,2026-07-15T02:22:20,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+521,915,25,2026-07-29T02:22:20,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+522,916,25,2026-08-08T14:30:20,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+523,917,25,2026-08-23T13:30:20,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+524,924,28,2025-02-16T03:24:33,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+525,925,28,2025-04-02T03:24:33,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+526,926,28,2025-02-28T03:24:33,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+527,927,28,2025-02-18T14:30:33,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+528,928,23,2025-03-18T10:00:33,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+529,929,23,2025-04-21T11:00:33,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+530,930,28,2025-05-03T13:15:33,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+531,931,22,2026-03-04T02:33:54,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+532,932,27,2026-02-20T16:00:54,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+533,933,22,2026-03-13T10:30:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+534,934,22,2026-04-03T16:30:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+535,935,24,2026-05-08T13:38:00,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+536,936,24,2026-05-04T13:38:00,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+537,937,24,2026-04-19T10:30:00,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+538,938,24,2026-05-06T09:30:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+539,939,24,2026-06-17T14:15:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+540,940,24,2026-06-20T16:15:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+541,941,24,2026-08-05T13:30:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+542,942,24,2026-08-26T11:30:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+543,945,28,2025-03-22T20:04:07,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+544,946,23,2025-02-26T20:04:07,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+545,947,23,2025-03-03T10:00:07,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+546,948,28,2025-04-01T09:30:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+547,949,25,2025-05-12T18:46:31,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+548,950,25,2025-04-27T13:00:31,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+549,951,25,2025-06-08T15:00:31,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+550,952,25,2025-06-21T09:00:31,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+551,953,25,2025-07-05T15:00:31,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+552,954,25,2025-08-12T13:00:31,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+553,955,25,2025-08-19T15:15:31,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+554,956,25,2025-10-04T16:15:31,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+555,968,26,2025-08-17T08:35:05,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+556,969,21,2025-08-18T08:35:05,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+557,970,21,2025-08-27T08:35:05,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+558,971,21,2025-08-18T09:15:05,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+559,972,21,2025-09-20T15:30:05,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+560,973,21,2025-10-13T14:15:05,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+561,979,27,2025-07-11T03:44:25,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+562,980,27,2025-06-15T15:30:25,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+563,981,22,2025-07-23T11:30:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+564,982,27,2025-08-04T11:15:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+565,983,22,2025-09-19T10:15:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+566,988,28,2026-07-09T14:07:29,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+567,989,28,2026-07-19T10:30:29,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+568,990,28,2026-07-30T15:15:29,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+569,996,28,2026-02-05T05:02:54,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+570,997,23,2026-01-30T05:02:54,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+571,998,23,2026-02-07T05:02:54,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+572,999,23,2026-01-21T11:30:54,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+573,1000,28,2026-02-10T10:15:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+574,1001,23,2026-03-07T16:30:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+575,1002,28,2026-04-09T15:00:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+576,1003,23,2026-04-17T10:00:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+577,1004,28,2026-05-03T15:00:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+578,1005,28,2026-05-31T09:30:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+579,1006,22,2026-03-16T12:14:55,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+580,1007,22,2026-03-05T12:14:55,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+581,1008,27,2026-03-10T12:14:55,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+582,1009,22,2026-03-15T14:15:55,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+583,1010,27,2026-03-28T11:15:55,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+584,1011,22,2026-04-17T16:00:55,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+585,1012,27,2026-05-26T15:30:55,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+586,1013,22,2026-06-14T13:30:55,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+587,1014,22,2026-08-24T19:05:49,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+588,1015,22,2026-08-30T19:05:49,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+589,1016,22,2026-08-30T19:05:49,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+590,1017,27,2026-08-23T15:30:49,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+591,1024,24,2025-06-10T18:54:03,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+592,1025,24,2025-05-26T15:15:03,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+593,1026,24,2025-06-01T11:30:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+594,1027,24,2025-07-14T15:00:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+595,1028,24,2025-08-04T11:00:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+596,1029,24,2025-08-06T10:15:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+597,1035,25,2025-09-15T03:38:00,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+598,1036,25,2025-10-14T03:38:00,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+599,1037,25,2025-10-09T03:38:00,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+600,1038,25,2025-09-23T15:30:00,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+601,1039,25,2025-10-12T10:15:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+602,1040,25,2025-11-08T11:15:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+603,1041,25,2025-11-23T14:15:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+604,1042,25,2026-01-02T10:00:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+605,1043,25,2026-01-06T14:15:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+606,1044,25,2026-01-30T11:30:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+607,1045,25,2026-03-01T10:15:00,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+608,1046,24,2025-08-18T01:22:26,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+609,1047,24,2025-09-08T01:22:26,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+610,1048,24,2025-08-31T01:22:26,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+611,1049,24,2025-09-03T13:00:26,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+612,1050,24,2025-09-16T10:15:26,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+613,1051,24,2025-10-20T13:00:26,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+614,1052,24,2025-11-20T16:00:26,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+615,1053,24,2025-11-29T10:00:26,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+616,1054,24,2026-01-02T15:00:26,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+617,1055,24,2026-01-26T15:15:26,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+618,1056,24,2026-02-12T16:30:26,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+619,1057,28,2026-03-03T15:56:41,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+620,1058,23,2026-03-11T15:56:41,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+621,1059,28,2026-02-26T15:56:41,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+622,1060,23,2026-03-17T15:00:41,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+623,1061,23,2026-03-28T09:15:41,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+624,1062,28,2026-04-30T10:00:41,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+625,1063,23,2026-05-16T16:00:41,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+626,1064,23,2026-06-18T13:00:41,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+627,1065,23,2026-06-20T11:00:41,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+628,1066,25,2025-12-24T06:10:23,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+629,1067,25,2026-01-08T06:10:23,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+630,1068,25,2025-12-24T06:10:23,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+631,1069,25,2025-12-13T16:00:23,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+632,1070,25,2026-01-08T09:30:23,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+633,1071,25,2026-02-05T09:30:23,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+634,1080,24,2025-07-17T23:48:44,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+635,1081,24,2025-06-24T23:48:44,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+636,1082,24,2025-07-24T23:48:44,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+637,1083,24,2025-07-21T11:00:44,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+638,1084,24,2025-07-22T09:15:44,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+639,1085,24,2025-08-24T09:30:44,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+640,1086,24,2025-09-04T15:00:44,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+641,1087,24,2025-10-02T15:30:44,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+642,1088,24,2025-11-06T13:00:44,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+643,1089,24,2025-12-09T14:15:44,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+644,1090,24,2025-12-12T13:00:44,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+645,1091,27,2025-05-08T20:14:39,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+646,1092,22,2025-04-24T20:14:39,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+647,1093,27,2025-04-29T10:00:39,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+648,1094,27,2025-05-21T10:15:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+649,1095,22,2025-07-01T09:30:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+650,1096,22,2025-07-27T15:30:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+651,1097,27,2025-08-13T13:30:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+652,1098,27,2025-08-27T09:30:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+653,1099,27,2025-09-10T15:30:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+654,1111,24,2025-06-02T10:03:28,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+655,1112,24,2025-05-16T11:00:28,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+656,1113,24,2025-07-01T16:15:28,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+657,1114,24,2025-07-12T11:30:28,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+658,1115,24,2025-08-10T16:00:28,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+659,1116,24,2025-01-09T00:00:00,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+660,1117,24,2025-02-06T00:47:38,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+661,1118,24,2025-01-11T14:15:38,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+662,1119,24,2025-03-04T10:00:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+663,1120,24,2025-03-08T15:15:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+664,1121,24,2025-04-09T10:00:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+665,1122,24,2025-05-08T16:15:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+666,1123,24,2025-06-05T16:30:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+667,1124,24,2025-06-23T13:00:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+668,1125,24,2025-07-15T16:00:38,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+669,1126,26,2025-12-15T02:01:48,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+670,1127,26,2025-12-11T02:01:48,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+671,1128,26,2025-12-15T10:30:48,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+672,1129,26,2026-01-06T14:15:48,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+673,1130,21,2026-01-21T10:30:48,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+674,1131,26,2026-02-22T13:15:48,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+675,1132,21,2026-03-19T09:30:48,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+676,1141,25,2025-03-02T08:24:22,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+677,1142,25,2025-02-26T11:00:22,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+678,1143,25,2025-03-25T11:00:22,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+679,1160,24,2026-02-23T04:34:53,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+680,1161,24,2026-03-13T04:34:53,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+681,1162,24,2026-03-03T11:00:53,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+682,1163,24,2026-03-22T11:00:53,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+683,1164,24,2026-04-08T11:15:53,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+684,1165,24,2026-05-18T11:15:53,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+685,1166,24,2026-05-23T09:30:53,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+686,1167,24,2026-06-15T14:00:53,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+687,1168,24,2026-07-21T14:00:53,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+688,1169,21,2026-01-11T19:32:02,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+689,1170,21,2026-01-24T11:00:02,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+690,1171,26,2026-02-15T16:15:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+691,1172,21,2026-02-18T15:15:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+692,1173,21,2026-03-22T10:00:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+693,1174,23,2026-07-08T03:41:52,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+694,1175,23,2026-06-24T16:30:52,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+695,1176,28,2026-07-26T14:15:52,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+696,1177,28,2026-08-17T11:00:52,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+697,1189,25,2025-08-04T02:16:19,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+698,1190,25,2025-09-03T02:16:19,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+699,1191,25,2025-08-25T02:16:19,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+700,1192,25,2025-07-29T11:00:19,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+701,1193,25,2025-08-24T10:30:19,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+702,1194,25,2025-09-30T11:00:19,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+703,1195,25,2025-10-17T14:15:19,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+704,1196,25,2025-11-04T15:30:19,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+705,1197,25,2025-11-16T16:00:19,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+706,1198,22,2025-12-16T05:07:06,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+707,1199,27,2025-12-20T05:07:06,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+708,1200,22,2025-12-08T15:00:06,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+709,1201,22,2026-01-02T15:30:06,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+710,1207,24,2026-08-12T01:57:12,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+711,1208,24,2026-07-30T01:57:12,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+712,1209,24,2026-07-30T01:57:12,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+713,1210,24,2026-07-29T16:00:12,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+714,1216,23,2025-11-04T07:44:09,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+715,1217,28,2025-09-21T07:44:09,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+716,1218,23,2025-10-12T09:30:09,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+717,1219,28,2025-11-05T14:00:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+718,1220,28,2025-11-24T09:00:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+719,1221,28,2025-11-24T15:00:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+720,1222,23,2026-04-06T07:20:14,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+721,1223,28,2026-03-24T07:20:14,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+722,1224,23,2026-03-28T09:00:14,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+723,1225,28,2026-04-09T09:15:14,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+724,1231,25,2025-01-29T05:32:47,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+725,1232,25,2025-02-10T13:15:47,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+726,1233,25,2025-02-14T10:30:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+727,1234,25,2025-03-16T14:00:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+728,1235,25,2025-03-30T09:00:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+729,1236,26,2026-01-23T06:16:58,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+730,1237,26,2026-01-07T16:15:58,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+731,1238,26,2026-02-07T16:15:58,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+732,1239,26,2026-03-20T14:30:58,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+733,1240,21,2026-04-11T16:30:58,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+734,1241,26,2026-04-19T14:30:58,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+735,1242,27,2026-06-28T23:05:54,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+736,1243,27,2026-07-14T23:05:54,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+737,1244,27,2026-07-27T23:05:54,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+738,1245,27,2026-06-22T09:15:54,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+739,1246,27,2026-07-12T15:30:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+740,1247,22,2026-08-15T14:30:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+741,1252,21,2025-12-11T20:46:54,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+742,1253,21,2025-12-25T20:46:54,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+743,1254,26,2025-12-08T10:30:54,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+744,1255,21,2025-12-24T15:15:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+745,1256,21,2026-02-07T15:15:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+746,1257,26,2026-03-01T11:15:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+747,1258,26,2026-03-10T15:30:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+748,1259,26,2026-04-13T13:30:54,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+749,1260,21,2026-05-05T07:06:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+750,1261,26,2026-05-19T07:06:47,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+751,1262,21,2026-05-01T11:30:47,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+752,1263,26,2026-05-23T16:30:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+753,1269,24,2026-02-25T17:19:56,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+754,1270,24,2026-01-26T17:19:56,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+755,1271,24,2026-02-15T17:19:56,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+756,1272,24,2026-02-01T10:00:56,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+757,1273,24,2026-02-12T10:15:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+758,1288,24,2025-11-26T17:56:01,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+759,1289,24,2025-11-17T17:56:01,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+760,1290,24,2025-12-03T17:56:01,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+761,1291,24,2025-11-14T11:00:01,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+762,1292,24,2025-11-30T16:15:01,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+763,1293,24,2025-12-14T14:00:01,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+764,1318,21,2026-02-11T19:42:04,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+765,1319,21,2026-02-07T13:30:04,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+766,1320,21,2026-02-24T13:00:04,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+767,1321,26,2026-03-28T13:30:04,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+768,1322,21,2026-05-05T16:15:04,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+769,1323,22,2026-05-02T10:22:50,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+770,1324,27,2026-04-16T10:22:50,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+771,1325,27,2026-04-27T09:00:50,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+772,1326,27,2026-05-15T16:00:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+773,1327,27,2026-06-18T09:00:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+774,1328,22,2025-08-25T06:25:39,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+775,1329,22,2025-09-03T06:25:39,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+776,1330,27,2025-09-02T06:25:39,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+777,1331,22,2025-08-13T13:30:39,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+778,1332,27,2025-09-14T16:00:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+779,1333,22,2025-10-20T10:30:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+780,1334,22,2025-10-31T11:00:39,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+781,1335,25,2025-02-01T08:56:09,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+782,1336,25,2025-01-18T09:30:09,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+783,1337,25,2025-02-17T15:15:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+784,1338,25,2025-02-25T13:00:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+785,1347,21,2025-05-28T03:50:55,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+786,1348,26,2025-06-11T16:00:55,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+787,1349,21,2025-06-23T09:15:55,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+788,1350,21,2025-07-11T15:30:55,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+789,1351,21,2025-08-19T15:30:55,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+790,1352,21,2025-09-20T14:15:55,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+791,1353,21,2025-09-17T16:15:55,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+792,1354,26,2025-10-28T16:00:55,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+793,1364,22,2025-10-16T23:18:40,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+794,1365,22,2025-10-23T23:18:40,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+795,1366,27,2025-10-15T10:15:40,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+796,1367,22,2025-11-18T10:30:40,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+797,1368,22,2025-11-30T14:15:40,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+798,1369,27,2026-01-05T10:15:40,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+799,1375,24,2025-04-12T14:34:09,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+800,1376,24,2025-05-04T14:34:09,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+801,1377,24,2025-04-18T14:34:09,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+802,1378,24,2025-04-20T10:30:09,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+803,1379,24,2025-04-19T13:30:09,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+804,1393,27,2026-01-13T16:09:58,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+805,1394,22,2025-12-13T16:09:58,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+806,1395,27,2025-12-17T15:00:58,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+807,1396,27,2025-12-28T13:00:58,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+808,1397,22,2026-01-28T14:00:58,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+809,1398,27,2026-02-08T14:30:58,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+810,1399,26,2026-02-12T13:34:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+811,1400,26,2026-01-19T13:34:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+812,1401,26,2026-01-09T13:34:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+813,1402,21,2026-01-07T16:30:47,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+814,1403,21,2026-02-04T13:15:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+815,1404,26,2026-03-10T14:15:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+816,1405,21,2026-04-08T11:30:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+817,1421,21,2025-12-10T14:58:50,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+818,1422,21,2025-12-02T14:58:50,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+819,1423,26,2025-12-02T14:58:50,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+820,1424,21,2025-12-21T14:30:50,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+821,1425,21,2026-01-22T16:30:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+822,1426,26,2026-02-05T13:00:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+823,1427,21,2026-03-09T13:30:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+824,1428,26,2026-04-04T09:00:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+825,1429,21,2026-05-06T13:30:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+826,1430,26,2026-05-18T15:15:50,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+827,1442,23,2026-05-28T06:01:02,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+828,1443,23,2026-05-28T11:00:02,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+829,1444,23,2026-06-12T11:30:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+830,1445,28,2026-06-30T14:15:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+831,1446,28,2026-07-15T16:00:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+832,1447,28,2026-08-16T13:00:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+833,1448,21,2026-04-17T09:21:40,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+834,1449,21,2026-04-18T14:30:40,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+835,1450,21,2026-05-14T14:15:40,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+836,1451,26,2026-05-20T11:30:40,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+837,1452,21,2026-06-12T10:00:40,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+838,1453,21,2026-07-20T11:30:40,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+839,1463,23,2025-04-28T22:02:25,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+840,1464,28,2025-05-03T15:15:25,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+841,1465,28,2025-06-15T10:30:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+842,1466,23,2025-06-26T10:30:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+843,1467,28,2025-07-24T09:00:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+844,1468,23,2025-07-26T09:30:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+845,1469,28,2025-08-21T13:30:25,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+846,1490,25,2025-10-23T15:38:16,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+847,1491,25,2025-10-19T15:38:16,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+848,1492,25,2025-10-24T15:38:16,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+849,1493,25,2025-10-11T14:00:16,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+850,1494,25,2025-10-29T09:00:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+851,1495,25,2025-12-07T16:30:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+852,1496,25,2025-12-25T13:15:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+853,1497,25,2026-01-21T15:15:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+854,1498,25,2026-02-04T14:00:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+855,1499,25,2026-03-10T09:00:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+856,1500,28,2025-11-30T12:48:56,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+857,1501,28,2025-12-08T12:48:56,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+858,1502,23,2025-12-05T09:30:56,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+859,1503,28,2025-12-06T15:15:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+860,1504,28,2026-01-13T16:15:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+861,1505,23,2026-02-06T09:00:56,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+862,1506,26,2026-05-06T13:01:15,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+863,1507,21,2026-05-10T16:30:15,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+864,1508,26,2026-06-16T11:30:15,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+865,1509,26,2026-07-18T13:00:15,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+866,1510,21,2026-08-06T13:30:15,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+867,1521,25,2025-11-07T08:18:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+868,1522,25,2025-11-20T08:18:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+869,1523,25,2025-11-09T08:18:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+870,1524,25,2025-11-01T16:00:47,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+871,1525,25,2025-11-30T09:30:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+872,1526,25,2025-12-05T09:30:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+873,1527,25,2026-01-04T15:00:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+874,1534,21,2025-04-20T15:00:30,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+875,1535,26,2025-04-01T15:00:30,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+876,1536,26,2025-04-18T09:15:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+877,1537,26,2025-04-05T15:06:53,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+878,1538,26,2025-03-28T15:06:53,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+879,1539,21,2025-03-25T15:06:53,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+880,1540,26,2025-04-07T11:00:53,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+881,1541,21,2025-05-06T10:00:53,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+882,1542,26,2025-05-16T15:30:53,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+883,1543,21,2025-07-03T11:15:53,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+884,1544,26,2025-07-22T09:30:53,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+885,1545,26,2025-08-19T15:30:53,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+886,1546,24,2025-09-26T05:41:16,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+887,1547,24,2025-09-08T05:41:16,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+888,1548,24,2025-09-15T05:41:16,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+889,1549,24,2025-09-16T11:00:16,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+890,1550,24,2025-10-06T16:15:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+891,1551,24,2025-11-03T15:00:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+892,1552,24,2025-11-30T15:15:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+893,1553,24,2025-12-13T10:15:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+894,1554,24,2026-01-09T11:15:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+895,1555,24,2026-01-17T14:30:16,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+896,1566,22,2026-07-02T18:21:03,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+897,1567,22,2026-07-06T18:21:03,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+898,1568,27,2026-06-09T15:00:03,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+899,1569,22,2026-07-08T15:15:03,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+900,1570,22,2025-02-15T23:34:47,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+901,1571,27,2025-03-11T23:34:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+902,1572,27,2025-02-15T23:34:47,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+903,1573,22,2025-02-14T16:30:47,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+904,1574,27,2025-02-27T15:30:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+905,1575,22,2025-04-04T09:15:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+906,1576,22,2025-04-22T11:00:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+907,1577,22,2025-05-25T14:30:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+908,1578,22,2025-03-26T09:08:04,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+909,1579,27,2025-04-14T09:08:04,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+910,1580,22,2025-04-04T09:08:04,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+911,1581,27,2025-04-15T13:15:04,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+912,1582,27,2025-04-30T13:00:04,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+913,1583,27,2025-05-06T09:15:04,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+914,1584,27,2025-06-16T13:30:04,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+915,1585,22,2025-06-26T14:15:04,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+916,1586,27,2025-07-07T10:30:04,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+917,1587,27,2025-07-22T09:15:04,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+918,1588,27,2025-08-29T09:00:04,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+919,1589,24,2026-07-13T22:01:07,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+920,1590,24,2026-08-08T22:01:07,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+921,1591,24,2026-07-23T13:30:07,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+922,1592,24,2026-08-03T10:00:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+923,1593,24,2026-08-24T10:15:07,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+924,1599,22,2026-07-18T07:47:13,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+925,1600,27,2026-07-25T14:30:13,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+926,1601,22,2026-07-27T16:15:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+927,1602,22,2026-08-04T11:00:13,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+928,1605,21,2025-08-25T09:30:30,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+929,1606,21,2025-08-31T16:15:30,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+930,1607,26,2025-09-21T16:30:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+931,1608,26,2025-10-15T10:00:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+932,1609,21,2025-10-30T14:30:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+933,1610,26,2025-12-08T15:00:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+934,1611,21,2025-12-26T11:30:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+935,1612,21,2026-01-14T14:15:30,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+936,1613,22,2026-01-21T13:00:49,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+937,1614,22,2026-01-21T13:00:49,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+938,1615,27,2026-01-15T13:00:49,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+939,1616,27,2026-02-01T13:00:49,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+940,1617,27,2026-02-25T13:00:49,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+941,1618,22,2026-03-01T11:00:49,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+942,1619,22,2026-04-13T16:15:49,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+943,1620,27,2025-08-17T01:10:52,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+944,1621,22,2025-07-23T16:00:52,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+945,1622,22,2025-08-03T09:00:52,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+946,1623,22,2025-09-11T15:00:52,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+947,1624,23,2025-10-21T01:13:52,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+948,1625,28,2025-11-29T01:13:52,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+949,1626,28,2025-11-27T01:13:52,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+950,1627,23,2025-11-11T10:30:52,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+951,1628,28,2025-12-03T10:30:52,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+952,1629,28,2025-12-30T10:00:52,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+953,1630,23,2026-01-18T11:15:52,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+954,1631,28,2026-02-02T13:00:52,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+955,1632,25,2025-08-09T01:51:47,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+956,1633,25,2025-08-11T01:51:47,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+957,1634,25,2025-08-10T01:51:47,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+958,1635,25,2025-07-27T14:15:47,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+959,1636,25,2025-08-29T14:00:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+960,1637,25,2025-09-29T13:00:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+961,1638,25,2025-10-17T13:00:47,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+962,1649,27,2026-06-29T22:50:29,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+963,1650,22,2026-07-28T22:50:29,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+964,1651,27,2026-06-23T22:50:29,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+965,1652,27,2026-07-11T09:15:29,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+966,1653,22,2026-08-06T10:00:29,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+967,1654,27,2026-08-18T16:00:29,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+968,1660,27,2026-02-14T13:00:42,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+969,1661,27,2026-02-27T13:00:42,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+970,1662,27,2026-02-02T14:00:42,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+971,1663,27,2026-03-14T10:00:42,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+972,1664,22,2026-04-08T11:00:42,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+973,1665,22,2026-05-04T15:15:42,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+974,1666,22,2026-05-12T14:00:42,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+975,1667,27,2026-06-11T10:15:42,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+976,1668,28,2026-04-30T19:55:19,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+977,1669,23,2026-04-25T16:00:19,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+978,1670,23,2026-05-12T14:30:19,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+979,1671,23,2026-06-27T10:15:19,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+980,1672,28,2026-07-02T15:00:19,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+981,1673,23,2026-07-22T16:00:19,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+982,1674,23,2026-08-09T13:00:19,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+983,1675,23,2026-08-30T15:15:19,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+984,1676,21,2025-08-26T23:43:02,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+985,1677,21,2025-08-21T23:43:02,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+986,1678,21,2025-09-22T23:43:02,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+987,1679,26,2025-08-27T14:00:02,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+988,1680,21,2025-09-24T16:15:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+989,1681,21,2025-10-05T14:00:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+990,1682,21,2025-10-31T14:30:02,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+991,1683,24,2025-08-07T10:40:55,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+992,1684,24,2025-08-11T10:40:55,Goedgekeurd,3500,0,Huisarts consult conform polisvoorwaarden
+993,1685,24,2025-07-27T11:30:55,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+994,1686,24,2025-08-17T13:15:55,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+995,1696,26,2025-12-25T10:32:01,Goedgekeurd,2500,0,Huisarts consult conform polisvoorwaarden
+996,1697,21,2026-01-03T10:32:01,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+997,1698,21,2026-01-01T10:32:01,Goedgekeurd,1500,0,Huisarts consult conform polisvoorwaarden
+998,1699,26,2026-01-03T09:00:01,Gedeeltelijk goedgekeurd,7000,1000,Revalidatiearts intake conform polisvoorwaarden
+999,1700,26,2026-01-31T15:15:01,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+1000,1701,26,2026-02-03T16:00:01,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+1001,1702,26,2026-03-13T09:00:01,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+1002,1703,26,2026-03-22T10:00:01,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+1003,1704,26,2026-04-23T11:30:01,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden
+1004,1705,21,2026-05-13T11:15:01,Goedgekeurd,6000,0,Revalidatiearts controle consult conform polisvoorwaarden

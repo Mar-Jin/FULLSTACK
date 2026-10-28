@@ -1,0 +1,2564 @@
+LogboekID,PatientID,DatumTijdActiviteit,Beschrijving
+1,1,2025-02-16T16:55:15,"Boodschappen gedaan, deels met hulp."
+2,1,2025-02-21T22:55:15,Fysiotherapie-oefeningen thuis uitgevoerd.
+3,1,2025-02-26T20:55:15,Lange wandeling gemaakt zonder klachten.
+4,1,2025-02-28T19:55:15,"Boodschappen gedaan, deels met hulp."
+5,1,2025-02-24T22:55:15,Sportactiviteit voorzichtig hervat (zwemmen).
+6,1,2025-02-22T02:55:15,Rustdag gehouden op advies van de arts.
+7,1,2025-02-22T16:55:15,Dag met veel rust vanwege vermoeidheid.
+8,2,2026-01-03T00:26:37,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+9,2,2026-01-07T01:26:37,Sportactiviteit voorzichtig hervat (zwemmen).
+10,2,2026-01-07T02:26:37,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+11,2,2026-01-06T01:26:37,Sportactiviteit voorzichtig hervat (zwemmen).
+12,2,2026-01-06T18:26:37,"Boodschappen gedaan, deels met hulp."
+13,2,2026-01-08T02:26:37,"Boodschappen gedaan, deels met hulp."
+14,2,2026-01-08T19:26:37,Fysiotherapie-oefeningen thuis uitgevoerd.
+15,2,2026-02-06T20:26:37,Trap gelopen zonder hulpmiddel.
+16,2,2026-02-03T18:26:37,Rustdag gehouden op advies van de arts.
+17,2,2026-01-20T18:26:37,Lichte fietstocht gemaakt.
+18,2,2026-01-13T00:26:37,Lichte fietstocht gemaakt.
+19,2,2026-02-04T15:26:37,Lichte fietstocht gemaakt.
+20,2,2026-02-19T20:26:37,"Tuinwerk gedaan, aangepast tempo."
+21,3,2026-09-03T15:06:04,"Boodschappen gedaan, deels met hulp."
+22,3,2026-09-06T03:06:04,Fysiotherapie-oefeningen thuis uitgevoerd.
+23,3,2026-09-07T11:06:04,Fysiotherapie-oefeningen thuis uitgevoerd.
+24,3,2026-09-09T15:06:04,Sportactiviteit voorzichtig hervat (zwemmen).
+25,3,2026-09-23T14:06:04,Sportactiviteit voorzichtig hervat (zwemmen).
+26,3,2026-09-28T11:06:04,Korte wandeling gemaakt rondom huis.
+27,3,2026-10-03T04:06:04,Fysiotherapie-oefeningen thuis uitgevoerd.
+28,3,2026-10-08T08:06:04,Trap gelopen zonder hulpmiddel.
+29,3,2026-09-11T15:06:04,"Tuinwerk gedaan, aangepast tempo."
+30,3,2026-10-09T11:06:04,"Boodschappen gedaan, deels met hulp."
+31,3,2026-10-13T04:06:04,"Tuinwerk gedaan, aangepast tempo."
+32,3,2026-09-25T07:06:04,Rustdag gehouden op advies van de arts.
+33,3,2026-10-21T07:06:04,Lichte fietstocht gemaakt.
+34,3,2026-09-16T10:06:04,Korte wandeling gemaakt rondom huis.
+35,4,2026-02-20T15:16:18,Werk gedeeltelijk hervat (aangepaste taken).
+36,4,2026-02-24T02:16:18,"Tuinwerk gedaan, aangepast tempo."
+37,4,2026-02-24T21:16:18,Dag met veel rust vanwege vermoeidheid.
+38,4,2026-02-24T02:16:18,Korte wandeling gemaakt rondom huis.
+39,4,2026-02-24T18:16:18,Sportactiviteit voorzichtig hervat (zwemmen).
+40,4,2026-02-25T17:16:18,Lange wandeling gemaakt zonder klachten.
+41,4,2026-03-04T23:16:18,Dag met veel rust vanwege vermoeidheid.
+42,4,2026-03-20T15:16:18,Rustdag gehouden op advies van de arts.
+43,4,2026-03-16T16:16:18,Werk gedeeltelijk hervat (aangepaste taken).
+44,4,2026-03-10T22:16:18,Korte wandeling gemaakt rondom huis.
+45,4,2026-03-12T21:16:18,Korte wandeling gemaakt rondom huis.
+46,4,2026-03-03T16:16:18,Lichte fietstocht gemaakt.
+47,4,2026-03-28T19:16:18,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+48,4,2026-04-14T03:16:18,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+49,4,2026-03-20T16:16:18,Trap gelopen zonder hulpmiddel.
+50,5,2025-07-12T06:32:23,"Boodschappen gedaan, deels met hulp."
+51,5,2025-07-15T22:32:23,Lichte fietstocht gemaakt.
+52,5,2025-07-16T04:32:23,"Tuinwerk gedaan, aangepast tempo."
+53,5,2025-07-21T01:32:23,Sportactiviteit voorzichtig hervat (zwemmen).
+54,5,2025-07-27T23:32:23,Fysiotherapie-oefeningen thuis uitgevoerd.
+55,5,2025-08-01T02:32:23,Korte wandeling gemaakt rondom huis.
+56,5,2025-07-24T04:32:23,Lange wandeling gemaakt zonder klachten.
+57,5,2025-07-18T22:32:23,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+58,5,2025-08-20T21:32:23,Fysiotherapie-oefeningen thuis uitgevoerd.
+59,5,2025-07-21T05:32:23,Korte wandeling gemaakt rondom huis.
+60,6,2026-08-28T21:33:19,Trap gelopen zonder hulpmiddel.
+61,6,2026-09-01T00:33:19,"Tuinwerk gedaan, aangepast tempo."
+62,6,2026-09-05T23:33:19,Lange wandeling gemaakt zonder klachten.
+63,6,2026-09-12T21:33:19,Korte wandeling gemaakt rondom huis.
+64,6,2026-09-17T21:33:19,Sportactiviteit voorzichtig hervat (zwemmen).
+65,6,2026-09-12T23:33:19,Trap gelopen zonder hulpmiddel.
+66,6,2026-09-16T02:33:19,Rustdag gehouden op advies van de arts.
+67,6,2026-10-03T01:33:19,"Tuinwerk gedaan, aangepast tempo."
+68,7,2025-05-31T05:41:41,Dag met veel rust vanwege vermoeidheid.
+69,7,2025-06-02T04:41:41,"Tuinwerk gedaan, aangepast tempo."
+70,7,2025-06-10T02:41:41,"Tuinwerk gedaan, aangepast tempo."
+71,7,2025-06-03T08:41:41,Dag met veel rust vanwege vermoeidheid.
+72,7,2025-06-20T01:41:41,Dag met veel rust vanwege vermoeidheid.
+73,7,2025-06-20T07:41:41,Dag met veel rust vanwege vermoeidheid.
+74,7,2025-06-23T21:41:41,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+75,7,2025-06-14T04:41:41,Werk gedeeltelijk hervat (aangepaste taken).
+76,7,2025-07-10T01:41:41,Dag met veel rust vanwege vermoeidheid.
+77,7,2025-06-18T04:41:41,Lange wandeling gemaakt zonder klachten.
+78,7,2025-07-10T01:41:41,Lichte fietstocht gemaakt.
+79,7,2025-07-25T01:41:41,Lichte fietstocht gemaakt.
+80,7,2025-07-18T08:41:41,Dag met veel rust vanwege vermoeidheid.
+81,7,2025-07-22T07:41:41,Lichte fietstocht gemaakt.
+82,7,2025-08-08T23:41:41,Lange wandeling gemaakt zonder klachten.
+83,8,2027-01-16T05:27:21,Rustdag gehouden op advies van de arts.
+84,8,2027-01-19T01:27:21,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+85,8,2027-01-26T07:27:21,Korte wandeling gemaakt rondom huis.
+86,8,2027-01-31T07:27:21,"Boodschappen gedaan, deels met hulp."
+87,8,2027-01-24T01:27:21,"Boodschappen gedaan, deels met hulp."
+88,8,2027-02-09T21:27:21,Dag met veel rust vanwege vermoeidheid.
+89,8,2027-02-09T07:27:21,Lange wandeling gemaakt zonder klachten.
+90,8,2027-01-30T08:27:21,"Tuinwerk gedaan, aangepast tempo."
+91,8,2027-02-01T01:27:21,Lichte fietstocht gemaakt.
+92,8,2027-02-12T04:27:21,Dag met veel rust vanwege vermoeidheid.
+93,9,2025-06-24T16:34:44,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+94,9,2025-06-29T12:34:44,Korte wandeling gemaakt rondom huis.
+95,9,2025-06-26T14:34:44,Sportactiviteit voorzichtig hervat (zwemmen).
+96,9,2025-06-30T15:34:44,Lichte fietstocht gemaakt.
+97,9,2025-07-02T08:34:44,"Tuinwerk gedaan, aangepast tempo."
+98,9,2025-07-19T16:34:44,Lichte fietstocht gemaakt.
+99,9,2025-07-12T15:34:44,Fysiotherapie-oefeningen thuis uitgevoerd.
+100,9,2025-07-29T18:34:44,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+101,9,2025-08-03T19:34:44,Sportactiviteit voorzichtig hervat (zwemmen).
+102,9,2025-07-21T19:34:44,Korte wandeling gemaakt rondom huis.
+103,10,2026-04-09T16:28:07,Trap gelopen zonder hulpmiddel.
+104,10,2026-04-12T12:28:07,"Tuinwerk gedaan, aangepast tempo."
+105,10,2026-04-11T17:28:07,Rustdag gehouden op advies van de arts.
+106,10,2026-04-15T15:28:07,Sportactiviteit voorzichtig hervat (zwemmen).
+107,10,2026-04-17T05:28:07,Werk gedeeltelijk hervat (aangepaste taken).
+108,10,2026-04-19T15:28:07,Fysiotherapie-oefeningen thuis uitgevoerd.
+109,10,2026-04-27T14:28:07,Korte wandeling gemaakt rondom huis.
+110,10,2026-04-16T07:28:07,"Boodschappen gedaan, deels met hulp."
+111,10,2026-05-19T16:28:07,Dag met veel rust vanwege vermoeidheid.
+112,10,2026-04-27T14:28:07,Dag met veel rust vanwege vermoeidheid.
+113,10,2026-05-19T17:28:07,Lichte fietstocht gemaakt.
+114,11,2025-09-07T09:15:06,"Boodschappen gedaan, deels met hulp."
+115,11,2025-09-11T05:15:06,Rustdag gehouden op advies van de arts.
+116,11,2025-09-11T06:15:06,Lichte fietstocht gemaakt.
+117,11,2025-09-10T07:15:06,Werk gedeeltelijk hervat (aangepaste taken).
+118,11,2025-09-10T23:15:06,Lichte fietstocht gemaakt.
+119,11,2025-10-02T02:15:06,Rustdag gehouden op advies van de arts.
+120,11,2025-10-07T00:15:06,Korte wandeling gemaakt rondom huis.
+121,11,2025-09-28T02:15:06,Lichte fietstocht gemaakt.
+122,11,2025-10-01T02:15:06,Sportactiviteit voorzichtig hervat (zwemmen).
+123,11,2025-09-16T10:15:06,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+124,11,2025-09-27T10:15:06,Lange wandeling gemaakt zonder klachten.
+125,11,2025-10-20T22:15:06,Fysiotherapie-oefeningen thuis uitgevoerd.
+126,11,2025-10-13T01:15:06,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+127,12,2027-05-10T06:49:17,Werk gedeeltelijk hervat (aangepaste taken).
+128,12,2027-05-12T09:49:17,Fysiotherapie-oefeningen thuis uitgevoerd.
+129,12,2027-05-16T11:49:17,Trap gelopen zonder hulpmiddel.
+130,12,2027-05-22T12:49:17,Fysiotherapie-oefeningen thuis uitgevoerd.
+131,12,2027-05-26T15:49:17,"Tuinwerk gedaan, aangepast tempo."
+132,12,2027-05-15T04:49:17,Dag met veel rust vanwege vermoeidheid.
+133,13,2027-06-01T06:43:37,Lange wandeling gemaakt zonder klachten.
+134,13,2027-06-02T14:43:37,Fysiotherapie-oefeningen thuis uitgevoerd.
+135,13,2027-06-05T11:43:37,Sportactiviteit voorzichtig hervat (zwemmen).
+136,13,2027-06-16T16:43:37,Dag met veel rust vanwege vermoeidheid.
+137,13,2027-06-17T14:43:37,Werk gedeeltelijk hervat (aangepaste taken).
+138,13,2027-06-11T06:43:37,Dag met veel rust vanwege vermoeidheid.
+139,13,2027-06-19T06:43:37,Dag met veel rust vanwege vermoeidheid.
+140,13,2027-06-22T06:43:37,"Tuinwerk gedaan, aangepast tempo."
+141,13,2027-06-25T16:43:37,Sportactiviteit voorzichtig hervat (zwemmen).
+142,13,2027-06-19T15:43:37,Sportactiviteit voorzichtig hervat (zwemmen).
+143,13,2027-07-11T17:43:37,Lange wandeling gemaakt zonder klachten.
+144,14,2027-01-20T13:32:46,Lichte fietstocht gemaakt.
+145,14,2027-01-22T16:32:46,Dag met veel rust vanwege vermoeidheid.
+146,14,2027-01-30T17:32:46,"Boodschappen gedaan, deels met hulp."
+147,14,2027-01-23T14:32:46,Rustdag gehouden op advies van de arts.
+148,14,2027-02-09T15:32:46,Lichte fietstocht gemaakt.
+149,14,2027-01-30T12:32:46,"Boodschappen gedaan, deels met hulp."
+150,14,2027-02-13T18:32:46,Sportactiviteit voorzichtig hervat (zwemmen).
+151,14,2027-02-03T17:32:46,Fysiotherapie-oefeningen thuis uitgevoerd.
+152,14,2027-02-05T19:32:46,Dag met veel rust vanwege vermoeidheid.
+153,14,2027-01-29T17:32:46,Lichte fietstocht gemaakt.
+154,14,2027-02-19T16:32:46,"Tuinwerk gedaan, aangepast tempo."
+155,15,2027-05-02T23:47:32,Lange wandeling gemaakt zonder klachten.
+156,15,2027-05-04T22:47:32,"Tuinwerk gedaan, aangepast tempo."
+157,15,2027-05-11T00:47:32,"Tuinwerk gedaan, aangepast tempo."
+158,15,2027-05-06T00:47:32,Sportactiviteit voorzichtig hervat (zwemmen).
+159,15,2027-05-18T16:47:32,Dag met veel rust vanwege vermoeidheid.
+160,15,2027-05-22T17:47:32,Rustdag gehouden op advies van de arts.
+161,15,2027-05-08T13:47:32,Korte wandeling gemaakt rondom huis.
+162,15,2027-05-09T19:47:32,Dag met veel rust vanwege vermoeidheid.
+163,15,2027-06-11T15:47:32,Rustdag gehouden op advies van de arts.
+164,15,2027-06-16T21:47:32,Lange wandeling gemaakt zonder klachten.
+165,15,2027-06-11T16:47:32,"Tuinwerk gedaan, aangepast tempo."
+166,15,2027-05-14T00:47:32,Lange wandeling gemaakt zonder klachten.
+167,16,2025-10-08T06:33:30,"Tuinwerk gedaan, aangepast tempo."
+168,16,2025-10-10T07:33:30,Lichte fietstocht gemaakt.
+169,16,2025-10-18T06:33:30,Dag met veel rust vanwege vermoeidheid.
+170,16,2025-10-23T05:33:30,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+171,16,2025-10-23T22:33:30,Lichte fietstocht gemaakt.
+172,16,2025-10-28T02:33:30,Rustdag gehouden op advies van de arts.
+173,17,2025-03-27T18:18:25,Lichte fietstocht gemaakt.
+174,17,2025-03-31T18:18:25,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+175,17,2025-04-02T10:18:25,Lichte fietstocht gemaakt.
+176,17,2025-04-11T12:18:25,Rustdag gehouden op advies van de arts.
+177,17,2025-04-12T09:18:25,"Boodschappen gedaan, deels met hulp."
+178,17,2025-04-21T15:18:25,Korte wandeling gemaakt rondom huis.
+179,17,2025-04-08T15:18:25,Dag met veel rust vanwege vermoeidheid.
+180,17,2025-04-24T07:18:25,Rustdag gehouden op advies van de arts.
+181,17,2025-04-12T18:18:25,Fysiotherapie-oefeningen thuis uitgevoerd.
+182,17,2025-05-11T18:18:25,Korte wandeling gemaakt rondom huis.
+183,17,2025-05-06T07:18:25,Sportactiviteit voorzichtig hervat (zwemmen).
+184,17,2025-04-29T08:18:25,Fysiotherapie-oefeningen thuis uitgevoerd.
+185,17,2025-04-20T07:18:25,Fysiotherapie-oefeningen thuis uitgevoerd.
+186,17,2025-05-31T11:18:25,Lichte fietstocht gemaakt.
+187,18,2027-05-24T07:28:43,Lichte fietstocht gemaakt.
+188,18,2027-05-27T20:28:43,Trap gelopen zonder hulpmiddel.
+189,18,2027-05-30T02:28:43,Lange wandeling gemaakt zonder klachten.
+190,18,2027-05-27T01:28:43,Fysiotherapie-oefeningen thuis uitgevoerd.
+191,18,2027-06-09T02:28:43,Dag met veel rust vanwege vermoeidheid.
+192,18,2027-05-29T00:28:43,Lange wandeling gemaakt zonder klachten.
+193,18,2027-05-29T19:28:43,"Boodschappen gedaan, deels met hulp."
+194,18,2027-05-30T19:28:43,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+195,18,2027-06-01T00:28:43,"Tuinwerk gedaan, aangepast tempo."
+196,19,2027-06-18T04:06:14,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+197,19,2027-06-22T09:06:14,Werk gedeeltelijk hervat (aangepaste taken).
+198,19,2027-06-28T06:06:14,Rustdag gehouden op advies van de arts.
+199,19,2027-06-30T05:06:14,Lichte fietstocht gemaakt.
+200,19,2027-06-22T01:06:14,Dag met veel rust vanwege vermoeidheid.
+201,19,2027-07-08T12:06:14,Werk gedeeltelijk hervat (aangepaste taken).
+202,19,2027-06-30T05:06:14,"Boodschappen gedaan, deels met hulp."
+203,19,2027-07-16T03:06:14,Lange wandeling gemaakt zonder klachten.
+204,19,2027-07-12T09:06:14,Lange wandeling gemaakt zonder klachten.
+205,19,2027-07-24T09:06:14,Werk gedeeltelijk hervat (aangepaste taken).
+206,20,2025-06-07T22:53:49,Dag met veel rust vanwege vermoeidheid.
+207,20,2025-06-08T20:53:49,Dag met veel rust vanwege vermoeidheid.
+208,20,2025-06-17T23:53:49,Trap gelopen zonder hulpmiddel.
+209,20,2025-06-13T20:53:49,Dag met veel rust vanwege vermoeidheid.
+210,20,2025-06-19T21:53:49,Werk gedeeltelijk hervat (aangepaste taken).
+211,20,2025-07-02T22:53:49,Fysiotherapie-oefeningen thuis uitgevoerd.
+212,21,2027-05-11T01:32:07,"Boodschappen gedaan, deels met hulp."
+213,21,2027-05-16T08:32:07,Lange wandeling gemaakt zonder klachten.
+214,21,2027-05-21T11:32:07,Werk gedeeltelijk hervat (aangepaste taken).
+215,21,2027-05-26T11:32:07,Korte wandeling gemaakt rondom huis.
+216,21,2027-05-31T12:32:07,Rustdag gehouden op advies van de arts.
+217,21,2027-06-05T07:32:07,Dag met veel rust vanwege vermoeidheid.
+218,21,2027-06-10T08:32:07,Sportactiviteit voorzichtig hervat (zwemmen).
+219,21,2027-06-01T04:32:07,"Boodschappen gedaan, deels met hulp."
+220,21,2027-06-20T04:32:07,"Boodschappen gedaan, deels met hulp."
+221,21,2027-06-07T03:32:07,Lichte fietstocht gemaakt.
+222,21,2027-05-31T07:32:07,Lichte fietstocht gemaakt.
+223,22,2027-06-29T04:15:32,Lange wandeling gemaakt zonder klachten.
+224,22,2027-07-02T05:15:32,Korte wandeling gemaakt rondom huis.
+225,22,2027-07-02T21:15:32,Sportactiviteit voorzichtig hervat (zwemmen).
+226,22,2027-07-07T17:15:32,Lange wandeling gemaakt zonder klachten.
+227,22,2027-07-19T01:15:32,Lange wandeling gemaakt zonder klachten.
+228,22,2027-07-23T23:15:32,Fysiotherapie-oefeningen thuis uitgevoerd.
+229,22,2027-07-16T23:15:32,Lichte fietstocht gemaakt.
+230,23,2025-12-27T13:27:16,Dag met veel rust vanwege vermoeidheid.
+231,23,2025-12-28T15:27:16,Dag met veel rust vanwege vermoeidheid.
+232,23,2025-12-29T08:27:16,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+233,23,2026-01-11T11:27:16,"Boodschappen gedaan, deels met hulp."
+234,23,2026-01-04T09:27:16,Sportactiviteit voorzichtig hervat (zwemmen).
+235,23,2026-01-06T12:27:16,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+236,23,2026-01-20T09:27:16,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+237,23,2026-01-10T15:27:16,Korte wandeling gemaakt rondom huis.
+238,23,2026-02-05T16:27:16,"Tuinwerk gedaan, aangepast tempo."
+239,23,2026-01-14T05:27:16,Werk gedeeltelijk hervat (aangepaste taken).
+240,24,2026-10-06T11:23:47,Werk gedeeltelijk hervat (aangepaste taken).
+241,24,2026-10-10T22:23:47,Fysiotherapie-oefeningen thuis uitgevoerd.
+242,24,2026-10-16T16:23:47,Lange wandeling gemaakt zonder klachten.
+243,24,2026-10-09T12:23:47,Trap gelopen zonder hulpmiddel.
+244,24,2026-10-14T14:23:47,Lange wandeling gemaakt zonder klachten.
+245,24,2026-10-31T13:23:47,Lange wandeling gemaakt zonder klachten.
+246,24,2026-10-18T12:23:47,Dag met veel rust vanwege vermoeidheid.
+247,24,2026-10-27T22:23:47,Rustdag gehouden op advies van de arts.
+248,25,2026-01-16T21:17:23,Trap gelopen zonder hulpmiddel.
+249,25,2026-01-20T22:17:23,Sportactiviteit voorzichtig hervat (zwemmen).
+250,25,2026-01-18T19:17:23,Dag met veel rust vanwege vermoeidheid.
+251,25,2026-01-28T18:17:23,Rustdag gehouden op advies van de arts.
+252,25,2026-01-28T18:17:23,Fysiotherapie-oefeningen thuis uitgevoerd.
+253,25,2026-01-21T21:17:23,Sportactiviteit voorzichtig hervat (zwemmen).
+254,25,2026-02-15T17:17:23,Sportactiviteit voorzichtig hervat (zwemmen).
+255,25,2026-02-06T20:17:23,Lichte fietstocht gemaakt.
+256,25,2026-01-25T00:17:23,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+257,25,2026-02-21T20:17:23,Werk gedeeltelijk hervat (aangepaste taken).
+258,26,2027-05-14T21:08:12,"Boodschappen gedaan, deels met hulp."
+259,26,2027-05-19T03:08:12,Werk gedeeltelijk hervat (aangepaste taken).
+260,26,2027-05-22T16:08:12,Dag met veel rust vanwege vermoeidheid.
+261,26,2027-05-18T04:08:12,Fysiotherapie-oefeningen thuis uitgevoerd.
+262,26,2027-05-26T20:08:12,Dag met veel rust vanwege vermoeidheid.
+263,26,2027-06-08T21:08:12,Werk gedeeltelijk hervat (aangepaste taken).
+264,26,2027-06-01T21:08:12,Korte wandeling gemaakt rondom huis.
+265,26,2027-05-21T17:08:12,"Tuinwerk gedaan, aangepast tempo."
+266,26,2027-06-15T19:08:12,Lange wandeling gemaakt zonder klachten.
+267,26,2027-06-19T19:08:12,Lange wandeling gemaakt zonder klachten.
+268,26,2027-06-24T02:08:12,Fysiotherapie-oefeningen thuis uitgevoerd.
+269,26,2027-05-26T04:08:12,"Tuinwerk gedaan, aangepast tempo."
+270,26,2027-07-02T00:08:12,Lange wandeling gemaakt zonder klachten.
+271,26,2027-07-18T22:08:12,Lange wandeling gemaakt zonder klachten.
+272,27,2026-05-27T17:36:05,Korte wandeling gemaakt rondom huis.
+273,27,2026-05-30T11:36:05,Sportactiviteit voorzichtig hervat (zwemmen).
+274,27,2026-05-29T11:36:05,Trap gelopen zonder hulpmiddel.
+275,27,2026-06-02T18:36:05,Fysiotherapie-oefeningen thuis uitgevoerd.
+276,27,2026-05-31T15:36:05,"Boodschappen gedaan, deels met hulp."
+277,27,2026-06-06T11:36:05,"Boodschappen gedaan, deels met hulp."
+278,27,2026-06-20T18:36:05,"Boodschappen gedaan, deels met hulp."
+279,27,2026-06-10T08:36:05,Fysiotherapie-oefeningen thuis uitgevoerd.
+280,27,2026-06-12T08:36:05,Lange wandeling gemaakt zonder klachten.
+281,28,2027-02-01T08:56:54,Rustdag gehouden op advies van de arts.
+282,28,2027-02-04T06:56:54,Korte wandeling gemaakt rondom huis.
+283,28,2027-02-05T06:56:54,Dag met veel rust vanwege vermoeidheid.
+284,28,2027-02-13T07:56:54,Lichte fietstocht gemaakt.
+285,28,2027-02-05T06:56:54,Korte wandeling gemaakt rondom huis.
+286,28,2027-02-06T08:56:54,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+287,29,2025-05-05T00:08:54,Lange wandeling gemaakt zonder klachten.
+288,29,2025-05-07T01:08:54,Korte wandeling gemaakt rondom huis.
+289,29,2025-05-07T04:08:54,Sportactiviteit voorzichtig hervat (zwemmen).
+290,29,2025-05-11T02:08:54,Lichte fietstocht gemaakt.
+291,29,2025-05-12T22:08:54,Sportactiviteit voorzichtig hervat (zwemmen).
+292,29,2025-05-25T00:08:54,Fysiotherapie-oefeningen thuis uitgevoerd.
+293,29,2025-06-04T02:08:54,"Boodschappen gedaan, deels met hulp."
+294,29,2025-05-19T05:08:54,Lange wandeling gemaakt zonder klachten.
+295,29,2025-06-06T04:08:54,Werk gedeeltelijk hervat (aangepaste taken).
+296,29,2025-05-23T05:08:54,Dag met veel rust vanwege vermoeidheid.
+297,29,2025-05-15T03:08:54,Korte wandeling gemaakt rondom huis.
+298,30,2026-04-05T20:37:46,Dag met veel rust vanwege vermoeidheid.
+299,30,2026-04-07T20:37:46,"Boodschappen gedaan, deels met hulp."
+300,30,2026-04-14T02:37:46,"Boodschappen gedaan, deels met hulp."
+301,30,2026-04-09T01:37:46,"Tuinwerk gedaan, aangepast tempo."
+302,30,2026-04-14T07:37:46,Werk gedeeltelijk hervat (aangepaste taken).
+303,30,2026-04-10T23:37:46,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+304,30,2026-04-18T00:37:46,Dag met veel rust vanwege vermoeidheid.
+305,30,2026-05-11T02:37:46,"Boodschappen gedaan, deels met hulp."
+306,30,2026-05-08T07:37:46,"Tuinwerk gedaan, aangepast tempo."
+307,30,2026-04-14T20:37:46,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+308,31,2026-12-27T03:45:09,Werk gedeeltelijk hervat (aangepaste taken).
+309,31,2026-12-30T00:45:09,"Boodschappen gedaan, deels met hulp."
+310,31,2026-12-28T18:45:09,Fysiotherapie-oefeningen thuis uitgevoerd.
+311,31,2026-12-29T20:45:09,"Boodschappen gedaan, deels met hulp."
+312,31,2027-01-12T03:45:09,"Boodschappen gedaan, deels met hulp."
+313,31,2027-01-16T06:45:09,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+314,31,2027-01-20T02:45:09,Lange wandeling gemaakt zonder klachten.
+315,31,2027-01-16T21:45:09,Rustdag gehouden op advies van de arts.
+316,32,2027-05-02T17:08:16,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+317,32,2027-05-07T17:08:16,Lange wandeling gemaakt zonder klachten.
+318,32,2027-05-10T13:08:16,Korte wandeling gemaakt rondom huis.
+319,32,2027-05-05T13:08:16,"Tuinwerk gedaan, aangepast tempo."
+320,32,2027-05-06T14:08:16,Trap gelopen zonder hulpmiddel.
+321,32,2027-05-22T19:08:16,Korte wandeling gemaakt rondom huis.
+322,32,2027-05-14T12:08:16,Rustdag gehouden op advies van de arts.
+323,32,2027-05-30T14:08:16,Rustdag gehouden op advies van de arts.
+324,32,2027-05-18T16:08:16,Lichte fietstocht gemaakt.
+325,32,2027-05-29T22:08:16,Lange wandeling gemaakt zonder klachten.
+326,32,2027-05-12T12:08:16,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+327,32,2027-06-04T17:08:16,Korte wandeling gemaakt rondom huis.
+328,32,2027-05-14T21:08:16,Korte wandeling gemaakt rondom huis.
+329,32,2027-05-15T21:08:16,Rustdag gehouden op advies van de arts.
+330,33,2027-08-01T23:20:49,"Tuinwerk gedaan, aangepast tempo."
+331,33,2027-08-04T18:20:49,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+332,33,2027-08-07T22:20:49,"Tuinwerk gedaan, aangepast tempo."
+333,33,2027-08-13T21:20:49,Lichte fietstocht gemaakt.
+334,33,2027-08-21T22:20:49,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+335,33,2027-08-06T23:20:49,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+336,33,2027-08-19T17:20:49,Korte wandeling gemaakt rondom huis.
+337,33,2027-08-29T16:20:49,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+338,33,2027-08-09T13:20:49,"Boodschappen gedaan, deels met hulp."
+339,33,2027-09-15T20:20:49,Sportactiviteit voorzichtig hervat (zwemmen).
+340,33,2027-08-31T14:20:49,"Tuinwerk gedaan, aangepast tempo."
+341,33,2027-08-23T17:20:49,Rustdag gehouden op advies van de arts.
+342,34,2025-11-02T23:03:14,Korte wandeling gemaakt rondom huis.
+343,34,2025-11-05T22:03:14,Korte wandeling gemaakt rondom huis.
+344,34,2025-11-11T01:03:14,Korte wandeling gemaakt rondom huis.
+345,34,2025-11-18T08:03:14,Trap gelopen zonder hulpmiddel.
+346,34,2025-11-19T04:03:14,Korte wandeling gemaakt rondom huis.
+347,34,2025-11-23T06:03:14,Lange wandeling gemaakt zonder klachten.
+348,35,2025-12-21T06:42:39,Sportactiviteit voorzichtig hervat (zwemmen).
+349,35,2025-12-23T05:42:39,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+350,35,2025-12-22T21:42:39,"Tuinwerk gedaan, aangepast tempo."
+351,35,2025-12-27T01:42:39,Dag met veel rust vanwege vermoeidheid.
+352,35,2026-01-02T06:42:39,Werk gedeeltelijk hervat (aangepaste taken).
+353,35,2025-12-31T07:42:39,Korte wandeling gemaakt rondom huis.
+354,35,2026-01-02T03:42:39,Werk gedeeltelijk hervat (aangepaste taken).
+355,35,2025-12-27T22:42:39,Lichte fietstocht gemaakt.
+356,35,2025-12-29T04:42:39,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+357,35,2026-01-25T21:42:39,Korte wandeling gemaakt rondom huis.
+358,35,2026-01-09T23:42:39,Korte wandeling gemaakt rondom huis.
+359,35,2026-01-12T02:42:39,Korte wandeling gemaakt rondom huis.
+360,36,2025-03-16T23:34:38,Fysiotherapie-oefeningen thuis uitgevoerd.
+361,36,2025-03-20T22:34:38,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+362,36,2025-03-18T21:34:38,Dag met veel rust vanwege vermoeidheid.
+363,36,2025-03-22T14:34:38,Lange wandeling gemaakt zonder klachten.
+364,36,2025-03-24T18:34:38,Lange wandeling gemaakt zonder klachten.
+365,36,2025-04-05T20:34:38,Lange wandeling gemaakt zonder klachten.
+366,36,2025-03-22T21:34:38,Lange wandeling gemaakt zonder klachten.
+367,36,2025-04-21T01:34:38,Dag met veel rust vanwege vermoeidheid.
+368,36,2025-04-09T16:34:38,Werk gedeeltelijk hervat (aangepaste taken).
+369,36,2025-04-30T22:34:38,Trap gelopen zonder hulpmiddel.
+370,36,2025-04-16T01:34:38,Trap gelopen zonder hulpmiddel.
+371,36,2025-03-27T15:34:38,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+372,37,2026-10-15T11:29:11,"Tuinwerk gedaan, aangepast tempo."
+373,37,2026-10-19T04:29:11,Rustdag gehouden op advies van de arts.
+374,37,2026-10-18T23:29:11,Rustdag gehouden op advies van de arts.
+375,37,2026-10-18T01:29:11,Fysiotherapie-oefeningen thuis uitgevoerd.
+376,37,2026-10-27T09:29:11,"Boodschappen gedaan, deels met hulp."
+377,37,2026-11-09T09:29:11,"Boodschappen gedaan, deels met hulp."
+378,38,2027-03-20T06:53:04,Lichte fietstocht gemaakt.
+379,38,2027-03-25T05:53:04,Fysiotherapie-oefeningen thuis uitgevoerd.
+380,38,2027-03-27T21:53:04,Werk gedeeltelijk hervat (aangepaste taken).
+381,38,2027-03-26T04:53:04,Rustdag gehouden op advies van de arts.
+382,38,2027-03-31T21:53:04,Lange wandeling gemaakt zonder klachten.
+383,38,2027-03-25T03:53:04,Dag met veel rust vanwege vermoeidheid.
+384,38,2027-04-13T01:53:04,Dag met veel rust vanwege vermoeidheid.
+385,38,2027-04-23T22:53:04,"Tuinwerk gedaan, aangepast tempo."
+386,38,2027-03-28T01:53:04,Rustdag gehouden op advies van de arts.
+387,38,2027-05-03T21:53:04,"Tuinwerk gedaan, aangepast tempo."
+388,39,2027-05-10T17:25:10,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+389,39,2027-05-11T14:25:10,Fysiotherapie-oefeningen thuis uitgevoerd.
+390,39,2027-05-20T21:25:10,Lange wandeling gemaakt zonder klachten.
+391,39,2027-05-22T22:25:10,Trap gelopen zonder hulpmiddel.
+392,39,2027-05-30T23:25:10,Sportactiviteit voorzichtig hervat (zwemmen).
+393,40,2027-06-06T20:22:57,Lichte fietstocht gemaakt.
+394,40,2027-06-08T22:22:57,Rustdag gehouden op advies van de arts.
+395,40,2027-06-10T21:22:57,Dag met veel rust vanwege vermoeidheid.
+396,40,2027-06-16T02:22:57,Trap gelopen zonder hulpmiddel.
+397,40,2027-06-10T16:22:57,Fysiotherapie-oefeningen thuis uitgevoerd.
+398,40,2027-06-16T15:22:57,Korte wandeling gemaakt rondom huis.
+399,40,2027-06-24T14:22:57,Trap gelopen zonder hulpmiddel.
+400,40,2027-07-05T00:22:57,Trap gelopen zonder hulpmiddel.
+401,41,2027-06-27T04:55:24,Fysiotherapie-oefeningen thuis uitgevoerd.
+402,41,2027-07-01T17:55:24,Lichte fietstocht gemaakt.
+403,41,2027-07-05T01:55:24,Dag met veel rust vanwege vermoeidheid.
+404,41,2027-07-05T21:55:24,Fysiotherapie-oefeningen thuis uitgevoerd.
+405,41,2027-07-12T18:55:24,"Boodschappen gedaan, deels met hulp."
+406,41,2027-07-11T23:55:24,Korte wandeling gemaakt rondom huis.
+407,41,2027-07-09T04:55:24,Fysiotherapie-oefeningen thuis uitgevoerd.
+408,41,2027-07-24T22:55:24,Rustdag gehouden op advies van de arts.
+409,41,2027-07-04T16:55:24,Trap gelopen zonder hulpmiddel.
+410,41,2027-07-06T04:55:24,Korte wandeling gemaakt rondom huis.
+411,42,2025-06-17T16:14:33,Korte wandeling gemaakt rondom huis.
+412,42,2025-06-18T11:14:33,Lange wandeling gemaakt zonder klachten.
+413,42,2025-06-25T14:14:33,Sportactiviteit voorzichtig hervat (zwemmen).
+414,42,2025-06-20T08:14:33,Rustdag gehouden op advies van de arts.
+415,42,2025-06-21T15:14:33,Dag met veel rust vanwege vermoeidheid.
+416,43,2027-01-01T20:58:14,Rustdag gehouden op advies van de arts.
+417,43,2027-01-02T17:58:14,Fysiotherapie-oefeningen thuis uitgevoerd.
+418,43,2027-01-03T18:58:14,Lange wandeling gemaakt zonder klachten.
+419,43,2027-01-10T18:58:14,"Tuinwerk gedaan, aangepast tempo."
+420,43,2027-01-13T21:58:14,Fysiotherapie-oefeningen thuis uitgevoerd.
+421,43,2027-01-11T22:58:14,Dag met veel rust vanwege vermoeidheid.
+422,43,2027-01-13T22:58:14,Lange wandeling gemaakt zonder klachten.
+423,43,2027-02-05T17:58:14,Werk gedeeltelijk hervat (aangepaste taken).
+424,43,2027-02-10T18:58:14,Lange wandeling gemaakt zonder klachten.
+425,43,2027-01-19T16:58:14,Lichte fietstocht gemaakt.
+426,43,2027-01-21T19:58:14,Fysiotherapie-oefeningen thuis uitgevoerd.
+427,43,2027-02-03T17:58:14,Korte wandeling gemaakt rondom huis.
+428,43,2027-02-18T21:58:14,Korte wandeling gemaakt rondom huis.
+429,43,2027-03-07T22:58:14,"Tuinwerk gedaan, aangepast tempo."
+430,44,2026-07-14T11:38:58,Dag met veel rust vanwege vermoeidheid.
+431,44,2026-07-16T13:38:58,Dag met veel rust vanwege vermoeidheid.
+432,44,2026-07-16T17:38:58,"Tuinwerk gedaan, aangepast tempo."
+433,44,2026-07-29T16:38:58,"Boodschappen gedaan, deels met hulp."
+434,44,2026-07-26T15:38:58,"Tuinwerk gedaan, aangepast tempo."
+435,44,2026-07-19T21:38:58,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+436,44,2026-07-20T12:38:58,Dag met veel rust vanwege vermoeidheid.
+437,44,2026-07-28T13:38:58,Sportactiviteit voorzichtig hervat (zwemmen).
+438,44,2026-08-07T23:38:58,Lange wandeling gemaakt zonder klachten.
+439,44,2026-08-10T11:38:58,Rustdag gehouden op advies van de arts.
+440,44,2026-08-03T17:38:58,"Tuinwerk gedaan, aangepast tempo."
+441,44,2026-07-25T12:38:58,Lichte fietstocht gemaakt.
+442,45,2026-10-18T15:09:36,Werk gedeeltelijk hervat (aangepaste taken).
+443,45,2026-10-20T13:09:36,Dag met veel rust vanwege vermoeidheid.
+444,45,2026-10-28T23:09:36,Dag met veel rust vanwege vermoeidheid.
+445,45,2026-10-24T13:09:36,Lichte fietstocht gemaakt.
+446,45,2026-11-08T00:09:36,Korte wandeling gemaakt rondom huis.
+447,46,2025-05-30T15:11:16,"Tuinwerk gedaan, aangepast tempo."
+448,46,2025-06-04T13:11:16,Sportactiviteit voorzichtig hervat (zwemmen).
+449,46,2025-06-07T17:11:16,Lichte fietstocht gemaakt.
+450,46,2025-06-11T19:11:16,Korte wandeling gemaakt rondom huis.
+451,46,2025-06-19T18:11:16,"Boodschappen gedaan, deels met hulp."
+452,47,2025-06-25T16:02:32,Fysiotherapie-oefeningen thuis uitgevoerd.
+453,47,2025-06-27T01:02:32,Rustdag gehouden op advies van de arts.
+454,47,2025-07-01T17:02:32,Sportactiviteit voorzichtig hervat (zwemmen).
+455,47,2025-07-10T16:02:32,Rustdag gehouden op advies van de arts.
+456,47,2025-07-07T20:02:32,Dag met veel rust vanwege vermoeidheid.
+457,47,2025-07-21T01:02:32,Rustdag gehouden op advies van de arts.
+458,47,2025-07-01T15:02:32,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+459,47,2025-07-24T01:02:32,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+460,47,2025-07-11T16:02:32,Fysiotherapie-oefeningen thuis uitgevoerd.
+461,47,2025-07-13T20:02:32,Sportactiviteit voorzichtig hervat (zwemmen).
+462,47,2025-07-15T16:02:32,Werk gedeeltelijk hervat (aangepaste taken).
+463,47,2025-07-07T00:02:32,Fysiotherapie-oefeningen thuis uitgevoerd.
+464,48,2025-03-29T12:41:49,Sportactiviteit voorzichtig hervat (zwemmen).
+465,48,2025-03-31T19:41:49,"Boodschappen gedaan, deels met hulp."
+466,48,2025-04-06T18:41:49,Korte wandeling gemaakt rondom huis.
+467,48,2025-04-04T10:41:49,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+468,48,2025-04-02T10:41:49,Rustdag gehouden op advies van de arts.
+469,48,2025-04-03T17:41:49,Sportactiviteit voorzichtig hervat (zwemmen).
+470,48,2025-04-28T09:41:49,"Boodschappen gedaan, deels met hulp."
+471,48,2025-04-19T20:41:49,Trap gelopen zonder hulpmiddel.
+472,48,2025-04-30T21:41:49,"Tuinwerk gedaan, aangepast tempo."
+473,48,2025-05-13T09:41:49,Dag met veel rust vanwege vermoeidheid.
+474,48,2025-04-08T16:41:49,Rustdag gehouden op advies van de arts.
+475,48,2025-05-12T13:41:49,"Tuinwerk gedaan, aangepast tempo."
+476,48,2025-04-10T21:41:49,Dag met veel rust vanwege vermoeidheid.
+477,49,2025-06-16T21:05:56,"Tuinwerk gedaan, aangepast tempo."
+478,49,2025-06-17T13:05:56,Sportactiviteit voorzichtig hervat (zwemmen).
+479,49,2025-06-26T19:05:56,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+480,49,2025-06-28T21:05:56,Lange wandeling gemaakt zonder klachten.
+481,49,2025-07-06T21:05:56,Fysiotherapie-oefeningen thuis uitgevoerd.
+482,49,2025-07-11T23:05:56,Trap gelopen zonder hulpmiddel.
+483,49,2025-06-22T22:05:56,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+484,49,2025-07-21T23:05:56,"Boodschappen gedaan, deels met hulp."
+485,49,2025-06-24T23:05:56,Trap gelopen zonder hulpmiddel.
+486,49,2025-06-25T12:05:56,"Boodschappen gedaan, deels met hulp."
+487,49,2025-07-26T18:05:56,Werk gedeeltelijk hervat (aangepaste taken).
+488,49,2025-06-27T23:05:56,"Tuinwerk gedaan, aangepast tempo."
+489,50,2027-04-16T14:34:53,Lichte fietstocht gemaakt.
+490,50,2027-04-20T00:34:53,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+491,50,2027-04-18T16:34:53,Korte wandeling gemaakt rondom huis.
+492,50,2027-04-22T15:34:53,Korte wandeling gemaakt rondom huis.
+493,50,2027-05-06T12:34:53,"Tuinwerk gedaan, aangepast tempo."
+494,50,2027-05-01T19:34:53,Sportactiviteit voorzichtig hervat (zwemmen).
+495,50,2027-04-28T12:34:53,Fysiotherapie-oefeningen thuis uitgevoerd.
+496,51,2026-08-29T19:50:59,Sportactiviteit voorzichtig hervat (zwemmen).
+497,51,2026-09-01T04:50:59,Sportactiviteit voorzichtig hervat (zwemmen).
+498,51,2026-08-31T22:50:59,Rustdag gehouden op advies van de arts.
+499,51,2026-09-10T21:50:59,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+500,51,2026-09-02T20:50:59,"Boodschappen gedaan, deels met hulp."
+501,51,2026-09-24T01:50:59,Lange wandeling gemaakt zonder klachten.
+502,51,2026-09-05T06:50:59,Trap gelopen zonder hulpmiddel.
+503,51,2026-09-26T20:50:59,Dag met veel rust vanwege vermoeidheid.
+504,51,2026-10-01T02:50:59,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+505,51,2026-09-16T20:50:59,Rustdag gehouden op advies van de arts.
+506,51,2026-09-29T00:50:59,"Tuinwerk gedaan, aangepast tempo."
+507,51,2026-10-02T06:50:59,Werk gedeeltelijk hervat (aangepaste taken).
+508,51,2026-09-11T02:50:59,Korte wandeling gemaakt rondom huis.
+509,51,2026-11-02T21:50:59,Trap gelopen zonder hulpmiddel.
+510,52,2025-10-09T18:17:25,Lichte fietstocht gemaakt.
+511,52,2025-10-11T19:17:25,Trap gelopen zonder hulpmiddel.
+512,52,2025-10-15T23:17:25,Werk gedeeltelijk hervat (aangepaste taken).
+513,52,2025-10-18T22:17:25,Rustdag gehouden op advies van de arts.
+514,52,2025-10-29T17:17:25,Korte wandeling gemaakt rondom huis.
+515,52,2025-10-20T00:17:25,Trap gelopen zonder hulpmiddel.
+516,52,2025-11-02T20:17:25,Fysiotherapie-oefeningen thuis uitgevoerd.
+517,52,2025-11-06T17:17:25,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+518,52,2025-10-17T17:17:25,Korte wandeling gemaakt rondom huis.
+519,52,2025-10-27T18:17:25,"Tuinwerk gedaan, aangepast tempo."
+520,52,2025-11-19T01:17:25,"Tuinwerk gedaan, aangepast tempo."
+521,52,2025-10-31T15:17:25,Lichte fietstocht gemaakt.
+522,52,2025-11-14T15:17:25,"Boodschappen gedaan, deels met hulp."
+523,52,2025-11-04T15:17:25,Rustdag gehouden op advies van de arts.
+524,52,2025-10-23T15:17:25,Trap gelopen zonder hulpmiddel.
+525,53,2027-07-15T01:01:22,Lange wandeling gemaakt zonder klachten.
+526,53,2027-07-19T18:01:22,Rustdag gehouden op advies van de arts.
+527,53,2027-07-16T18:01:22,"Boodschappen gedaan, deels met hulp."
+528,53,2027-07-26T22:01:22,"Boodschappen gedaan, deels met hulp."
+529,53,2027-07-18T23:01:22,Sportactiviteit voorzichtig hervat (zwemmen).
+530,53,2027-07-30T01:01:22,Lichte fietstocht gemaakt.
+531,53,2027-08-01T18:01:22,Korte wandeling gemaakt rondom huis.
+532,53,2027-07-21T22:01:22,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+533,53,2027-08-24T04:01:22,Fysiotherapie-oefeningen thuis uitgevoerd.
+534,53,2027-07-24T01:01:22,"Boodschappen gedaan, deels met hulp."
+535,53,2027-08-23T21:01:22,Lange wandeling gemaakt zonder klachten.
+536,54,2025-06-10T08:51:13,Lange wandeling gemaakt zonder klachten.
+537,54,2025-06-11T05:51:13,Lichte fietstocht gemaakt.
+538,54,2025-06-18T14:51:13,Trap gelopen zonder hulpmiddel.
+539,54,2025-06-19T09:51:13,Fysiotherapie-oefeningen thuis uitgevoerd.
+540,54,2025-06-14T11:51:13,Lichte fietstocht gemaakt.
+541,54,2025-07-05T15:51:13,Lichte fietstocht gemaakt.
+542,54,2025-07-10T11:51:13,"Boodschappen gedaan, deels met hulp."
+543,54,2025-07-15T05:51:13,Lichte fietstocht gemaakt.
+544,54,2025-07-12T14:51:13,Sportactiviteit voorzichtig hervat (zwemmen).
+545,54,2025-06-28T09:51:13,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+546,55,2027-03-09T00:13:11,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+547,55,2027-03-13T22:13:11,Trap gelopen zonder hulpmiddel.
+548,55,2027-03-13T02:13:11,Fysiotherapie-oefeningen thuis uitgevoerd.
+549,55,2027-03-18T00:13:11,Lichte fietstocht gemaakt.
+550,55,2027-03-13T02:13:11,Rustdag gehouden op advies van de arts.
+551,55,2027-03-28T18:13:11,Trap gelopen zonder hulpmiddel.
+552,55,2027-04-08T02:13:11,Lange wandeling gemaakt zonder klachten.
+553,55,2027-03-30T01:13:11,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+554,55,2027-04-10T02:13:11,Fysiotherapie-oefeningen thuis uitgevoerd.
+555,55,2027-03-17T17:13:11,Werk gedeeltelijk hervat (aangepaste taken).
+556,55,2027-04-27T16:13:11,Werk gedeeltelijk hervat (aangepaste taken).
+557,56,2026-02-16T18:36:31,Fysiotherapie-oefeningen thuis uitgevoerd.
+558,56,2026-02-21T15:36:31,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+559,56,2026-02-18T12:36:31,"Tuinwerk gedaan, aangepast tempo."
+560,56,2026-03-03T14:36:31,Sportactiviteit voorzichtig hervat (zwemmen).
+561,56,2026-02-24T15:36:31,Lichte fietstocht gemaakt.
+562,56,2026-03-03T18:36:31,Werk gedeeltelijk hervat (aangepaste taken).
+563,56,2026-03-12T09:36:31,"Boodschappen gedaan, deels met hulp."
+564,56,2026-03-02T10:36:31,Werk gedeeltelijk hervat (aangepaste taken).
+565,57,2025-01-27T07:04:20,Lange wandeling gemaakt zonder klachten.
+566,57,2025-01-28T21:04:20,Lichte fietstocht gemaakt.
+567,57,2025-02-02T08:04:20,Trap gelopen zonder hulpmiddel.
+568,57,2025-02-11T01:04:20,"Tuinwerk gedaan, aangepast tempo."
+569,57,2025-02-08T02:04:20,"Boodschappen gedaan, deels met hulp."
+570,57,2025-02-20T22:04:20,Korte wandeling gemaakt rondom huis.
+571,57,2025-02-25T21:04:20,Dag met veel rust vanwege vermoeidheid.
+572,57,2025-03-02T22:04:20,"Tuinwerk gedaan, aangepast tempo."
+573,57,2025-03-08T06:04:20,Werk gedeeltelijk hervat (aangepaste taken).
+574,58,2025-07-30T09:32:06,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+575,58,2025-07-31T22:32:06,Trap gelopen zonder hulpmiddel.
+576,58,2025-08-09T10:32:06,"Tuinwerk gedaan, aangepast tempo."
+577,58,2025-08-05T07:32:06,Lichte fietstocht gemaakt.
+578,58,2025-08-19T04:32:06,"Tuinwerk gedaan, aangepast tempo."
+579,58,2025-08-24T10:32:06,Fysiotherapie-oefeningen thuis uitgevoerd.
+580,58,2025-08-05T07:32:06,Werk gedeeltelijk hervat (aangepaste taken).
+581,58,2025-08-13T01:32:06,Dag met veel rust vanwege vermoeidheid.
+582,58,2025-08-15T00:32:06,Werk gedeeltelijk hervat (aangepaste taken).
+583,59,2026-06-05T00:54:17,Fysiotherapie-oefeningen thuis uitgevoerd.
+584,59,2026-06-07T08:54:17,Korte wandeling gemaakt rondom huis.
+585,59,2026-06-11T00:54:17,Korte wandeling gemaakt rondom huis.
+586,59,2026-06-14T02:54:17,Werk gedeeltelijk hervat (aangepaste taken).
+587,59,2026-06-21T07:54:17,Werk gedeeltelijk hervat (aangepaste taken).
+588,59,2026-06-15T09:54:17,Korte wandeling gemaakt rondom huis.
+589,59,2026-06-11T06:54:17,Trap gelopen zonder hulpmiddel.
+590,59,2026-06-12T07:54:17,Sportactiviteit voorzichtig hervat (zwemmen).
+591,59,2026-06-12T23:54:17,Lange wandeling gemaakt zonder klachten.
+592,59,2026-07-11T09:54:17,Trap gelopen zonder hulpmiddel.
+593,59,2026-07-05T05:54:17,Fysiotherapie-oefeningen thuis uitgevoerd.
+594,59,2026-06-27T04:54:17,Sportactiviteit voorzichtig hervat (zwemmen).
+595,60,2026-10-10T07:50:22,Werk gedeeltelijk hervat (aangepaste taken).
+596,60,2026-10-11T13:50:22,"Tuinwerk gedaan, aangepast tempo."
+597,60,2026-10-20T09:50:22,Fysiotherapie-oefeningen thuis uitgevoerd.
+598,60,2026-10-25T14:50:22,Lange wandeling gemaakt zonder klachten.
+599,60,2026-10-18T16:50:22,Lange wandeling gemaakt zonder klachten.
+600,60,2026-11-04T19:50:22,Dag met veel rust vanwege vermoeidheid.
+601,60,2026-10-16T13:50:22,Korte wandeling gemaakt rondom huis.
+602,60,2026-10-31T10:50:22,Dag met veel rust vanwege vermoeidheid.
+603,61,2026-09-12T06:09:39,Dag met veel rust vanwege vermoeidheid.
+604,61,2026-09-14T09:09:39,Fysiotherapie-oefeningen thuis uitgevoerd.
+605,61,2026-09-22T11:09:39,Korte wandeling gemaakt rondom huis.
+606,61,2026-09-20T23:09:39,Lange wandeling gemaakt zonder klachten.
+607,61,2026-10-02T11:09:39,"Tuinwerk gedaan, aangepast tempo."
+608,61,2026-09-27T00:09:39,"Tuinwerk gedaan, aangepast tempo."
+609,61,2026-09-18T00:09:39,Werk gedeeltelijk hervat (aangepaste taken).
+610,61,2026-10-10T08:09:39,"Boodschappen gedaan, deels met hulp."
+611,61,2026-09-20T00:09:39,Fysiotherapie-oefeningen thuis uitgevoerd.
+612,61,2026-10-27T00:09:39,Korte wandeling gemaakt rondom huis.
+613,61,2026-10-21T23:09:39,Fysiotherapie-oefeningen thuis uitgevoerd.
+614,61,2026-11-06T09:09:39,"Tuinwerk gedaan, aangepast tempo."
+615,62,2026-02-06T07:06:46,"Boodschappen gedaan, deels met hulp."
+616,62,2026-02-07T01:06:46,"Boodschappen gedaan, deels met hulp."
+617,62,2026-02-11T20:06:46,Werk gedeeltelijk hervat (aangepaste taken).
+618,62,2026-02-21T06:06:46,Werk gedeeltelijk hervat (aangepaste taken).
+619,62,2026-02-14T02:06:46,Korte wandeling gemaakt rondom huis.
+620,63,2025-10-13T00:40:06,Sportactiviteit voorzichtig hervat (zwemmen).
+621,63,2025-10-18T04:40:06,"Tuinwerk gedaan, aangepast tempo."
+622,63,2025-10-14T21:40:06,Lichte fietstocht gemaakt.
+623,63,2025-10-25T04:40:06,Lange wandeling gemaakt zonder klachten.
+624,63,2025-10-28T19:40:06,Lichte fietstocht gemaakt.
+625,63,2025-10-18T01:40:06,Fysiotherapie-oefeningen thuis uitgevoerd.
+626,63,2025-10-19T00:40:06,Rustdag gehouden op advies van de arts.
+627,63,2025-10-26T20:40:06,Dag met veel rust vanwege vermoeidheid.
+628,64,2027-05-05T04:22:26,Rustdag gehouden op advies van de arts.
+629,64,2027-05-10T02:22:26,Korte wandeling gemaakt rondom huis.
+630,64,2027-05-07T09:22:26,Lange wandeling gemaakt zonder klachten.
+631,64,2027-05-08T06:22:26,Fysiotherapie-oefeningen thuis uitgevoerd.
+632,64,2027-05-17T02:22:26,Fysiotherapie-oefeningen thuis uitgevoerd.
+633,64,2027-05-20T03:22:26,Lange wandeling gemaakt zonder klachten.
+634,64,2027-05-28T23:22:26,Lange wandeling gemaakt zonder klachten.
+635,65,2025-11-19T21:09:45,Trap gelopen zonder hulpmiddel.
+636,65,2025-11-25T03:09:45,"Boodschappen gedaan, deels met hulp."
+637,65,2025-11-21T15:09:45,Fysiotherapie-oefeningen thuis uitgevoerd.
+638,65,2025-12-04T18:09:45,Sportactiviteit voorzichtig hervat (zwemmen).
+639,65,2025-12-10T01:09:45,"Boodschappen gedaan, deels met hulp."
+640,66,2027-03-16T06:24:32,Korte wandeling gemaakt rondom huis.
+641,66,2027-03-18T01:24:32,"Boodschappen gedaan, deels met hulp."
+642,66,2027-03-22T05:24:32,Dag met veel rust vanwege vermoeidheid.
+643,66,2027-03-27T23:24:32,Sportactiviteit voorzichtig hervat (zwemmen).
+644,66,2027-03-20T05:24:32,"Boodschappen gedaan, deels met hulp."
+645,66,2027-03-21T05:24:32,Fysiotherapie-oefeningen thuis uitgevoerd.
+646,66,2027-04-03T03:24:32,Sportactiviteit voorzichtig hervat (zwemmen).
+647,66,2027-04-13T04:24:32,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+648,67,2026-08-29T07:54:35,Korte wandeling gemaakt rondom huis.
+649,67,2026-08-30T10:54:35,"Tuinwerk gedaan, aangepast tempo."
+650,67,2026-09-08T09:54:35,Lange wandeling gemaakt zonder klachten.
+651,67,2026-09-13T12:54:35,Werk gedeeltelijk hervat (aangepaste taken).
+652,67,2026-09-10T02:54:35,Korte wandeling gemaakt rondom huis.
+653,67,2026-09-23T02:54:35,Dag met veel rust vanwege vermoeidheid.
+654,67,2026-09-16T09:54:35,"Boodschappen gedaan, deels met hulp."
+655,67,2026-09-26T13:54:35,Fysiotherapie-oefeningen thuis uitgevoerd.
+656,67,2026-09-30T07:54:35,Korte wandeling gemaakt rondom huis.
+657,67,2026-09-25T12:54:35,Fysiotherapie-oefeningen thuis uitgevoerd.
+658,67,2026-10-08T08:54:35,Werk gedeeltelijk hervat (aangepaste taken).
+659,67,2026-09-09T09:54:35,Dag met veel rust vanwege vermoeidheid.
+660,67,2026-10-16T09:54:35,Sportactiviteit voorzichtig hervat (zwemmen).
+661,67,2026-09-11T05:54:35,"Tuinwerk gedaan, aangepast tempo."
+662,67,2026-10-24T12:54:35,Lange wandeling gemaakt zonder klachten.
+663,68,2026-03-09T18:31:10,Lange wandeling gemaakt zonder klachten.
+664,68,2026-03-14T13:31:10,Lange wandeling gemaakt zonder klachten.
+665,68,2026-03-19T17:31:10,"Tuinwerk gedaan, aangepast tempo."
+666,68,2026-03-12T15:31:10,Trap gelopen zonder hulpmiddel.
+667,68,2026-03-25T18:31:10,Lichte fietstocht gemaakt.
+668,68,2026-04-03T14:31:10,Werk gedeeltelijk hervat (aangepaste taken).
+669,68,2026-04-02T18:31:10,Lange wandeling gemaakt zonder klachten.
+670,68,2026-03-23T16:31:10,Trap gelopen zonder hulpmiddel.
+671,68,2026-03-25T14:31:10,Lange wandeling gemaakt zonder klachten.
+672,68,2026-03-27T17:31:10,Trap gelopen zonder hulpmiddel.
+673,68,2026-04-28T14:31:10,Trap gelopen zonder hulpmiddel.
+674,68,2026-03-21T00:31:10,Rustdag gehouden op advies van de arts.
+675,68,2026-04-02T21:31:10,Korte wandeling gemaakt rondom huis.
+676,68,2026-04-17T19:31:10,"Boodschappen gedaan, deels met hulp."
+677,69,2026-11-03T08:44:55,"Boodschappen gedaan, deels met hulp."
+678,69,2026-11-05T14:44:55,Lichte fietstocht gemaakt.
+679,69,2026-11-09T11:44:55,Trap gelopen zonder hulpmiddel.
+680,69,2026-11-06T18:44:55,Dag met veel rust vanwege vermoeidheid.
+681,69,2026-11-23T18:44:55,Lichte fietstocht gemaakt.
+682,69,2026-11-23T17:44:55,Lange wandeling gemaakt zonder klachten.
+683,69,2026-11-21T13:44:55,Lichte fietstocht gemaakt.
+684,69,2026-12-08T07:44:55,Dag met veel rust vanwege vermoeidheid.
+685,69,2026-12-05T12:44:55,Rustdag gehouden op advies van de arts.
+686,69,2026-11-21T18:44:55,Trap gelopen zonder hulpmiddel.
+687,69,2026-12-03T16:44:55,Dag met veel rust vanwege vermoeidheid.
+688,69,2026-11-14T18:44:55,"Boodschappen gedaan, deels met hulp."
+689,69,2026-12-21T08:44:55,"Boodschappen gedaan, deels met hulp."
+690,69,2026-11-29T17:44:55,"Tuinwerk gedaan, aangepast tempo."
+691,69,2026-12-15T13:44:55,Rustdag gehouden op advies van de arts.
+692,70,2026-12-19T17:12:08,"Boodschappen gedaan, deels met hulp."
+693,70,2026-12-24T05:12:08,Korte wandeling gemaakt rondom huis.
+694,70,2026-12-25T08:12:08,Rustdag gehouden op advies van de arts.
+695,70,2027-01-03T12:12:08,Fysiotherapie-oefeningen thuis uitgevoerd.
+696,70,2026-12-27T12:12:08,Dag met veel rust vanwege vermoeidheid.
+697,70,2027-01-03T14:12:08,"Boodschappen gedaan, deels met hulp."
+698,70,2027-01-12T11:12:08,Dag met veel rust vanwege vermoeidheid.
+699,70,2027-01-02T10:12:08,Sportactiviteit voorzichtig hervat (zwemmen).
+700,70,2027-01-28T11:12:08,Sportactiviteit voorzichtig hervat (zwemmen).
+701,70,2026-12-28T16:12:08,Fysiotherapie-oefeningen thuis uitgevoerd.
+702,71,2025-07-20T06:56:22,Korte wandeling gemaakt rondom huis.
+703,71,2025-07-23T21:56:22,Korte wandeling gemaakt rondom huis.
+704,71,2025-07-27T21:56:22,Rustdag gehouden op advies van de arts.
+705,71,2025-07-29T03:56:22,Trap gelopen zonder hulpmiddel.
+706,71,2025-08-09T01:56:22,Trap gelopen zonder hulpmiddel.
+707,71,2025-07-25T05:56:22,Fysiotherapie-oefeningen thuis uitgevoerd.
+708,71,2025-07-26T03:56:22,Werk gedeeltelijk hervat (aangepaste taken).
+709,71,2025-08-23T22:56:22,Rustdag gehouden op advies van de arts.
+710,71,2025-08-05T05:56:22,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+711,71,2025-08-24T23:56:22,Dag met veel rust vanwege vermoeidheid.
+712,71,2025-08-19T07:56:22,Werk gedeeltelijk hervat (aangepaste taken).
+713,72,2026-04-22T04:11:20,Trap gelopen zonder hulpmiddel.
+714,72,2026-04-24T01:11:20,Sportactiviteit voorzichtig hervat (zwemmen).
+715,72,2026-04-23T23:11:20,Werk gedeeltelijk hervat (aangepaste taken).
+716,72,2026-05-03T23:11:20,Lange wandeling gemaakt zonder klachten.
+717,72,2026-04-26T01:11:20,Werk gedeeltelijk hervat (aangepaste taken).
+718,72,2026-05-17T03:11:20,"Tuinwerk gedaan, aangepast tempo."
+719,72,2026-05-16T02:11:20,Lichte fietstocht gemaakt.
+720,72,2026-04-29T03:11:20,Lichte fietstocht gemaakt.
+721,72,2026-05-23T20:11:20,Korte wandeling gemaakt rondom huis.
+722,72,2026-05-27T23:11:20,Lichte fietstocht gemaakt.
+723,73,2026-07-17T23:39:28,Werk gedeeltelijk hervat (aangepaste taken).
+724,73,2026-07-21T08:39:28,Korte wandeling gemaakt rondom huis.
+725,73,2026-07-26T05:39:28,"Boodschappen gedaan, deels met hulp."
+726,73,2026-07-30T04:39:28,"Boodschappen gedaan, deels met hulp."
+727,73,2026-07-30T06:39:28,Lange wandeling gemaakt zonder klachten.
+728,74,2025-01-11T14:27:02,Werk gedeeltelijk hervat (aangepaste taken).
+729,74,2025-01-15T22:27:02,Werk gedeeltelijk hervat (aangepaste taken).
+730,74,2025-01-21T20:27:02,"Tuinwerk gedaan, aangepast tempo."
+731,74,2025-01-20T13:27:02,"Boodschappen gedaan, deels met hulp."
+732,74,2025-01-19T13:27:02,Fysiotherapie-oefeningen thuis uitgevoerd.
+733,74,2025-01-26T17:27:02,Fysiotherapie-oefeningen thuis uitgevoerd.
+734,74,2025-01-17T13:27:02,Werk gedeeltelijk hervat (aangepaste taken).
+735,74,2025-01-18T19:27:02,Werk gedeeltelijk hervat (aangepaste taken).
+736,74,2025-02-04T22:27:02,Sportactiviteit voorzichtig hervat (zwemmen).
+737,74,2025-01-20T13:27:02,Dag met veel rust vanwege vermoeidheid.
+738,74,2025-03-02T17:27:02,Fysiotherapie-oefeningen thuis uitgevoerd.
+739,75,2026-02-25T07:27:11,Fysiotherapie-oefeningen thuis uitgevoerd.
+740,75,2026-02-28T08:27:11,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+741,75,2026-03-02T22:27:11,Werk gedeeltelijk hervat (aangepaste taken).
+742,75,2026-03-12T08:27:11,"Tuinwerk gedaan, aangepast tempo."
+743,75,2026-03-09T06:27:11,Dag met veel rust vanwege vermoeidheid.
+744,75,2026-03-06T20:27:11,Fysiotherapie-oefeningen thuis uitgevoerd.
+745,75,2026-03-03T02:27:11,Fysiotherapie-oefeningen thuis uitgevoerd.
+746,75,2026-03-04T01:27:11,"Tuinwerk gedaan, aangepast tempo."
+747,75,2026-03-13T03:27:11,Fysiotherapie-oefeningen thuis uitgevoerd.
+748,75,2026-03-06T08:27:11,Dag met veel rust vanwege vermoeidheid.
+749,75,2026-03-26T21:27:11,"Boodschappen gedaan, deels met hulp."
+750,75,2026-03-19T03:27:11,Lange wandeling gemaakt zonder klachten.
+751,75,2026-03-21T03:27:11,Werk gedeeltelijk hervat (aangepaste taken).
+752,75,2026-04-18T07:27:11,Lange wandeling gemaakt zonder klachten.
+753,76,2026-07-19T18:07:47,Werk gedeeltelijk hervat (aangepaste taken).
+754,76,2026-07-22T14:07:47,Lange wandeling gemaakt zonder klachten.
+755,76,2026-07-23T12:07:47,"Boodschappen gedaan, deels met hulp."
+756,76,2026-07-28T20:07:47,"Boodschappen gedaan, deels met hulp."
+757,76,2026-07-31T12:07:47,Trap gelopen zonder hulpmiddel.
+758,76,2026-08-08T17:07:47,Lichte fietstocht gemaakt.
+759,76,2026-07-31T09:07:47,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+760,76,2026-07-26T18:07:47,Lichte fietstocht gemaakt.
+761,76,2026-08-20T08:07:47,"Boodschappen gedaan, deels met hulp."
+762,76,2026-09-02T15:07:47,Korte wandeling gemaakt rondom huis.
+763,76,2026-07-29T16:07:47,Trap gelopen zonder hulpmiddel.
+764,76,2026-07-30T11:07:47,Lichte fietstocht gemaakt.
+765,76,2026-08-24T14:07:47,Lange wandeling gemaakt zonder klachten.
+766,76,2026-08-27T14:07:47,Werk gedeeltelijk hervat (aangepaste taken).
+767,76,2026-08-02T12:07:47,Lange wandeling gemaakt zonder klachten.
+768,77,2025-11-01T07:59:48,Fysiotherapie-oefeningen thuis uitgevoerd.
+769,77,2025-11-02T18:59:48,Trap gelopen zonder hulpmiddel.
+770,77,2025-11-05T10:59:48,Werk gedeeltelijk hervat (aangepaste taken).
+771,77,2025-11-16T11:59:48,Fysiotherapie-oefeningen thuis uitgevoerd.
+772,77,2025-11-13T15:59:48,Lichte fietstocht gemaakt.
+773,77,2025-11-06T12:59:48,Rustdag gehouden op advies van de arts.
+774,77,2025-12-01T16:59:48,"Tuinwerk gedaan, aangepast tempo."
+775,77,2025-11-22T14:59:48,Rustdag gehouden op advies van de arts.
+776,77,2025-12-03T08:59:48,"Tuinwerk gedaan, aangepast tempo."
+777,77,2025-12-07T10:59:48,Lichte fietstocht gemaakt.
+778,77,2025-12-11T12:59:48,Lange wandeling gemaakt zonder klachten.
+779,77,2025-12-26T09:59:48,Dag met veel rust vanwege vermoeidheid.
+780,77,2025-12-31T16:59:48,Trap gelopen zonder hulpmiddel.
+781,77,2025-12-10T15:59:48,Dag met veel rust vanwege vermoeidheid.
+782,78,2025-08-01T11:17:41,Trap gelopen zonder hulpmiddel.
+783,78,2025-08-06T08:17:41,Korte wandeling gemaakt rondom huis.
+784,78,2025-08-09T08:17:41,Werk gedeeltelijk hervat (aangepaste taken).
+785,78,2025-08-04T11:17:41,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+786,78,2025-08-05T05:17:41,Lange wandeling gemaakt zonder klachten.
+787,78,2025-08-26T02:17:41,Sportactiviteit voorzichtig hervat (zwemmen).
+788,78,2025-08-31T04:17:41,"Boodschappen gedaan, deels met hulp."
+789,78,2025-08-29T06:17:41,"Boodschappen gedaan, deels met hulp."
+790,78,2025-09-10T02:17:41,Sportactiviteit voorzichtig hervat (zwemmen).
+791,78,2025-08-28T09:17:41,Rustdag gehouden op advies van de arts.
+792,78,2025-08-21T03:17:41,Korte wandeling gemaakt rondom huis.
+793,78,2025-08-23T02:17:41,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+794,78,2025-08-25T09:17:41,Lichte fietstocht gemaakt.
+795,78,2025-09-09T08:17:41,Rustdag gehouden op advies van de arts.
+796,78,2025-09-26T00:17:41,Fysiotherapie-oefeningen thuis uitgevoerd.
+797,79,2027-01-15T21:12:04,"Boodschappen gedaan, deels met hulp."
+798,79,2027-01-17T03:12:04,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+799,79,2027-01-19T23:12:04,Werk gedeeltelijk hervat (aangepaste taken).
+800,79,2027-01-24T22:12:04,Rustdag gehouden op advies van de arts.
+801,79,2027-01-23T18:12:04,Sportactiviteit voorzichtig hervat (zwemmen).
+802,79,2027-02-10T04:12:04,Lange wandeling gemaakt zonder klachten.
+803,79,2027-01-22T06:12:04,Lichte fietstocht gemaakt.
+804,79,2027-02-06T06:12:04,Rustdag gehouden op advies van de arts.
+805,79,2027-02-01T04:12:04,Sportactiviteit voorzichtig hervat (zwemmen).
+806,79,2027-02-02T20:12:04,Rustdag gehouden op advies van de arts.
+807,79,2027-01-25T20:12:04,Dag met veel rust vanwege vermoeidheid.
+808,80,2026-11-28T20:22:04,Lichte fietstocht gemaakt.
+809,80,2026-11-30T00:22:04,Werk gedeeltelijk hervat (aangepaste taken).
+810,80,2026-12-08T22:22:04,Lichte fietstocht gemaakt.
+811,80,2026-12-08T02:22:04,"Tuinwerk gedaan, aangepast tempo."
+812,80,2026-12-06T22:22:04,Lichte fietstocht gemaakt.
+813,80,2026-12-24T01:22:04,Korte wandeling gemaakt rondom huis.
+814,80,2026-12-05T01:22:04,"Tuinwerk gedaan, aangepast tempo."
+815,80,2026-12-13T03:22:04,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+816,80,2026-12-31T00:22:04,Lichte fietstocht gemaakt.
+817,81,2026-03-20T10:25:07,Rustdag gehouden op advies van de arts.
+818,81,2026-03-25T14:25:07,Lange wandeling gemaakt zonder klachten.
+819,81,2026-03-26T14:25:07,Rustdag gehouden op advies van de arts.
+820,81,2026-03-29T14:25:07,"Tuinwerk gedaan, aangepast tempo."
+821,81,2026-04-09T03:25:07,Rustdag gehouden op advies van de arts.
+822,81,2026-04-14T08:25:07,"Tuinwerk gedaan, aangepast tempo."
+823,81,2026-03-26T06:25:07,"Boodschappen gedaan, deels met hulp."
+824,81,2026-03-27T09:25:07,Korte wandeling gemaakt rondom huis.
+825,81,2026-04-13T07:25:07,Dag met veel rust vanwege vermoeidheid.
+826,81,2026-04-25T10:25:07,Lichte fietstocht gemaakt.
+827,81,2026-04-09T03:25:07,Dag met veel rust vanwege vermoeidheid.
+828,82,2027-02-06T13:06:21,Sportactiviteit voorzichtig hervat (zwemmen).
+829,82,2027-02-09T06:06:21,"Tuinwerk gedaan, aangepast tempo."
+830,82,2027-02-16T14:06:21,Fysiotherapie-oefeningen thuis uitgevoerd.
+831,82,2027-02-21T10:06:21,Dag met veel rust vanwege vermoeidheid.
+832,82,2027-02-26T15:06:21,Lange wandeling gemaakt zonder klachten.
+833,82,2027-02-26T09:06:21,Lichte fietstocht gemaakt.
+834,82,2027-03-02T12:06:21,Trap gelopen zonder hulpmiddel.
+835,82,2027-03-06T17:06:21,Werk gedeeltelijk hervat (aangepaste taken).
+836,82,2027-02-22T18:06:21,Korte wandeling gemaakt rondom huis.
+837,82,2027-02-24T14:06:21,Rustdag gehouden op advies van de arts.
+838,82,2027-03-08T15:06:21,Lichte fietstocht gemaakt.
+839,82,2027-02-17T15:06:21,Fysiotherapie-oefeningen thuis uitgevoerd.
+840,83,2026-09-17T16:01:19,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+841,83,2026-09-19T00:01:19,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+842,83,2026-09-23T17:01:19,"Tuinwerk gedaan, aangepast tempo."
+843,83,2026-09-26T16:01:19,Trap gelopen zonder hulpmiddel.
+844,83,2026-09-21T23:01:19,Rustdag gehouden op advies van de arts.
+845,83,2026-09-28T00:01:19,Fysiotherapie-oefeningen thuis uitgevoerd.
+846,84,2026-07-16T16:22:42,Sportactiviteit voorzichtig hervat (zwemmen).
+847,84,2026-07-19T19:22:42,Lichte fietstocht gemaakt.
+848,84,2026-07-26T14:22:42,Lange wandeling gemaakt zonder klachten.
+849,84,2026-07-19T23:22:42,Trap gelopen zonder hulpmiddel.
+850,84,2026-07-28T14:22:42,Dag met veel rust vanwege vermoeidheid.
+851,84,2026-08-05T22:22:42,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+852,84,2026-07-22T16:22:42,Fysiotherapie-oefeningen thuis uitgevoerd.
+853,84,2026-08-06T20:22:42,"Boodschappen gedaan, deels met hulp."
+854,85,2025-02-05T10:34:09,Fysiotherapie-oefeningen thuis uitgevoerd.
+855,85,2025-02-08T02:34:09,Dag met veel rust vanwege vermoeidheid.
+856,85,2025-02-13T12:34:09,Sportactiviteit voorzichtig hervat (zwemmen).
+857,85,2025-02-11T11:34:09,Lichte fietstocht gemaakt.
+858,85,2025-02-13T08:34:09,Fysiotherapie-oefeningen thuis uitgevoerd.
+859,85,2025-02-15T05:34:09,Werk gedeeltelijk hervat (aangepaste taken).
+860,85,2025-02-11T01:34:09,Werk gedeeltelijk hervat (aangepaste taken).
+861,86,2026-02-08T12:33:10,Lange wandeling gemaakt zonder klachten.
+862,86,2026-02-10T13:33:10,Rustdag gehouden op advies van de arts.
+863,86,2026-02-12T11:33:10,"Tuinwerk gedaan, aangepast tempo."
+864,86,2026-02-14T08:33:10,"Boodschappen gedaan, deels met hulp."
+865,86,2026-02-20T13:33:10,Sportactiviteit voorzichtig hervat (zwemmen).
+866,86,2026-02-13T03:33:10,Lichte fietstocht gemaakt.
+867,86,2026-03-04T08:33:10,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+868,87,2027-07-05T21:06:33,Trap gelopen zonder hulpmiddel.
+869,87,2027-07-09T23:06:33,Dag met veel rust vanwege vermoeidheid.
+870,87,2027-07-11T11:06:33,Rustdag gehouden op advies van de arts.
+871,87,2027-07-17T23:06:33,Sportactiviteit voorzichtig hervat (zwemmen).
+872,87,2027-07-13T15:06:33,Werk gedeeltelijk hervat (aangepaste taken).
+873,87,2027-07-25T14:06:33,Lange wandeling gemaakt zonder klachten.
+874,87,2027-07-11T14:06:33,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+875,87,2027-07-12T15:06:33,"Boodschappen gedaan, deels met hulp."
+876,87,2027-07-13T14:06:33,Korte wandeling gemaakt rondom huis.
+877,87,2027-08-19T22:06:33,"Boodschappen gedaan, deels met hulp."
+878,87,2027-08-24T14:06:33,"Boodschappen gedaan, deels met hulp."
+879,87,2027-07-16T12:06:33,Korte wandeling gemaakt rondom huis.
+880,87,2027-07-17T23:06:33,Trap gelopen zonder hulpmiddel.
+881,87,2027-08-13T21:06:33,Rustdag gehouden op advies van de arts.
+882,87,2027-08-30T16:06:33,Fysiotherapie-oefeningen thuis uitgevoerd.
+883,88,2027-03-25T07:23:01,Korte wandeling gemaakt rondom huis.
+884,88,2027-03-27T06:23:01,Lichte fietstocht gemaakt.
+885,88,2027-03-27T14:23:01,Rustdag gehouden op advies van de arts.
+886,88,2027-04-03T10:23:01,"Tuinwerk gedaan, aangepast tempo."
+887,88,2027-04-10T07:23:01,Fysiotherapie-oefeningen thuis uitgevoerd.
+888,88,2027-04-09T11:23:01,"Tuinwerk gedaan, aangepast tempo."
+889,88,2027-04-06T07:23:01,Rustdag gehouden op advies van de arts.
+890,88,2027-04-01T11:23:01,Lichte fietstocht gemaakt.
+891,88,2027-04-26T11:23:01,"Boodschappen gedaan, deels met hulp."
+892,88,2027-04-12T14:23:01,"Boodschappen gedaan, deels met hulp."
+893,88,2027-04-24T05:23:01,Trap gelopen zonder hulpmiddel.
+894,88,2027-04-16T09:23:01,"Boodschappen gedaan, deels met hulp."
+895,88,2027-04-18T11:23:01,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+896,88,2027-05-03T08:23:01,Dag met veel rust vanwege vermoeidheid.
+897,88,2027-06-03T06:23:01,Fysiotherapie-oefeningen thuis uitgevoerd.
+898,89,2025-01-23T23:57:09,Sportactiviteit voorzichtig hervat (zwemmen).
+899,89,2025-01-27T22:57:09,"Boodschappen gedaan, deels met hulp."
+900,89,2025-02-02T20:57:09,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+901,89,2025-02-08T04:57:09,Rustdag gehouden op advies van de arts.
+902,89,2025-02-01T02:57:09,Korte wandeling gemaakt rondom huis.
+903,89,2025-02-17T20:57:09,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+904,89,2025-02-17T00:57:09,Lange wandeling gemaakt zonder klachten.
+905,89,2025-02-07T04:57:09,"Tuinwerk gedaan, aangepast tempo."
+906,89,2025-02-17T00:57:09,Sportactiviteit voorzichtig hervat (zwemmen).
+907,89,2025-02-01T23:57:09,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+908,89,2025-02-03T07:57:09,"Tuinwerk gedaan, aangepast tempo."
+909,89,2025-02-04T01:57:09,Dag met veel rust vanwege vermoeidheid.
+910,89,2025-02-16T21:57:09,Rustdag gehouden op advies van de arts.
+911,90,2027-05-28T17:52:28,Werk gedeeltelijk hervat (aangepaste taken).
+912,90,2027-05-31T13:52:28,Fysiotherapie-oefeningen thuis uitgevoerd.
+913,90,2027-06-03T07:52:28,Dag met veel rust vanwege vermoeidheid.
+914,90,2027-06-09T08:52:28,Lange wandeling gemaakt zonder klachten.
+915,90,2027-06-17T08:52:28,Lichte fietstocht gemaakt.
+916,90,2027-06-17T17:52:28,Dag met veel rust vanwege vermoeidheid.
+917,90,2027-06-15T07:52:28,"Tuinwerk gedaan, aangepast tempo."
+918,90,2027-06-11T14:52:28,Korte wandeling gemaakt rondom huis.
+919,90,2027-07-07T16:52:28,Trap gelopen zonder hulpmiddel.
+920,90,2027-07-03T15:52:28,Sportactiviteit voorzichtig hervat (zwemmen).
+921,90,2027-07-07T07:52:28,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+922,90,2027-07-11T08:52:28,Lichte fietstocht gemaakt.
+923,90,2027-06-21T08:52:28,Fysiotherapie-oefeningen thuis uitgevoerd.
+924,91,2025-11-26T11:44:54,Lichte fietstocht gemaakt.
+925,91,2025-11-27T19:44:54,Trap gelopen zonder hulpmiddel.
+926,91,2025-11-30T11:44:54,Sportactiviteit voorzichtig hervat (zwemmen).
+927,91,2025-12-11T09:44:54,Dag met veel rust vanwege vermoeidheid.
+928,91,2025-12-04T07:44:54,Lichte fietstocht gemaakt.
+929,91,2025-12-16T15:44:54,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+930,91,2025-12-14T12:44:54,"Tuinwerk gedaan, aangepast tempo."
+931,91,2025-12-10T08:44:54,Rustdag gehouden op advies van de arts.
+932,91,2026-01-05T08:44:54,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+933,91,2025-12-23T13:44:54,Fysiotherapie-oefeningen thuis uitgevoerd.
+934,92,2025-05-07T05:48:47,Korte wandeling gemaakt rondom huis.
+935,92,2025-05-12T08:48:47,Lichte fietstocht gemaakt.
+936,92,2025-05-09T10:48:47,"Tuinwerk gedaan, aangepast tempo."
+937,92,2025-05-12T22:48:47,Lichte fietstocht gemaakt.
+938,92,2025-05-23T06:48:47,Sportactiviteit voorzichtig hervat (zwemmen).
+939,92,2025-05-31T22:48:47,Sportactiviteit voorzichtig hervat (zwemmen).
+940,92,2025-05-13T00:48:47,"Tuinwerk gedaan, aangepast tempo."
+941,92,2025-06-04T03:48:47,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+942,92,2025-05-31T07:48:47,Fysiotherapie-oefeningen thuis uitgevoerd.
+943,92,2025-06-21T07:48:47,Korte wandeling gemaakt rondom huis.
+944,93,2025-01-02T13:17:12,Werk gedeeltelijk hervat (aangepaste taken).
+945,93,2025-01-06T11:17:12,Fysiotherapie-oefeningen thuis uitgevoerd.
+946,93,2025-01-04T11:17:12,"Boodschappen gedaan, deels met hulp."
+947,93,2025-01-08T10:17:12,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+948,93,2025-01-06T17:17:12,Werk gedeeltelijk hervat (aangepaste taken).
+949,93,2025-01-27T10:17:12,"Boodschappen gedaan, deels met hulp."
+950,93,2025-01-20T09:17:12,"Tuinwerk gedaan, aangepast tempo."
+951,93,2025-01-16T14:17:12,"Tuinwerk gedaan, aangepast tempo."
+952,93,2025-02-03T07:17:12,Sportactiviteit voorzichtig hervat (zwemmen).
+953,93,2025-02-16T16:17:12,Rustdag gehouden op advies van de arts.
+954,93,2025-02-01T14:17:12,Korte wandeling gemaakt rondom huis.
+955,94,2025-07-22T03:30:52,Werk gedeeltelijk hervat (aangepaste taken).
+956,94,2025-07-24T00:30:52,Dag met veel rust vanwege vermoeidheid.
+957,94,2025-07-26T02:30:52,Lange wandeling gemaakt zonder klachten.
+958,94,2025-08-02T23:30:52,Fysiotherapie-oefeningen thuis uitgevoerd.
+959,94,2025-08-11T03:30:52,Sportactiviteit voorzichtig hervat (zwemmen).
+960,94,2025-08-11T03:30:52,Korte wandeling gemaakt rondom huis.
+961,94,2025-08-15T02:30:52,Dag met veel rust vanwege vermoeidheid.
+962,94,2025-08-05T06:30:52,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+963,94,2025-07-29T18:30:52,Trap gelopen zonder hulpmiddel.
+964,94,2025-07-30T18:30:52,Rustdag gehouden op advies van de arts.
+965,94,2025-08-01T05:30:52,Fysiotherapie-oefeningen thuis uitgevoerd.
+966,94,2025-08-13T02:30:52,Werk gedeeltelijk hervat (aangepaste taken).
+967,95,2025-08-31T01:53:48,Werk gedeeltelijk hervat (aangepaste taken).
+968,95,2025-09-04T00:53:48,Trap gelopen zonder hulpmiddel.
+969,95,2025-09-02T06:53:48,Dag met veel rust vanwege vermoeidheid.
+970,95,2025-09-03T01:53:48,Lichte fietstocht gemaakt.
+971,95,2025-09-12T10:53:48,Werk gedeeltelijk hervat (aangepaste taken).
+972,95,2025-09-20T01:53:48,"Boodschappen gedaan, deels met hulp."
+973,95,2025-09-18T00:53:48,"Tuinwerk gedaan, aangepast tempo."
+974,95,2025-09-21T07:53:48,Dag met veel rust vanwege vermoeidheid.
+975,95,2025-09-24T00:53:48,Rustdag gehouden op advies van de arts.
+976,95,2025-09-09T04:53:48,Lichte fietstocht gemaakt.
+977,95,2025-10-20T04:53:48,Rustdag gehouden op advies van de arts.
+978,95,2025-10-25T09:53:48,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+979,95,2025-09-24T10:53:48,Sportactiviteit voorzichtig hervat (zwemmen).
+980,95,2025-09-13T06:53:48,Lange wandeling gemaakt zonder klachten.
+981,96,2026-07-16T06:20:15,Korte wandeling gemaakt rondom huis.
+982,96,2026-07-20T14:20:15,Fysiotherapie-oefeningen thuis uitgevoerd.
+983,96,2026-07-20T15:20:15,Werk gedeeltelijk hervat (aangepaste taken).
+984,96,2026-07-28T06:20:15,"Boodschappen gedaan, deels met hulp."
+985,96,2026-07-20T09:20:15,Korte wandeling gemaakt rondom huis.
+986,97,2027-03-06T19:24:50,Lichte fietstocht gemaakt.
+987,97,2027-03-08T16:24:50,"Boodschappen gedaan, deels met hulp."
+988,97,2027-03-08T21:24:50,"Tuinwerk gedaan, aangepast tempo."
+989,97,2027-03-18T23:24:50,Lichte fietstocht gemaakt.
+990,97,2027-03-10T15:24:50,Rustdag gehouden op advies van de arts.
+991,97,2027-03-31T14:24:50,Sportactiviteit voorzichtig hervat (zwemmen).
+992,98,2027-06-06T15:25:38,"Boodschappen gedaan, deels met hulp."
+993,98,2027-06-10T02:25:38,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+994,98,2027-06-15T00:25:38,"Tuinwerk gedaan, aangepast tempo."
+995,98,2027-06-18T17:25:38,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+996,98,2027-06-14T19:25:38,Dag met veel rust vanwege vermoeidheid.
+997,98,2027-06-26T17:25:38,"Tuinwerk gedaan, aangepast tempo."
+998,99,2026-05-29T07:34:00,"Boodschappen gedaan, deels met hulp."
+999,99,2026-06-02T08:34:00,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1000,99,2026-05-31T02:34:00,Korte wandeling gemaakt rondom huis.
+1001,99,2026-06-10T10:34:00,Trap gelopen zonder hulpmiddel.
+1002,99,2026-06-06T01:34:00,Werk gedeeltelijk hervat (aangepaste taken).
+1003,99,2026-06-03T07:34:00,Rustdag gehouden op advies van de arts.
+1004,99,2026-06-28T11:34:00,Lange wandeling gemaakt zonder klachten.
+1005,99,2026-06-12T06:34:00,Korte wandeling gemaakt rondom huis.
+1006,99,2026-06-22T00:34:00,Lange wandeling gemaakt zonder klachten.
+1007,99,2026-06-16T00:34:00,Sportactiviteit voorzichtig hervat (zwemmen).
+1008,99,2026-07-18T03:34:00,Fysiotherapie-oefeningen thuis uitgevoerd.
+1009,99,2026-07-23T07:34:00,Trap gelopen zonder hulpmiddel.
+1010,99,2026-06-22T07:34:00,Rustdag gehouden op advies van de arts.
+1011,100,2027-03-02T08:49:30,Korte wandeling gemaakt rondom huis.
+1012,100,2027-03-06T11:49:30,Lange wandeling gemaakt zonder klachten.
+1013,100,2027-03-10T05:49:30,Trap gelopen zonder hulpmiddel.
+1014,100,2027-03-11T11:49:30,Sportactiviteit voorzichtig hervat (zwemmen).
+1015,100,2027-03-14T14:49:30,Korte wandeling gemaakt rondom huis.
+1016,100,2027-03-07T15:49:30,Lichte fietstocht gemaakt.
+1017,100,2027-03-26T16:49:30,"Boodschappen gedaan, deels met hulp."
+1018,100,2027-04-06T15:49:30,Dag met veel rust vanwege vermoeidheid.
+1019,100,2027-04-03T12:49:30,Rustdag gehouden op advies van de arts.
+1020,100,2027-03-29T09:49:30,Sportactiviteit voorzichtig hervat (zwemmen).
+1021,100,2027-04-11T12:49:30,Korte wandeling gemaakt rondom huis.
+1022,100,2027-04-04T05:49:30,Lichte fietstocht gemaakt.
+1023,100,2027-04-19T12:49:30,Rustdag gehouden op advies van de arts.
+1024,100,2027-03-28T10:49:30,"Tuinwerk gedaan, aangepast tempo."
+1025,100,2027-03-16T16:49:30,Korte wandeling gemaakt rondom huis.
+1026,101,2026-02-27T10:46:16,Lichte fietstocht gemaakt.
+1027,101,2026-02-28T11:46:16,Sportactiviteit voorzichtig hervat (zwemmen).
+1028,101,2026-03-03T06:46:16,Lange wandeling gemaakt zonder klachten.
+1029,101,2026-03-05T06:46:16,Rustdag gehouden op advies van de arts.
+1030,101,2026-03-03T07:46:16,Lange wandeling gemaakt zonder klachten.
+1031,101,2026-03-04T06:46:16,Werk gedeeltelijk hervat (aangepaste taken).
+1032,101,2026-03-29T08:46:16,Trap gelopen zonder hulpmiddel.
+1033,101,2026-03-06T08:46:16,Lange wandeling gemaakt zonder klachten.
+1034,102,2025-04-19T15:50:18,Trap gelopen zonder hulpmiddel.
+1035,102,2025-04-21T10:50:18,"Boodschappen gedaan, deels met hulp."
+1036,102,2025-04-21T16:50:18,Sportactiviteit voorzichtig hervat (zwemmen).
+1037,102,2025-04-22T08:50:18,Lange wandeling gemaakt zonder klachten.
+1038,102,2025-05-09T15:50:18,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1039,102,2025-05-04T14:50:18,Sportactiviteit voorzichtig hervat (zwemmen).
+1040,102,2025-04-25T17:50:18,Dag met veel rust vanwege vermoeidheid.
+1041,102,2025-05-17T12:50:18,Korte wandeling gemaakt rondom huis.
+1042,102,2025-05-29T18:50:18,Werk gedeeltelijk hervat (aangepaste taken).
+1043,102,2025-05-07T08:50:18,Rustdag gehouden op advies van de arts.
+1044,102,2025-06-08T15:50:18,Dag met veel rust vanwege vermoeidheid.
+1045,102,2025-06-02T10:50:18,Werk gedeeltelijk hervat (aangepaste taken).
+1046,102,2025-06-06T15:50:18,Dag met veel rust vanwege vermoeidheid.
+1047,103,2025-01-06T03:15:30,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1048,103,2025-01-09T23:15:30,Dag met veel rust vanwege vermoeidheid.
+1049,103,2025-01-07T21:15:30,Sportactiviteit voorzichtig hervat (zwemmen).
+1050,103,2025-01-12T02:15:30,Dag met veel rust vanwege vermoeidheid.
+1051,103,2025-01-22T00:15:30,Lichte fietstocht gemaakt.
+1052,104,2025-10-19T22:37:52,Lange wandeling gemaakt zonder klachten.
+1053,104,2025-10-20T10:37:52,Fysiotherapie-oefeningen thuis uitgevoerd.
+1054,104,2025-10-27T19:37:52,Rustdag gehouden op advies van de arts.
+1055,104,2025-10-28T16:37:52,"Tuinwerk gedaan, aangepast tempo."
+1056,104,2025-10-31T14:37:52,Lange wandeling gemaakt zonder klachten.
+1057,104,2025-11-03T10:37:52,Lichte fietstocht gemaakt.
+1058,104,2025-11-18T11:37:52,Lichte fietstocht gemaakt.
+1059,104,2025-10-26T19:37:52,"Boodschappen gedaan, deels met hulp."
+1060,105,2025-12-05T16:11:03,"Tuinwerk gedaan, aangepast tempo."
+1061,105,2025-12-06T20:11:03,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1062,105,2025-12-09T18:11:03,"Boodschappen gedaan, deels met hulp."
+1063,105,2025-12-20T14:11:03,Lichte fietstocht gemaakt.
+1064,105,2025-12-21T19:11:03,"Tuinwerk gedaan, aangepast tempo."
+1065,105,2025-12-20T11:11:03,Dag met veel rust vanwege vermoeidheid.
+1066,105,2025-12-29T20:11:03,Werk gedeeltelijk hervat (aangepaste taken).
+1067,105,2025-12-26T20:11:03,Fysiotherapie-oefeningen thuis uitgevoerd.
+1068,105,2025-12-29T09:11:03,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1069,105,2026-01-01T14:11:03,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1070,105,2025-12-25T10:11:03,Rustdag gehouden op advies van de arts.
+1071,105,2026-01-29T18:11:03,"Boodschappen gedaan, deels met hulp."
+1072,105,2026-01-10T20:11:03,Werk gedeeltelijk hervat (aangepaste taken).
+1073,106,2025-09-23T19:30:39,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1074,106,2025-09-28T18:30:39,"Boodschappen gedaan, deels met hulp."
+1075,106,2025-10-03T18:30:39,Rustdag gehouden op advies van de arts.
+1076,106,2025-10-02T12:30:39,Rustdag gehouden op advies van de arts.
+1077,106,2025-10-01T07:30:39,Dag met veel rust vanwege vermoeidheid.
+1078,106,2025-10-18T19:30:39,"Tuinwerk gedaan, aangepast tempo."
+1079,106,2025-10-05T11:30:39,Lange wandeling gemaakt zonder klachten.
+1080,106,2025-09-30T17:30:39,Korte wandeling gemaakt rondom huis.
+1081,106,2025-10-25T11:30:39,Sportactiviteit voorzichtig hervat (zwemmen).
+1082,106,2025-10-29T11:30:39,Lange wandeling gemaakt zonder klachten.
+1083,106,2025-10-13T18:30:39,Sportactiviteit voorzichtig hervat (zwemmen).
+1084,106,2025-10-15T15:30:39,"Tuinwerk gedaan, aangepast tempo."
+1085,107,2025-02-03T13:41:03,Fysiotherapie-oefeningen thuis uitgevoerd.
+1086,107,2025-02-05T09:41:03,Werk gedeeltelijk hervat (aangepaste taken).
+1087,107,2025-02-09T19:41:03,Sportactiviteit voorzichtig hervat (zwemmen).
+1088,107,2025-02-15T11:41:03,Korte wandeling gemaakt rondom huis.
+1089,107,2025-02-07T11:41:03,Sportactiviteit voorzichtig hervat (zwemmen).
+1090,107,2025-02-08T20:41:03,Werk gedeeltelijk hervat (aangepaste taken).
+1091,107,2025-03-05T10:41:03,Rustdag gehouden op advies van de arts.
+1092,107,2025-03-10T17:41:03,Korte wandeling gemaakt rondom huis.
+1093,107,2025-03-07T15:41:03,Werk gedeeltelijk hervat (aangepaste taken).
+1094,107,2025-02-21T14:41:03,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1095,107,2025-02-13T14:41:03,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1096,107,2025-03-19T16:41:03,"Boodschappen gedaan, deels met hulp."
+1097,107,2025-03-23T10:41:03,Korte wandeling gemaakt rondom huis.
+1098,108,2026-01-01T16:42:07,Werk gedeeltelijk hervat (aangepaste taken).
+1099,108,2026-01-04T12:42:07,"Tuinwerk gedaan, aangepast tempo."
+1100,108,2026-01-07T04:42:07,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1101,108,2026-01-16T07:42:07,Sportactiviteit voorzichtig hervat (zwemmen).
+1102,108,2026-01-17T08:42:07,Lichte fietstocht gemaakt.
+1103,108,2026-01-11T10:42:07,Dag met veel rust vanwege vermoeidheid.
+1104,108,2026-01-19T12:42:07,Sportactiviteit voorzichtig hervat (zwemmen).
+1105,108,2026-01-15T12:42:07,Rustdag gehouden op advies van de arts.
+1106,108,2026-01-17T07:42:07,Trap gelopen zonder hulpmiddel.
+1107,108,2026-02-06T09:42:07,Werk gedeeltelijk hervat (aangepaste taken).
+1108,108,2026-01-21T10:42:07,Rustdag gehouden op advies van de arts.
+1109,108,2026-01-12T12:42:07,Rustdag gehouden op advies van de arts.
+1110,108,2026-02-06T13:42:07,Trap gelopen zonder hulpmiddel.
+1111,108,2026-01-14T14:42:07,Korte wandeling gemaakt rondom huis.
+1112,109,2026-06-19T19:24:40,Rustdag gehouden op advies van de arts.
+1113,109,2026-06-22T23:24:40,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1114,109,2026-06-21T21:24:40,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1115,109,2026-06-25T14:24:40,Rustdag gehouden op advies van de arts.
+1116,109,2026-07-01T23:24:40,Lange wandeling gemaakt zonder klachten.
+1117,109,2026-07-09T16:24:40,Sportactiviteit voorzichtig hervat (zwemmen).
+1118,109,2026-07-01T14:24:40,Werk gedeeltelijk hervat (aangepaste taken).
+1119,109,2026-07-24T23:24:40,Dag met veel rust vanwege vermoeidheid.
+1120,109,2026-07-05T19:24:40,Sportactiviteit voorzichtig hervat (zwemmen).
+1121,110,2026-02-15T23:24:25,Sportactiviteit voorzichtig hervat (zwemmen).
+1122,110,2026-02-19T21:24:25,Fysiotherapie-oefeningen thuis uitgevoerd.
+1123,110,2026-02-20T01:24:25,Werk gedeeltelijk hervat (aangepaste taken).
+1124,110,2026-02-21T17:24:25,Sportactiviteit voorzichtig hervat (zwemmen).
+1125,110,2026-02-20T00:24:25,Trap gelopen zonder hulpmiddel.
+1126,110,2026-02-21T04:24:25,Rustdag gehouden op advies van de arts.
+1127,110,2026-02-22T04:24:25,Rustdag gehouden op advies van de arts.
+1128,110,2026-02-22T19:24:25,Fysiotherapie-oefeningen thuis uitgevoerd.
+1129,110,2026-03-12T01:24:25,Rustdag gehouden op advies van de arts.
+1130,110,2026-03-14T23:24:25,Lange wandeling gemaakt zonder klachten.
+1131,110,2026-03-17T19:24:25,Korte wandeling gemaakt rondom huis.
+1132,110,2026-02-27T04:24:25,Trap gelopen zonder hulpmiddel.
+1133,111,2025-05-05T21:34:38,Lichte fietstocht gemaakt.
+1134,111,2025-05-11T02:34:38,"Tuinwerk gedaan, aangepast tempo."
+1135,111,2025-05-10T00:34:38,Dag met veel rust vanwege vermoeidheid.
+1136,111,2025-05-08T16:34:38,Trap gelopen zonder hulpmiddel.
+1137,111,2025-05-21T21:34:38,"Tuinwerk gedaan, aangepast tempo."
+1138,111,2025-05-30T17:34:38,Sportactiviteit voorzichtig hervat (zwemmen).
+1139,111,2025-05-11T19:34:38,"Boodschappen gedaan, deels met hulp."
+1140,111,2025-06-09T23:34:38,Lichte fietstocht gemaakt.
+1141,111,2025-05-21T23:34:38,Sportactiviteit voorzichtig hervat (zwemmen).
+1142,112,2026-06-01T20:46:21,"Boodschappen gedaan, deels met hulp."
+1143,112,2026-06-04T18:46:21,Dag met veel rust vanwege vermoeidheid.
+1144,112,2026-06-03T20:46:21,"Boodschappen gedaan, deels met hulp."
+1145,112,2026-06-08T03:46:21,Lichte fietstocht gemaakt.
+1146,112,2026-06-18T02:46:21,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1147,113,2026-05-29T09:51:02,Dag met veel rust vanwege vermoeidheid.
+1148,113,2026-06-02T06:51:02,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1149,113,2026-06-04T09:51:02,Trap gelopen zonder hulpmiddel.
+1150,113,2026-06-13T07:51:02,Werk gedeeltelijk hervat (aangepaste taken).
+1151,113,2026-06-14T04:51:02,Sportactiviteit voorzichtig hervat (zwemmen).
+1152,113,2026-06-23T12:51:02,"Boodschappen gedaan, deels met hulp."
+1153,113,2026-06-10T14:51:02,Fysiotherapie-oefeningen thuis uitgevoerd.
+1154,113,2026-06-05T12:51:02,"Boodschappen gedaan, deels met hulp."
+1155,113,2026-06-14T11:51:02,Trap gelopen zonder hulpmiddel.
+1156,113,2026-06-16T10:51:02,Dag met veel rust vanwege vermoeidheid.
+1157,113,2026-06-08T09:51:02,Dag met veel rust vanwege vermoeidheid.
+1158,113,2026-07-23T06:51:02,Werk gedeeltelijk hervat (aangepaste taken).
+1159,114,2026-06-21T08:40:54,Korte wandeling gemaakt rondom huis.
+1160,114,2026-06-25T13:40:54,Lichte fietstocht gemaakt.
+1161,114,2026-07-01T15:40:54,Rustdag gehouden op advies van de arts.
+1162,114,2026-06-27T11:40:54,Fysiotherapie-oefeningen thuis uitgevoerd.
+1163,114,2026-07-11T14:40:54,"Boodschappen gedaan, deels met hulp."
+1164,114,2026-07-16T07:40:54,Rustdag gehouden op advies van de arts.
+1165,114,2026-07-03T08:40:54,Rustdag gehouden op advies van de arts.
+1166,114,2026-07-12T07:40:54,"Tuinwerk gedaan, aangepast tempo."
+1167,114,2026-06-29T09:40:54,Dag met veel rust vanwege vermoeidheid.
+1168,114,2026-07-27T08:40:54,Trap gelopen zonder hulpmiddel.
+1169,114,2026-07-01T06:40:54,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1170,114,2026-08-15T13:40:54,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1171,114,2026-08-20T11:40:54,Sportactiviteit voorzichtig hervat (zwemmen).
+1172,114,2026-07-30T11:40:54,Korte wandeling gemaakt rondom huis.
+1173,114,2026-07-19T12:40:54,"Boodschappen gedaan, deels met hulp."
+1174,115,2026-07-12T09:32:45,"Tuinwerk gedaan, aangepast tempo."
+1175,115,2026-07-12T21:32:45,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1176,115,2026-07-19T23:32:45,"Boodschappen gedaan, deels met hulp."
+1177,115,2026-07-23T21:32:45,Lichte fietstocht gemaakt.
+1178,115,2026-07-16T03:32:45,Sportactiviteit voorzichtig hervat (zwemmen).
+1179,116,2027-01-31T18:33:17,Sportactiviteit voorzichtig hervat (zwemmen).
+1180,116,2027-02-04T12:33:17,Lichte fietstocht gemaakt.
+1181,116,2027-02-06T18:33:17,"Tuinwerk gedaan, aangepast tempo."
+1182,116,2027-02-15T16:33:17,Fysiotherapie-oefeningen thuis uitgevoerd.
+1183,116,2027-02-08T13:33:17,Fysiotherapie-oefeningen thuis uitgevoerd.
+1184,116,2027-02-25T18:33:17,Fysiotherapie-oefeningen thuis uitgevoerd.
+1185,116,2027-02-24T17:33:17,Fysiotherapie-oefeningen thuis uitgevoerd.
+1186,117,2026-01-16T10:56:10,Dag met veel rust vanwege vermoeidheid.
+1187,117,2026-01-21T18:56:10,Korte wandeling gemaakt rondom huis.
+1188,117,2026-01-18T10:56:10,Dag met veel rust vanwege vermoeidheid.
+1189,117,2026-01-31T14:56:10,Fysiotherapie-oefeningen thuis uitgevoerd.
+1190,117,2026-01-24T10:56:10,Rustdag gehouden op advies van de arts.
+1191,117,2026-01-26T17:56:10,Sportactiviteit voorzichtig hervat (zwemmen).
+1192,117,2026-01-28T12:56:10,Rustdag gehouden op advies van de arts.
+1193,117,2026-02-13T15:56:10,Werk gedeeltelijk hervat (aangepaste taken).
+1194,117,2026-02-25T14:56:10,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1195,117,2026-02-21T20:56:10,Werk gedeeltelijk hervat (aangepaste taken).
+1196,118,2027-03-15T03:39:57,Korte wandeling gemaakt rondom huis.
+1197,118,2027-03-17T06:39:57,Fysiotherapie-oefeningen thuis uitgevoerd.
+1198,118,2027-03-21T07:39:57,Korte wandeling gemaakt rondom huis.
+1199,118,2027-03-24T12:39:57,"Boodschappen gedaan, deels met hulp."
+1200,118,2027-03-19T06:39:57,"Tuinwerk gedaan, aangepast tempo."
+1201,118,2027-03-25T11:39:57,Trap gelopen zonder hulpmiddel.
+1202,118,2027-03-27T11:39:57,Fysiotherapie-oefeningen thuis uitgevoerd.
+1203,118,2027-04-19T11:39:57,Lange wandeling gemaakt zonder klachten.
+1204,118,2027-04-24T12:39:57,Lichte fietstocht gemaakt.
+1205,118,2027-04-02T02:39:57,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1206,118,2027-03-25T01:39:57,Trap gelopen zonder hulpmiddel.
+1207,118,2027-04-17T10:39:57,Rustdag gehouden op advies van de arts.
+1208,119,2025-04-27T22:52:13,Fysiotherapie-oefeningen thuis uitgevoerd.
+1209,119,2025-04-29T14:52:13,"Tuinwerk gedaan, aangepast tempo."
+1210,119,2025-04-29T17:52:13,Lange wandeling gemaakt zonder klachten.
+1211,119,2025-05-12T21:52:13,Trap gelopen zonder hulpmiddel.
+1212,119,2025-05-01T20:52:13,Fysiotherapie-oefeningen thuis uitgevoerd.
+1213,119,2025-05-17T19:52:13,Lange wandeling gemaakt zonder klachten.
+1214,119,2025-05-16T01:52:13,Lange wandeling gemaakt zonder klachten.
+1215,120,2026-08-07T00:04:16,Lichte fietstocht gemaakt.
+1216,120,2026-08-08T23:04:16,Sportactiviteit voorzichtig hervat (zwemmen).
+1217,120,2026-08-17T08:04:16,Rustdag gehouden op advies van de arts.
+1218,120,2026-08-13T00:04:16,Werk gedeeltelijk hervat (aangepaste taken).
+1219,120,2026-08-15T08:04:16,"Boodschappen gedaan, deels met hulp."
+1220,120,2026-08-17T04:04:16,Sportactiviteit voorzichtig hervat (zwemmen).
+1221,120,2026-08-25T06:04:16,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1222,120,2026-08-28T02:04:16,Lichte fietstocht gemaakt.
+1223,121,2025-09-23T16:17:14,Dag met veel rust vanwege vermoeidheid.
+1224,121,2025-09-27T20:17:14,Lange wandeling gemaakt zonder klachten.
+1225,121,2025-09-25T20:17:14,Fysiotherapie-oefeningen thuis uitgevoerd.
+1226,121,2025-10-02T19:17:14,"Boodschappen gedaan, deels met hulp."
+1227,121,2025-10-10T03:17:14,Lichte fietstocht gemaakt.
+1228,121,2025-10-03T16:17:14,Korte wandeling gemaakt rondom huis.
+1229,121,2025-10-11T22:17:14,Lange wandeling gemaakt zonder klachten.
+1230,121,2025-09-30T20:17:14,Werk gedeeltelijk hervat (aangepaste taken).
+1231,121,2025-10-01T22:17:14,Dag met veel rust vanwege vermoeidheid.
+1232,121,2025-10-20T17:17:14,Lichte fietstocht gemaakt.
+1233,121,2025-11-02T19:17:14,"Boodschappen gedaan, deels met hulp."
+1234,121,2025-11-06T22:17:14,Trap gelopen zonder hulpmiddel.
+1235,121,2025-10-29T16:17:14,"Tuinwerk gedaan, aangepast tempo."
+1236,121,2025-11-27T17:17:14,"Boodschappen gedaan, deels met hulp."
+1237,121,2025-11-04T17:17:14,Dag met veel rust vanwege vermoeidheid.
+1238,122,2026-04-30T00:41:35,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1239,122,2026-04-30T19:41:35,Werk gedeeltelijk hervat (aangepaste taken).
+1240,122,2026-05-06T03:41:35,Lichte fietstocht gemaakt.
+1241,122,2026-05-08T20:41:35,Werk gedeeltelijk hervat (aangepaste taken).
+1242,122,2026-05-15T23:41:35,Trap gelopen zonder hulpmiddel.
+1243,122,2026-05-20T02:41:35,Werk gedeeltelijk hervat (aangepaste taken).
+1244,122,2026-05-24T03:41:35,Fysiotherapie-oefeningen thuis uitgevoerd.
+1245,122,2026-05-28T00:41:35,Dag met veel rust vanwege vermoeidheid.
+1246,122,2026-05-15T23:41:35,Lange wandeling gemaakt zonder klachten.
+1247,123,2026-10-27T12:32:14,Werk gedeeltelijk hervat (aangepaste taken).
+1248,123,2026-10-29T10:32:14,Lange wandeling gemaakt zonder klachten.
+1249,123,2026-11-02T19:32:14,Rustdag gehouden op advies van de arts.
+1250,123,2026-11-02T08:32:14,Korte wandeling gemaakt rondom huis.
+1251,123,2026-10-31T15:32:14,Sportactiviteit voorzichtig hervat (zwemmen).
+1252,123,2026-11-01T17:32:14,Rustdag gehouden op advies van de arts.
+1253,123,2026-11-02T07:32:14,Trap gelopen zonder hulpmiddel.
+1254,123,2026-11-10T09:32:14,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1255,124,2025-01-25T21:11:56,"Boodschappen gedaan, deels met hulp."
+1256,124,2025-01-27T17:11:56,Werk gedeeltelijk hervat (aangepaste taken).
+1257,124,2025-01-29T20:11:56,"Tuinwerk gedaan, aangepast tempo."
+1258,124,2025-01-31T13:11:56,"Tuinwerk gedaan, aangepast tempo."
+1259,124,2025-02-02T14:11:56,Lichte fietstocht gemaakt.
+1260,124,2025-01-30T11:11:56,Lichte fietstocht gemaakt.
+1261,124,2025-02-12T11:11:56,Sportactiviteit voorzichtig hervat (zwemmen).
+1262,124,2025-02-22T16:11:56,Lichte fietstocht gemaakt.
+1263,124,2025-02-26T18:11:56,Werk gedeeltelijk hervat (aangepaste taken).
+1264,124,2025-03-02T11:11:56,Rustdag gehouden op advies van de arts.
+1265,125,2026-02-16T20:17:48,Lichte fietstocht gemaakt.
+1266,125,2026-02-21T01:17:48,Korte wandeling gemaakt rondom huis.
+1267,125,2026-02-19T01:17:48,Lange wandeling gemaakt zonder klachten.
+1268,125,2026-02-23T01:17:48,Fysiotherapie-oefeningen thuis uitgevoerd.
+1269,125,2026-03-09T01:17:48,Korte wandeling gemaakt rondom huis.
+1270,125,2026-02-26T22:17:48,"Tuinwerk gedaan, aangepast tempo."
+1271,125,2026-02-28T14:17:48,Rustdag gehouden op advies van de arts.
+1272,126,2026-02-16T22:15:16,Werk gedeeltelijk hervat (aangepaste taken).
+1273,126,2026-02-17T13:15:16,Lichte fietstocht gemaakt.
+1274,126,2026-02-22T12:15:16,Sportactiviteit voorzichtig hervat (zwemmen).
+1275,126,2026-02-19T11:15:16,Dag met veel rust vanwege vermoeidheid.
+1276,126,2026-03-08T12:15:16,"Boodschappen gedaan, deels met hulp."
+1277,126,2026-02-26T20:15:16,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1278,126,2026-02-22T10:15:16,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1279,126,2026-03-09T20:15:16,"Boodschappen gedaan, deels met hulp."
+1280,127,2025-08-10T14:35:08,Werk gedeeltelijk hervat (aangepaste taken).
+1281,127,2025-08-15T11:35:08,Sportactiviteit voorzichtig hervat (zwemmen).
+1282,127,2025-08-12T14:35:08,Sportactiviteit voorzichtig hervat (zwemmen).
+1283,127,2025-08-19T14:35:08,Fysiotherapie-oefeningen thuis uitgevoerd.
+1284,127,2025-08-22T08:35:08,"Boodschappen gedaan, deels met hulp."
+1285,127,2025-08-15T12:35:08,Trap gelopen zonder hulpmiddel.
+1286,127,2025-08-22T10:35:08,Korte wandeling gemaakt rondom huis.
+1287,127,2025-08-17T17:35:08,"Tuinwerk gedaan, aangepast tempo."
+1288,127,2025-09-03T20:35:08,Lichte fietstocht gemaakt.
+1289,127,2025-09-15T10:35:08,Rustdag gehouden op advies van de arts.
+1290,127,2025-09-09T13:35:08,Lichte fietstocht gemaakt.
+1291,128,2026-12-16T00:57:34,Werk gedeeltelijk hervat (aangepaste taken).
+1292,128,2026-12-16T20:57:34,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1293,128,2026-12-19T22:57:34,Trap gelopen zonder hulpmiddel.
+1294,128,2026-12-21T12:57:34,Dag met veel rust vanwege vermoeidheid.
+1295,128,2026-12-19T12:57:34,Dag met veel rust vanwege vermoeidheid.
+1296,128,2026-12-25T21:57:34,Sportactiviteit voorzichtig hervat (zwemmen).
+1297,128,2027-01-14T12:57:34,Werk gedeeltelijk hervat (aangepaste taken).
+1298,128,2027-01-12T23:57:34,Trap gelopen zonder hulpmiddel.
+1299,128,2026-12-31T22:57:34,Fysiotherapie-oefeningen thuis uitgevoerd.
+1300,128,2027-01-20T17:57:34,Dag met veel rust vanwege vermoeidheid.
+1301,128,2027-01-14T15:57:34,Rustdag gehouden op advies van de arts.
+1302,128,2027-02-08T14:57:34,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1303,128,2027-01-08T14:57:34,Korte wandeling gemaakt rondom huis.
+1304,128,2027-01-10T20:57:34,Trap gelopen zonder hulpmiddel.
+1305,128,2026-12-29T18:57:34,Lange wandeling gemaakt zonder klachten.
+1306,129,2027-03-28T07:57:10,Dag met veel rust vanwege vermoeidheid.
+1307,129,2027-04-01T01:57:10,Rustdag gehouden op advies van de arts.
+1308,129,2027-04-01T05:57:10,Fysiotherapie-oefeningen thuis uitgevoerd.
+1309,129,2027-04-12T10:57:10,Lichte fietstocht gemaakt.
+1310,129,2027-04-01T06:57:10,"Boodschappen gedaan, deels met hulp."
+1311,129,2027-04-17T02:57:10,"Boodschappen gedaan, deels met hulp."
+1312,129,2027-04-09T09:57:10,Rustdag gehouden op advies van de arts.
+1313,129,2027-04-04T04:57:10,Dag met veel rust vanwege vermoeidheid.
+1314,129,2027-04-05T08:57:10,Trap gelopen zonder hulpmiddel.
+1315,129,2027-04-14T22:57:10,Dag met veel rust vanwege vermoeidheid.
+1316,129,2027-05-07T05:57:10,"Boodschappen gedaan, deels met hulp."
+1317,129,2027-05-11T09:57:10,Dag met veel rust vanwege vermoeidheid.
+1318,129,2027-05-15T05:57:10,Lichte fietstocht gemaakt.
+1319,129,2027-06-01T03:57:10,Lange wandeling gemaakt zonder klachten.
+1320,129,2027-06-06T05:57:10,Sportactiviteit voorzichtig hervat (zwemmen).
+1321,130,2026-03-27T11:17:17,Korte wandeling gemaakt rondom huis.
+1322,130,2026-03-30T10:17:17,Lichte fietstocht gemaakt.
+1323,130,2026-03-29T11:17:17,"Boodschappen gedaan, deels met hulp."
+1324,130,2026-04-11T09:17:17,"Boodschappen gedaan, deels met hulp."
+1325,130,2026-03-31T11:17:17,"Boodschappen gedaan, deels met hulp."
+1326,130,2026-04-20T23:17:17,"Boodschappen gedaan, deels met hulp."
+1327,130,2026-04-14T03:17:17,"Boodschappen gedaan, deels met hulp."
+1328,130,2026-04-03T02:17:17,Sportactiviteit voorzichtig hervat (zwemmen).
+1329,130,2026-04-12T00:17:17,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1330,130,2026-05-11T04:17:17,"Tuinwerk gedaan, aangepast tempo."
+1331,130,2026-04-06T11:17:17,Fysiotherapie-oefeningen thuis uitgevoerd.
+1332,130,2026-05-21T07:17:17,Dag met veel rust vanwege vermoeidheid.
+1333,130,2026-05-26T00:17:17,Lange wandeling gemaakt zonder klachten.
+1334,131,2025-03-14T05:59:50,Sportactiviteit voorzichtig hervat (zwemmen).
+1335,131,2025-03-18T01:59:50,Werk gedeeltelijk hervat (aangepaste taken).
+1336,131,2025-03-16T09:59:50,Dag met veel rust vanwege vermoeidheid.
+1337,131,2025-03-23T12:59:50,Lichte fietstocht gemaakt.
+1338,131,2025-04-03T12:59:50,Trap gelopen zonder hulpmiddel.
+1339,131,2025-03-24T05:59:50,Trap gelopen zonder hulpmiddel.
+1340,131,2025-04-01T07:59:50,Fysiotherapie-oefeningen thuis uitgevoerd.
+1341,131,2025-03-28T03:59:50,Sportactiviteit voorzichtig hervat (zwemmen).
+1342,131,2025-04-07T05:59:50,Korte wandeling gemaakt rondom huis.
+1343,131,2025-03-23T12:59:50,Lichte fietstocht gemaakt.
+1344,132,2026-10-21T10:22:34,Sportactiviteit voorzichtig hervat (zwemmen).
+1345,132,2026-10-22T12:22:34,Trap gelopen zonder hulpmiddel.
+1346,132,2026-10-29T17:22:34,"Tuinwerk gedaan, aangepast tempo."
+1347,132,2026-11-02T18:22:34,Lichte fietstocht gemaakt.
+1348,132,2026-10-29T09:22:34,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1349,132,2026-10-26T17:22:34,Dag met veel rust vanwege vermoeidheid.
+1350,132,2026-11-02T18:22:34,Rustdag gehouden op advies van de arts.
+1351,132,2026-10-28T18:22:34,Fysiotherapie-oefeningen thuis uitgevoerd.
+1352,132,2026-10-29T17:22:34,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1353,132,2026-11-08T17:22:34,Fysiotherapie-oefeningen thuis uitgevoerd.
+1354,132,2026-11-10T07:22:34,"Boodschappen gedaan, deels met hulp."
+1355,132,2026-11-12T17:22:34,Trap gelopen zonder hulpmiddel.
+1356,133,2027-02-04T06:15:01,"Tuinwerk gedaan, aangepast tempo."
+1357,133,2027-02-07T10:15:01,Werk gedeeltelijk hervat (aangepaste taken).
+1358,133,2027-02-06T02:15:01,Fysiotherapie-oefeningen thuis uitgevoerd.
+1359,133,2027-02-19T08:15:01,Dag met veel rust vanwege vermoeidheid.
+1360,133,2027-02-12T03:15:01,Fysiotherapie-oefeningen thuis uitgevoerd.
+1361,133,2027-02-19T01:15:01,Fysiotherapie-oefeningen thuis uitgevoerd.
+1362,133,2027-02-28T07:15:01,Lange wandeling gemaakt zonder klachten.
+1363,133,2027-03-04T09:15:01,"Tuinwerk gedaan, aangepast tempo."
+1364,133,2027-02-20T08:15:01,Lange wandeling gemaakt zonder klachten.
+1365,133,2027-02-22T05:15:01,Dag met veel rust vanwege vermoeidheid.
+1366,133,2027-02-24T09:15:01,Korte wandeling gemaakt rondom huis.
+1367,134,2026-12-13T11:17:52,"Boodschappen gedaan, deels met hulp."
+1368,134,2026-12-17T01:17:52,Trap gelopen zonder hulpmiddel.
+1369,134,2026-12-15T01:17:52,"Tuinwerk gedaan, aangepast tempo."
+1370,134,2026-12-19T06:17:52,Sportactiviteit voorzichtig hervat (zwemmen).
+1371,134,2026-12-25T04:17:52,Korte wandeling gemaakt rondom huis.
+1372,134,2027-01-07T10:17:52,Korte wandeling gemaakt rondom huis.
+1373,134,2026-12-19T01:17:52,Fysiotherapie-oefeningen thuis uitgevoerd.
+1374,134,2027-01-17T03:17:52,Fysiotherapie-oefeningen thuis uitgevoerd.
+1375,134,2027-01-14T01:17:52,Korte wandeling gemaakt rondom huis.
+1376,134,2026-12-31T09:17:52,Dag met veel rust vanwege vermoeidheid.
+1377,134,2027-01-12T05:17:52,Dag met veel rust vanwege vermoeidheid.
+1378,134,2027-02-06T10:17:52,"Tuinwerk gedaan, aangepast tempo."
+1379,134,2027-01-30T03:17:52,Werk gedeeltelijk hervat (aangepaste taken).
+1380,135,2026-07-14T13:22:20,Dag met veel rust vanwege vermoeidheid.
+1381,135,2026-07-18T11:22:20,Lange wandeling gemaakt zonder klachten.
+1382,135,2026-07-24T19:22:20,"Boodschappen gedaan, deels met hulp."
+1383,135,2026-07-20T16:22:20,"Tuinwerk gedaan, aangepast tempo."
+1384,135,2026-07-18T13:22:20,Trap gelopen zonder hulpmiddel.
+1385,135,2026-08-03T11:22:20,Dag met veel rust vanwege vermoeidheid.
+1386,135,2026-08-01T21:22:20,Sportactiviteit voorzichtig hervat (zwemmen).
+1387,135,2026-08-04T12:22:20,"Tuinwerk gedaan, aangepast tempo."
+1388,136,2025-02-15T22:24:33,Lichte fietstocht gemaakt.
+1389,136,2025-02-19T11:24:33,Trap gelopen zonder hulpmiddel.
+1390,136,2025-02-25T14:24:33,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1391,136,2025-03-02T17:24:33,Rustdag gehouden op advies van de arts.
+1392,136,2025-02-27T12:24:33,Werk gedeeltelijk hervat (aangepaste taken).
+1393,136,2025-02-20T15:24:33,"Boodschappen gedaan, deels met hulp."
+1394,136,2025-03-05T15:24:33,"Boodschappen gedaan, deels met hulp."
+1395,136,2025-03-08T20:24:33,Korte wandeling gemaakt rondom huis.
+1396,136,2025-03-27T20:24:33,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1397,137,2026-02-13T19:33:54,Lichte fietstocht gemaakt.
+1398,137,2026-02-16T22:33:54,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1399,137,2026-02-15T11:33:54,Rustdag gehouden op advies van de arts.
+1400,137,2026-02-28T22:33:54,Lichte fietstocht gemaakt.
+1401,137,2026-02-21T11:33:54,Werk gedeeltelijk hervat (aangepaste taken).
+1402,138,2026-04-05T21:38:00,Werk gedeeltelijk hervat (aangepaste taken).
+1403,138,2026-04-06T23:38:00,Korte wandeling gemaakt rondom huis.
+1404,138,2026-04-08T06:38:00,Korte wandeling gemaakt rondom huis.
+1405,138,2026-04-18T09:38:00,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1406,138,2026-04-22T06:38:00,Werk gedeeltelijk hervat (aangepaste taken).
+1407,138,2026-05-01T03:38:00,Sportactiviteit voorzichtig hervat (zwemmen).
+1408,138,2026-04-18T09:38:00,Sportactiviteit voorzichtig hervat (zwemmen).
+1409,138,2026-05-11T08:38:00,"Boodschappen gedaan, deels met hulp."
+1410,138,2026-04-21T23:38:00,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1411,139,2025-02-13T11:04:07,Werk gedeeltelijk hervat (aangepaste taken).
+1412,139,2025-02-14T04:04:07,"Boodschappen gedaan, deels met hulp."
+1413,139,2025-02-17T16:04:07,Korte wandeling gemaakt rondom huis.
+1414,139,2025-02-25T09:04:07,Trap gelopen zonder hulpmiddel.
+1415,139,2025-02-17T12:04:07,Sportactiviteit voorzichtig hervat (zwemmen).
+1416,139,2025-02-23T10:04:07,Dag met veel rust vanwege vermoeidheid.
+1417,139,2025-03-09T14:04:07,Rustdag gehouden op advies van de arts.
+1418,139,2025-03-06T14:04:07,Korte wandeling gemaakt rondom huis.
+1419,139,2025-02-21T13:04:07,"Boodschappen gedaan, deels met hulp."
+1420,139,2025-03-30T12:04:07,"Boodschappen gedaan, deels met hulp."
+1421,139,2025-02-23T13:04:07,Rustdag gehouden op advies van de arts.
+1422,139,2025-03-18T09:04:07,Dag met veel rust vanwege vermoeidheid.
+1423,139,2025-04-14T05:04:07,Werk gedeeltelijk hervat (aangepaste taken).
+1424,139,2025-04-06T06:04:07,Lange wandeling gemaakt zonder klachten.
+1425,139,2025-02-27T13:04:07,"Boodschappen gedaan, deels met hulp."
+1426,140,2025-04-23T10:46:31,Lichte fietstocht gemaakt.
+1427,140,2025-04-25T07:46:31,"Boodschappen gedaan, deels met hulp."
+1428,140,2025-05-03T11:46:31,Korte wandeling gemaakt rondom huis.
+1429,140,2025-04-29T10:46:31,Lichte fietstocht gemaakt.
+1430,140,2025-05-05T03:46:31,"Boodschappen gedaan, deels met hulp."
+1431,140,2025-04-28T13:46:31,Sportactiviteit voorzichtig hervat (zwemmen).
+1432,140,2025-05-11T06:46:31,Trap gelopen zonder hulpmiddel.
+1433,140,2025-05-14T14:46:31,"Tuinwerk gedaan, aangepast tempo."
+1434,140,2025-05-01T14:46:31,Lange wandeling gemaakt zonder klachten.
+1435,140,2025-05-20T06:46:31,Fysiotherapie-oefeningen thuis uitgevoerd.
+1436,140,2025-05-13T12:46:31,"Boodschappen gedaan, deels met hulp."
+1437,140,2025-05-15T06:46:31,Fysiotherapie-oefeningen thuis uitgevoerd.
+1438,140,2025-05-05T04:46:31,Lichte fietstocht gemaakt.
+1439,140,2025-06-27T12:46:31,Trap gelopen zonder hulpmiddel.
+1440,141,2027-05-27T15:05:13,"Boodschappen gedaan, deels met hulp."
+1441,141,2027-05-30T22:05:13,Werk gedeeltelijk hervat (aangepaste taken).
+1442,141,2027-06-06T21:05:13,Fysiotherapie-oefeningen thuis uitgevoerd.
+1443,141,2027-06-06T02:05:13,Fysiotherapie-oefeningen thuis uitgevoerd.
+1444,141,2027-06-08T15:05:13,Werk gedeeltelijk hervat (aangepaste taken).
+1445,141,2027-06-16T23:05:13,Lange wandeling gemaakt zonder klachten.
+1446,141,2027-06-27T02:05:13,Fysiotherapie-oefeningen thuis uitgevoerd.
+1447,141,2027-06-10T20:05:13,"Boodschappen gedaan, deels met hulp."
+1448,141,2027-06-12T23:05:13,"Boodschappen gedaan, deels met hulp."
+1449,141,2027-07-03T00:05:13,"Boodschappen gedaan, deels met hulp."
+1450,141,2027-06-07T01:05:13,Trap gelopen zonder hulpmiddel.
+1451,141,2027-06-07T16:05:13,Korte wandeling gemaakt rondom huis.
+1452,141,2027-07-26T22:05:13,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1453,142,2026-10-30T23:31:24,Dag met veel rust vanwege vermoeidheid.
+1454,142,2026-11-01T04:31:24,Lichte fietstocht gemaakt.
+1455,142,2026-11-07T19:31:24,"Boodschappen gedaan, deels met hulp."
+1456,142,2026-11-05T17:31:24,Lange wandeling gemaakt zonder klachten.
+1457,142,2026-11-12T00:31:24,Lange wandeling gemaakt zonder klachten.
+1458,142,2026-11-19T23:31:24,Trap gelopen zonder hulpmiddel.
+1459,142,2026-11-29T22:31:24,"Tuinwerk gedaan, aangepast tempo."
+1460,142,2026-11-20T20:31:24,Fysiotherapie-oefeningen thuis uitgevoerd.
+1461,142,2026-12-02T05:31:24,Fysiotherapie-oefeningen thuis uitgevoerd.
+1462,142,2026-11-27T01:31:24,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1463,142,2026-12-19T22:31:24,Fysiotherapie-oefeningen thuis uitgevoerd.
+1464,142,2026-12-13T20:31:24,Sportactiviteit voorzichtig hervat (zwemmen).
+1465,142,2026-11-23T20:31:24,"Boodschappen gedaan, deels met hulp."
+1466,142,2026-11-12T17:31:24,"Boodschappen gedaan, deels met hulp."
+1467,142,2026-11-13T21:31:24,Sportactiviteit voorzichtig hervat (zwemmen).
+1468,143,2025-07-31T22:35:05,"Tuinwerk gedaan, aangepast tempo."
+1469,143,2025-08-05T23:35:05,Sportactiviteit voorzichtig hervat (zwemmen).
+1470,143,2025-08-06T21:35:05,Werk gedeeltelijk hervat (aangepaste taken).
+1471,143,2025-08-03T18:35:05,"Boodschappen gedaan, deels met hulp."
+1472,143,2025-08-12T16:35:05,Rustdag gehouden op advies van de arts.
+1473,143,2025-08-06T04:35:05,"Tuinwerk gedaan, aangepast tempo."
+1474,143,2025-08-18T18:35:05,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1475,143,2025-09-04T16:35:05,Fysiotherapie-oefeningen thuis uitgevoerd.
+1476,143,2025-08-09T02:35:05,Korte wandeling gemaakt rondom huis.
+1477,143,2025-08-27T16:35:05,Sportactiviteit voorzichtig hervat (zwemmen).
+1478,143,2025-09-09T18:35:05,Lange wandeling gemaakt zonder klachten.
+1479,143,2025-09-02T18:35:05,Rustdag gehouden op advies van de arts.
+1480,143,2025-08-12T18:35:05,"Tuinwerk gedaan, aangepast tempo."
+1481,143,2025-08-13T23:35:05,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1482,144,2026-09-19T15:55:02,Werk gedeeltelijk hervat (aangepaste taken).
+1483,144,2026-09-21T06:55:02,Rustdag gehouden op advies van de arts.
+1484,144,2026-09-23T08:55:02,"Boodschappen gedaan, deels met hulp."
+1485,144,2026-09-22T08:55:02,Rustdag gehouden op advies van de arts.
+1486,144,2026-09-23T17:55:02,Lange wandeling gemaakt zonder klachten.
+1487,144,2026-09-29T12:55:02,Dag met veel rust vanwege vermoeidheid.
+1488,144,2026-10-19T12:55:02,Rustdag gehouden op advies van de arts.
+1489,144,2026-09-26T13:55:02,"Boodschappen gedaan, deels met hulp."
+1490,144,2026-10-29T11:55:02,Lichte fietstocht gemaakt.
+1491,144,2026-10-16T11:55:02,Lichte fietstocht gemaakt.
+1492,144,2026-09-29T11:55:02,Korte wandeling gemaakt rondom huis.
+1493,144,2026-11-13T07:55:02,"Tuinwerk gedaan, aangepast tempo."
+1494,144,2026-11-06T16:55:02,Werk gedeeltelijk hervat (aangepaste taken).
+1495,145,2025-06-10T12:44:25,Sportactiviteit voorzichtig hervat (zwemmen).
+1496,145,2025-06-12T23:44:25,Sportactiviteit voorzichtig hervat (zwemmen).
+1497,145,2025-06-16T23:44:25,Dag met veel rust vanwege vermoeidheid.
+1498,145,2025-06-16T12:44:25,"Tuinwerk gedaan, aangepast tempo."
+1499,145,2025-06-30T15:44:25,Rustdag gehouden op advies van de arts.
+1500,145,2025-06-25T18:44:25,Trap gelopen zonder hulpmiddel.
+1501,145,2025-07-10T21:44:25,Korte wandeling gemaakt rondom huis.
+1502,145,2025-06-24T17:44:25,Sportactiviteit voorzichtig hervat (zwemmen).
+1503,145,2025-06-18T17:44:25,Korte wandeling gemaakt rondom huis.
+1504,146,2026-11-10T07:59:03,Korte wandeling gemaakt rondom huis.
+1505,146,2026-11-13T06:59:03,Dag met veel rust vanwege vermoeidheid.
+1506,146,2026-11-16T15:59:03,"Tuinwerk gedaan, aangepast tempo."
+1507,146,2026-11-19T09:59:03,Fysiotherapie-oefeningen thuis uitgevoerd.
+1508,146,2026-11-26T09:59:03,"Boodschappen gedaan, deels met hulp."
+1509,146,2026-12-05T10:59:03,Korte wandeling gemaakt rondom huis.
+1510,146,2026-12-10T03:59:03,Korte wandeling gemaakt rondom huis.
+1511,146,2026-11-24T14:59:03,Rustdag gehouden op advies van de arts.
+1512,146,2026-12-12T06:59:03,"Boodschappen gedaan, deels met hulp."
+1513,146,2026-12-07T10:59:03,Lichte fietstocht gemaakt.
+1514,147,2026-07-04T10:07:29,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1515,147,2026-07-06T23:07:29,Lange wandeling gemaakt zonder klachten.
+1516,147,2026-07-11T23:07:29,Werk gedeeltelijk hervat (aangepaste taken).
+1517,147,2026-07-16T03:07:29,Lichte fietstocht gemaakt.
+1518,147,2026-07-12T04:07:29,Rustdag gehouden op advies van de arts.
+1519,147,2026-07-09T06:07:29,Korte wandeling gemaakt rondom huis.
+1520,147,2026-07-10T08:07:29,Sportactiviteit voorzichtig hervat (zwemmen).
+1521,147,2026-07-11T01:07:29,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1522,147,2026-08-12T22:07:29,Dag met veel rust vanwege vermoeidheid.
+1523,147,2026-07-22T00:07:29,"Tuinwerk gedaan, aangepast tempo."
+1524,148,2026-01-07T01:02:54,Lichte fietstocht gemaakt.
+1525,148,2026-01-12T01:02:54,Trap gelopen zonder hulpmiddel.
+1526,148,2026-01-11T01:02:54,Trap gelopen zonder hulpmiddel.
+1527,148,2026-01-18T13:02:54,"Boodschappen gedaan, deels met hulp."
+1528,148,2026-01-18T14:02:54,Sportactiviteit voorzichtig hervat (zwemmen).
+1529,148,2026-01-11T22:02:54,Lange wandeling gemaakt zonder klachten.
+1530,149,2026-02-18T01:14:55,"Boodschappen gedaan, deels met hulp."
+1531,149,2026-02-19T08:14:55,Trap gelopen zonder hulpmiddel.
+1532,149,2026-02-26T03:14:55,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1533,149,2026-02-24T02:14:55,Lange wandeling gemaakt zonder klachten.
+1534,149,2026-03-06T08:14:55,Werk gedeeltelijk hervat (aangepaste taken).
+1535,150,2026-07-27T04:05:49,Lichte fietstocht gemaakt.
+1536,150,2026-07-31T14:05:49,Dag met veel rust vanwege vermoeidheid.
+1537,150,2026-07-31T05:05:49,Lichte fietstocht gemaakt.
+1538,150,2026-08-11T07:05:49,Trap gelopen zonder hulpmiddel.
+1539,150,2026-07-31T12:05:49,Rustdag gehouden op advies van de arts.
+1540,150,2026-08-16T03:05:49,Fysiotherapie-oefeningen thuis uitgevoerd.
+1541,150,2026-08-14T13:05:49,"Tuinwerk gedaan, aangepast tempo."
+1542,150,2026-08-31T11:05:49,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1543,150,2026-08-28T11:05:49,Korte wandeling gemaakt rondom huis.
+1544,150,2026-08-23T10:05:49,Rustdag gehouden op advies van de arts.
+1545,151,2025-04-28T03:54:03,Lange wandeling gemaakt zonder klachten.
+1546,151,2025-05-03T05:54:03,Trap gelopen zonder hulpmiddel.
+1547,151,2025-05-06T02:54:03,Werk gedeeltelijk hervat (aangepaste taken).
+1548,151,2025-05-13T08:54:03,"Tuinwerk gedaan, aangepast tempo."
+1549,151,2025-05-06T06:54:03,Lange wandeling gemaakt zonder klachten.
+1550,151,2025-05-23T11:54:03,Lichte fietstocht gemaakt.
+1551,151,2025-05-22T13:54:03,Lange wandeling gemaakt zonder klachten.
+1552,151,2025-05-05T03:54:03,Rustdag gehouden op advies van de arts.
+1553,151,2025-05-14T02:54:03,Trap gelopen zonder hulpmiddel.
+1554,151,2025-06-12T09:54:03,Lichte fietstocht gemaakt.
+1555,151,2025-06-17T08:54:03,"Boodschappen gedaan, deels met hulp."
+1556,151,2025-06-22T13:54:03,Dag met veel rust vanwege vermoeidheid.
+1557,151,2025-05-10T06:54:03,Rustdag gehouden op advies van de arts.
+1558,152,2027-07-10T04:48:37,Lichte fietstocht gemaakt.
+1559,152,2027-07-13T11:48:37,Lichte fietstocht gemaakt.
+1560,152,2027-07-16T07:48:37,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1561,152,2027-07-19T05:48:37,"Boodschappen gedaan, deels met hulp."
+1562,152,2027-07-26T13:48:37,Rustdag gehouden op advies van de arts.
+1563,152,2027-07-30T04:48:37,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1564,152,2027-07-28T13:48:37,Lange wandeling gemaakt zonder klachten.
+1565,152,2027-07-17T08:48:37,Dag met veel rust vanwege vermoeidheid.
+1566,152,2027-07-18T04:48:37,"Tuinwerk gedaan, aangepast tempo."
+1567,153,2025-09-16T21:38:00,Lichte fietstocht gemaakt.
+1568,153,2025-09-17T11:38:00,Lange wandeling gemaakt zonder klachten.
+1569,153,2025-09-18T18:38:00,Korte wandeling gemaakt rondom huis.
+1570,153,2025-10-01T21:38:00,Lichte fietstocht gemaakt.
+1571,153,2025-09-24T18:38:00,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1572,153,2025-10-11T12:38:00,Sportactiviteit voorzichtig hervat (zwemmen).
+1573,154,2025-08-15T16:22:26,Trap gelopen zonder hulpmiddel.
+1574,154,2025-08-18T10:22:26,"Boodschappen gedaan, deels met hulp."
+1575,154,2025-08-25T12:22:26,Korte wandeling gemaakt rondom huis.
+1576,154,2025-08-18T15:22:26,Lichte fietstocht gemaakt.
+1577,154,2025-08-23T10:22:26,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1578,154,2025-09-04T13:22:26,Lichte fietstocht gemaakt.
+1579,154,2025-09-08T20:22:26,"Tuinwerk gedaan, aangepast tempo."
+1580,154,2025-09-19T15:22:26,Sportactiviteit voorzichtig hervat (zwemmen).
+1581,154,2025-09-08T16:22:26,Rustdag gehouden op advies van de arts.
+1582,154,2025-09-11T16:22:26,Korte wandeling gemaakt rondom huis.
+1583,154,2025-09-24T10:22:26,Lichte fietstocht gemaakt.
+1584,154,2025-10-09T19:22:26,Korte wandeling gemaakt rondom huis.
+1585,154,2025-10-14T12:22:26,"Boodschappen gedaan, deels met hulp."
+1586,154,2025-09-10T12:22:26,Lichte fietstocht gemaakt.
+1587,154,2025-10-10T11:22:26,Dag met veel rust vanwege vermoeidheid.
+1588,155,2026-02-18T10:56:41,Trap gelopen zonder hulpmiddel.
+1589,155,2026-02-22T09:56:41,Rustdag gehouden op advies van de arts.
+1590,155,2026-02-20T05:56:41,Lichte fietstocht gemaakt.
+1591,155,2026-03-02T00:56:41,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1592,155,2026-03-02T05:56:41,Werk gedeeltelijk hervat (aangepaste taken).
+1593,156,2025-12-07T19:10:23,"Boodschappen gedaan, deels met hulp."
+1594,156,2025-12-08T14:10:23,Rustdag gehouden op advies van de arts.
+1595,156,2025-12-11T20:10:23,Werk gedeeltelijk hervat (aangepaste taken).
+1596,156,2025-12-22T23:10:23,"Tuinwerk gedaan, aangepast tempo."
+1597,156,2025-12-23T18:10:23,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1598,156,2025-12-27T19:10:23,Sportactiviteit voorzichtig hervat (zwemmen).
+1599,156,2025-12-13T18:10:23,Trap gelopen zonder hulpmiddel.
+1600,156,2026-01-11T15:10:23,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1601,156,2025-12-31T19:10:23,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1602,156,2026-01-21T15:10:23,Dag met veel rust vanwege vermoeidheid.
+1603,157,2027-05-13T18:09:10,Werk gedeeltelijk hervat (aangepaste taken).
+1604,157,2027-05-15T16:09:10,Lange wandeling gemaakt zonder klachten.
+1605,157,2027-05-17T14:09:10,Dag met veel rust vanwege vermoeidheid.
+1606,157,2027-05-16T11:09:10,Lichte fietstocht gemaakt.
+1607,157,2027-05-21T15:09:10,Werk gedeeltelijk hervat (aangepaste taken).
+1608,157,2027-05-28T22:09:10,Korte wandeling gemaakt rondom huis.
+1609,157,2027-06-06T15:09:10,Rustdag gehouden op advies van de arts.
+1610,157,2027-06-10T14:09:10,"Boodschappen gedaan, deels met hulp."
+1611,157,2027-05-29T10:09:10,Lichte fietstocht gemaakt.
+1612,157,2027-06-09T10:09:10,"Tuinwerk gedaan, aangepast tempo."
+1613,157,2027-06-22T19:09:10,Werk gedeeltelijk hervat (aangepaste taken).
+1614,157,2027-06-15T11:09:10,Fysiotherapie-oefeningen thuis uitgevoerd.
+1615,157,2027-07-12T12:09:10,Werk gedeeltelijk hervat (aangepaste taken).
+1616,157,2027-07-17T12:09:10,Sportactiviteit voorzichtig hervat (zwemmen).
+1617,158,2025-06-25T12:48:44,Lichte fietstocht gemaakt.
+1618,158,2025-06-30T09:48:44,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1619,158,2025-07-03T08:48:44,Lange wandeling gemaakt zonder klachten.
+1620,158,2025-07-01T17:48:44,Rustdag gehouden op advies van de arts.
+1621,158,2025-07-11T11:48:44,Fysiotherapie-oefeningen thuis uitgevoerd.
+1622,158,2025-06-30T17:48:44,Korte wandeling gemaakt rondom huis.
+1623,158,2025-07-13T17:48:44,Trap gelopen zonder hulpmiddel.
+1624,159,2025-04-18T08:14:39,Rustdag gehouden op advies van de arts.
+1625,159,2025-04-19T16:14:39,Lichte fietstocht gemaakt.
+1626,159,2025-04-22T05:14:39,Sportactiviteit voorzichtig hervat (zwemmen).
+1627,159,2025-04-24T12:14:39,Korte wandeling gemaakt rondom huis.
+1628,159,2025-04-22T05:14:39,Dag met veel rust vanwege vermoeidheid.
+1629,159,2025-05-13T13:14:39,Sportactiviteit voorzichtig hervat (zwemmen).
+1630,159,2025-04-30T15:14:39,"Boodschappen gedaan, deels met hulp."
+1631,159,2025-05-02T08:14:39,Sportactiviteit voorzichtig hervat (zwemmen).
+1632,159,2025-04-26T09:14:39,Dag met veel rust vanwege vermoeidheid.
+1633,159,2025-05-06T09:14:39,Trap gelopen zonder hulpmiddel.
+1634,159,2025-06-07T13:14:39,Lange wandeling gemaakt zonder klachten.
+1635,159,2025-06-01T16:14:39,Sportactiviteit voorzichtig hervat (zwemmen).
+1636,159,2025-05-12T13:14:39,Rustdag gehouden op advies van de arts.
+1637,160,2027-08-03T16:57:41,"Boodschappen gedaan, deels met hulp."
+1638,160,2027-08-07T06:57:41,Rustdag gehouden op advies van de arts.
+1639,160,2027-08-09T07:57:41,Rustdag gehouden op advies van de arts.
+1640,160,2027-08-09T17:57:41,"Boodschappen gedaan, deels met hulp."
+1641,160,2027-08-11T12:57:41,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1642,160,2027-08-28T12:57:41,Fysiotherapie-oefeningen thuis uitgevoerd.
+1643,160,2027-08-09T07:57:41,Werk gedeeltelijk hervat (aangepaste taken).
+1644,160,2027-09-07T08:57:41,Sportactiviteit voorzichtig hervat (zwemmen).
+1645,160,2027-09-04T16:57:41,Rustdag gehouden op advies van de arts.
+1646,160,2027-08-21T14:57:41,Lange wandeling gemaakt zonder klachten.
+1647,160,2027-08-23T16:57:41,"Tuinwerk gedaan, aangepast tempo."
+1648,160,2027-08-14T16:57:41,"Boodschappen gedaan, deels met hulp."
+1649,161,2025-05-11T06:03:28,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1650,161,2025-05-14T21:03:28,Fysiotherapie-oefeningen thuis uitgevoerd.
+1651,161,2025-05-16T22:03:28,Trap gelopen zonder hulpmiddel.
+1652,161,2025-05-16T18:03:28,Fysiotherapie-oefeningen thuis uitgevoerd.
+1653,161,2025-05-14T18:03:28,Lichte fietstocht gemaakt.
+1654,161,2025-05-25T23:03:28,Dag met veel rust vanwege vermoeidheid.
+1655,161,2025-06-10T03:03:28,Werk gedeeltelijk hervat (aangepaste taken).
+1656,161,2025-05-17T19:03:28,Lange wandeling gemaakt zonder klachten.
+1657,161,2025-05-27T04:03:28,Sportactiviteit voorzichtig hervat (zwemmen).
+1658,161,2025-06-16T06:03:28,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1659,161,2025-06-30T00:03:28,Sportactiviteit voorzichtig hervat (zwemmen).
+1660,162,2025-01-08T16:47:38,Trap gelopen zonder hulpmiddel.
+1661,162,2025-01-12T13:47:38,"Boodschappen gedaan, deels met hulp."
+1662,162,2025-01-14T08:47:38,Sportactiviteit voorzichtig hervat (zwemmen).
+1663,162,2025-01-14T10:47:38,Trap gelopen zonder hulpmiddel.
+1664,162,2025-01-20T13:47:38,Werk gedeeltelijk hervat (aangepaste taken).
+1665,162,2025-02-02T16:47:38,Dag met veel rust vanwege vermoeidheid.
+1666,162,2025-02-07T11:47:38,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1667,162,2025-01-22T16:47:38,Korte wandeling gemaakt rondom huis.
+1668,162,2025-02-09T09:47:38,Rustdag gehouden op advies van de arts.
+1669,162,2025-02-22T10:47:38,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1670,162,2025-02-27T09:47:38,Lange wandeling gemaakt zonder klachten.
+1671,162,2025-02-10T08:47:38,"Boodschappen gedaan, deels met hulp."
+1672,162,2025-02-01T12:47:38,Lange wandeling gemaakt zonder klachten.
+1673,162,2025-03-01T15:47:38,Lichte fietstocht gemaakt.
+1674,162,2025-03-19T20:47:38,"Boodschappen gedaan, deels met hulp."
+1675,163,2025-11-27T17:01:48,Dag met veel rust vanwege vermoeidheid.
+1676,163,2025-12-01T16:01:48,"Tuinwerk gedaan, aangepast tempo."
+1677,163,2025-12-01T19:01:48,Fysiotherapie-oefeningen thuis uitgevoerd.
+1678,163,2025-11-30T18:01:48,Korte wandeling gemaakt rondom huis.
+1679,163,2025-12-17T12:01:48,Sportactiviteit voorzichtig hervat (zwemmen).
+1680,163,2025-12-12T18:01:48,Fysiotherapie-oefeningen thuis uitgevoerd.
+1681,163,2025-12-27T12:01:48,Sportactiviteit voorzichtig hervat (zwemmen).
+1682,163,2025-12-25T15:01:48,Lange wandeling gemaakt zonder klachten.
+1683,163,2025-12-21T17:01:48,Lange wandeling gemaakt zonder klachten.
+1684,163,2025-12-15T12:01:48,Sportactiviteit voorzichtig hervat (zwemmen).
+1685,164,2027-07-15T05:16:35,Sportactiviteit voorzichtig hervat (zwemmen).
+1686,164,2027-07-17T12:16:35,Lichte fietstocht gemaakt.
+1687,164,2027-07-21T02:16:35,Lichte fietstocht gemaakt.
+1688,164,2027-07-21T05:16:35,Dag met veel rust vanwege vermoeidheid.
+1689,164,2027-07-27T14:16:35,Rustdag gehouden op advies van de arts.
+1690,164,2027-07-20T08:16:35,Fysiotherapie-oefeningen thuis uitgevoerd.
+1691,164,2027-08-08T10:16:35,"Tuinwerk gedaan, aangepast tempo."
+1692,165,2025-02-04T22:24:22,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1693,165,2025-02-08T02:24:22,Fysiotherapie-oefeningen thuis uitgevoerd.
+1694,165,2025-02-10T21:24:22,Korte wandeling gemaakt rondom huis.
+1695,165,2025-02-17T01:24:22,Werk gedeeltelijk hervat (aangepaste taken).
+1696,165,2025-02-08T19:24:22,Sportactiviteit voorzichtig hervat (zwemmen).
+1697,166,2026-10-09T08:41:36,Lange wandeling gemaakt zonder klachten.
+1698,166,2026-10-10T08:41:36,Fysiotherapie-oefeningen thuis uitgevoerd.
+1699,166,2026-10-13T06:41:36,Rustdag gehouden op advies van de arts.
+1700,166,2026-10-18T08:41:36,Korte wandeling gemaakt rondom huis.
+1701,166,2026-10-25T05:41:36,"Boodschappen gedaan, deels met hulp."
+1702,166,2026-11-03T01:41:36,"Boodschappen gedaan, deels met hulp."
+1703,166,2026-11-08T00:41:36,"Boodschappen gedaan, deels met hulp."
+1704,166,2026-10-16T03:41:36,Korte wandeling gemaakt rondom huis.
+1705,167,2026-10-27T14:08:32,Korte wandeling gemaakt rondom huis.
+1706,167,2026-10-29T09:08:32,"Tuinwerk gedaan, aangepast tempo."
+1707,167,2026-11-04T15:08:32,"Tuinwerk gedaan, aangepast tempo."
+1708,167,2026-11-05T19:08:32,Fysiotherapie-oefeningen thuis uitgevoerd.
+1709,167,2026-11-08T09:08:32,Lichte fietstocht gemaakt.
+1710,167,2026-11-16T13:08:32,Sportactiviteit voorzichtig hervat (zwemmen).
+1711,167,2026-11-14T11:08:32,Sportactiviteit voorzichtig hervat (zwemmen).
+1712,167,2026-11-17T17:08:32,Trap gelopen zonder hulpmiddel.
+1713,167,2026-11-12T12:08:32,Trap gelopen zonder hulpmiddel.
+1714,167,2026-11-05T11:08:32,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1715,167,2026-12-16T20:08:32,Korte wandeling gemaakt rondom huis.
+1716,167,2026-12-21T08:08:32,Korte wandeling gemaakt rondom huis.
+1717,168,2026-02-16T16:34:53,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1718,168,2026-02-21T16:34:53,Dag met veel rust vanwege vermoeidheid.
+1719,168,2026-02-24T20:34:53,Lichte fietstocht gemaakt.
+1720,168,2026-02-19T21:34:53,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1721,168,2026-03-04T13:34:53,Sportactiviteit voorzichtig hervat (zwemmen).
+1722,168,2026-03-03T22:34:53,Trap gelopen zonder hulpmiddel.
+1723,168,2026-03-12T21:34:53,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1724,168,2026-03-16T23:34:53,"Tuinwerk gedaan, aangepast tempo."
+1725,168,2026-03-12T14:34:53,Dag met veel rust vanwege vermoeidheid.
+1726,168,2026-04-02T12:34:53,Dag met veel rust vanwege vermoeidheid.
+1727,168,2026-02-26T15:34:53,Lange wandeling gemaakt zonder klachten.
+1728,168,2026-02-27T18:34:53,Korte wandeling gemaakt rondom huis.
+1729,169,2026-01-05T07:32:02,"Tuinwerk gedaan, aangepast tempo."
+1730,169,2026-01-10T10:32:02,Fysiotherapie-oefeningen thuis uitgevoerd.
+1731,169,2026-01-09T09:32:02,Korte wandeling gemaakt rondom huis.
+1732,169,2026-01-14T13:32:02,Fysiotherapie-oefeningen thuis uitgevoerd.
+1733,169,2026-01-21T04:32:02,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1734,170,2026-06-14T23:41:52,Dag met veel rust vanwege vermoeidheid.
+1735,170,2026-06-18T11:41:52,Rustdag gehouden op advies van de arts.
+1736,170,2026-06-22T19:41:52,Lange wandeling gemaakt zonder klachten.
+1737,170,2026-06-23T20:41:52,"Boodschappen gedaan, deels met hulp."
+1738,170,2026-06-26T23:41:52,Rustdag gehouden op advies van de arts.
+1739,170,2026-07-04T12:41:52,Sportactiviteit voorzichtig hervat (zwemmen).
+1740,170,2026-07-08T13:41:52,"Boodschappen gedaan, deels met hulp."
+1741,170,2026-07-19T13:41:52,Rustdag gehouden op advies van de arts.
+1742,171,2026-12-12T00:02:39,Rustdag gehouden op advies van de arts.
+1743,171,2026-12-13T20:02:39,Lange wandeling gemaakt zonder klachten.
+1744,171,2026-12-19T21:02:39,Korte wandeling gemaakt rondom huis.
+1745,171,2026-12-23T23:02:39,Rustdag gehouden op advies van de arts.
+1746,171,2026-12-16T05:02:39,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1747,171,2026-12-26T18:02:39,Fysiotherapie-oefeningen thuis uitgevoerd.
+1748,171,2026-12-18T05:02:39,Dag met veel rust vanwege vermoeidheid.
+1749,171,2026-12-25T22:02:39,Korte wandeling gemaakt rondom huis.
+1750,171,2027-01-13T00:02:39,Rustdag gehouden op advies van de arts.
+1751,171,2027-01-26T01:02:39,Korte wandeling gemaakt rondom huis.
+1752,171,2027-01-01T01:02:39,Sportactiviteit voorzichtig hervat (zwemmen).
+1753,171,2027-01-25T03:02:39,"Boodschappen gedaan, deels met hulp."
+1754,171,2027-02-10T00:02:39,Fysiotherapie-oefeningen thuis uitgevoerd.
+1755,172,2025-07-21T16:16:19,"Boodschappen gedaan, deels met hulp."
+1756,172,2025-07-24T10:16:19,Sportactiviteit voorzichtig hervat (zwemmen).
+1757,172,2025-07-29T13:16:19,"Tuinwerk gedaan, aangepast tempo."
+1758,172,2025-07-24T18:16:19,Trap gelopen zonder hulpmiddel.
+1759,172,2025-08-02T19:16:19,"Boodschappen gedaan, deels met hulp."
+1760,173,2025-11-27T00:07:06,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1761,173,2025-11-27T15:07:06,Fysiotherapie-oefeningen thuis uitgevoerd.
+1762,173,2025-12-02T19:07:06,Dag met veel rust vanwege vermoeidheid.
+1763,173,2025-12-11T17:07:06,Dag met veel rust vanwege vermoeidheid.
+1764,173,2025-12-04T22:07:06,Dag met veel rust vanwege vermoeidheid.
+1765,173,2025-12-16T17:07:06,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1766,173,2025-12-08T18:07:06,Sportactiviteit voorzichtig hervat (zwemmen).
+1767,173,2025-12-24T22:07:06,"Tuinwerk gedaan, aangepast tempo."
+1768,173,2026-01-05T16:07:06,Rustdag gehouden op advies van de arts.
+1769,173,2025-12-23T23:07:06,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1770,173,2025-12-06T17:07:06,Lichte fietstocht gemaakt.
+1771,173,2025-12-18T21:07:06,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1772,173,2025-12-20T16:07:06,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1773,174,2026-09-09T03:12:52,Lichte fietstocht gemaakt.
+1774,174,2026-09-09T21:12:52,Sportactiviteit voorzichtig hervat (zwemmen).
+1775,174,2026-09-11T00:12:52,Fysiotherapie-oefeningen thuis uitgevoerd.
+1776,174,2026-09-11T23:12:52,Fysiotherapie-oefeningen thuis uitgevoerd.
+1777,174,2026-09-17T04:12:52,Sportactiviteit voorzichtig hervat (zwemmen).
+1778,174,2026-09-24T06:12:52,Werk gedeeltelijk hervat (aangepaste taken).
+1779,174,2026-10-02T23:12:52,"Tuinwerk gedaan, aangepast tempo."
+1780,175,2026-07-24T17:57:12,"Tuinwerk gedaan, aangepast tempo."
+1781,175,2026-07-26T18:57:12,Korte wandeling gemaakt rondom huis.
+1782,175,2026-07-30T14:57:12,Fysiotherapie-oefeningen thuis uitgevoerd.
+1783,175,2026-08-05T09:57:12,Dag met veel rust vanwege vermoeidheid.
+1784,175,2026-08-05T13:57:12,"Boodschappen gedaan, deels met hulp."
+1785,175,2026-08-03T11:57:12,Korte wandeling gemaakt rondom huis.
+1786,175,2026-08-05T14:57:12,Lange wandeling gemaakt zonder klachten.
+1787,176,2025-09-21T02:44:09,Dag met veel rust vanwege vermoeidheid.
+1788,176,2025-09-23T22:44:09,Dag met veel rust vanwege vermoeidheid.
+1789,176,2025-09-22T21:44:09,Dag met veel rust vanwege vermoeidheid.
+1790,176,2025-10-06T02:44:09,"Boodschappen gedaan, deels met hulp."
+1791,176,2025-10-07T02:44:09,Korte wandeling gemaakt rondom huis.
+1792,176,2025-10-11T01:44:09,Lichte fietstocht gemaakt.
+1793,176,2025-10-14T23:44:09,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1794,176,2025-10-18T23:44:09,Korte wandeling gemaakt rondom huis.
+1795,176,2025-10-15T01:44:09,Korte wandeling gemaakt rondom huis.
+1796,176,2025-10-17T20:44:09,Dag met veel rust vanwege vermoeidheid.
+1797,176,2025-09-30T16:44:09,Dag met veel rust vanwege vermoeidheid.
+1798,176,2025-10-23T20:44:09,Sportactiviteit voorzichtig hervat (zwemmen).
+1799,176,2025-10-02T15:44:09,Fysiotherapie-oefeningen thuis uitgevoerd.
+1800,176,2025-10-03T16:44:09,Sportactiviteit voorzichtig hervat (zwemmen).
+1801,176,2025-10-19T01:44:09,"Boodschappen gedaan, deels met hulp."
+1802,177,2026-03-08T20:20:14,"Tuinwerk gedaan, aangepast tempo."
+1803,177,2026-03-12T01:20:14,Lange wandeling gemaakt zonder klachten.
+1804,177,2026-03-18T22:20:14,Korte wandeling gemaakt rondom huis.
+1805,177,2026-03-20T22:20:14,Sportactiviteit voorzichtig hervat (zwemmen).
+1806,177,2026-03-16T16:20:14,Werk gedeeltelijk hervat (aangepaste taken).
+1807,177,2026-03-28T19:20:14,Rustdag gehouden op advies van de arts.
+1808,177,2026-03-15T03:20:14,Werk gedeeltelijk hervat (aangepaste taken).
+1809,177,2026-03-22T20:20:14,Lange wandeling gemaakt zonder klachten.
+1810,177,2026-04-01T18:20:14,Fysiotherapie-oefeningen thuis uitgevoerd.
+1811,177,2026-04-04T19:20:14,Sportactiviteit voorzichtig hervat (zwemmen).
+1812,177,2026-04-28T03:20:14,Sportactiviteit voorzichtig hervat (zwemmen).
+1813,177,2026-03-30T23:20:14,"Tuinwerk gedaan, aangepast tempo."
+1814,178,2026-08-23T12:28:55,"Boodschappen gedaan, deels met hulp."
+1815,178,2026-08-24T02:28:55,Fysiotherapie-oefeningen thuis uitgevoerd.
+1816,178,2026-09-02T07:28:55,"Boodschappen gedaan, deels met hulp."
+1817,178,2026-09-07T07:28:55,Sportactiviteit voorzichtig hervat (zwemmen).
+1818,178,2026-09-08T09:28:55,Fysiotherapie-oefeningen thuis uitgevoerd.
+1819,178,2026-09-07T05:28:55,Korte wandeling gemaakt rondom huis.
+1820,178,2026-09-04T02:28:55,Lange wandeling gemaakt zonder klachten.
+1821,178,2026-08-30T08:28:55,Rustdag gehouden op advies van de arts.
+1822,178,2026-09-24T03:28:55,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1823,178,2026-09-01T08:28:55,Trap gelopen zonder hulpmiddel.
+1824,178,2026-10-12T05:28:55,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1825,178,2026-10-06T12:28:55,Rustdag gehouden op advies van de arts.
+1826,178,2026-09-16T03:28:55,Rustdag gehouden op advies van de arts.
+1827,178,2026-09-05T13:28:55,"Tuinwerk gedaan, aangepast tempo."
+1828,178,2026-09-20T11:28:55,Lange wandeling gemaakt zonder klachten.
+1829,179,2025-01-12T17:32:47,Fysiotherapie-oefeningen thuis uitgevoerd.
+1830,179,2025-01-14T13:32:47,"Tuinwerk gedaan, aangepast tempo."
+1831,179,2025-01-18T20:32:47,Korte wandeling gemaakt rondom huis.
+1832,179,2025-01-21T15:32:47,Sportactiviteit voorzichtig hervat (zwemmen).
+1833,179,2025-01-21T00:32:47,Rustdag gehouden op advies van de arts.
+1834,179,2025-01-27T14:32:47,"Tuinwerk gedaan, aangepast tempo."
+1835,179,2025-01-24T22:32:47,Lichte fietstocht gemaakt.
+1836,179,2025-02-03T01:32:47,Korte wandeling gemaakt rondom huis.
+1837,180,2026-01-03T23:16:58,Lichte fietstocht gemaakt.
+1838,180,2026-01-06T14:16:58,Lichte fietstocht gemaakt.
+1839,180,2026-01-09T16:16:58,Fysiotherapie-oefeningen thuis uitgevoerd.
+1840,180,2026-01-06T15:16:58,Rustdag gehouden op advies van de arts.
+1841,180,2026-01-23T21:16:58,Dag met veel rust vanwege vermoeidheid.
+1842,180,2026-01-08T19:16:58,Fysiotherapie-oefeningen thuis uitgevoerd.
+1843,180,2026-01-10T02:16:58,Lange wandeling gemaakt zonder klachten.
+1844,180,2026-02-07T16:16:58,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1845,180,2026-02-13T00:16:58,Dag met veel rust vanwege vermoeidheid.
+1846,180,2026-01-21T18:16:58,Werk gedeeltelijk hervat (aangepaste taken).
+1847,180,2026-02-12T16:16:58,Lange wandeling gemaakt zonder klachten.
+1848,180,2026-02-16T16:16:58,Lichte fietstocht gemaakt.
+1849,181,2026-06-20T09:05:54,"Tuinwerk gedaan, aangepast tempo."
+1850,181,2026-06-21T08:05:54,Dag met veel rust vanwege vermoeidheid.
+1851,181,2026-06-30T07:05:54,Trap gelopen zonder hulpmiddel.
+1852,181,2026-06-26T17:05:54,Lange wandeling gemaakt zonder klachten.
+1853,181,2026-06-28T15:05:54,Rustdag gehouden op advies van de arts.
+1854,181,2026-07-10T11:05:54,"Boodschappen gedaan, deels met hulp."
+1855,181,2026-07-20T12:05:54,Dag met veel rust vanwege vermoeidheid.
+1856,181,2026-07-18T09:05:54,Lange wandeling gemaakt zonder klachten.
+1857,182,2025-11-28T06:46:54,"Tuinwerk gedaan, aangepast tempo."
+1858,182,2025-12-03T09:46:54,Korte wandeling gemaakt rondom huis.
+1859,182,2025-12-08T15:46:54,Lichte fietstocht gemaakt.
+1860,182,2025-12-13T13:46:54,Sportactiviteit voorzichtig hervat (zwemmen).
+1861,182,2025-12-14T12:46:54,Korte wandeling gemaakt rondom huis.
+1862,182,2025-12-03T10:46:54,"Tuinwerk gedaan, aangepast tempo."
+1863,182,2025-12-16T09:46:54,Rustdag gehouden op advies van de arts.
+1864,183,2026-04-20T20:06:47,Sportactiviteit voorzichtig hervat (zwemmen).
+1865,183,2026-04-21T20:06:47,Lichte fietstocht gemaakt.
+1866,183,2026-04-29T02:06:47,Rustdag gehouden op advies van de arts.
+1867,183,2026-04-23T19:06:47,"Boodschappen gedaan, deels met hulp."
+1868,183,2026-04-24T17:06:47,Sportactiviteit voorzichtig hervat (zwemmen).
+1869,184,2026-09-28T16:54:35,Trap gelopen zonder hulpmiddel.
+1870,184,2026-10-02T00:54:35,Dag met veel rust vanwege vermoeidheid.
+1871,184,2026-10-08T12:54:35,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1872,184,2026-10-07T19:54:35,Werk gedeeltelijk hervat (aangepaste taken).
+1873,184,2026-10-18T21:54:35,"Tuinwerk gedaan, aangepast tempo."
+1874,184,2026-10-23T17:54:35,Trap gelopen zonder hulpmiddel.
+1875,184,2026-10-28T15:54:35,Lange wandeling gemaakt zonder klachten.
+1876,184,2026-10-26T14:54:35,Lichte fietstocht gemaakt.
+1877,184,2026-10-07T00:54:35,Rustdag gehouden op advies van de arts.
+1878,184,2026-11-12T21:54:35,Werk gedeeltelijk hervat (aangepaste taken).
+1879,184,2026-11-07T16:54:35,Korte wandeling gemaakt rondom huis.
+1880,184,2026-11-11T14:54:35,Trap gelopen zonder hulpmiddel.
+1881,184,2026-11-27T17:54:35,Dag met veel rust vanwege vermoeidheid.
+1882,185,2026-01-19T10:19:56,Sportactiviteit voorzichtig hervat (zwemmen).
+1883,185,2026-01-20T04:19:56,Rustdag gehouden op advies van de arts.
+1884,185,2026-01-23T11:19:56,Sportactiviteit voorzichtig hervat (zwemmen).
+1885,185,2026-01-22T11:19:56,Lichte fietstocht gemaakt.
+1886,185,2026-01-23T04:19:56,"Boodschappen gedaan, deels met hulp."
+1887,185,2026-01-29T07:19:56,Lange wandeling gemaakt zonder klachten.
+1888,185,2026-01-25T02:19:56,Trap gelopen zonder hulpmiddel.
+1889,185,2026-02-16T11:19:56,"Boodschappen gedaan, deels met hulp."
+1890,186,2026-10-31T08:50:12,Fysiotherapie-oefeningen thuis uitgevoerd.
+1891,186,2026-11-05T10:50:12,Sportactiviteit voorzichtig hervat (zwemmen).
+1892,186,2026-11-04T02:50:12,Werk gedeeltelijk hervat (aangepaste taken).
+1893,186,2026-11-12T11:50:12,Sportactiviteit voorzichtig hervat (zwemmen).
+1894,186,2026-11-08T05:50:12,Trap gelopen zonder hulpmiddel.
+1895,186,2026-11-15T04:50:12,Trap gelopen zonder hulpmiddel.
+1896,186,2026-11-06T10:50:12,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1897,186,2026-11-28T12:50:12,Lange wandeling gemaakt zonder klachten.
+1898,186,2026-11-24T12:50:12,Fysiotherapie-oefeningen thuis uitgevoerd.
+1899,186,2026-12-15T02:50:12,Rustdag gehouden op advies van de arts.
+1900,187,2027-06-22T18:01:57,"Boodschappen gedaan, deels met hulp."
+1901,187,2027-06-23T23:01:57,Lichte fietstocht gemaakt.
+1902,187,2027-06-30T17:01:57,"Boodschappen gedaan, deels met hulp."
+1903,187,2027-07-01T20:01:57,Lange wandeling gemaakt zonder klachten.
+1904,187,2027-07-08T18:01:57,Werk gedeeltelijk hervat (aangepaste taken).
+1905,187,2027-07-07T23:01:57,"Boodschappen gedaan, deels met hulp."
+1906,187,2027-07-04T20:01:57,"Boodschappen gedaan, deels met hulp."
+1907,187,2027-07-06T15:01:57,Lange wandeling gemaakt zonder klachten.
+1908,187,2027-08-01T22:01:57,Werk gedeeltelijk hervat (aangepaste taken).
+1909,187,2027-07-01T17:01:57,"Boodschappen gedaan, deels met hulp."
+1910,188,2025-10-22T08:56:01,Lichte fietstocht gemaakt.
+1911,188,2025-10-24T13:56:01,Werk gedeeltelijk hervat (aangepaste taken).
+1912,188,2025-10-30T13:56:01,Werk gedeeltelijk hervat (aangepaste taken).
+1913,188,2025-11-06T11:56:01,Rustdag gehouden op advies van de arts.
+1914,188,2025-10-30T09:56:01,Lange wandeling gemaakt zonder klachten.
+1915,188,2025-11-06T07:56:01,Korte wandeling gemaakt rondom huis.
+1916,188,2025-11-09T13:56:01,Lichte fietstocht gemaakt.
+1917,189,2026-11-08T00:00:40,"Tuinwerk gedaan, aangepast tempo."
+1918,189,2026-11-12T00:00:40,Dag met veel rust vanwege vermoeidheid.
+1919,189,2026-11-16T02:00:40,Werk gedeeltelijk hervat (aangepaste taken).
+1920,189,2026-11-20T07:00:40,Lichte fietstocht gemaakt.
+1921,189,2026-11-24T06:00:40,Werk gedeeltelijk hervat (aangepaste taken).
+1922,189,2026-11-23T09:00:40,Fysiotherapie-oefeningen thuis uitgevoerd.
+1923,189,2026-11-19T21:00:40,Lange wandeling gemaakt zonder klachten.
+1924,189,2026-11-29T05:00:40,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1925,189,2026-11-24T04:00:40,Dag met veel rust vanwege vermoeidheid.
+1926,189,2026-12-04T21:00:40,Dag met veel rust vanwege vermoeidheid.
+1927,189,2026-12-08T01:00:40,Werk gedeeltelijk hervat (aangepaste taken).
+1928,189,2026-12-11T09:00:40,"Tuinwerk gedaan, aangepast tempo."
+1929,189,2026-12-26T04:00:40,Rustdag gehouden op advies van de arts.
+1930,189,2026-11-21T08:00:40,Werk gedeeltelijk hervat (aangepaste taken).
+1931,189,2026-12-06T07:00:40,Lange wandeling gemaakt zonder klachten.
+1932,190,2027-06-22T11:29:20,Werk gedeeltelijk hervat (aangepaste taken).
+1933,190,2027-06-26T17:29:20,Lichte fietstocht gemaakt.
+1934,190,2027-06-28T13:29:20,Fysiotherapie-oefeningen thuis uitgevoerd.
+1935,190,2027-07-07T19:29:20,Lichte fietstocht gemaakt.
+1936,190,2027-06-30T11:29:20,"Boodschappen gedaan, deels met hulp."
+1937,190,2027-07-07T17:29:20,Trap gelopen zonder hulpmiddel.
+1938,190,2027-07-16T22:29:20,Sportactiviteit voorzichtig hervat (zwemmen).
+1939,190,2027-07-06T11:29:20,Fysiotherapie-oefeningen thuis uitgevoerd.
+1940,190,2027-06-30T21:29:20,Rustdag gehouden op advies van de arts.
+1941,190,2027-07-01T20:29:20,Lichte fietstocht gemaakt.
+1942,190,2027-07-12T17:29:20,Lichte fietstocht gemaakt.
+1943,190,2027-08-05T18:29:20,"Boodschappen gedaan, deels met hulp."
+1944,190,2027-08-09T13:29:20,Lange wandeling gemaakt zonder klachten.
+1945,190,2027-07-18T17:29:20,Trap gelopen zonder hulpmiddel.
+1946,191,2027-07-12T19:14:37,Trap gelopen zonder hulpmiddel.
+1947,191,2027-07-15T21:14:37,Lange wandeling gemaakt zonder klachten.
+1948,191,2027-07-22T16:14:37,Lichte fietstocht gemaakt.
+1949,191,2027-07-18T17:14:37,Fysiotherapie-oefeningen thuis uitgevoerd.
+1950,191,2027-07-16T16:14:37,"Tuinwerk gedaan, aangepast tempo."
+1951,191,2027-07-17T15:14:37,Lange wandeling gemaakt zonder klachten.
+1952,191,2027-08-11T14:14:37,Werk gedeeltelijk hervat (aangepaste taken).
+1953,192,2027-01-16T05:48:13,Dag met veel rust vanwege vermoeidheid.
+1954,192,2027-01-20T06:48:13,Dag met veel rust vanwege vermoeidheid.
+1955,192,2027-01-26T09:48:13,Fysiotherapie-oefeningen thuis uitgevoerd.
+1956,192,2027-01-19T03:48:13,Werk gedeeltelijk hervat (aangepaste taken).
+1957,192,2027-02-01T07:48:13,Sportactiviteit voorzichtig hervat (zwemmen).
+1958,192,2027-02-09T22:48:13,Trap gelopen zonder hulpmiddel.
+1959,192,2027-02-09T06:48:13,Fysiotherapie-oefeningen thuis uitgevoerd.
+1960,192,2027-02-13T04:48:13,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1961,192,2027-02-09T09:48:13,"Tuinwerk gedaan, aangepast tempo."
+1962,192,2027-03-02T07:48:13,Werk gedeeltelijk hervat (aangepaste taken).
+1963,192,2027-02-25T00:48:13,"Boodschappen gedaan, deels met hulp."
+1964,192,2027-02-07T02:48:13,Werk gedeeltelijk hervat (aangepaste taken).
+1965,192,2027-01-28T09:48:13,Sportactiviteit voorzichtig hervat (zwemmen).
+1966,192,2027-03-22T07:48:13,Korte wandeling gemaakt rondom huis.
+1967,193,2026-01-21T09:42:04,Trap gelopen zonder hulpmiddel.
+1968,193,2026-01-26T10:42:04,Trap gelopen zonder hulpmiddel.
+1969,193,2026-01-31T12:42:04,Sportactiviteit voorzichtig hervat (zwemmen).
+1970,193,2026-01-27T15:42:04,Fysiotherapie-oefeningen thuis uitgevoerd.
+1971,193,2026-01-29T10:42:04,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1972,193,2026-02-05T14:42:04,Dag met veel rust vanwege vermoeidheid.
+1973,193,2026-02-02T09:42:04,"Tuinwerk gedaan, aangepast tempo."
+1974,193,2026-02-18T08:42:04,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+1975,193,2026-02-06T14:42:04,"Tuinwerk gedaan, aangepast tempo."
+1976,193,2026-02-17T15:42:04,Werk gedeeltelijk hervat (aangepaste taken).
+1977,193,2026-02-10T10:42:04,Korte wandeling gemaakt rondom huis.
+1978,193,2026-02-01T13:42:04,Dag met veel rust vanwege vermoeidheid.
+1979,194,2026-04-11T03:22:50,Rustdag gehouden op advies van de arts.
+1980,194,2026-04-16T01:22:50,Lange wandeling gemaakt zonder klachten.
+1981,194,2026-04-20T18:22:50,Fysiotherapie-oefeningen thuis uitgevoerd.
+1982,194,2026-04-14T04:22:50,Trap gelopen zonder hulpmiddel.
+1983,194,2026-04-26T23:22:50,Werk gedeeltelijk hervat (aangepaste taken).
+1984,194,2026-04-30T21:22:50,Trap gelopen zonder hulpmiddel.
+1985,194,2026-04-29T00:22:50,"Tuinwerk gedaan, aangepast tempo."
+1986,194,2026-05-02T04:22:50,Trap gelopen zonder hulpmiddel.
+1987,195,2025-08-09T19:25:39,Fysiotherapie-oefeningen thuis uitgevoerd.
+1988,195,2025-08-11T21:25:39,Dag met veel rust vanwege vermoeidheid.
+1989,195,2025-08-17T15:25:39,Trap gelopen zonder hulpmiddel.
+1990,195,2025-08-19T00:25:39,Lichte fietstocht gemaakt.
+1991,195,2025-08-13T20:25:39,Trap gelopen zonder hulpmiddel.
+1992,195,2025-08-29T21:25:39,Rustdag gehouden op advies van de arts.
+1993,195,2025-08-15T15:25:39,Trap gelopen zonder hulpmiddel.
+1994,195,2025-08-30T22:25:39,Fysiotherapie-oefeningen thuis uitgevoerd.
+1995,195,2025-09-02T20:25:39,Fysiotherapie-oefeningen thuis uitgevoerd.
+1996,195,2025-09-24T01:25:39,Rustdag gehouden op advies van de arts.
+1997,195,2025-08-29T19:25:39,Werk gedeeltelijk hervat (aangepaste taken).
+1998,195,2025-09-23T01:25:39,Werk gedeeltelijk hervat (aangepaste taken).
+1999,195,2025-08-21T15:25:39,Lichte fietstocht gemaakt.
+2000,196,2025-01-02T22:56:09,Rustdag gehouden op advies van de arts.
+2001,196,2025-01-03T21:56:09,Fysiotherapie-oefeningen thuis uitgevoerd.
+2002,196,2025-01-06T21:56:09,Korte wandeling gemaakt rondom huis.
+2003,196,2025-01-18T00:56:09,Werk gedeeltelijk hervat (aangepaste taken).
+2004,196,2025-01-23T01:56:09,Rustdag gehouden op advies van de arts.
+2005,196,2025-01-17T21:56:09,Rustdag gehouden op advies van de arts.
+2006,196,2025-01-26T23:56:09,Trap gelopen zonder hulpmiddel.
+2007,196,2025-02-06T20:56:09,"Boodschappen gedaan, deels met hulp."
+2008,196,2025-02-12T01:56:09,Lichte fietstocht gemaakt.
+2009,196,2025-01-12T03:56:09,Lange wandeling gemaakt zonder klachten.
+2010,196,2025-01-13T00:56:09,Korte wandeling gemaakt rondom huis.
+2011,196,2025-02-05T01:56:09,"Tuinwerk gedaan, aangepast tempo."
+2012,196,2025-03-04T02:56:09,"Boodschappen gedaan, deels met hulp."
+2013,196,2025-02-10T16:56:09,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2014,197,2027-07-10T13:38:42,Werk gedeeltelijk hervat (aangepaste taken).
+2015,197,2027-07-13T13:38:42,"Tuinwerk gedaan, aangepast tempo."
+2016,197,2027-07-16T18:38:42,Lichte fietstocht gemaakt.
+2017,197,2027-07-22T20:38:42,Rustdag gehouden op advies van de arts.
+2018,197,2027-07-26T19:38:42,Dag met veel rust vanwege vermoeidheid.
+2019,197,2027-07-20T14:38:42,Lange wandeling gemaakt zonder klachten.
+2020,197,2027-07-28T15:38:42,"Tuinwerk gedaan, aangepast tempo."
+2021,197,2027-08-14T21:38:42,Rustdag gehouden op advies van de arts.
+2022,197,2027-08-03T19:38:42,Sportactiviteit voorzichtig hervat (zwemmen).
+2023,197,2027-07-28T15:38:42,Rustdag gehouden op advies van de arts.
+2024,197,2027-08-09T18:38:42,Korte wandeling gemaakt rondom huis.
+2025,197,2027-08-23T20:38:42,"Tuinwerk gedaan, aangepast tempo."
+2026,197,2027-09-08T16:38:42,Sportactiviteit voorzichtig hervat (zwemmen).
+2027,198,2025-05-17T20:50:55,"Boodschappen gedaan, deels met hulp."
+2028,198,2025-05-21T23:50:55,Lichte fietstocht gemaakt.
+2029,198,2025-05-27T16:50:55,Lichte fietstocht gemaakt.
+2030,198,2025-05-23T14:50:55,Werk gedeeltelijk hervat (aangepaste taken).
+2031,198,2025-06-02T13:50:55,Werk gedeeltelijk hervat (aangepaste taken).
+2032,198,2025-06-01T14:50:55,Sportactiviteit voorzichtig hervat (zwemmen).
+2033,198,2025-06-10T12:50:55,Lichte fietstocht gemaakt.
+2034,198,2025-06-14T22:50:55,Trap gelopen zonder hulpmiddel.
+2035,198,2025-06-26T20:50:55,"Boodschappen gedaan, deels met hulp."
+2036,198,2025-06-22T22:50:55,Rustdag gehouden op advies van de arts.
+2037,198,2025-06-06T19:50:55,Sportactiviteit voorzichtig hervat (zwemmen).
+2038,198,2025-06-08T17:50:55,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2039,198,2025-05-29T18:50:55,Trap gelopen zonder hulpmiddel.
+2040,199,2027-01-26T02:28:37,"Boodschappen gedaan, deels met hulp."
+2041,199,2027-01-29T09:28:37,Sportactiviteit voorzichtig hervat (zwemmen).
+2042,199,2027-02-01T03:28:37,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2043,199,2027-02-07T05:28:37,Lange wandeling gemaakt zonder klachten.
+2044,199,2027-02-15T04:28:37,Lichte fietstocht gemaakt.
+2045,199,2027-02-05T05:28:37,"Tuinwerk gedaan, aangepast tempo."
+2046,200,2026-12-17T09:28:29,Lichte fietstocht gemaakt.
+2047,200,2026-12-21T13:28:29,"Boodschappen gedaan, deels met hulp."
+2048,200,2026-12-27T13:28:29,Trap gelopen zonder hulpmiddel.
+2049,200,2026-12-23T16:28:29,Fysiotherapie-oefeningen thuis uitgevoerd.
+2050,200,2026-12-21T08:28:29,Dag met veel rust vanwege vermoeidheid.
+2051,200,2027-01-06T06:28:29,Trap gelopen zonder hulpmiddel.
+2052,200,2026-12-29T10:28:29,Lichte fietstocht gemaakt.
+2053,200,2027-01-14T09:28:29,Rustdag gehouden op advies van de arts.
+2054,200,2027-01-18T07:28:29,Korte wandeling gemaakt rondom huis.
+2055,200,2026-12-26T08:28:29,Lichte fietstocht gemaakt.
+2056,200,2027-01-06T16:28:29,Lange wandeling gemaakt zonder klachten.
+2057,200,2027-01-30T11:28:29,Sportactiviteit voorzichtig hervat (zwemmen).
+2058,200,2027-01-10T14:28:29,Sportactiviteit voorzichtig hervat (zwemmen).
+2059,200,2027-01-12T16:28:29,"Boodschappen gedaan, deels met hulp."
+2060,201,2025-10-12T12:18:40,Rustdag gehouden op advies van de arts.
+2061,201,2025-10-15T09:18:40,Trap gelopen zonder hulpmiddel.
+2062,201,2025-10-18T15:18:40,Lange wandeling gemaakt zonder klachten.
+2063,201,2025-10-18T18:18:40,Rustdag gehouden op advies van de arts.
+2064,201,2025-11-01T09:18:40,Korte wandeling gemaakt rondom huis.
+2065,201,2025-10-17T14:18:40,Lange wandeling gemaakt zonder klachten.
+2066,202,2026-12-17T03:55:59,Lange wandeling gemaakt zonder klachten.
+2067,202,2026-12-21T20:55:59,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2068,202,2026-12-18T20:55:59,"Tuinwerk gedaan, aangepast tempo."
+2069,202,2027-01-01T00:55:59,Trap gelopen zonder hulpmiddel.
+2070,202,2027-01-06T00:55:59,"Boodschappen gedaan, deels met hulp."
+2071,202,2026-12-27T04:55:59,Dag met veel rust vanwege vermoeidheid.
+2072,202,2026-12-29T04:55:59,Lichte fietstocht gemaakt.
+2073,203,2025-03-25T06:34:09,Sportactiviteit voorzichtig hervat (zwemmen).
+2074,203,2025-03-26T23:34:09,Fysiotherapie-oefeningen thuis uitgevoerd.
+2075,203,2025-03-31T08:34:09,Rustdag gehouden op advies van de arts.
+2076,203,2025-03-31T09:34:09,"Boodschappen gedaan, deels met hulp."
+2077,203,2025-03-29T03:34:09,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2078,203,2025-04-04T03:34:09,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2079,203,2025-04-12T01:34:09,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2080,203,2025-04-07T22:34:09,Trap gelopen zonder hulpmiddel.
+2081,203,2025-04-02T00:34:09,Dag met veel rust vanwege vermoeidheid.
+2082,203,2025-04-30T09:34:09,Fysiotherapie-oefeningen thuis uitgevoerd.
+2083,204,2027-05-03T23:20:18,Dag met veel rust vanwege vermoeidheid.
+2084,204,2027-05-06T19:20:18,Rustdag gehouden op advies van de arts.
+2085,204,2027-05-09T18:20:18,Trap gelopen zonder hulpmiddel.
+2086,204,2027-05-06T22:20:18,Lichte fietstocht gemaakt.
+2087,204,2027-05-15T19:20:18,"Tuinwerk gedaan, aangepast tempo."
+2088,204,2027-05-08T20:20:18,Dag met veel rust vanwege vermoeidheid.
+2089,204,2027-05-22T01:20:18,Dag met veel rust vanwege vermoeidheid.
+2090,204,2027-05-24T23:20:18,Werk gedeeltelijk hervat (aangepaste taken).
+2091,204,2027-05-27T19:20:18,Lichte fietstocht gemaakt.
+2092,205,2027-04-17T10:39:47,Rustdag gehouden op advies van de arts.
+2093,205,2027-04-21T05:39:47,"Tuinwerk gedaan, aangepast tempo."
+2094,205,2027-04-21T03:39:47,"Tuinwerk gedaan, aangepast tempo."
+2095,205,2027-05-02T15:39:47,Lange wandeling gemaakt zonder klachten.
+2096,205,2027-04-29T09:39:47,Werk gedeeltelijk hervat (aangepaste taken).
+2097,205,2027-05-07T05:39:47,Lange wandeling gemaakt zonder klachten.
+2098,206,2025-12-02T10:09:58,"Tuinwerk gedaan, aangepast tempo."
+2099,206,2025-12-03T09:09:58,Sportactiviteit voorzichtig hervat (zwemmen).
+2100,206,2025-12-06T00:09:58,Korte wandeling gemaakt rondom huis.
+2101,206,2025-12-11T10:09:58,Korte wandeling gemaakt rondom huis.
+2102,206,2025-12-06T01:09:58,Rustdag gehouden op advies van de arts.
+2103,206,2025-12-27T04:09:58,Dag met veel rust vanwege vermoeidheid.
+2104,206,2026-01-01T08:09:58,Lange wandeling gemaakt zonder klachten.
+2105,206,2026-01-06T00:09:58,Dag met veel rust vanwege vermoeidheid.
+2106,206,2025-12-26T06:09:58,Sportactiviteit voorzichtig hervat (zwemmen).
+2107,206,2026-01-16T11:09:58,Trap gelopen zonder hulpmiddel.
+2108,206,2026-01-01T08:09:58,Werk gedeeltelijk hervat (aangepaste taken).
+2109,206,2026-01-04T10:09:58,Lange wandeling gemaakt zonder klachten.
+2110,206,2025-12-14T07:09:58,Lange wandeling gemaakt zonder klachten.
+2111,206,2026-01-23T01:09:58,Trap gelopen zonder hulpmiddel.
+2112,206,2026-01-13T12:09:58,"Tuinwerk gedaan, aangepast tempo."
+2113,207,2025-12-31T07:34:47,Trap gelopen zonder hulpmiddel.
+2114,207,2026-01-01T09:34:47,Werk gedeeltelijk hervat (aangepaste taken).
+2115,207,2026-01-06T06:34:47,Rustdag gehouden op advies van de arts.
+2116,207,2026-01-03T09:34:47,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2117,207,2026-01-20T05:34:47,Dag met veel rust vanwege vermoeidheid.
+2118,207,2026-01-05T04:34:47,"Boodschappen gedaan, deels met hulp."
+2119,208,2027-03-29T12:17:11,Lange wandeling gemaakt zonder klachten.
+2120,208,2027-04-03T15:17:11,Rustdag gehouden op advies van de arts.
+2121,208,2027-04-08T17:17:11,Lichte fietstocht gemaakt.
+2122,208,2027-04-10T15:17:11,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2123,208,2027-04-02T08:17:11,Trap gelopen zonder hulpmiddel.
+2124,208,2027-04-08T11:17:11,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2125,208,2027-04-28T13:17:11,Werk gedeeltelijk hervat (aangepaste taken).
+2126,208,2027-04-26T18:17:11,Lichte fietstocht gemaakt.
+2127,208,2027-04-30T12:17:11,Sportactiviteit voorzichtig hervat (zwemmen).
+2128,208,2027-04-16T16:17:11,Korte wandeling gemaakt rondom huis.
+2129,208,2027-04-28T16:17:11,Trap gelopen zonder hulpmiddel.
+2130,208,2027-05-01T07:17:11,Sportactiviteit voorzichtig hervat (zwemmen).
+2131,209,2026-09-29T10:46:59,"Boodschappen gedaan, deels met hulp."
+2132,209,2026-10-02T16:46:59,Werk gedeeltelijk hervat (aangepaste taken).
+2133,209,2026-10-03T12:46:59,Korte wandeling gemaakt rondom huis.
+2134,209,2026-10-08T20:46:59,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2135,209,2026-10-03T11:46:59,Trap gelopen zonder hulpmiddel.
+2136,209,2026-10-19T15:46:59,Dag met veel rust vanwege vermoeidheid.
+2137,209,2026-10-17T09:46:59,Dag met veel rust vanwege vermoeidheid.
+2138,209,2026-10-27T09:46:59,Fysiotherapie-oefeningen thuis uitgevoerd.
+2139,209,2026-10-23T16:46:59,Lichte fietstocht gemaakt.
+2140,209,2026-11-13T08:46:59,Sportactiviteit voorzichtig hervat (zwemmen).
+2141,209,2026-10-09T11:46:59,Trap gelopen zonder hulpmiddel.
+2142,209,2026-11-01T13:46:59,Werk gedeeltelijk hervat (aangepaste taken).
+2143,209,2026-11-28T12:46:59,Lichte fietstocht gemaakt.
+2144,210,2025-11-29T06:58:50,Lichte fietstocht gemaakt.
+2145,210,2025-12-02T06:58:50,Rustdag gehouden op advies van de arts.
+2146,210,2025-12-05T08:58:50,Rustdag gehouden op advies van de arts.
+2147,210,2025-12-02T09:58:50,Lange wandeling gemaakt zonder klachten.
+2148,210,2025-12-19T03:58:50,Korte wandeling gemaakt rondom huis.
+2149,210,2025-12-19T06:58:50,Lichte fietstocht gemaakt.
+2150,210,2025-12-05T03:58:50,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2151,210,2026-01-03T01:58:50,Lichte fietstocht gemaakt.
+2152,210,2025-12-22T23:58:50,Rustdag gehouden op advies van de arts.
+2153,210,2026-01-04T01:58:50,Sportactiviteit voorzichtig hervat (zwemmen).
+2154,210,2025-12-18T22:58:50,Trap gelopen zonder hulpmiddel.
+2155,210,2026-01-23T00:58:50,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2156,210,2026-01-04T05:58:50,Fysiotherapie-oefeningen thuis uitgevoerd.
+2157,211,2026-11-23T22:52:47,Trap gelopen zonder hulpmiddel.
+2158,211,2026-11-27T23:52:47,"Tuinwerk gedaan, aangepast tempo."
+2159,211,2026-11-27T15:52:47,Rustdag gehouden op advies van de arts.
+2160,211,2026-12-02T22:52:47,Lichte fietstocht gemaakt.
+2161,211,2026-12-02T03:52:47,Lichte fietstocht gemaakt.
+2162,211,2026-12-13T20:52:47,Dag met veel rust vanwege vermoeidheid.
+2163,211,2026-12-23T18:52:47,Werk gedeeltelijk hervat (aangepaste taken).
+2164,212,2027-03-16T07:05:48,Korte wandeling gemaakt rondom huis.
+2165,212,2027-03-20T05:05:48,Rustdag gehouden op advies van de arts.
+2166,212,2027-03-20T04:05:48,Lichte fietstocht gemaakt.
+2167,212,2027-03-31T04:05:48,Lichte fietstocht gemaakt.
+2168,212,2027-04-01T06:05:48,Korte wandeling gemaakt rondom huis.
+2169,212,2027-03-31T06:05:48,Rustdag gehouden op advies van de arts.
+2170,212,2027-04-03T12:05:48,Werk gedeeltelijk hervat (aangepaste taken).
+2171,212,2027-03-23T09:05:48,Rustdag gehouden op advies van de arts.
+2172,212,2027-04-09T03:05:48,Lichte fietstocht gemaakt.
+2173,212,2027-03-25T06:05:48,Lichte fietstocht gemaakt.
+2174,212,2027-03-26T15:05:48,Trap gelopen zonder hulpmiddel.
+2175,213,2026-05-05T16:01:02,Dag met veel rust vanwege vermoeidheid.
+2176,213,2026-05-06T17:01:02,Lichte fietstocht gemaakt.
+2177,213,2026-05-11T20:01:02,Korte wandeling gemaakt rondom huis.
+2178,213,2026-05-11T22:01:02,Rustdag gehouden op advies van de arts.
+2179,213,2026-05-18T00:01:02,Fysiotherapie-oefeningen thuis uitgevoerd.
+2180,213,2026-05-15T23:01:02,"Tuinwerk gedaan, aangepast tempo."
+2181,213,2026-05-11T17:01:02,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2182,213,2026-05-19T19:01:02,Dag met veel rust vanwege vermoeidheid.
+2183,213,2026-05-29T20:01:02,"Tuinwerk gedaan, aangepast tempo."
+2184,213,2026-05-14T14:01:02,Korte wandeling gemaakt rondom huis.
+2185,213,2026-05-15T15:01:02,Fysiotherapie-oefeningen thuis uitgevoerd.
+2186,214,2026-04-02T18:21:40,"Tuinwerk gedaan, aangepast tempo."
+2187,214,2026-04-03T21:21:40,Sportactiviteit voorzichtig hervat (zwemmen).
+2188,214,2026-04-13T01:21:40,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2189,214,2026-04-11T21:21:40,Trap gelopen zonder hulpmiddel.
+2190,214,2026-04-06T22:21:40,Werk gedeeltelijk hervat (aangepaste taken).
+2191,214,2026-04-17T19:21:40,Werk gedeeltelijk hervat (aangepaste taken).
+2192,214,2026-04-20T20:21:40,Lange wandeling gemaakt zonder klachten.
+2193,214,2026-05-01T02:21:40,Fysiotherapie-oefeningen thuis uitgevoerd.
+2194,214,2026-04-27T02:21:40,Korte wandeling gemaakt rondom huis.
+2195,214,2026-04-29T18:21:40,Dag met veel rust vanwege vermoeidheid.
+2196,214,2026-04-12T23:21:40,Korte wandeling gemaakt rondom huis.
+2197,214,2026-04-24T18:21:40,Fysiotherapie-oefeningen thuis uitgevoerd.
+2198,215,2027-02-25T02:34:35,Lange wandeling gemaakt zonder klachten.
+2199,215,2027-02-26T04:34:35,"Tuinwerk gedaan, aangepast tempo."
+2200,215,2027-03-05T04:34:35,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2201,215,2027-03-12T04:34:35,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2202,215,2027-03-13T02:34:35,Lichte fietstocht gemaakt.
+2203,215,2027-03-21T23:34:35,Fysiotherapie-oefeningen thuis uitgevoerd.
+2204,215,2027-03-09T03:34:35,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2205,215,2027-03-04T06:34:35,Lichte fietstocht gemaakt.
+2206,215,2027-03-29T06:34:35,Werk gedeeltelijk hervat (aangepaste taken).
+2207,215,2027-04-02T00:34:35,"Boodschappen gedaan, deels met hulp."
+2208,215,2027-03-07T02:34:35,Rustdag gehouden op advies van de arts.
+2209,216,2025-04-21T09:02:25,Dag met veel rust vanwege vermoeidheid.
+2210,216,2025-04-26T18:02:25,Korte wandeling gemaakt rondom huis.
+2211,216,2025-04-27T16:02:25,"Boodschappen gedaan, deels met hulp."
+2212,216,2025-04-30T16:02:25,"Tuinwerk gedaan, aangepast tempo."
+2213,216,2025-05-11T13:02:25,"Boodschappen gedaan, deels met hulp."
+2214,216,2025-05-01T11:02:25,"Tuinwerk gedaan, aangepast tempo."
+2215,216,2025-04-27T07:02:25,Lichte fietstocht gemaakt.
+2216,216,2025-05-12T18:02:25,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2217,216,2025-05-15T07:02:25,Lichte fietstocht gemaakt.
+2218,216,2025-05-27T13:02:25,Lange wandeling gemaakt zonder klachten.
+2219,216,2025-05-11T16:02:25,Lichte fietstocht gemaakt.
+2220,216,2025-06-15T16:02:25,"Tuinwerk gedaan, aangepast tempo."
+2221,217,2026-12-11T06:37:52,Fysiotherapie-oefeningen thuis uitgevoerd.
+2222,217,2026-12-12T09:37:52,Trap gelopen zonder hulpmiddel.
+2223,217,2026-12-13T15:37:52,Sportactiviteit voorzichtig hervat (zwemmen).
+2224,217,2026-12-17T10:37:52,Lichte fietstocht gemaakt.
+2225,217,2026-12-27T05:37:52,Korte wandeling gemaakt rondom huis.
+2226,217,2027-01-05T14:37:52,Sportactiviteit voorzichtig hervat (zwemmen).
+2227,217,2026-12-29T04:37:52,"Tuinwerk gedaan, aangepast tempo."
+2228,218,2027-06-11T02:41:14,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2229,218,2027-06-16T10:41:14,Dag met veel rust vanwege vermoeidheid.
+2230,218,2027-06-13T09:41:14,"Tuinwerk gedaan, aangepast tempo."
+2231,218,2027-06-14T11:41:14,Dag met veel rust vanwege vermoeidheid.
+2232,218,2027-06-23T08:41:14,Rustdag gehouden op advies van de arts.
+2233,218,2027-06-26T04:41:14,Trap gelopen zonder hulpmiddel.
+2234,218,2027-06-29T12:41:14,"Tuinwerk gedaan, aangepast tempo."
+2235,218,2027-07-09T04:41:14,Lichte fietstocht gemaakt.
+2236,218,2027-07-05T12:41:14,Trap gelopen zonder hulpmiddel.
+2237,218,2027-06-20T13:41:14,"Boodschappen gedaan, deels met hulp."
+2238,218,2027-07-21T08:41:14,Werk gedeeltelijk hervat (aangepaste taken).
+2239,218,2027-06-22T14:41:14,Trap gelopen zonder hulpmiddel.
+2240,219,2025-09-30T01:38:16,Lichte fietstocht gemaakt.
+2241,219,2025-10-01T02:38:16,"Boodschappen gedaan, deels met hulp."
+2242,219,2025-10-10T05:38:16,"Boodschappen gedaan, deels met hulp."
+2243,219,2025-10-15T08:38:16,Sportactiviteit voorzichtig hervat (zwemmen).
+2244,219,2025-10-12T03:38:16,Werk gedeeltelijk hervat (aangepaste taken).
+2245,219,2025-10-25T01:38:16,"Tuinwerk gedaan, aangepast tempo."
+2246,219,2025-10-12T07:38:16,Lichte fietstocht gemaakt.
+2247,219,2025-10-28T02:38:16,Korte wandeling gemaakt rondom huis.
+2248,220,2025-11-06T21:48:56,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2249,220,2025-11-09T06:48:56,"Boodschappen gedaan, deels met hulp."
+2250,220,2025-11-11T03:48:56,Korte wandeling gemaakt rondom huis.
+2251,220,2025-11-12T22:48:56,Rustdag gehouden op advies van de arts.
+2252,220,2025-11-26T20:48:56,Fysiotherapie-oefeningen thuis uitgevoerd.
+2253,220,2025-11-27T02:48:56,"Tuinwerk gedaan, aangepast tempo."
+2254,220,2025-11-12T22:48:56,Lange wandeling gemaakt zonder klachten.
+2255,220,2025-12-04T23:48:56,Korte wandeling gemaakt rondom huis.
+2256,220,2025-11-15T01:48:56,Werk gedeeltelijk hervat (aangepaste taken).
+2257,220,2025-12-22T03:48:56,Korte wandeling gemaakt rondom huis.
+2258,221,2026-05-05T05:01:15,Rustdag gehouden op advies van de arts.
+2259,221,2026-05-08T21:01:15,Werk gedeeltelijk hervat (aangepaste taken).
+2260,221,2026-05-13T07:01:15,Lange wandeling gemaakt zonder klachten.
+2261,221,2026-05-11T01:01:15,"Tuinwerk gedaan, aangepast tempo."
+2262,221,2026-05-17T06:01:15,"Tuinwerk gedaan, aangepast tempo."
+2263,222,2026-09-03T19:33:42,Trap gelopen zonder hulpmiddel.
+2264,222,2026-09-04T23:33:42,Rustdag gehouden op advies van de arts.
+2265,222,2026-09-08T03:33:42,Rustdag gehouden op advies van de arts.
+2266,222,2026-09-13T02:33:42,Fysiotherapie-oefeningen thuis uitgevoerd.
+2267,222,2026-09-07T20:33:42,Trap gelopen zonder hulpmiddel.
+2268,222,2026-09-13T22:33:42,Dag met veel rust vanwege vermoeidheid.
+2269,222,2026-10-04T00:33:42,Korte wandeling gemaakt rondom huis.
+2270,222,2026-09-24T15:33:42,Fysiotherapie-oefeningen thuis uitgevoerd.
+2271,222,2026-09-12T02:33:42,Trap gelopen zonder hulpmiddel.
+2272,222,2026-10-10T02:33:42,Lange wandeling gemaakt zonder klachten.
+2273,222,2026-09-13T20:33:42,Werk gedeeltelijk hervat (aangepaste taken).
+2274,222,2026-09-25T23:33:42,Rustdag gehouden op advies van de arts.
+2275,222,2026-10-09T15:33:42,Rustdag gehouden op advies van de arts.
+2276,223,2026-09-16T04:54:15,Fysiotherapie-oefeningen thuis uitgevoerd.
+2277,223,2026-09-21T04:54:15,Trap gelopen zonder hulpmiddel.
+2278,223,2026-09-21T18:54:15,Fysiotherapie-oefeningen thuis uitgevoerd.
+2279,223,2026-09-25T00:54:15,"Tuinwerk gedaan, aangepast tempo."
+2280,223,2026-10-05T22:54:15,Werk gedeeltelijk hervat (aangepaste taken).
+2281,223,2026-09-20T22:54:15,Werk gedeeltelijk hervat (aangepaste taken).
+2282,223,2026-09-22T00:54:15,"Boodschappen gedaan, deels met hulp."
+2283,224,2025-10-15T16:18:47,Lange wandeling gemaakt zonder klachten.
+2284,224,2025-10-16T21:18:47,Trap gelopen zonder hulpmiddel.
+2285,224,2025-10-22T00:18:47,Korte wandeling gemaakt rondom huis.
+2286,224,2025-10-21T22:18:47,Dag met veel rust vanwege vermoeidheid.
+2287,224,2025-11-04T21:18:47,Werk gedeeltelijk hervat (aangepaste taken).
+2288,224,2025-10-30T22:18:47,Lichte fietstocht gemaakt.
+2289,224,2025-11-08T22:18:47,Werk gedeeltelijk hervat (aangepaste taken).
+2290,224,2025-10-29T19:18:47,Rustdag gehouden op advies van de arts.
+2291,224,2025-11-24T16:18:47,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2292,224,2025-11-11T20:18:47,"Boodschappen gedaan, deels met hulp."
+2293,224,2025-11-24T19:18:47,Korte wandeling gemaakt rondom huis.
+2294,224,2025-11-28T23:18:47,Werk gedeeltelijk hervat (aangepaste taken).
+2295,224,2025-12-15T00:18:47,Sportactiviteit voorzichtig hervat (zwemmen).
+2296,224,2025-11-23T17:18:47,"Tuinwerk gedaan, aangepast tempo."
+2297,225,2027-07-07T13:28:58,Korte wandeling gemaakt rondom huis.
+2298,225,2027-07-11T07:28:58,Sportactiviteit voorzichtig hervat (zwemmen).
+2299,225,2027-07-17T06:28:58,"Tuinwerk gedaan, aangepast tempo."
+2300,225,2027-07-10T03:28:58,"Boodschappen gedaan, deels met hulp."
+2301,225,2027-07-23T08:28:58,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2302,225,2027-07-17T02:28:58,Werk gedeeltelijk hervat (aangepaste taken).
+2303,225,2027-07-19T05:28:58,Werk gedeeltelijk hervat (aangepaste taken).
+2304,225,2027-07-14T08:28:58,Werk gedeeltelijk hervat (aangepaste taken).
+2305,225,2027-07-15T04:28:58,Sportactiviteit voorzichtig hervat (zwemmen).
+2306,225,2027-08-03T11:28:58,Fysiotherapie-oefeningen thuis uitgevoerd.
+2307,225,2027-08-06T06:28:58,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2308,226,2025-03-16T02:00:30,Trap gelopen zonder hulpmiddel.
+2309,226,2025-03-20T03:00:30,Trap gelopen zonder hulpmiddel.
+2310,226,2025-03-24T00:00:30,Werk gedeeltelijk hervat (aangepaste taken).
+2311,226,2025-03-25T03:00:30,Lichte fietstocht gemaakt.
+2312,226,2025-04-01T09:00:30,Lange wandeling gemaakt zonder klachten.
+2313,226,2025-03-21T01:00:30,Rustdag gehouden op advies van de arts.
+2314,227,2025-03-22T08:06:53,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2315,227,2025-03-27T10:06:53,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2316,227,2025-03-26T00:06:53,Fysiotherapie-oefeningen thuis uitgevoerd.
+2317,227,2025-03-28T05:06:53,Fysiotherapie-oefeningen thuis uitgevoerd.
+2318,227,2025-04-11T03:06:53,"Tuinwerk gedaan, aangepast tempo."
+2319,227,2025-04-11T10:06:53,Werk gedeeltelijk hervat (aangepaste taken).
+2320,227,2025-04-09T00:06:53,Sportactiviteit voorzichtig hervat (zwemmen).
+2321,227,2025-04-05T00:06:53,Fysiotherapie-oefeningen thuis uitgevoerd.
+2322,227,2025-03-29T23:06:53,Trap gelopen zonder hulpmiddel.
+2323,227,2025-05-06T09:06:53,Sportactiviteit voorzichtig hervat (zwemmen).
+2324,227,2025-05-11T02:06:53,Fysiotherapie-oefeningen thuis uitgevoerd.
+2325,228,2025-09-01T14:41:16,Werk gedeeltelijk hervat (aangepaste taken).
+2326,228,2025-09-06T15:41:16,Korte wandeling gemaakt rondom huis.
+2327,228,2025-09-03T22:41:16,Dag met veel rust vanwege vermoeidheid.
+2328,228,2025-09-16T16:41:16,"Tuinwerk gedaan, aangepast tempo."
+2329,228,2025-09-05T22:41:16,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2330,228,2025-09-16T18:41:16,Rustdag gehouden op advies van de arts.
+2331,228,2025-09-07T17:41:16,Lange wandeling gemaakt zonder klachten.
+2332,228,2025-09-29T21:41:16,Sportactiviteit voorzichtig hervat (zwemmen).
+2333,228,2025-09-09T21:41:16,Lange wandeling gemaakt zonder klachten.
+2334,228,2025-09-19T19:41:16,"Tuinwerk gedaan, aangepast tempo."
+2335,228,2025-09-11T19:41:16,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2336,228,2025-09-23T15:41:16,Sportactiviteit voorzichtig hervat (zwemmen).
+2337,228,2025-09-13T13:41:16,"Tuinwerk gedaan, aangepast tempo."
+2338,228,2025-09-27T19:41:16,Korte wandeling gemaakt rondom huis.
+2339,229,2026-09-26T01:07:11,Lange wandeling gemaakt zonder klachten.
+2340,229,2026-10-01T04:07:11,Lichte fietstocht gemaakt.
+2341,229,2026-10-04T06:07:11,Lichte fietstocht gemaakt.
+2342,229,2026-10-02T03:07:11,Rustdag gehouden op advies van de arts.
+2343,229,2026-10-04T04:07:11,Lange wandeling gemaakt zonder klachten.
+2344,230,2026-05-24T08:21:03,"Tuinwerk gedaan, aangepast tempo."
+2345,230,2026-05-25T05:21:03,Werk gedeeltelijk hervat (aangepaste taken).
+2346,230,2026-05-26T09:21:03,"Boodschappen gedaan, deels met hulp."
+2347,230,2026-06-05T14:21:03,Lange wandeling gemaakt zonder klachten.
+2348,230,2026-06-09T07:21:03,Fysiotherapie-oefeningen thuis uitgevoerd.
+2349,230,2026-05-29T12:21:03,"Boodschappen gedaan, deels met hulp."
+2350,230,2026-06-11T08:21:03,Trap gelopen zonder hulpmiddel.
+2351,230,2026-06-21T14:21:03,Fysiotherapie-oefeningen thuis uitgevoerd.
+2352,230,2026-06-09T11:21:03,Korte wandeling gemaakt rondom huis.
+2353,230,2026-06-11T11:21:03,"Tuinwerk gedaan, aangepast tempo."
+2354,230,2026-06-13T02:21:03,Fysiotherapie-oefeningen thuis uitgevoerd.
+2355,231,2025-02-01T08:34:47,Werk gedeeltelijk hervat (aangepaste taken).
+2356,231,2025-02-06T12:34:47,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2357,231,2025-02-05T12:34:47,"Tuinwerk gedaan, aangepast tempo."
+2358,231,2025-02-16T18:34:47,"Tuinwerk gedaan, aangepast tempo."
+2359,231,2025-02-09T16:34:47,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2360,231,2025-02-11T07:34:47,Lange wandeling gemaakt zonder klachten.
+2361,231,2025-02-07T10:34:47,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2362,231,2025-02-22T07:34:47,"Tuinwerk gedaan, aangepast tempo."
+2363,232,2025-03-16T17:08:04,Fysiotherapie-oefeningen thuis uitgevoerd.
+2364,232,2025-03-19T01:08:04,Lichte fietstocht gemaakt.
+2365,232,2025-03-18T20:08:04,Trap gelopen zonder hulpmiddel.
+2366,232,2025-04-01T04:08:04,Lichte fietstocht gemaakt.
+2367,232,2025-03-24T23:08:04,Sportactiviteit voorzichtig hervat (zwemmen).
+2368,232,2025-03-22T00:08:04,Werk gedeeltelijk hervat (aangepaste taken).
+2369,232,2025-04-03T20:08:04,Fysiotherapie-oefeningen thuis uitgevoerd.
+2370,232,2025-04-13T20:08:04,Trap gelopen zonder hulpmiddel.
+2371,232,2025-04-01T22:08:04,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2372,232,2025-03-26T05:08:04,Fysiotherapie-oefeningen thuis uitgevoerd.
+2373,232,2025-03-27T01:08:04,Dag met veel rust vanwege vermoeidheid.
+2374,233,2026-07-01T10:01:07,Korte wandeling gemaakt rondom huis.
+2375,233,2026-07-05T14:01:07,Trap gelopen zonder hulpmiddel.
+2376,233,2026-07-03T16:01:07,Korte wandeling gemaakt rondom huis.
+2377,233,2026-07-07T18:01:07,Fysiotherapie-oefeningen thuis uitgevoerd.
+2378,233,2026-07-17T15:01:07,Trap gelopen zonder hulpmiddel.
+2379,234,2026-06-25T22:47:13,Dag met veel rust vanwege vermoeidheid.
+2380,234,2026-06-29T03:47:13,Trap gelopen zonder hulpmiddel.
+2381,234,2026-07-01T18:47:13,Korte wandeling gemaakt rondom huis.
+2382,234,2026-07-10T17:47:13,Fysiotherapie-oefeningen thuis uitgevoerd.
+2383,234,2026-07-12T03:47:13,"Tuinwerk gedaan, aangepast tempo."
+2384,235,2025-08-22T05:30:30,Lichte fietstocht gemaakt.
+2385,235,2025-08-26T22:30:30,Lange wandeling gemaakt zonder klachten.
+2386,235,2025-08-30T05:30:30,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2387,235,2025-08-30T23:30:30,Dag met veel rust vanwege vermoeidheid.
+2388,235,2025-08-26T01:30:30,Korte wandeling gemaakt rondom huis.
+2389,235,2025-08-27T01:30:30,Lichte fietstocht gemaakt.
+2390,235,2025-09-15T05:30:30,Trap gelopen zonder hulpmiddel.
+2391,236,2026-01-08T23:00:49,Lichte fietstocht gemaakt.
+2392,236,2026-01-14T09:00:49,"Tuinwerk gedaan, aangepast tempo."
+2393,236,2026-01-15T08:00:49,Lichte fietstocht gemaakt.
+2394,236,2026-01-18T08:00:49,"Boodschappen gedaan, deels met hulp."
+2395,236,2026-01-13T09:00:49,"Tuinwerk gedaan, aangepast tempo."
+2396,236,2026-01-19T04:00:49,Fysiotherapie-oefeningen thuis uitgevoerd.
+2397,236,2026-01-21T09:00:49,Rustdag gehouden op advies van de arts.
+2398,236,2026-01-23T07:00:49,Dag met veel rust vanwege vermoeidheid.
+2399,236,2026-02-17T23:00:49,Trap gelopen zonder hulpmiddel.
+2400,236,2026-01-18T07:00:49,"Tuinwerk gedaan, aangepast tempo."
+2401,236,2026-01-19T05:00:49,Dag met veel rust vanwege vermoeidheid.
+2402,236,2026-03-05T07:00:49,Fysiotherapie-oefeningen thuis uitgevoerd.
+2403,237,2025-07-03T17:10:52,Lichte fietstocht gemaakt.
+2404,237,2025-07-06T14:10:52,Sportactiviteit voorzichtig hervat (zwemmen).
+2405,237,2025-07-09T21:10:52,Lange wandeling gemaakt zonder klachten.
+2406,237,2025-07-18T17:10:52,Lange wandeling gemaakt zonder klachten.
+2407,237,2025-07-15T16:10:52,"Tuinwerk gedaan, aangepast tempo."
+2408,237,2025-07-13T17:10:52,Trap gelopen zonder hulpmiddel.
+2409,237,2025-07-09T19:10:52,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2410,237,2025-07-24T13:10:52,Fysiotherapie-oefeningen thuis uitgevoerd.
+2411,237,2025-07-27T09:10:52,Trap gelopen zonder hulpmiddel.
+2412,237,2025-08-08T18:10:52,Lange wandeling gemaakt zonder klachten.
+2413,237,2025-07-13T18:10:52,Sportactiviteit voorzichtig hervat (zwemmen).
+2414,237,2025-08-16T20:10:52,Lichte fietstocht gemaakt.
+2415,237,2025-08-08T21:10:52,Dag met veel rust vanwege vermoeidheid.
+2416,238,2025-10-25T18:13:52,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2417,238,2025-10-27T21:13:52,Werk gedeeltelijk hervat (aangepaste taken).
+2418,238,2025-11-02T18:13:52,Rustdag gehouden op advies van de arts.
+2419,238,2025-11-09T11:13:52,Korte wandeling gemaakt rondom huis.
+2420,238,2025-10-29T11:13:52,Sportactiviteit voorzichtig hervat (zwemmen).
+2421,238,2025-11-04T18:13:52,"Boodschappen gedaan, deels met hulp."
+2422,238,2025-11-24T13:13:52,Korte wandeling gemaakt rondom huis.
+2423,239,2025-07-24T12:51:47,Lichte fietstocht gemaakt.
+2424,239,2025-07-26T14:51:47,Sportactiviteit voorzichtig hervat (zwemmen).
+2425,239,2025-08-03T18:51:47,Rustdag gehouden op advies van de arts.
+2426,239,2025-08-05T15:51:47,Dag met veel rust vanwege vermoeidheid.
+2427,239,2025-08-01T14:51:47,Lange wandeling gemaakt zonder klachten.
+2428,239,2025-08-08T17:51:47,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2429,239,2025-07-30T21:51:47,Fysiotherapie-oefeningen thuis uitgevoerd.
+2430,239,2025-08-07T09:51:47,Trap gelopen zonder hulpmiddel.
+2431,239,2025-08-25T15:51:47,Lange wandeling gemaakt zonder klachten.
+2432,239,2025-08-11T13:51:47,Korte wandeling gemaakt rondom huis.
+2433,239,2025-09-02T13:51:47,"Tuinwerk gedaan, aangepast tempo."
+2434,239,2025-08-15T16:51:47,Lange wandeling gemaakt zonder klachten.
+2435,239,2025-09-10T18:51:47,"Tuinwerk gedaan, aangepast tempo."
+2436,239,2025-08-19T14:51:47,Korte wandeling gemaakt rondom huis.
+2437,240,2026-09-26T00:35:19,Fysiotherapie-oefeningen thuis uitgevoerd.
+2438,240,2026-09-26T19:35:19,Trap gelopen zonder hulpmiddel.
+2439,240,2026-10-03T21:35:19,"Boodschappen gedaan, deels met hulp."
+2440,240,2026-10-07T18:35:19,Dag met veel rust vanwege vermoeidheid.
+2441,240,2026-10-08T02:35:19,Lange wandeling gemaakt zonder klachten.
+2442,241,2027-04-28T21:40:01,Lange wandeling gemaakt zonder klachten.
+2443,241,2027-05-03T00:40:01,Lange wandeling gemaakt zonder klachten.
+2444,241,2027-05-07T03:40:01,Fysiotherapie-oefeningen thuis uitgevoerd.
+2445,241,2027-05-02T04:40:01,Trap gelopen zonder hulpmiddel.
+2446,241,2027-05-07T07:40:01,Lange wandeling gemaakt zonder klachten.
+2447,242,2026-06-21T07:50:29,"Boodschappen gedaan, deels met hulp."
+2448,242,2026-06-23T17:50:29,Werk gedeeltelijk hervat (aangepaste taken).
+2449,242,2026-06-27T06:50:29,"Tuinwerk gedaan, aangepast tempo."
+2450,242,2026-06-27T08:50:29,Rustdag gehouden op advies van de arts.
+2451,242,2026-07-11T08:50:29,Lichte fietstocht gemaakt.
+2452,242,2026-07-11T15:50:29,Korte wandeling gemaakt rondom huis.
+2453,242,2026-06-27T06:50:29,Dag met veel rust vanwege vermoeidheid.
+2454,242,2026-07-05T12:50:29,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2455,242,2026-07-07T18:50:29,Korte wandeling gemaakt rondom huis.
+2456,243,2026-01-25T03:00:42,Werk gedeeltelijk hervat (aangepaste taken).
+2457,243,2026-01-28T06:00:42,Trap gelopen zonder hulpmiddel.
+2458,243,2026-01-27T05:00:42,Fysiotherapie-oefeningen thuis uitgevoerd.
+2459,243,2026-02-05T21:00:42,Sportactiviteit voorzichtig hervat (zwemmen).
+2460,243,2026-01-28T21:00:42,Trap gelopen zonder hulpmiddel.
+2461,243,2026-02-09T02:00:42,Lichte fietstocht gemaakt.
+2462,243,2026-02-11T21:00:42,"Tuinwerk gedaan, aangepast tempo."
+2463,243,2026-02-22T01:00:42,"Boodschappen gedaan, deels met hulp."
+2464,243,2026-02-18T05:00:42,Werk gedeeltelijk hervat (aangepaste taken).
+2465,243,2026-03-02T06:00:42,Korte wandeling gemaakt rondom huis.
+2466,243,2026-03-16T00:00:42,Lange wandeling gemaakt zonder klachten.
+2467,243,2026-03-10T00:00:42,Dag met veel rust vanwege vermoeidheid.
+2468,243,2026-03-01T22:00:42,Werk gedeeltelijk hervat (aangepaste taken).
+2469,244,2026-04-07T05:55:19,Fysiotherapie-oefeningen thuis uitgevoerd.
+2470,244,2026-04-08T08:55:19,Dag met veel rust vanwege vermoeidheid.
+2471,244,2026-04-09T09:55:19,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2472,244,2026-04-16T06:55:19,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2473,244,2026-04-23T15:55:19,Korte wandeling gemaakt rondom huis.
+2474,244,2026-05-02T08:55:19,Lange wandeling gemaakt zonder klachten.
+2475,244,2026-04-19T05:55:19,Trap gelopen zonder hulpmiddel.
+2476,244,2026-04-14T12:55:19,Rustdag gehouden op advies van de arts.
+2477,244,2026-05-01T09:55:19,Werk gedeeltelijk hervat (aangepaste taken).
+2478,244,2026-04-16T05:55:19,"Tuinwerk gedaan, aangepast tempo."
+2479,244,2026-05-27T14:55:19,Dag met veel rust vanwege vermoeidheid.
+2480,244,2026-05-21T12:55:19,Rustdag gehouden op advies van de arts.
+2481,244,2026-05-01T06:55:19,Korte wandeling gemaakt rondom huis.
+2482,244,2026-05-16T12:55:19,Lange wandeling gemaakt zonder klachten.
+2483,244,2026-05-19T04:55:19,"Tuinwerk gedaan, aangepast tempo."
+2484,245,2025-08-09T11:43:02,"Boodschappen gedaan, deels met hulp."
+2485,245,2025-08-10T12:43:02,Lichte fietstocht gemaakt.
+2486,245,2025-08-19T08:43:02,Trap gelopen zonder hulpmiddel.
+2487,245,2025-08-21T10:43:02,Trap gelopen zonder hulpmiddel.
+2488,245,2025-08-17T12:43:02,Fysiotherapie-oefeningen thuis uitgevoerd.
+2489,245,2025-08-19T13:43:02,Lichte fietstocht gemaakt.
+2490,245,2025-09-08T14:43:02,Lichte fietstocht gemaakt.
+2491,245,2025-08-16T07:43:02,Sportactiviteit voorzichtig hervat (zwemmen).
+2492,245,2025-09-02T13:43:02,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2493,245,2025-09-14T16:43:02,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2494,245,2025-08-29T13:43:02,Trap gelopen zonder hulpmiddel.
+2495,245,2025-09-11T09:43:02,Rustdag gehouden op advies van de arts.
+2496,245,2025-10-08T09:43:02,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2497,246,2025-07-09T19:40:55,"Boodschappen gedaan, deels met hulp."
+2498,246,2025-07-12T03:40:55,Lichte fietstocht gemaakt.
+2499,246,2025-07-19T18:40:55,Sportactiviteit voorzichtig hervat (zwemmen).
+2500,246,2025-07-18T22:40:55,"Tuinwerk gedaan, aangepast tempo."
+2501,246,2025-07-13T19:40:55,Trap gelopen zonder hulpmiddel.
+2502,246,2025-07-19T20:40:55,Fysiotherapie-oefeningen thuis uitgevoerd.
+2503,246,2025-07-15T18:40:55,"Tuinwerk gedaan, aangepast tempo."
+2504,246,2025-07-24T06:40:55,Fysiotherapie-oefeningen thuis uitgevoerd.
+2505,246,2025-08-10T22:40:55,Rustdag gehouden op advies van de arts.
+2506,246,2025-08-14T21:40:55,Fysiotherapie-oefeningen thuis uitgevoerd.
+2507,246,2025-08-29T02:40:55,Dag met veel rust vanwege vermoeidheid.
+2508,246,2025-09-02T18:40:55,Dag met veel rust vanwege vermoeidheid.
+2509,246,2025-08-14T19:40:55,Lange wandeling gemaakt zonder klachten.
+2510,246,2025-07-23T05:40:55,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2511,246,2025-08-20T19:40:55,Korte wandeling gemaakt rondom huis.
+2512,247,2026-12-09T23:44:22,Fysiotherapie-oefeningen thuis uitgevoerd.
+2513,247,2026-12-15T11:44:22,"Boodschappen gedaan, deels met hulp."
+2514,247,2026-12-18T00:44:22,Korte wandeling gemaakt rondom huis.
+2515,247,2026-12-16T08:44:22,Rustdag gehouden op advies van de arts.
+2516,247,2026-12-26T02:44:22,Korte wandeling gemaakt rondom huis.
+2517,247,2026-12-25T09:44:22,Sportactiviteit voorzichtig hervat (zwemmen).
+2518,247,2027-01-09T00:44:22,Fysiotherapie-oefeningen thuis uitgevoerd.
+2519,247,2026-12-24T08:44:22,Fysiotherapie-oefeningen thuis uitgevoerd.
+2520,247,2026-12-26T04:44:22,"Tuinwerk gedaan, aangepast tempo."
+2521,247,2027-01-15T06:44:22,Dag met veel rust vanwege vermoeidheid.
+2522,247,2027-01-09T00:44:22,"Boodschappen gedaan, deels met hulp."
+2523,247,2027-02-03T09:44:22,"Tuinwerk gedaan, aangepast tempo."
+2524,247,2027-01-03T09:44:22,Fysiotherapie-oefeningen thuis uitgevoerd.
+2525,247,2027-01-18T03:44:22,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2526,247,2027-02-18T02:44:22,Fysiotherapie-oefeningen thuis uitgevoerd.
+2527,248,2025-12-13T04:32:01,Lange wandeling gemaakt zonder klachten.
+2528,248,2025-12-15T01:32:01,Werk gedeeltelijk hervat (aangepaste taken).
+2529,248,2025-12-18T19:32:01,Werk gedeeltelijk hervat (aangepaste taken).
+2530,248,2025-12-15T21:32:01,Lichte fietstocht gemaakt.
+2531,248,2025-12-16T18:32:01,Trap gelopen zonder hulpmiddel.
+2532,248,2026-01-02T03:32:01,Sportactiviteit voorzichtig hervat (zwemmen).
+2533,248,2025-12-30T22:32:01,Werk gedeeltelijk hervat (aangepaste taken).
+2534,248,2025-12-26T23:32:01,Werk gedeeltelijk hervat (aangepaste taken).
+2535,248,2026-01-05T21:32:01,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2536,248,2025-12-21T21:32:01,Trap gelopen zonder hulpmiddel.
+2537,249,2027-04-26T01:56:27,Dag met veel rust vanwege vermoeidheid.
+2538,249,2027-05-01T01:56:27,Lichte fietstocht gemaakt.
+2539,249,2027-05-03T16:56:27,Werk gedeeltelijk hervat (aangepaste taken).
+2540,249,2027-05-01T16:56:27,Rustdag gehouden op advies van de arts.
+2541,249,2027-05-03T15:56:27,Korte wandeling gemaakt rondom huis.
+2542,249,2027-05-01T03:56:27,"Boodschappen gedaan, deels met hulp."
+2543,249,2027-05-08T01:56:27,Lange wandeling gemaakt zonder klachten.
+2544,249,2027-05-30T22:56:27,Rustdag gehouden op advies van de arts.
+2545,249,2027-05-11T20:56:27,Korte wandeling gemaakt rondom huis.
+2546,249,2027-05-22T20:56:27,Sportactiviteit voorzichtig hervat (zwemmen).
+2547,249,2027-06-15T03:56:27,Lichte fietstocht gemaakt.
+2548,249,2027-05-18T02:56:27,Werk gedeeltelijk hervat (aangepaste taken).
+2549,249,2027-06-01T02:56:27,Huishoudelijke taken uitgevoerd (afwas/opruimen).
+2550,250,2026-12-27T06:51:13,Rustdag gehouden op advies van de arts.
+2551,250,2026-12-30T06:51:13,Lichte fietstocht gemaakt.
+2552,250,2027-01-04T10:51:13,Korte wandeling gemaakt rondom huis.
+2553,250,2027-01-02T13:51:13,Lichte fietstocht gemaakt.
+2554,250,2027-01-16T12:51:13,Fysiotherapie-oefeningen thuis uitgevoerd.
+2555,250,2027-01-01T03:51:13,Trap gelopen zonder hulpmiddel.
+2556,250,2027-01-26T12:51:13,Dag met veel rust vanwege vermoeidheid.
+2557,250,2027-01-31T02:51:13,Lichte fietstocht gemaakt.
+2558,250,2027-01-12T10:51:13,Dag met veel rust vanwege vermoeidheid.
+2559,250,2027-02-10T04:51:13,Lange wandeling gemaakt zonder klachten.
+2560,250,2027-02-05T04:51:13,"Boodschappen gedaan, deels met hulp."
+2561,250,2027-02-09T03:51:13,Korte wandeling gemaakt rondom huis.
+2562,250,2027-02-25T07:51:13,Sportactiviteit voorzichtig hervat (zwemmen).
+2563,250,2027-02-17T14:51:13,Sportactiviteit voorzichtig hervat (zwemmen).

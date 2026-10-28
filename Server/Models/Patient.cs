@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.Diagnostics.CodeAnalysis;
+using System.ComponentModel.DataAnnotations;
 
 namespace RevaliNow.Models
 {
@@ -8,37 +7,32 @@ namespace RevaliNow.Models
         [Key]
         public int Id { get; set; }
 
-        [Required]
-        [MaxLength(50), MinLength(1)]
-        public string Voornaam { get; set; }
+        [Required, MaxLength(50)]
+        public string Voornaam { get; set; } = string.Empty;
+
+        [Required, MaxLength(50)]
+        public string Achternaam { get; set; } = string.Empty;
 
         [Required]
-        [MaxLength(50), MinLength(1)]
-        public string Achternaam { get; set; }
+        public DateOnly Geboortedatum { get; set; }
 
-        [Required]
-        public DateTime Geboortedatum { get; set; }
+        [Required, MaxLength(100)]
+        public string Adres { get; set; } = string.Empty;
 
-        [Required]
-        [MaxLength(50), MinLength(1)]
-        public string Straatnaam { get; set; }
+        [Required, MaxLength(15)]
+        public string Telefoonnummer { get; set; } = string.Empty;
 
-        [Required]
-        [MaxLength(10), MinLength(1)]
-        public string Huisnummer { get; set; }
-
-        [Required]
-        [StringLength(9)]
-        public string Telefoonnummer { get; set; }
-
-        [Required]
-        public string Email { get; set; }
+        [Required, MaxLength(100), EmailAddress]
+        public string Email { get; set; } = string.Empty;
 
         [Required]
         public int HuisartsId { get; set; }
 
         public Gebruiker? Huisarts { get; set; }
+
+        [Required]
+        public int ZorgverzekeraarId { get; set; }
+
+        public Zorgverzekeraar? Zorgverzekeraar { get; set; }
     }
 }
-
-

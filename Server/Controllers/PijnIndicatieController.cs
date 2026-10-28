@@ -1,27 +1,38 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using RevaliNow.Authorization;
 using RevaliNow.Data;
 using RevaliNow.Models;
 
-
 namespace RevaliNow.Controllers
 {
-    [Route("[controller]")]
+    [Route("patienten/{patientId:int}/pijnindicaties")]
     [ApiController]
-    public class PijnIndicatieController(RevaliNowDbContext context) : Controller
+    [Authorize(Roles = Rollen.Patient)]
+    [AlleenEigenPatient]
+    public class PijnIndicatieController(RevaliNowDbContext context) : ControllerBase
     {
         private readonly RevaliNowDbContext _context = context;
 
         [HttpGet]
-        public ActionResult<PijnIndicatie> Get()
+        public ActionResult<List<PijnIndicatie>> Get(int patientId)
         {
-            var pijnindicaties = _context.PijnIndicaties.ToList();
+            var pijnindicaties = _context.PijnIndicaties
+                .AsNoTracking()
+                .Where(p => p.PatientId == patientId)
+                .OrderByDescending(p => p.DatumTijdRegistratie)
+                .ToList();
+
             return Ok(pijnindicaties);
         }
 
-        [HttpGet("{id}")]
-        public ActionResult<PijnIndicatie> GetById(int id)
+        [HttpGet("{id:int}")]
+        public ActionResult<PijnIndicatie> GetById(int patientId, int id)
         {
-            var pijnIndicatie = _context.PijnIndicaties.Find(id);
+            var pijnIndicatie = _context.PijnIndicaties
+                .AsNoTracking()
+                .FirstOrDefault(p => p.Id == id && p.PatientId == patientId);
 
             if (pijnIndicatie == null)
             {
@@ -32,12 +43,18 @@ namespace RevaliNow.Controllers
         }
 
         [HttpPost]
-        public ActionResult<PijnIndicatie> Create([FromBody] PijnIndicatie pijnIndicatie)
+        public ActionResult<PijnIndicatie> Create(int patientId, [FromBody] PijnIndicatie pijnIndicatie)
         {
+            // De patiënt en het tijdstip komen niet uit de request, maar uit de route en de server,
+            // zodat een cliënt nooit voor iemand anders of met een verzonnen datum kan registreren.
+            pijnIndicatie.Id = 0;
+            pijnIndicatie.PatientId = patientId;
+            pijnIndicatie.DatumTijdRegistratie = DateTime.Now;
+
             _context.PijnIndicaties.Add(pijnIndicatie);
             _context.SaveChanges();
 
-            return CreatedAtAction(nameof(GetById), new { id = pijnIndicatie.Id }, pijnIndicatie);
+            return CreatedAtAction(nameof(GetById), new { patientId, id = pijnIndicatie.Id }, pijnIndicatie);
         }
     }
 }

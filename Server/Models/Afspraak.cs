@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 
 namespace RevaliNow.Models
 {
@@ -10,25 +10,23 @@ namespace RevaliNow.Models
         [Required]
         public int PatientId { get; set; }
 
+        public Patient? Patient { get; set; }
+
         [Required]
         public int RevalidatieartsId { get; set; }
+
+        public Gebruiker? Revalidatiearts { get; set; }
 
         [Required]
         public DateTime DatumTijdAfspraak { get; set; }
 
-        [Required]
+        [Required, Range(1, 480)]
         public int DuurMinuten { get; set; }
 
-        [Required]
-        [MaxLength(50), MinLength(1)]
-        public string TypeAfspraak { get; set; }
+        [Required, MaxLength(20)]
+        public string TypeAfspraak { get; set; } = string.Empty;
 
-        [Required]
-        [MaxLength(20), MinLength(1)]
-        public string Status { get; set; }
-
-        public Patient? Patient { get; set; }
-
-        public Gebruiker? Revalidatiearts { get; set; }
+        [Required, MaxLength(20)]
+        public string Status { get; set; } = string.Empty;
     }
 }

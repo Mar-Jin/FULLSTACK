@@ -23,7 +23,12 @@ services:
         condition: service_healthy
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
+      # Nederlandse tijd, zodat 'nu' (bijv. bij een pijnregistratie) klopt met de tijden in de dataset
+      - TZ=Europe/Amsterdam
       - ConnectionStrings__DefaultConnection=Server=db;Database=RevaliNow;User=sa;Password=RevaliNowPassword1!;TrustServerCertificate=True;Encrypt=False
+      # Alleen voor lokale ontwikkeling; gebruik in productie een eigen, geheime sleutel
+      - Jwt__Key=dev-only-sleutel-voor-revalinow-niet-gebruiken-in-productie
+      - Seed__PatientWachtwoord=Welkom123!
     # Do not publish backend directly; proxy will route /api to this service
   client:
     build:

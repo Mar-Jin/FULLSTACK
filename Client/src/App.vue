@@ -1,18 +1,25 @@
 <script setup>
-import { onMounted } from 'vue';
+import { watch } from 'vue';
 import { RouterView } from 'vue-router';
 import { usePatientStore } from '@/stores/patientStore';
+import { useAuthStore } from '@/stores/authStore';
 import NavigationBar from '@/components/NavigationBar.vue';
 import { useRoute } from 'vue-router';
 
 const route = useRoute();
 
 const store = usePatientStore();
+const authStore = useAuthStore();
 
-onMounted(async () => {
-  console.log("Fetching data...");
-  await store.fetchData();
-});
+// Haal de gegevens op zodra er iemand is ingelogd (ook na een refresh van de pagina),
+// en wis ze weer bij uitloggen zodat de volgende gebruiker ze niet ziet.
+watch(() => authStore.patientId, async (patientId) => {
+  if (patientId) {
+    await store.fetchData();
+  } else {
+    store.$reset();
+  }
+}, { immediate: true });
 
 </script>
 

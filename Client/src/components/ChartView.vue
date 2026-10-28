@@ -1,7 +1,7 @@
 <script setup>
 import { Line } from 'vue-chartjs';
 import 'chartjs-adapter-date-fns';
-import { ref, watch } from 'vue';
+import { computed } from 'vue';
 import {
   Chart as ChartJS,
   Title,
@@ -21,10 +21,11 @@ ChartJS.register(
 );
 
 const props = defineProps({
-  painData: Array
+  painData: { type: Array, default: () => [] }
 });
 
-const chartData = ref({
+// computed: de grafiek werkt zichzelf bij zodra de data binnenkomt of er een nieuwe registratie bij komt
+const chartData = computed(() => ({
   labels: props.painData.map(d => d.datumTijdRegistratie),
   datasets: [
     {
@@ -35,7 +36,7 @@ const chartData = ref({
       tension: 0.3,
     }
   ]
-});
+}));
 
 
 const chartOptions = {

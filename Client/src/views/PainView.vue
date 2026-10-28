@@ -3,14 +3,12 @@ import ChartView from '@/components/ChartView.vue';
 import { ref } from 'vue';
 import { usePatientStore } from '@/stores/patientStore';
 import { storeToRefs } from 'pinia';
-import axios from 'axios';
 
 const store = usePatientStore();
-const painData = store.painData || [];
+const { painData } = storeToRefs(store);
 const painScore = ref(5);
 const toelichting = ref('');
 const error = ref('');
-const patientId = painData[0]?.patientId;
 
 async function submitPijnindicatie() {
   if (painScore.value < 0 || painScore.value > 10) {
@@ -19,16 +17,9 @@ async function submitPijnindicatie() {
   }
   error.value = '';
 
-  // Maak het object dat je wil opsturen
-  const pijnIndicatieData = {
-    patientId: patientId,
-    datumTijdRegistratie: new Date().toISOString(),
-    pijnScore: painScore.value,
-    toelichting: toelichting.value
-  };
-
   try {
-    await axios.post('/api/pijnindicatie', pijnIndicatieData)
+    // De patiënt en de datum/tijd bepaalt de server zelf
+    await store.registreerPijn(Number(painScore.value), toelichting.value || null)
     alert(`Pijnscore geregistreerd: ${painScore.value}\nToelichting: ${toelichting.value}`);
     painScore.value = 5;
     toelichting.value = '';

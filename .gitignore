@@ -20,3 +20,6 @@ Thumbs.db
 
 # Opdracht en toetsmatrijs van school (niet online zetten)
 opdracht/
+
+# Lokale configuratie (eigen sleutels/wachtwoorden), zie appsettings.Development.example.json
+appsettings.Development.json

@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.Diagnostics.CodeAnalysis;
+using System.ComponentModel.DataAnnotations;
 
 namespace RevaliNow.Models
 {
@@ -11,15 +10,15 @@ namespace RevaliNow.Models
         [Required]
         public int PatientId { get; set; }
 
+        public Patient? Patient { get; set; }
+
         [Required]
         public DateTime DatumTijdRegistratie { get; set; }
 
-        [Required]
-        [Range(0, 10)]
+        [Required, Range(0, 10)]
         public int PijnScore { get; set; }
 
+        [MaxLength(500)]
         public string? Toelichting { get; set; }
-
-        public Patient? Patient { get; set; }
     }
 }

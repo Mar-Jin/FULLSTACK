@@ -1,6 +1,7 @@
-// src/stores/revaliStore.js
+// src/stores/patientStore.js
 import { defineStore } from 'pinia'
-import axios from 'axios'
+import api from '@/api'
+import { useAuthStore } from '@/stores/authStore'
 
 export const usePatientStore = defineStore('patient', {
   state: () => ({
@@ -8,7 +9,7 @@ export const usePatientStore = defineStore('patient', {
     recentPains: [],
     painData: [],
     upcomingExercises: [],
-    nextAppointment: {},
+    nextAppointment: null,
     exercises: [],
     loading: false,
     error: null
@@ -16,8 +17,14 @@ export const usePatientStore = defineStore('patient', {
 
   actions: {
     async fetchData() {
+      // Altijd de patiënt van de ingelogde gebruiker, nooit een vast ID
+      const patientId = useAuthStore().patientId
+      if (!patientId) return
+
+      this.loading = true
+      this.error = null
       try {
-        const response = await axios.get("/api/patient/1/dashboard")
+        const response = await api.get(`/patienten/${patientId}/dashboard`)
 
         this.user = response.data.user
         this.recentPains = response.data.recentPains
@@ -27,10 +34,16 @@ export const usePatientStore = defineStore('patient', {
         this.exercises = response.data.exercises
       } catch (err) {
         console.error(err)
-        this.error = err.message || 'Fout bij het ophalen van data'
+        this.error = err.response?.data?.message || err.message || 'Fout bij het ophalen van data'
       } finally {
         this.loading = false
       }
+    },
+
+    async registreerPijn(pijnScore, toelichting) {
+      const patientId = useAuthStore().patientId
+      await api.post(`/patienten/${patientId}/pijnindicaties`, { pijnScore, toelichting })
+      await this.fetchData()
     }
   }
 });

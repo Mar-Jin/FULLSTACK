@@ -1,0 +1,1719 @@
+DeclaratieID,PatientID,TypeDeclaratie,GedeclareerdDoorGebruikerID,DatumHandeling,RegelID,Omschrijving,GedeclareerdBedrag,Status
+1,1,Huisarts,10,2025-02-23T06:55:15,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Verwerkt
+2,1,Huisarts,10,2025-02-24T06:55:15,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Verwerkt
+3,1,Huisarts,10,2025-03-02T06:55:15,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Verwerkt
+4,1,Revalidatiearts,17,2025-02-16T10:30:15,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Verwerkt
+5,1,Revalidatiearts,17,2025-03-15T09:30:15,4,Controle consult 1,6000,Verwerkt
+6,1,Revalidatiearts,17,2025-04-05T15:30:15,4,Controle consult 2,6000,Verwerkt
+7,2,Huisarts,7,2026-01-12T06:26:37,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+8,2,Huisarts,7,2025-12-27T06:26:37,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+9,2,Huisarts,7,2026-01-14T06:26:37,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+10,2,Revalidatiearts,19,2026-01-02T11:00:37,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+11,2,Revalidatiearts,19,2026-01-20T11:00:37,4,Controle consult 1,6000,Verwerkt
+12,3,Huisarts,6,2026-08-26T19:06:04,1,Consult i.v.m. meniscusscheur knie,1500,Nieuw
+13,3,Huisarts,6,2026-08-26T19:06:04,1,Consult i.v.m. meniscusscheur knie,1500,Nieuw
+14,3,Revalidatiearts,20,2026-09-02T11:15:04,3,Intake revalidatie - Meniscusscheur knie,8000,Nieuw
+15,3,Revalidatiearts,20,2026-09-29T10:30:04,4,Controle consult 1,6000,Nieuw
+16,3,Revalidatiearts,20,2026-10-21T14:30:04,4,Controle consult 2,6000,Nieuw
+17,3,Revalidatiearts,20,2026-11-09T15:00:04,4,Controle consult 3,6000,Nieuw
+18,4,Huisarts,5,2026-02-14T07:16:18,1,Consult i.v.m. knieartrose,3500,Verwerkt
+19,4,Revalidatiearts,15,2026-02-20T16:15:18,3,Intake revalidatie - Knieartrose,8000,Verwerkt
+20,4,Revalidatiearts,15,2026-03-10T11:30:18,4,Controle consult 1,6000,Verwerkt
+21,4,Revalidatiearts,15,2026-03-30T15:00:18,4,Controle consult 2,6000,Verwerkt
+22,5,Huisarts,9,2025-07-10T10:32:23,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+23,5,Revalidatiearts,19,2025-07-11T14:30:23,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+24,5,Revalidatiearts,19,2025-08-04T14:30:23,4,Controle consult 1,6000,Verwerkt
+25,6,Huisarts,9,2026-08-29T11:33:19,1,Consult i.v.m. fibromyalgie,1500,Nieuw
+26,6,Revalidatiearts,14,2026-08-28T10:30:19,3,Intake revalidatie - Fibromyalgie,8000,Nieuw
+27,6,Revalidatiearts,14,2026-09-15T15:30:19,4,Controle consult 1,6000,Nieuw
+28,6,Revalidatiearts,14,2026-10-11T09:15:19,4,Controle consult 2,6000,Nieuw
+29,6,Revalidatiearts,14,2026-11-05T15:15:19,4,Controle consult 3,6000,Nieuw
+30,7,Huisarts,7,2025-05-23T12:41:41,1,Consult i.v.m. hernia l5-s1,2500,Verwerkt
+31,7,Revalidatiearts,16,2025-05-30T16:00:41,3,Intake revalidatie - Hernia L5-S1,8000,Verwerkt
+32,7,Revalidatiearts,16,2025-06-19T16:00:41,4,Controle consult 1,6000,Verwerkt
+33,8,Huisarts,7,2026-01-26T12:27:21,1,Consult i.v.m. meniscusscheur knie,2500,Nieuw
+34,8,Huisarts,7,2026-01-27T12:27:21,1,Consult i.v.m. meniscusscheur knie,2500,Nieuw
+35,8,Revalidatiearts,19,2026-01-15T13:00:21,3,Intake revalidatie - Meniscusscheur knie,8000,Nieuw
+36,8,Revalidatiearts,19,2026-02-03T14:00:21,4,Controle consult 1,6000,Nieuw
+37,8,Revalidatiearts,19,2026-02-27T10:00:21,4,Controle consult 2,6000,Nieuw
+38,8,Revalidatiearts,19,2026-03-22T11:00:21,4,Controle consult 3,6000,Nieuw
+39,8,Revalidatiearts,19,2026-04-19T09:00:21,4,Controle consult 4,6000,Nieuw
+40,9,Huisarts,2,2025-07-04T00:34:44,1,Consult i.v.m. nekhernia c5-c6,1500,Verwerkt
+41,9,Huisarts,2,2025-06-16T00:34:44,1,Consult i.v.m. nekhernia c5-c6,1500,Verwerkt
+42,9,Huisarts,2,2025-07-10T00:34:44,1,Consult i.v.m. nekhernia c5-c6,3500,Verwerkt
+43,9,Revalidatiearts,13,2025-06-24T10:00:44,3,Intake revalidatie - Nekhernia C5-C6,8000,Verwerkt
+44,9,Revalidatiearts,13,2025-07-20T15:00:44,4,Controle consult 1,6000,Verwerkt
+45,9,Revalidatiearts,13,2025-08-11T13:30:44,4,Controle consult 2,6000,Verwerkt
+46,9,Revalidatiearts,13,2025-09-06T10:15:44,4,Controle consult 3,6000,Verwerkt
+47,9,Revalidatiearts,13,2025-09-29T13:15:44,4,Controle consult 4,6000,Verwerkt
+48,10,Huisarts,2,2026-04-28T21:28:07,1,Consult i.v.m. knieartrose,3500,Verwerkt
+49,10,Huisarts,2,2026-04-26T21:28:07,1,Consult i.v.m. knieartrose,1500,Verwerkt
+50,10,Huisarts,2,2026-04-22T21:28:07,1,Consult i.v.m. knieartrose,2500,Verwerkt
+51,10,Revalidatiearts,16,2026-04-08T11:30:07,3,Intake revalidatie - Knieartrose,8000,Verwerkt
+52,10,Revalidatiearts,16,2026-05-06T09:15:07,4,Controle consult 1,6000,Verwerkt
+53,10,Revalidatiearts,16,2026-05-26T10:00:07,4,Controle consult 2,6000,Verwerkt
+54,10,Revalidatiearts,16,2026-06-22T15:30:07,4,Controle consult 3,6000,Verwerkt
+55,10,Revalidatiearts,16,2026-07-11T14:30:07,4,Controle consult 4,6000,Verwerkt
+56,11,Huisarts,5,2025-09-19T14:15:06,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+57,11,Huisarts,5,2025-09-19T14:15:06,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+58,11,Revalidatiearts,19,2025-09-06T16:30:06,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+59,11,Revalidatiearts,19,2025-10-03T11:00:06,4,Controle consult 1,6000,Verwerkt
+60,12,Huisarts,10,2026-05-14T19:49:17,1,Consult i.v.m. schouder impingement,1500,Nieuw
+61,12,Huisarts,10,2026-05-03T19:49:17,1,Consult i.v.m. schouder impingement,3500,Nieuw
+62,12,Huisarts,10,2026-05-05T19:49:17,1,Consult i.v.m. schouder impingement,1500,Nieuw
+63,12,Revalidatiearts,19,2026-05-09T11:15:17,3,Intake revalidatie - Schouder impingement,8000,Nieuw
+64,12,Revalidatiearts,19,2026-06-03T11:15:17,4,Controle consult 1,6000,Nieuw
+65,12,Revalidatiearts,19,2026-06-25T13:30:17,4,Controle consult 2,6000,Nieuw
+66,13,Huisarts,9,2026-06-10T22:43:37,1,Consult i.v.m. fibromyalgie,3500,Nieuw
+67,13,Huisarts,9,2026-06-17T22:43:37,1,Consult i.v.m. fibromyalgie,3500,Nieuw
+68,13,Revalidatiearts,12,2026-05-31T10:00:37,3,Intake revalidatie - Fibromyalgie,8000,Nieuw
+69,13,Revalidatiearts,12,2026-06-20T16:00:37,4,Controle consult 1,6000,Nieuw
+70,13,Revalidatiearts,12,2026-07-12T16:15:37,4,Controle consult 2,6000,Nieuw
+71,14,Huisarts,3,2026-01-15T00:32:46,1,Consult i.v.m. hernia l5-s1,2500,Nieuw
+72,14,Revalidatiearts,18,2026-01-20T10:00:46,3,Intake revalidatie - Hernia L5-S1,8000,Nieuw
+73,14,Revalidatiearts,18,2026-02-17T15:00:46,4,Controle consult 1,6000,Nieuw
+74,14,Revalidatiearts,18,2026-03-08T13:30:46,4,Controle consult 2,6000,Nieuw
+75,15,Huisarts,5,2026-05-14T04:47:32,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,3500,Nieuw
+76,15,Revalidatiearts,13,2026-05-02T13:30:32,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Nieuw
+77,15,Revalidatiearts,13,2026-05-27T11:15:32,4,Controle consult 1,6000,Nieuw
+78,15,Revalidatiearts,13,2026-06-20T09:30:32,4,Controle consult 2,6000,Nieuw
+79,15,Revalidatiearts,13,2026-07-12T11:30:32,4,Controle consult 3,6000,Nieuw
+80,16,Huisarts,3,2025-10-08T12:33:30,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+81,16,Huisarts,3,2025-10-27T12:33:30,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+82,16,Revalidatiearts,20,2025-10-07T13:15:30,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+83,16,Revalidatiearts,20,2025-10-26T09:00:30,4,Controle consult 1,6000,Verwerkt
+84,16,Revalidatiearts,20,2025-11-22T10:30:30,4,Controle consult 2,6000,Verwerkt
+85,16,Revalidatiearts,20,2025-12-12T09:30:30,4,Controle consult 3,6000,Verwerkt
+86,16,Revalidatiearts,20,2026-01-03T16:00:30,4,Controle consult 4,6000,Verwerkt
+87,16,Revalidatiearts,20,2026-01-22T09:30:30,4,Controle consult 5,6000,Verwerkt
+88,17,Huisarts,7,2025-04-02T22:18:25,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+89,17,Revalidatiearts,17,2025-03-26T13:00:25,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+90,17,Revalidatiearts,17,2025-04-17T09:00:25,4,Controle consult 1,6000,Verwerkt
+91,17,Revalidatiearts,17,2025-05-06T11:30:25,4,Controle consult 2,6000,Verwerkt
+92,17,Revalidatiearts,17,2025-05-29T09:00:25,4,Controle consult 3,6000,Verwerkt
+93,17,Revalidatiearts,17,2025-06-20T10:30:25,4,Controle consult 4,6000,Verwerkt
+94,17,Revalidatiearts,17,2025-07-09T09:00:25,4,Controle consult 5,6000,Verwerkt
+95,17,Revalidatiearts,17,2025-08-05T09:15:25,4,Controle consult 6,6000,Verwerkt
+96,18,Huisarts,10,2026-06-03T11:28:43,1,Consult i.v.m. enkelverstuiking graad 2,2500,Nieuw
+97,18,Huisarts,10,2026-06-08T11:28:43,1,Consult i.v.m. enkelverstuiking graad 2,2500,Nieuw
+98,18,Revalidatiearts,16,2026-05-23T11:30:43,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Nieuw
+99,18,Revalidatiearts,16,2026-06-13T14:00:43,4,Controle consult 1,6000,Nieuw
+100,18,Revalidatiearts,16,2026-07-02T14:15:43,4,Controle consult 2,6000,Nieuw
+101,18,Revalidatiearts,16,2026-07-29T16:30:43,4,Controle consult 3,6000,Nieuw
+102,18,Revalidatiearts,16,2026-08-17T14:30:43,4,Controle consult 4,6000,Nieuw
+103,19,Huisarts,9,2026-06-22T17:06:14,1,Consult i.v.m. enkelverstuiking graad 2,1500,Nieuw
+104,19,Revalidatiearts,19,2026-06-17T13:15:14,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Nieuw
+105,19,Revalidatiearts,19,2026-07-10T16:30:14,4,Controle consult 1,6000,Nieuw
+106,19,Revalidatiearts,19,2026-08-04T10:00:14,4,Controle consult 2,6000,Nieuw
+107,19,Revalidatiearts,19,2026-08-26T16:15:14,4,Controle consult 3,6000,Nieuw
+108,19,Revalidatiearts,19,2025-09-14T11:30:14,4,Controle consult 4,6000,Nieuw
+109,19,Revalidatiearts,19,2025-10-05T15:30:14,4,Controle consult 5,6000,Nieuw
+110,19,Revalidatiearts,19,2025-10-26T15:00:14,4,Controle consult 6,6000,Nieuw
+111,20,Huisarts,7,2025-06-20T08:53:49,1,Consult i.v.m. meniscusscheur knie,2500,Verwerkt
+112,20,Huisarts,7,2025-06-02T08:53:49,1,Consult i.v.m. meniscusscheur knie,2500,Verwerkt
+113,20,Revalidatiearts,17,2025-06-07T16:30:49,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+114,20,Revalidatiearts,17,2025-06-29T13:00:49,4,Controle consult 1,6000,Verwerkt
+115,20,Revalidatiearts,17,2025-07-19T16:00:49,4,Controle consult 2,6000,Verwerkt
+116,20,Revalidatiearts,17,2025-08-11T15:15:49,4,Controle consult 3,6000,Verwerkt
+117,20,Revalidatiearts,17,2025-09-07T11:30:49,4,Controle consult 4,6000,Verwerkt
+118,20,Revalidatiearts,17,2025-09-25T09:00:49,4,Controle consult 5,6000,Verwerkt
+119,20,Revalidatiearts,17,2025-10-21T15:30:49,4,Controle consult 6,6000,Verwerkt
+120,21,Huisarts,10,2026-05-17T16:32:07,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,3500,Nieuw
+121,21,Huisarts,10,2026-05-19T16:32:07,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Nieuw
+122,21,Revalidatiearts,16,2026-05-10T15:15:07,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Nieuw
+123,21,Revalidatiearts,16,2026-06-01T09:30:07,4,Controle consult 1,6000,Nieuw
+124,22,Huisarts,4,2026-06-21T09:15:32,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Nieuw
+125,22,Revalidatiearts,17,2026-06-28T11:15:32,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Nieuw
+126,22,Revalidatiearts,17,2026-07-21T11:00:32,4,Controle consult 1,6000,Nieuw
+127,22,Revalidatiearts,17,2026-08-09T13:15:32,4,Controle consult 2,6000,Nieuw
+128,22,Revalidatiearts,17,2025-09-04T10:30:32,4,Controle consult 3,6000,Nieuw
+129,22,Revalidatiearts,17,2025-09-29T15:00:32,4,Controle consult 4,6000,Nieuw
+130,22,Revalidatiearts,17,2025-10-19T13:00:32,4,Controle consult 5,6000,Nieuw
+131,23,Huisarts,5,2026-01-15T21:27:16,1,Consult i.v.m. hernia l5-s1,3500,Verwerkt
+132,23,Revalidatiearts,20,2025-12-26T09:00:16,3,Intake revalidatie - Hernia L5-S1,8000,Verwerkt
+133,23,Revalidatiearts,20,2026-01-21T16:30:16,4,Controle consult 1,6000,Verwerkt
+134,23,Revalidatiearts,20,2026-02-10T09:30:16,4,Controle consult 2,6000,Verwerkt
+135,24,Huisarts,3,2026-10-26T02:23:47,1,Consult i.v.m. chronische lage rugpijn,3500,Nieuw
+136,24,Revalidatiearts,20,2026-10-06T10:15:47,3,Intake revalidatie - Chronische lage rugpijn,8000,Nieuw
+137,24,Revalidatiearts,20,2026-10-27T10:15:47,4,Controle consult 1,6000,Nieuw
+138,24,Revalidatiearts,20,2026-11-18T15:15:47,4,Controle consult 2,6000,Nieuw
+139,24,Revalidatiearts,20,2026-12-10T09:15:47,4,Controle consult 3,6000,Nieuw
+140,24,Revalidatiearts,20,2026-01-02T14:15:47,4,Controle consult 4,6000,Nieuw
+141,24,Revalidatiearts,20,2026-01-25T16:30:47,4,Controle consult 5,6000,Nieuw
+142,24,Revalidatiearts,20,2026-02-20T13:30:47,4,Controle consult 6,6000,Nieuw
+143,24,Revalidatiearts,20,2026-03-20T16:00:47,4,Controle consult 7,6000,Nieuw
+144,25,Huisarts,7,2026-01-10T04:17:23,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+145,25,Huisarts,7,2026-01-18T04:17:23,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+146,25,Revalidatiearts,12,2026-01-16T14:15:23,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+147,25,Revalidatiearts,12,2026-02-03T13:00:23,4,Controle consult 1,6000,Verwerkt
+148,25,Revalidatiearts,12,2026-02-26T09:15:23,4,Controle consult 2,6000,Verwerkt
+149,25,Revalidatiearts,12,2026-03-24T15:15:23,4,Controle consult 3,6000,Verwerkt
+150,25,Revalidatiearts,12,2026-04-14T13:30:23,4,Controle consult 4,6000,Verwerkt
+151,25,Revalidatiearts,12,2026-05-08T16:15:23,4,Controle consult 5,6000,Verwerkt
+152,25,Revalidatiearts,12,2026-05-29T16:00:23,4,Controle consult 6,6000,Verwerkt
+153,26,Huisarts,1,2026-05-30T08:08:12,1,Consult i.v.m. nekhernia c5-c6,1500,Nieuw
+154,26,Huisarts,1,2026-05-29T08:08:12,1,Consult i.v.m. nekhernia c5-c6,1500,Nieuw
+155,26,Revalidatiearts,12,2026-05-14T15:30:12,3,Intake revalidatie - Nekhernia C5-C6,8000,Nieuw
+156,26,Revalidatiearts,12,2026-06-10T09:00:12,4,Controle consult 1,6000,Nieuw
+157,26,Revalidatiearts,12,2026-07-04T10:00:12,4,Controle consult 2,6000,Nieuw
+158,27,Huisarts,3,2026-05-31T00:36:05,1,Consult i.v.m. postoperatief herstel heupfractuur,1500,Verwerkt
+159,27,Huisarts,3,2026-06-08T00:36:05,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+160,27,Revalidatiearts,11,2026-05-27T13:00:05,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+161,27,Revalidatiearts,11,2026-06-21T16:15:05,4,Controle consult 1,6000,Verwerkt
+162,27,Revalidatiearts,11,2026-07-14T16:30:05,4,Controle consult 2,6000,Verwerkt
+163,27,Revalidatiearts,11,2026-08-06T11:00:05,4,Controle consult 3,6000,Verwerkt
+164,28,Huisarts,5,2026-01-22T13:56:54,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Nieuw
+165,28,Huisarts,5,2026-02-14T13:56:54,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,3500,Nieuw
+166,28,Revalidatiearts,19,2026-01-31T09:30:54,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Nieuw
+167,28,Revalidatiearts,19,2026-02-21T15:15:54,4,Controle consult 1,6000,Nieuw
+168,28,Revalidatiearts,19,2026-03-15T13:15:54,4,Controle consult 2,6000,Nieuw
+169,29,Huisarts,3,2025-04-29T14:08:54,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Verwerkt
+170,29,Revalidatiearts,19,2025-05-04T11:00:54,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Verwerkt
+171,29,Revalidatiearts,19,2025-05-30T14:00:54,4,Controle consult 1,6000,Verwerkt
+172,29,Revalidatiearts,19,2025-06-18T15:00:54,4,Controle consult 2,6000,Verwerkt
+173,30,Huisarts,1,2026-04-16T11:37:46,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Verwerkt
+174,30,Huisarts,1,2026-04-05T11:37:46,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Verwerkt
+175,30,Revalidatiearts,11,2026-04-05T10:30:46,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Verwerkt
+176,30,Revalidatiearts,11,2026-04-24T09:15:46,4,Controle consult 1,6000,Verwerkt
+177,30,Revalidatiearts,11,2026-05-19T09:15:46,4,Controle consult 2,6000,Verwerkt
+178,31,Huisarts,5,2026-12-27T10:45:09,1,Consult i.v.m. meniscusscheur knie,2500,Nieuw
+179,31,Revalidatiearts,18,2026-12-26T10:15:09,3,Intake revalidatie - Meniscusscheur knie,8000,Nieuw
+180,31,Revalidatiearts,18,2026-01-15T13:00:09,4,Controle consult 1,6000,Nieuw
+181,31,Revalidatiearts,18,2026-02-05T10:30:09,4,Controle consult 2,6000,Nieuw
+182,31,Revalidatiearts,18,2026-02-24T11:15:09,4,Controle consult 3,6000,Nieuw
+183,32,Huisarts,5,2026-05-22T04:08:16,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Nieuw
+184,32,Huisarts,5,2026-05-07T04:08:16,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Nieuw
+185,32,Revalidatiearts,20,2026-05-02T15:15:16,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Nieuw
+186,32,Revalidatiearts,20,2026-05-28T10:30:16,4,Controle consult 1,6000,Nieuw
+187,32,Revalidatiearts,20,2026-06-25T16:30:16,4,Controle consult 2,6000,Nieuw
+188,32,Revalidatiearts,20,2026-07-22T14:30:16,4,Controle consult 3,6000,Nieuw
+189,32,Revalidatiearts,20,2026-08-13T16:30:16,4,Controle consult 4,6000,Nieuw
+190,32,Revalidatiearts,20,2026-09-03T10:00:16,4,Controle consult 5,6000,Nieuw
+191,32,Revalidatiearts,20,2025-09-27T13:15:16,4,Controle consult 6,6000,Nieuw
+192,33,Huisarts,9,2026-08-12T03:20:49,1,Consult i.v.m. fibromyalgie,2500,Nieuw
+193,33,Huisarts,9,2026-07-29T03:20:49,1,Consult i.v.m. fibromyalgie,2500,Nieuw
+194,33,Revalidatiearts,12,2026-08-01T11:00:49,3,Intake revalidatie - Fibromyalgie,8000,Nieuw
+195,33,Revalidatiearts,12,2026-08-25T16:15:49,4,Controle consult 1,6000,Nieuw
+196,33,Revalidatiearts,12,2025-09-22T10:30:49,4,Controle consult 2,6000,Nieuw
+197,33,Revalidatiearts,12,2025-10-17T16:15:49,4,Controle consult 3,6000,Nieuw
+198,33,Revalidatiearts,12,2025-11-09T14:15:49,4,Controle consult 4,6000,Nieuw
+199,33,Revalidatiearts,12,2025-12-01T15:30:49,4,Controle consult 5,6000,Nieuw
+200,33,Revalidatiearts,12,2025-12-25T13:00:49,4,Controle consult 6,6000,Nieuw
+201,34,Huisarts,10,2025-11-21T12:03:14,1,Consult i.v.m. knieartrose,2500,Verwerkt
+202,34,Revalidatiearts,20,2025-11-02T15:00:14,3,Intake revalidatie - Knieartrose,8000,Verwerkt
+203,34,Revalidatiearts,20,2025-11-27T15:30:14,4,Controle consult 1,6000,Verwerkt
+204,34,Revalidatiearts,20,2025-12-23T11:30:14,4,Controle consult 2,6000,Verwerkt
+205,34,Revalidatiearts,20,2026-01-17T09:15:14,4,Controle consult 3,6000,Verwerkt
+206,34,Revalidatiearts,20,2026-02-09T09:15:14,4,Controle consult 4,6000,Verwerkt
+207,34,Revalidatiearts,20,2026-03-08T15:00:14,4,Controle consult 5,6000,Verwerkt
+208,34,Revalidatiearts,20,2026-04-02T16:15:14,4,Controle consult 6,6000,Verwerkt
+209,34,Revalidatiearts,20,2026-04-27T14:30:14,4,Controle consult 7,6000,Verwerkt
+210,35,Huisarts,9,2025-12-24T12:42:39,1,Consult i.v.m. fibromyalgie,3500,Verwerkt
+211,35,Huisarts,9,2026-01-02T12:42:39,1,Consult i.v.m. fibromyalgie,1500,Verwerkt
+212,35,Huisarts,9,2025-12-13T12:42:39,1,Consult i.v.m. fibromyalgie,1500,Verwerkt
+213,35,Revalidatiearts,16,2025-12-20T09:30:39,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+214,35,Revalidatiearts,16,2026-01-08T09:30:39,4,Controle consult 1,6000,Verwerkt
+215,35,Revalidatiearts,16,2026-01-28T10:15:39,4,Controle consult 2,6000,Verwerkt
+216,35,Revalidatiearts,16,2026-02-15T10:15:39,4,Controle consult 3,6000,Verwerkt
+217,35,Revalidatiearts,16,2026-03-11T14:30:39,4,Controle consult 4,6000,Verwerkt
+218,35,Revalidatiearts,16,2026-03-30T09:30:39,4,Controle consult 5,6000,Verwerkt
+219,36,Huisarts,3,2025-03-22T05:34:38,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+220,36,Huisarts,3,2025-03-06T05:34:38,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+221,36,Huisarts,3,2025-04-03T05:34:38,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+222,36,Revalidatiearts,20,2025-03-16T13:15:38,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+223,36,Revalidatiearts,20,2025-04-11T09:00:38,4,Controle consult 1,6000,Verwerkt
+224,36,Revalidatiearts,20,2025-05-05T11:15:38,4,Controle consult 2,6000,Verwerkt
+225,36,Revalidatiearts,20,2025-05-23T10:15:38,4,Controle consult 3,6000,Verwerkt
+226,36,Revalidatiearts,20,2025-06-13T15:15:38,4,Controle consult 4,6000,Verwerkt
+227,36,Revalidatiearts,20,2025-07-02T13:15:38,4,Controle consult 5,6000,Verwerkt
+228,36,Revalidatiearts,20,2025-07-28T09:00:38,4,Controle consult 6,6000,Verwerkt
+229,36,Revalidatiearts,20,2025-08-22T15:15:38,4,Controle consult 7,6000,Verwerkt
+230,37,Huisarts,6,2026-10-28T15:29:11,1,Consult i.v.m. enkelverstuiking graad 2,2500,Nieuw
+231,37,Revalidatiearts,20,2026-10-14T16:30:11,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Nieuw
+232,37,Revalidatiearts,20,2026-11-02T10:15:11,4,Controle consult 1,6000,Nieuw
+233,37,Revalidatiearts,20,2026-11-27T16:15:11,4,Controle consult 2,6000,Nieuw
+234,37,Revalidatiearts,20,2026-12-15T09:30:11,4,Controle consult 3,6000,Nieuw
+235,37,Revalidatiearts,20,2026-01-06T16:00:11,4,Controle consult 4,6000,Nieuw
+236,37,Revalidatiearts,20,2026-02-03T16:00:11,4,Controle consult 5,6000,Nieuw
+237,37,Revalidatiearts,20,2026-02-25T16:00:11,4,Controle consult 6,6000,Nieuw
+238,38,Huisarts,5,2026-04-01T11:53:04,1,Consult i.v.m. nekhernia c5-c6,1500,Nieuw
+239,38,Revalidatiearts,15,2026-03-19T14:30:04,3,Intake revalidatie - Nekhernia C5-C6,8000,Nieuw
+240,38,Revalidatiearts,15,2026-04-13T10:15:04,4,Controle consult 1,6000,Nieuw
+241,38,Revalidatiearts,15,2026-05-04T13:15:04,4,Controle consult 2,6000,Nieuw
+242,38,Revalidatiearts,15,2026-06-01T16:15:04,4,Controle consult 3,6000,Nieuw
+243,38,Revalidatiearts,15,2026-06-23T15:15:04,4,Controle consult 4,6000,Nieuw
+244,39,Huisarts,2,2026-05-06T06:25:10,1,Consult i.v.m. enkelverstuiking graad 2,2500,Nieuw
+245,39,Huisarts,2,2026-05-30T06:25:10,1,Consult i.v.m. enkelverstuiking graad 2,2500,Nieuw
+246,39,Huisarts,2,2026-05-13T06:25:10,1,Consult i.v.m. enkelverstuiking graad 2,1500,Nieuw
+247,39,Revalidatiearts,15,2026-05-10T10:15:10,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Nieuw
+248,39,Revalidatiearts,15,2026-06-07T11:30:10,4,Controle consult 1,6000,Nieuw
+249,39,Revalidatiearts,15,2026-06-28T16:30:10,4,Controle consult 2,6000,Nieuw
+250,40,Huisarts,3,2026-06-26T06:22:57,1,Consult i.v.m. sportblessure hamstring,3500,Nieuw
+251,40,Huisarts,3,2026-06-07T06:22:57,1,Consult i.v.m. sportblessure hamstring,3500,Nieuw
+252,40,Huisarts,3,2026-05-29T06:22:57,1,Consult i.v.m. sportblessure hamstring,2500,Nieuw
+253,40,Revalidatiearts,14,2026-06-06T16:00:57,3,Intake revalidatie - Sportblessure hamstring,8000,Nieuw
+254,40,Revalidatiearts,14,2026-07-04T14:00:57,4,Controle consult 1,6000,Nieuw
+255,41,Huisarts,10,2026-06-16T08:55:24,1,Consult i.v.m. schouder impingement,1500,Nieuw
+256,41,Revalidatiearts,16,2026-06-26T09:00:24,3,Intake revalidatie - Schouder impingement,8000,Nieuw
+257,41,Revalidatiearts,16,2026-07-17T13:00:24,4,Controle consult 1,6000,Nieuw
+258,41,Revalidatiearts,16,2026-08-06T11:00:24,4,Controle consult 2,6000,Nieuw
+259,41,Revalidatiearts,16,2026-08-30T11:30:24,4,Controle consult 3,6000,Nieuw
+260,41,Revalidatiearts,16,2025-09-22T14:15:24,4,Controle consult 4,6000,Nieuw
+261,41,Revalidatiearts,16,2025-10-16T11:00:24,4,Controle consult 5,6000,Nieuw
+262,41,Revalidatiearts,16,2025-11-06T16:00:24,4,Controle consult 6,6000,Nieuw
+263,41,Revalidatiearts,16,2025-11-28T09:30:24,4,Controle consult 7,6000,Nieuw
+264,42,Huisarts,2,2025-06-13T20:14:33,1,Consult i.v.m. fibromyalgie,2500,Verwerkt
+265,42,Huisarts,2,2025-07-02T20:14:33,1,Consult i.v.m. fibromyalgie,2500,Verwerkt
+266,42,Huisarts,2,2025-06-21T20:14:33,1,Consult i.v.m. fibromyalgie,2500,Verwerkt
+267,42,Revalidatiearts,16,2025-06-16T09:30:33,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+268,42,Revalidatiearts,16,2025-07-05T11:30:33,4,Controle consult 1,6000,Verwerkt
+269,42,Revalidatiearts,16,2025-07-23T13:00:33,4,Controle consult 2,6000,Verwerkt
+270,42,Revalidatiearts,16,2025-08-13T14:00:33,4,Controle consult 3,6000,Verwerkt
+271,42,Revalidatiearts,16,2025-09-06T13:00:33,4,Controle consult 4,6000,Verwerkt
+272,42,Revalidatiearts,16,2025-09-27T09:15:33,4,Controle consult 5,6000,Verwerkt
+273,43,Huisarts,4,2026-01-13T02:58:14,1,Consult i.v.m. nekhernia c5-c6,2500,Nieuw
+274,43,Huisarts,4,2026-12-24T02:58:14,1,Consult i.v.m. nekhernia c5-c6,1500,Nieuw
+275,43,Revalidatiearts,13,2026-01-01T10:30:14,3,Intake revalidatie - Nekhernia C5-C6,8000,Nieuw
+276,43,Revalidatiearts,13,2026-01-28T11:30:14,4,Controle consult 1,6000,Nieuw
+277,43,Revalidatiearts,13,2026-02-19T09:00:14,4,Controle consult 2,6000,Nieuw
+278,43,Revalidatiearts,13,2026-03-10T13:30:14,4,Controle consult 3,6000,Nieuw
+279,43,Revalidatiearts,13,2026-04-07T16:30:14,4,Controle consult 4,6000,Nieuw
+280,43,Revalidatiearts,13,2026-04-27T10:30:14,4,Controle consult 5,6000,Nieuw
+281,44,Huisarts,8,2026-07-17T03:38:58,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+282,44,Huisarts,8,2026-07-18T03:38:58,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+283,44,Huisarts,8,2026-07-26T03:38:58,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+284,44,Revalidatiearts,15,2026-07-14T14:00:58,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+285,44,Revalidatiearts,15,2026-08-06T16:00:58,4,Controle consult 1,6000,Verwerkt
+286,44,Revalidatiearts,15,2026-08-30T14:00:58,4,Controle consult 2,6000,Nieuw
+287,44,Revalidatiearts,15,2026-09-23T16:15:58,4,Controle consult 3,6000,Nieuw
+288,45,Huisarts,1,2026-11-05T04:09:36,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Nieuw
+289,45,Revalidatiearts,20,2026-10-18T10:00:36,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Nieuw
+290,45,Revalidatiearts,20,2026-11-15T16:30:36,4,Controle consult 1,6000,Nieuw
+291,45,Revalidatiearts,20,2026-12-11T13:30:36,4,Controle consult 2,6000,Nieuw
+292,45,Revalidatiearts,20,2026-01-02T10:00:36,4,Controle consult 3,6000,Nieuw
+293,46,Huisarts,5,2025-05-29T02:11:16,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+294,46,Huisarts,5,2025-05-24T02:11:16,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+295,46,Huisarts,5,2025-05-28T02:11:16,1,Consult i.v.m. postoperatief herstel heupfractuur,1500,Verwerkt
+296,46,Revalidatiearts,11,2025-05-30T15:15:16,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+297,46,Revalidatiearts,11,2025-06-19T09:00:16,4,Controle consult 1,6000,Verwerkt
+298,46,Revalidatiearts,11,2025-07-09T14:00:16,4,Controle consult 2,6000,Verwerkt
+299,47,Huisarts,5,2025-07-03T07:02:32,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+300,47,Huisarts,5,2025-06-27T07:02:32,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+301,47,Huisarts,5,2025-06-16T07:02:32,1,Consult i.v.m. schouder impingement,3500,Verwerkt
+302,47,Revalidatiearts,18,2025-06-25T13:15:32,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+303,47,Revalidatiearts,18,2025-07-15T10:15:32,4,Controle consult 1,6000,Verwerkt
+304,48,Huisarts,5,2025-03-25T01:41:49,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+305,48,Revalidatiearts,16,2025-03-29T10:30:49,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+306,48,Revalidatiearts,16,2025-04-25T14:15:49,4,Controle consult 1,6000,Verwerkt
+307,48,Revalidatiearts,16,2025-05-20T10:00:49,4,Controle consult 2,6000,Verwerkt
+308,49,Huisarts,4,2025-06-22T04:05:56,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+309,49,Huisarts,4,2025-06-23T04:05:56,1,Consult i.v.m. sportblessure hamstring,1500,Verwerkt
+310,49,Revalidatiearts,14,2025-06-16T14:00:56,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+311,49,Revalidatiearts,14,2025-07-04T11:30:56,4,Controle consult 1,6000,Verwerkt
+312,49,Revalidatiearts,14,2025-07-30T16:00:56,4,Controle consult 2,6000,Verwerkt
+313,49,Revalidatiearts,14,2025-08-19T09:30:56,4,Controle consult 3,6000,Verwerkt
+314,49,Revalidatiearts,14,2025-09-07T10:00:56,4,Controle consult 4,6000,Verwerkt
+315,49,Revalidatiearts,14,2025-09-26T16:00:56,4,Controle consult 5,6000,Verwerkt
+316,49,Revalidatiearts,14,2025-10-15T11:30:56,4,Controle consult 6,6000,Verwerkt
+317,50,Huisarts,2,2026-05-01T04:34:53,1,Consult i.v.m. chronische lage rugpijn,3500,Nieuw
+318,50,Huisarts,2,2026-04-09T04:34:53,1,Consult i.v.m. chronische lage rugpijn,1500,Nieuw
+319,50,Revalidatiearts,14,2026-04-16T16:15:53,3,Intake revalidatie - Chronische lage rugpijn,8000,Nieuw
+320,50,Revalidatiearts,14,2026-05-05T13:15:53,4,Controle consult 1,6000,Nieuw
+321,50,Revalidatiearts,14,2026-05-26T09:30:53,4,Controle consult 2,6000,Nieuw
+322,51,Huisarts,8,2026-09-05T11:50:59,1,Consult i.v.m. sportblessure hamstring,3500,Nieuw
+323,51,Revalidatiearts,13,2026-08-29T14:15:59,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+324,51,Revalidatiearts,13,2026-09-19T10:00:59,4,Controle consult 1,6000,Nieuw
+325,51,Revalidatiearts,13,2026-10-12T09:15:59,4,Controle consult 2,6000,Nieuw
+326,51,Revalidatiearts,13,2026-11-03T16:00:59,4,Controle consult 3,6000,Nieuw
+327,51,Revalidatiearts,13,2026-11-23T11:00:59,4,Controle consult 4,6000,Nieuw
+328,51,Revalidatiearts,13,2026-12-15T16:30:59,4,Controle consult 5,6000,Nieuw
+329,51,Revalidatiearts,13,2026-01-12T15:00:59,4,Controle consult 6,6000,Nieuw
+330,51,Revalidatiearts,13,2026-02-01T13:00:59,4,Controle consult 7,6000,Nieuw
+331,52,Huisarts,1,2025-10-04T07:17:25,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+332,52,Huisarts,1,2025-10-09T07:17:25,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+333,52,Huisarts,1,2025-10-14T07:17:25,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+334,52,Revalidatiearts,13,2025-10-09T11:00:25,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+335,52,Revalidatiearts,13,2025-10-29T15:30:25,4,Controle consult 1,6000,Verwerkt
+336,52,Revalidatiearts,13,2025-11-16T14:15:25,4,Controle consult 2,6000,Verwerkt
+337,52,Revalidatiearts,13,2025-12-08T15:15:25,4,Controle consult 3,6000,Verwerkt
+338,52,Revalidatiearts,13,2026-01-02T10:15:25,4,Controle consult 4,6000,Verwerkt
+339,52,Revalidatiearts,13,2026-01-29T09:00:25,4,Controle consult 5,6000,Verwerkt
+340,53,Huisarts,2,2026-07-12T08:01:22,1,Consult i.v.m. schouder impingement,3500,Nieuw
+341,53,Huisarts,2,2026-08-02T08:01:22,1,Consult i.v.m. schouder impingement,1500,Nieuw
+342,53,Revalidatiearts,20,2026-07-14T10:00:22,3,Intake revalidatie - Schouder impingement,8000,Nieuw
+343,53,Revalidatiearts,20,2026-08-06T16:15:22,4,Controle consult 1,6000,Nieuw
+344,53,Revalidatiearts,20,2026-08-27T14:00:22,4,Controle consult 2,6000,Nieuw
+345,54,Huisarts,7,2025-06-21T19:51:13,1,Consult i.v.m. meniscusscheur knie,1500,Verwerkt
+346,54,Revalidatiearts,15,2025-06-09T09:30:13,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+347,54,Revalidatiearts,15,2025-07-03T09:15:13,4,Controle consult 1,6000,Verwerkt
+348,54,Revalidatiearts,15,2025-07-24T09:00:13,4,Controle consult 2,6000,Verwerkt
+349,54,Revalidatiearts,15,2025-08-20T14:00:13,4,Controle consult 3,6000,Verwerkt
+350,54,Revalidatiearts,15,2025-09-17T15:30:13,4,Controle consult 4,6000,Verwerkt
+351,54,Revalidatiearts,15,2025-10-09T11:00:13,4,Controle consult 5,6000,Verwerkt
+352,54,Revalidatiearts,15,2025-10-31T09:00:13,4,Controle consult 6,6000,Verwerkt
+353,55,Huisarts,5,2026-03-06T08:13:11,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Nieuw
+354,55,Huisarts,5,2026-03-19T08:13:11,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Nieuw
+355,55,Huisarts,5,2026-03-26T08:13:11,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Nieuw
+356,55,Revalidatiearts,14,2026-03-08T16:00:11,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Nieuw
+357,55,Revalidatiearts,14,2026-03-26T15:00:11,4,Controle consult 1,6000,Nieuw
+358,55,Revalidatiearts,14,2026-04-23T16:30:11,4,Controle consult 2,6000,Nieuw
+359,55,Revalidatiearts,14,2026-05-12T13:30:11,4,Controle consult 3,6000,Nieuw
+360,55,Revalidatiearts,14,2026-06-07T09:15:11,4,Controle consult 4,6000,Nieuw
+361,55,Revalidatiearts,14,2026-07-02T14:00:11,4,Controle consult 5,6000,Nieuw
+362,55,Revalidatiearts,14,2026-07-26T15:15:11,4,Controle consult 6,6000,Nieuw
+363,56,Huisarts,3,2026-03-03T23:36:31,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+364,56,Huisarts,3,2026-02-10T23:36:31,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+365,56,Huisarts,3,2026-03-02T23:36:31,1,Consult i.v.m. enkelverstuiking graad 2,3500,Verwerkt
+366,56,Revalidatiearts,17,2026-02-15T10:15:31,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+367,56,Revalidatiearts,17,2026-03-14T13:30:31,4,Controle consult 1,6000,Verwerkt
+368,56,Revalidatiearts,17,2026-04-11T10:30:31,4,Controle consult 2,6000,Verwerkt
+369,56,Revalidatiearts,17,2026-05-03T11:30:31,4,Controle consult 3,6000,Verwerkt
+370,57,Huisarts,2,2025-01-23T13:04:20,1,Consult i.v.m. nekhernia c5-c6,1500,Verwerkt
+371,57,Huisarts,2,2025-01-23T13:04:20,1,Consult i.v.m. nekhernia c5-c6,2500,Verwerkt
+372,57,Revalidatiearts,19,2025-01-26T13:30:20,3,Intake revalidatie - Nekhernia C5-C6,8000,Verwerkt
+373,57,Revalidatiearts,19,2025-02-20T09:00:20,4,Controle consult 1,6000,Verwerkt
+374,57,Revalidatiearts,19,2025-03-16T14:15:20,4,Controle consult 2,6000,Verwerkt
+375,57,Revalidatiearts,19,2025-04-03T11:00:20,4,Controle consult 3,6000,Verwerkt
+376,58,Huisarts,8,2025-07-29T14:32:06,1,Consult i.v.m. fibromyalgie,1500,Verwerkt
+377,58,Huisarts,8,2025-07-30T14:32:06,1,Consult i.v.m. fibromyalgie,2500,Verwerkt
+378,58,Revalidatiearts,20,2025-07-29T10:30:06,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+379,58,Revalidatiearts,20,2025-08-20T09:00:06,4,Controle consult 1,6000,Verwerkt
+380,58,Revalidatiearts,20,2025-09-12T13:30:06,4,Controle consult 2,6000,Verwerkt
+381,58,Revalidatiearts,20,2025-10-04T14:00:06,4,Controle consult 3,6000,Verwerkt
+382,59,Huisarts,6,2026-06-23T15:54:17,1,Consult i.v.m. schouder impingement,3500,Verwerkt
+383,59,Huisarts,6,2026-06-09T15:54:17,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+384,59,Revalidatiearts,11,2026-06-04T15:30:17,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+385,59,Revalidatiearts,11,2026-06-25T16:15:17,4,Controle consult 1,6000,Verwerkt
+386,60,Huisarts,1,2026-10-26T23:50:22,1,Consult i.v.m. meniscusscheur knie,3500,Nieuw
+387,60,Huisarts,1,2026-10-10T23:50:22,1,Consult i.v.m. meniscusscheur knie,1500,Nieuw
+388,60,Revalidatiearts,20,2026-10-09T11:15:22,3,Intake revalidatie - Meniscusscheur knie,8000,Nieuw
+389,60,Revalidatiearts,20,2026-11-01T10:00:22,4,Controle consult 1,6000,Nieuw
+390,61,Huisarts,3,2026-09-30T15:09:39,1,Consult i.v.m. nekhernia c5-c6,1500,Nieuw
+391,61,Revalidatiearts,12,2026-09-11T16:15:39,3,Intake revalidatie - Nekhernia C5-C6,8000,Nieuw
+392,61,Revalidatiearts,12,2026-10-06T13:00:39,4,Controle consult 1,6000,Nieuw
+393,61,Revalidatiearts,12,2026-10-29T15:15:39,4,Controle consult 2,6000,Nieuw
+394,61,Revalidatiearts,12,2026-11-18T15:30:39,4,Controle consult 3,6000,Nieuw
+395,61,Revalidatiearts,12,2026-12-16T10:15:39,4,Controle consult 4,6000,Nieuw
+396,61,Revalidatiearts,12,2026-01-07T11:15:39,4,Controle consult 5,6000,Nieuw
+397,62,Huisarts,3,2026-02-13T12:06:46,1,Consult i.v.m. enkelverstuiking graad 2,3500,Verwerkt
+398,62,Huisarts,3,2026-02-21T12:06:46,1,Consult i.v.m. enkelverstuiking graad 2,3500,Verwerkt
+399,62,Revalidatiearts,12,2026-02-05T14:15:46,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+400,62,Revalidatiearts,12,2026-02-25T09:00:46,4,Controle consult 1,6000,Verwerkt
+401,62,Revalidatiearts,12,2026-03-20T10:00:46,4,Controle consult 2,6000,Verwerkt
+402,62,Revalidatiearts,12,2026-04-13T09:30:46,4,Controle consult 3,6000,Verwerkt
+403,63,Huisarts,2,2025-10-10T09:40:06,1,Consult i.v.m. fibromyalgie,3500,Verwerkt
+404,63,Huisarts,2,2025-10-20T09:40:06,1,Consult i.v.m. fibromyalgie,2500,Verwerkt
+405,63,Revalidatiearts,13,2025-10-12T11:00:06,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+406,63,Revalidatiearts,13,2025-11-02T13:15:06,4,Controle consult 1,6000,Verwerkt
+407,63,Revalidatiearts,13,2025-11-30T13:15:06,4,Controle consult 2,6000,Verwerkt
+408,63,Revalidatiearts,13,2025-12-24T14:15:06,4,Controle consult 3,6000,Verwerkt
+409,64,Huisarts,1,2026-04-28T13:22:26,1,Consult i.v.m. enkelverstuiking graad 2,1500,Nieuw
+410,64,Revalidatiearts,12,2026-05-04T10:00:26,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Nieuw
+411,64,Revalidatiearts,12,2026-05-22T16:15:26,4,Controle consult 1,6000,Nieuw
+412,64,Revalidatiearts,12,2026-06-10T10:00:26,4,Controle consult 2,6000,Nieuw
+413,64,Revalidatiearts,12,2026-07-02T13:00:26,4,Controle consult 3,6000,Nieuw
+414,64,Revalidatiearts,12,2026-07-21T14:15:26,4,Controle consult 4,6000,Nieuw
+415,65,Huisarts,6,2025-12-05T07:09:45,1,Consult i.v.m. fibromyalgie,1500,Verwerkt
+416,65,Huisarts,6,2025-11-15T07:09:45,1,Consult i.v.m. fibromyalgie,3500,Verwerkt
+417,65,Revalidatiearts,16,2025-11-19T10:30:45,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+418,65,Revalidatiearts,16,2025-12-15T13:30:45,4,Controle consult 1,6000,Verwerkt
+419,66,Huisarts,2,2026-03-19T14:24:32,1,Consult i.v.m. enkelverstuiking graad 2,3500,Nieuw
+420,66,Revalidatiearts,17,2026-03-15T10:30:32,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Nieuw
+421,66,Revalidatiearts,17,2026-04-08T16:30:32,4,Controle consult 1,6000,Nieuw
+422,66,Revalidatiearts,17,2026-04-26T15:15:32,4,Controle consult 2,6000,Nieuw
+423,66,Revalidatiearts,17,2026-05-17T11:30:32,4,Controle consult 3,6000,Nieuw
+424,66,Revalidatiearts,17,2026-06-09T10:00:32,4,Controle consult 4,6000,Nieuw
+425,66,Revalidatiearts,17,2026-06-28T09:00:32,4,Controle consult 5,6000,Nieuw
+426,67,Huisarts,1,2026-08-29T17:54:35,1,Consult i.v.m. fibromyalgie,1500,Nieuw
+427,67,Huisarts,1,2026-08-20T17:54:35,1,Consult i.v.m. fibromyalgie,1500,Verwerkt
+428,67,Revalidatiearts,14,2026-08-28T14:15:35,3,Intake revalidatie - Fibromyalgie,8000,Nieuw
+429,67,Revalidatiearts,14,2026-09-19T09:15:35,4,Controle consult 1,6000,Nieuw
+430,67,Revalidatiearts,14,2026-10-09T09:15:35,4,Controle consult 2,6000,Nieuw
+431,67,Revalidatiearts,14,2026-11-02T13:15:35,4,Controle consult 3,6000,Nieuw
+432,67,Revalidatiearts,14,2026-11-21T11:30:35,4,Controle consult 4,6000,Nieuw
+433,68,Huisarts,5,2026-03-26T05:31:10,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+434,68,Huisarts,5,2026-03-07T05:31:10,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+435,68,Revalidatiearts,11,2026-03-09T10:30:10,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+436,68,Revalidatiearts,11,2026-04-04T13:00:10,4,Controle consult 1,6000,Verwerkt
+437,68,Revalidatiearts,11,2026-04-24T09:15:10,4,Controle consult 2,6000,Verwerkt
+438,68,Revalidatiearts,11,2026-05-12T11:00:10,4,Controle consult 3,6000,Verwerkt
+439,68,Revalidatiearts,11,2026-06-02T09:30:10,4,Controle consult 4,6000,Verwerkt
+440,68,Revalidatiearts,11,2026-06-26T13:00:10,4,Controle consult 5,6000,Verwerkt
+441,68,Revalidatiearts,11,2026-07-18T13:15:10,4,Controle consult 6,6000,Verwerkt
+442,69,Huisarts,4,2026-10-29T22:44:55,1,Consult i.v.m. enkelverstuiking graad 2,2500,Nieuw
+443,69,Huisarts,4,2026-11-06T22:44:55,1,Consult i.v.m. enkelverstuiking graad 2,2500,Nieuw
+444,69,Revalidatiearts,15,2026-11-02T13:00:55,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Nieuw
+445,69,Revalidatiearts,15,2026-11-25T16:15:55,4,Controle consult 1,6000,Nieuw
+446,69,Revalidatiearts,15,2026-12-22T10:00:55,4,Controle consult 2,6000,Nieuw
+447,69,Revalidatiearts,15,2026-01-09T16:30:55,4,Controle consult 3,6000,Nieuw
+448,69,Revalidatiearts,15,2026-01-31T16:30:55,4,Controle consult 4,6000,Nieuw
+449,69,Revalidatiearts,15,2026-02-18T13:15:55,4,Controle consult 5,6000,Nieuw
+450,69,Revalidatiearts,15,2026-03-11T11:00:55,4,Controle consult 6,6000,Nieuw
+451,70,Huisarts,7,2026-12-08T21:12:08,1,Consult i.v.m. hernia l5-s1,3500,Nieuw
+452,70,Huisarts,7,2026-12-09T21:12:08,1,Consult i.v.m. hernia l5-s1,1500,Nieuw
+453,70,Huisarts,7,2026-12-31T21:12:08,1,Consult i.v.m. hernia l5-s1,1500,Nieuw
+454,70,Revalidatiearts,11,2026-12-18T14:15:08,3,Intake revalidatie - Hernia L5-S1,8000,Nieuw
+455,70,Revalidatiearts,11,2026-01-06T09:00:08,4,Controle consult 1,6000,Nieuw
+456,70,Revalidatiearts,11,2026-01-31T11:30:08,4,Controle consult 2,6000,Nieuw
+457,71,Huisarts,2,2025-07-21T11:56:22,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Verwerkt
+458,71,Huisarts,2,2025-07-29T11:56:22,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+459,71,Revalidatiearts,13,2025-07-19T16:00:22,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+460,71,Revalidatiearts,13,2025-08-07T11:30:22,4,Controle consult 1,6000,Verwerkt
+461,71,Revalidatiearts,13,2025-09-04T10:15:22,4,Controle consult 2,6000,Verwerkt
+462,71,Revalidatiearts,13,2025-09-24T16:15:22,4,Controle consult 3,6000,Verwerkt
+463,71,Revalidatiearts,13,2025-10-13T09:30:22,4,Controle consult 4,6000,Verwerkt
+464,71,Revalidatiearts,13,2025-11-07T16:30:22,4,Controle consult 5,6000,Verwerkt
+465,71,Revalidatiearts,13,2025-12-03T14:00:22,4,Controle consult 6,6000,Verwerkt
+466,71,Revalidatiearts,13,2025-12-26T16:30:22,4,Controle consult 7,6000,Verwerkt
+467,72,Huisarts,8,2026-05-07T11:11:20,1,Consult i.v.m. hernia l5-s1,3500,Verwerkt
+468,72,Huisarts,8,2026-04-28T11:11:20,1,Consult i.v.m. hernia l5-s1,3500,Verwerkt
+469,72,Revalidatiearts,18,2026-04-21T10:30:20,3,Intake revalidatie - Hernia L5-S1,8000,Verwerkt
+470,72,Revalidatiearts,18,2026-05-15T09:30:20,4,Controle consult 1,6000,Verwerkt
+471,72,Revalidatiearts,18,2026-06-02T15:30:20,4,Controle consult 2,6000,Verwerkt
+472,72,Revalidatiearts,18,2026-06-20T09:00:20,4,Controle consult 3,6000,Verwerkt
+473,72,Revalidatiearts,18,2026-07-09T11:15:20,4,Controle consult 4,6000,Verwerkt
+474,72,Revalidatiearts,18,2026-07-28T16:00:20,4,Controle consult 5,6000,Verwerkt
+475,72,Revalidatiearts,18,2026-08-18T14:00:20,4,Controle consult 6,6000,Verwerkt
+476,73,Huisarts,7,2026-07-07T12:39:28,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+477,73,Revalidatiearts,20,2026-07-17T14:30:28,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+478,73,Revalidatiearts,20,2026-08-04T11:00:28,4,Controle consult 1,6000,Verwerkt
+479,73,Revalidatiearts,20,2026-08-31T10:15:28,4,Controle consult 2,6000,Nieuw
+480,74,Huisarts,1,2025-01-25T05:27:02,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+481,74,Huisarts,1,2025-01-11T05:27:02,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+482,74,Revalidatiearts,18,2025-01-11T13:00:02,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+483,74,Revalidatiearts,18,2025-02-06T11:00:02,4,Controle consult 1,6000,Verwerkt
+484,74,Revalidatiearts,18,2025-03-04T13:15:02,4,Controle consult 2,6000,Verwerkt
+485,74,Revalidatiearts,18,2025-04-01T09:15:02,4,Controle consult 3,6000,Verwerkt
+486,74,Revalidatiearts,18,2025-04-29T15:00:02,4,Controle consult 4,6000,Verwerkt
+487,74,Revalidatiearts,18,2025-05-24T14:30:02,4,Controle consult 5,6000,Verwerkt
+488,75,Huisarts,6,2026-02-26T12:27:11,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+489,75,Huisarts,6,2026-02-25T12:27:11,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+490,75,Huisarts,6,2026-02-28T12:27:11,1,Consult i.v.m. chronische lage rugpijn,3500,Verwerkt
+491,75,Revalidatiearts,14,2026-02-24T13:00:11,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+492,75,Revalidatiearts,14,2026-03-15T14:30:11,4,Controle consult 1,6000,Verwerkt
+493,75,Revalidatiearts,14,2026-04-03T14:30:11,4,Controle consult 2,6000,Verwerkt
+494,75,Revalidatiearts,14,2026-05-01T11:30:11,4,Controle consult 3,6000,Verwerkt
+495,75,Revalidatiearts,14,2026-05-19T14:15:11,4,Controle consult 4,6000,Verwerkt
+496,75,Revalidatiearts,14,2026-06-06T15:00:11,4,Controle consult 5,6000,Verwerkt
+497,75,Revalidatiearts,14,2026-07-01T09:30:11,4,Controle consult 6,6000,Verwerkt
+498,75,Revalidatiearts,14,2026-07-27T16:30:11,4,Controle consult 7,6000,Verwerkt
+499,76,Huisarts,8,2026-07-09T00:07:47,1,Consult i.v.m. chronische lage rugpijn,3500,Verwerkt
+500,76,Huisarts,8,2026-07-12T00:07:47,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+501,76,Huisarts,8,2026-07-29T00:07:47,1,Consult i.v.m. chronische lage rugpijn,3500,Verwerkt
+502,76,Revalidatiearts,19,2026-07-19T13:15:47,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+503,76,Revalidatiearts,19,2026-08-06T16:30:47,4,Controle consult 1,6000,Verwerkt
+504,77,Huisarts,10,2025-11-13T22:59:48,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+505,77,Huisarts,10,2025-11-15T22:59:48,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+506,77,Huisarts,10,2025-11-15T22:59:48,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+507,77,Revalidatiearts,20,2025-10-31T11:15:48,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+508,77,Revalidatiearts,20,2025-11-27T16:30:48,4,Controle consult 1,6000,Verwerkt
+509,77,Revalidatiearts,20,2025-12-23T16:15:48,4,Controle consult 2,6000,Verwerkt
+510,78,Huisarts,2,2025-08-15T16:17:41,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+511,78,Huisarts,2,2025-08-10T16:17:41,1,Consult i.v.m. sportblessure hamstring,1500,Verwerkt
+512,78,Revalidatiearts,16,2025-07-31T09:30:41,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+513,78,Revalidatiearts,16,2025-08-28T09:15:41,4,Controle consult 1,6000,Verwerkt
+514,78,Revalidatiearts,16,2025-09-19T15:00:41,4,Controle consult 2,6000,Verwerkt
+515,79,Huisarts,5,2026-01-20T10:12:04,1,Consult i.v.m. schouder impingement,3500,Nieuw
+516,79,Huisarts,5,2026-01-15T10:12:04,1,Consult i.v.m. schouder impingement,3500,Nieuw
+517,79,Revalidatiearts,20,2026-01-15T09:30:04,3,Intake revalidatie - Schouder impingement,8000,Nieuw
+518,79,Revalidatiearts,20,2026-02-02T10:00:04,4,Controle consult 1,6000,Nieuw
+519,79,Revalidatiearts,20,2026-02-27T14:30:04,4,Controle consult 2,6000,Nieuw
+520,79,Revalidatiearts,20,2026-03-20T16:30:04,4,Controle consult 3,6000,Nieuw
+521,79,Revalidatiearts,20,2026-04-13T16:15:04,4,Controle consult 4,6000,Nieuw
+522,79,Revalidatiearts,20,2026-05-04T15:00:04,4,Controle consult 5,6000,Nieuw
+523,80,Huisarts,5,2026-11-29T09:22:04,1,Consult i.v.m. nekhernia c5-c6,1500,Nieuw
+524,80,Revalidatiearts,19,2026-11-28T11:15:04,3,Intake revalidatie - Nekhernia C5-C6,8000,Nieuw
+525,80,Revalidatiearts,19,2026-12-23T14:15:04,4,Controle consult 1,6000,Nieuw
+526,80,Revalidatiearts,19,2026-01-13T14:30:04,4,Controle consult 2,6000,Nieuw
+527,80,Revalidatiearts,19,2026-02-02T11:30:04,4,Controle consult 3,6000,Nieuw
+528,80,Revalidatiearts,19,2026-02-25T15:30:04,4,Controle consult 4,6000,Nieuw
+529,80,Revalidatiearts,19,2026-03-20T10:30:04,4,Controle consult 5,6000,Nieuw
+530,81,Huisarts,8,2026-04-05T18:25:07,1,Consult i.v.m. sportblessure hamstring,1500,Verwerkt
+531,81,Huisarts,8,2026-03-13T18:25:07,1,Consult i.v.m. sportblessure hamstring,1500,Verwerkt
+532,81,Huisarts,8,2026-04-03T18:25:07,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+533,81,Revalidatiearts,11,2026-03-19T14:15:07,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+534,81,Revalidatiearts,11,2026-04-14T16:15:07,4,Controle consult 1,6000,Verwerkt
+535,81,Revalidatiearts,11,2026-05-11T15:30:07,4,Controle consult 2,6000,Verwerkt
+536,81,Revalidatiearts,11,2026-06-04T13:15:07,4,Controle consult 3,6000,Verwerkt
+537,82,Huisarts,1,2026-02-20T22:06:21,1,Consult i.v.m. sportblessure hamstring,3500,Nieuw
+538,82,Huisarts,1,2026-02-13T22:06:21,1,Consult i.v.m. sportblessure hamstring,3500,Nieuw
+539,82,Huisarts,1,2026-02-13T22:06:21,1,Consult i.v.m. sportblessure hamstring,1500,Nieuw
+540,82,Revalidatiearts,20,2026-02-05T16:15:21,3,Intake revalidatie - Sportblessure hamstring,8000,Nieuw
+541,82,Revalidatiearts,20,2026-02-25T11:15:21,4,Controle consult 1,6000,Nieuw
+542,82,Revalidatiearts,20,2026-03-17T13:15:21,4,Controle consult 2,6000,Nieuw
+543,82,Revalidatiearts,20,2026-04-08T09:15:21,4,Controle consult 3,6000,Nieuw
+544,83,Huisarts,4,2026-10-04T08:01:19,1,Consult i.v.m. enkelverstuiking graad 2,1500,Nieuw
+545,83,Huisarts,4,2026-09-13T08:01:19,1,Consult i.v.m. enkelverstuiking graad 2,3500,Nieuw
+546,83,Revalidatiearts,17,2026-09-17T14:00:19,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Nieuw
+547,83,Revalidatiearts,17,2026-10-10T15:00:19,4,Controle consult 1,6000,Nieuw
+548,83,Revalidatiearts,17,2026-11-01T09:15:19,4,Controle consult 2,6000,Nieuw
+549,83,Revalidatiearts,17,2026-11-22T13:00:19,4,Controle consult 3,6000,Nieuw
+550,83,Revalidatiearts,17,2026-12-12T10:15:19,4,Controle consult 4,6000,Nieuw
+551,83,Revalidatiearts,17,2026-01-01T13:30:19,4,Controle consult 5,6000,Nieuw
+552,83,Revalidatiearts,17,2026-01-26T16:30:19,4,Controle consult 6,6000,Nieuw
+553,84,Huisarts,2,2026-07-30T03:22:42,1,Consult i.v.m. meniscusscheur knie,1500,Verwerkt
+554,84,Huisarts,2,2026-07-27T03:22:42,1,Consult i.v.m. meniscusscheur knie,1500,Verwerkt
+555,84,Revalidatiearts,11,2026-07-16T09:00:42,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+556,84,Revalidatiearts,11,2026-08-07T16:15:42,4,Controle consult 1,6000,Verwerkt
+557,84,Revalidatiearts,11,2026-08-25T09:00:42,4,Controle consult 2,6000,Nieuw
+558,84,Revalidatiearts,11,2026-09-22T11:00:42,4,Controle consult 3,6000,Nieuw
+559,84,Revalidatiearts,11,2026-10-13T09:00:42,4,Controle consult 4,6000,Nieuw
+560,84,Revalidatiearts,11,2026-11-05T11:15:42,4,Controle consult 5,6000,Nieuw
+561,84,Revalidatiearts,11,2026-11-30T14:15:42,4,Controle consult 6,6000,Nieuw
+562,84,Revalidatiearts,11,2026-12-20T09:30:42,4,Controle consult 7,6000,Nieuw
+563,85,Huisarts,3,2025-01-30T16:34:09,1,Consult i.v.m. fibromyalgie,2500,Verwerkt
+564,85,Revalidatiearts,15,2025-02-04T14:00:09,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+565,85,Revalidatiearts,15,2025-02-23T15:00:09,4,Controle consult 1,6000,Verwerkt
+566,85,Revalidatiearts,15,2025-03-13T09:30:09,4,Controle consult 2,6000,Verwerkt
+567,85,Revalidatiearts,15,2025-04-06T16:15:09,4,Controle consult 3,6000,Verwerkt
+568,85,Revalidatiearts,15,2025-04-27T10:00:09,4,Controle consult 4,6000,Verwerkt
+569,85,Revalidatiearts,15,2025-05-16T16:15:09,4,Controle consult 5,6000,Verwerkt
+570,85,Revalidatiearts,15,2025-06-08T15:15:09,4,Controle consult 6,6000,Verwerkt
+571,85,Revalidatiearts,15,2025-07-01T09:30:09,4,Controle consult 7,6000,Verwerkt
+572,86,Huisarts,6,2026-02-24T17:33:10,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+573,86,Revalidatiearts,11,2026-02-07T09:15:10,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+574,86,Revalidatiearts,11,2026-03-03T11:30:10,4,Controle consult 1,6000,Verwerkt
+575,86,Revalidatiearts,11,2026-03-24T11:30:10,4,Controle consult 2,6000,Verwerkt
+576,87,Huisarts,6,2026-07-08T03:06:33,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Nieuw
+577,87,Huisarts,6,2026-07-22T03:06:33,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Nieuw
+578,87,Huisarts,6,2026-07-07T03:06:33,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Nieuw
+579,87,Revalidatiearts,17,2026-07-05T09:00:33,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Nieuw
+580,87,Revalidatiearts,17,2026-07-29T15:30:33,4,Controle consult 1,6000,Nieuw
+581,87,Revalidatiearts,17,2026-08-20T11:15:33,4,Controle consult 2,6000,Nieuw
+582,87,Revalidatiearts,17,2025-09-17T13:15:33,4,Controle consult 3,6000,Nieuw
+583,87,Revalidatiearts,17,2025-10-15T13:15:33,4,Controle consult 4,6000,Nieuw
+584,87,Revalidatiearts,17,2025-11-07T16:15:33,4,Controle consult 5,6000,Nieuw
+585,88,Huisarts,5,2026-03-25T21:23:01,1,Consult i.v.m. fibromyalgie,2500,Nieuw
+586,88,Huisarts,5,2026-04-12T21:23:01,1,Consult i.v.m. fibromyalgie,3500,Nieuw
+587,88,Revalidatiearts,16,2026-03-24T09:15:01,3,Intake revalidatie - Fibromyalgie,8000,Nieuw
+588,88,Revalidatiearts,16,2026-04-20T14:00:01,4,Controle consult 1,6000,Nieuw
+589,88,Revalidatiearts,16,2026-05-18T14:15:01,4,Controle consult 2,6000,Nieuw
+590,88,Revalidatiearts,16,2026-06-06T15:00:01,4,Controle consult 3,6000,Nieuw
+591,89,Huisarts,8,2025-01-13T11:57:09,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+592,89,Huisarts,8,2025-02-03T11:57:09,1,Consult i.v.m. chronische lage rugpijn,3500,Verwerkt
+593,89,Huisarts,8,2025-02-03T11:57:09,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+594,89,Revalidatiearts,15,2025-01-23T16:00:09,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+595,89,Revalidatiearts,15,2025-02-12T14:00:09,4,Controle consult 1,6000,Verwerkt
+596,89,Revalidatiearts,15,2025-03-11T15:30:09,4,Controle consult 2,6000,Verwerkt
+597,89,Revalidatiearts,15,2025-04-07T16:15:09,4,Controle consult 3,6000,Verwerkt
+598,89,Revalidatiearts,15,2025-04-25T10:15:09,4,Controle consult 4,6000,Verwerkt
+599,89,Revalidatiearts,15,2025-05-17T09:15:09,4,Controle consult 5,6000,Verwerkt
+600,89,Revalidatiearts,15,2025-06-07T09:00:09,4,Controle consult 6,6000,Verwerkt
+601,90,Huisarts,6,2026-06-03T21:52:28,1,Consult i.v.m. nekhernia c5-c6,1500,Nieuw
+602,90,Revalidatiearts,13,2026-05-27T09:00:28,3,Intake revalidatie - Nekhernia C5-C6,8000,Nieuw
+603,90,Revalidatiearts,13,2026-06-21T09:30:28,4,Controle consult 1,6000,Nieuw
+604,90,Revalidatiearts,13,2026-07-11T16:00:28,4,Controle consult 2,6000,Nieuw
+605,90,Revalidatiearts,13,2026-08-05T13:15:28,4,Controle consult 3,6000,Nieuw
+606,90,Revalidatiearts,13,2026-08-28T09:15:28,4,Controle consult 4,6000,Nieuw
+607,90,Revalidatiearts,13,2025-09-22T16:00:28,4,Controle consult 5,6000,Nieuw
+608,90,Revalidatiearts,13,2025-10-12T10:30:28,4,Controle consult 6,6000,Nieuw
+609,91,Huisarts,6,2025-11-16T23:44:54,1,Consult i.v.m. meniscusscheur knie,2500,Verwerkt
+610,91,Huisarts,6,2025-11-26T23:44:54,1,Consult i.v.m. meniscusscheur knie,2500,Verwerkt
+611,91,Revalidatiearts,13,2025-11-25T16:30:54,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+612,91,Revalidatiearts,13,2025-12-21T13:00:54,4,Controle consult 1,6000,Verwerkt
+613,91,Revalidatiearts,13,2026-01-11T10:15:54,4,Controle consult 2,6000,Verwerkt
+614,92,Huisarts,4,2025-04-28T14:48:47,1,Consult i.v.m. meniscusscheur knie,3500,Verwerkt
+615,92,Huisarts,4,2025-05-25T14:48:47,1,Consult i.v.m. meniscusscheur knie,3500,Verwerkt
+616,92,Huisarts,4,2025-05-18T14:48:47,1,Consult i.v.m. meniscusscheur knie,1500,Verwerkt
+617,92,Revalidatiearts,16,2025-05-06T14:30:47,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+618,92,Revalidatiearts,16,2025-05-26T09:00:47,4,Controle consult 1,6000,Verwerkt
+619,92,Revalidatiearts,16,2025-06-21T09:30:47,4,Controle consult 2,6000,Verwerkt
+620,92,Revalidatiearts,16,2025-07-15T16:30:47,4,Controle consult 3,6000,Verwerkt
+621,92,Revalidatiearts,16,2025-08-11T11:30:47,4,Controle consult 4,6000,Verwerkt
+622,92,Revalidatiearts,16,2025-09-08T13:00:47,4,Controle consult 5,6000,Verwerkt
+623,93,Huisarts,6,2025-01-05T22:17:12,1,Consult i.v.m. fibromyalgie,1500,Verwerkt
+624,93,Huisarts,6,2025-01-01T00:00:00,1,Consult i.v.m. fibromyalgie,3500,Verwerkt
+625,93,Huisarts,6,2025-01-04T22:17:12,1,Consult i.v.m. fibromyalgie,2500,Verwerkt
+626,93,Revalidatiearts,13,2025-01-01T10:15:12,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+627,93,Revalidatiearts,13,2025-01-28T15:30:12,4,Controle consult 1,6000,Verwerkt
+628,94,Huisarts,10,2025-07-21T10:30:52,1,Consult i.v.m. knieartrose,1500,Verwerkt
+629,94,Huisarts,10,2025-08-01T10:30:52,1,Consult i.v.m. knieartrose,3500,Verwerkt
+630,94,Huisarts,10,2025-07-16T10:30:52,1,Consult i.v.m. knieartrose,1500,Verwerkt
+631,94,Revalidatiearts,14,2025-07-21T10:15:52,3,Intake revalidatie - Knieartrose,8000,Verwerkt
+632,94,Revalidatiearts,14,2025-08-15T13:15:52,4,Controle consult 1,6000,Verwerkt
+633,94,Revalidatiearts,14,2025-09-04T13:15:52,4,Controle consult 2,6000,Verwerkt
+634,94,Revalidatiearts,14,2025-09-26T11:15:52,4,Controle consult 3,6000,Verwerkt
+635,95,Huisarts,8,2025-09-11T16:53:48,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Verwerkt
+636,95,Huisarts,8,2025-09-15T16:53:48,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Verwerkt
+637,95,Revalidatiearts,20,2025-08-30T15:30:48,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Verwerkt
+638,95,Revalidatiearts,20,2025-09-19T11:00:48,4,Controle consult 1,6000,Verwerkt
+639,95,Revalidatiearts,20,2025-10-10T13:00:48,4,Controle consult 2,6000,Verwerkt
+640,95,Revalidatiearts,20,2025-11-04T10:00:48,4,Controle consult 3,6000,Verwerkt
+641,96,Huisarts,9,2026-07-31T19:20:15,1,Consult i.v.m. nekhernia c5-c6,3500,Verwerkt
+642,96,Huisarts,9,2026-07-31T19:20:15,1,Consult i.v.m. nekhernia c5-c6,2500,Verwerkt
+643,96,Huisarts,9,2026-07-25T19:20:15,1,Consult i.v.m. nekhernia c5-c6,1500,Verwerkt
+644,96,Revalidatiearts,17,2026-07-15T14:00:15,3,Intake revalidatie - Nekhernia C5-C6,8000,Verwerkt
+645,96,Revalidatiearts,17,2026-08-02T13:30:15,4,Controle consult 1,6000,Verwerkt
+646,96,Revalidatiearts,17,2026-08-29T10:30:15,4,Controle consult 2,6000,Nieuw
+647,96,Revalidatiearts,17,2026-09-20T16:15:15,4,Controle consult 3,6000,Nieuw
+648,96,Revalidatiearts,17,2026-10-11T13:15:15,4,Controle consult 4,6000,Nieuw
+649,97,Huisarts,2,2026-03-08T03:24:50,1,Consult i.v.m. meniscusscheur knie,2500,Nieuw
+650,97,Huisarts,2,2026-02-26T03:24:50,1,Consult i.v.m. meniscusscheur knie,2500,Nieuw
+651,97,Revalidatiearts,12,2026-03-06T09:00:50,3,Intake revalidatie - Meniscusscheur knie,8000,Nieuw
+652,97,Revalidatiearts,12,2026-04-01T16:30:50,4,Controle consult 1,6000,Nieuw
+653,97,Revalidatiearts,12,2026-04-24T09:30:50,4,Controle consult 2,6000,Nieuw
+654,97,Revalidatiearts,12,2026-05-17T14:00:50,4,Controle consult 3,6000,Nieuw
+655,97,Revalidatiearts,12,2026-06-07T11:30:50,4,Controle consult 4,6000,Nieuw
+656,98,Huisarts,10,2026-05-29T06:25:38,1,Consult i.v.m. fibromyalgie,2500,Nieuw
+657,98,Huisarts,10,2026-05-30T06:25:38,1,Consult i.v.m. fibromyalgie,1500,Nieuw
+658,98,Revalidatiearts,16,2026-06-06T09:30:38,3,Intake revalidatie - Fibromyalgie,8000,Nieuw
+659,98,Revalidatiearts,16,2026-06-28T13:30:38,4,Controle consult 1,6000,Nieuw
+660,98,Revalidatiearts,16,2026-07-18T13:15:38,4,Controle consult 2,6000,Nieuw
+661,98,Revalidatiearts,16,2026-08-13T09:15:38,4,Controle consult 3,6000,Nieuw
+662,98,Revalidatiearts,16,2026-09-03T15:30:38,4,Controle consult 4,6000,Nieuw
+663,98,Revalidatiearts,16,2025-09-30T15:00:38,4,Controle consult 5,6000,Nieuw
+664,99,Huisarts,10,2026-05-25T15:34:00,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+665,99,Revalidatiearts,13,2026-05-28T15:00:00,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+666,99,Revalidatiearts,13,2026-06-24T11:15:00,4,Controle consult 1,6000,Verwerkt
+667,99,Revalidatiearts,13,2026-07-22T14:15:00,4,Controle consult 2,6000,Verwerkt
+668,99,Revalidatiearts,13,2026-08-16T14:30:00,4,Controle consult 3,6000,Verwerkt
+669,99,Revalidatiearts,13,2026-09-12T10:15:00,4,Controle consult 4,6000,Nieuw
+670,99,Revalidatiearts,13,2026-10-04T15:00:00,4,Controle consult 5,6000,Nieuw
+671,99,Revalidatiearts,13,2026-10-29T10:15:00,4,Controle consult 6,6000,Nieuw
+672,99,Revalidatiearts,13,2026-11-25T11:15:00,4,Controle consult 7,6000,Nieuw
+673,100,Huisarts,9,2026-03-18T21:49:30,1,Consult i.v.m. schouder impingement,2500,Nieuw
+674,100,Huisarts,9,2026-02-28T21:49:30,1,Consult i.v.m. schouder impingement,3500,Nieuw
+675,100,Huisarts,9,2026-02-28T21:49:30,1,Consult i.v.m. schouder impingement,1500,Nieuw
+676,100,Revalidatiearts,14,2026-03-01T09:00:30,3,Intake revalidatie - Schouder impingement,8000,Nieuw
+677,100,Revalidatiearts,14,2026-03-26T15:00:30,4,Controle consult 1,6000,Nieuw
+678,100,Revalidatiearts,14,2026-04-17T15:30:30,4,Controle consult 2,6000,Nieuw
+679,100,Revalidatiearts,14,2026-05-15T11:15:30,4,Controle consult 3,6000,Nieuw
+680,100,Revalidatiearts,14,2026-06-11T16:30:30,4,Controle consult 4,6000,Nieuw
+681,100,Revalidatiearts,14,2026-07-01T16:30:30,4,Controle consult 5,6000,Nieuw
+682,100,Revalidatiearts,14,2026-07-26T15:30:30,4,Controle consult 6,6000,Nieuw
+683,100,Revalidatiearts,14,2026-08-18T14:00:30,4,Controle consult 7,6000,Nieuw
+684,101,Huisarts,4,2026-03-12T17:46:16,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+685,101,Revalidatiearts,14,2026-02-26T15:15:16,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+686,101,Revalidatiearts,14,2026-03-16T14:15:16,4,Controle consult 1,6000,Verwerkt
+687,102,Huisarts,3,2025-05-06T23:50:18,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Verwerkt
+688,102,Huisarts,3,2025-04-19T23:50:18,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Verwerkt
+689,102,Revalidatiearts,16,2025-04-18T13:30:18,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Verwerkt
+690,102,Revalidatiearts,16,2025-05-10T16:00:18,4,Controle consult 1,6000,Verwerkt
+691,102,Revalidatiearts,16,2025-06-03T11:00:18,4,Controle consult 2,6000,Verwerkt
+692,102,Revalidatiearts,16,2025-06-27T11:30:18,4,Controle consult 3,6000,Verwerkt
+693,102,Revalidatiearts,16,2025-07-18T09:30:18,4,Controle consult 4,6000,Verwerkt
+694,103,Huisarts,2,2025-01-24T08:15:30,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+695,103,Huisarts,2,2025-01-04T08:15:30,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+696,103,Huisarts,2,2025-01-19T08:15:30,1,Consult i.v.m. sportblessure hamstring,1500,Verwerkt
+697,103,Revalidatiearts,20,2025-01-05T13:15:30,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+698,103,Revalidatiearts,20,2025-02-01T10:00:30,4,Controle consult 1,6000,Verwerkt
+699,103,Revalidatiearts,20,2025-02-27T13:30:30,4,Controle consult 2,6000,Verwerkt
+700,104,Huisarts,8,2025-11-06T02:37:52,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Verwerkt
+701,104,Revalidatiearts,15,2025-10-19T16:00:52,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Verwerkt
+702,104,Revalidatiearts,15,2025-11-15T15:15:52,4,Controle consult 1,6000,Verwerkt
+703,105,Huisarts,9,2025-12-21T00:11:03,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+704,105,Revalidatiearts,18,2025-12-05T14:00:03,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+705,105,Revalidatiearts,18,2025-12-28T11:30:03,4,Controle consult 1,6000,Verwerkt
+706,106,Huisarts,5,2025-09-26T23:30:39,1,Consult i.v.m. meniscusscheur knie,1500,Verwerkt
+707,106,Huisarts,5,2025-10-06T23:30:39,1,Consult i.v.m. meniscusscheur knie,2500,Verwerkt
+708,106,Revalidatiearts,18,2025-09-22T10:15:39,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+709,106,Revalidatiearts,18,2025-10-17T14:15:39,4,Controle consult 1,6000,Verwerkt
+710,106,Revalidatiearts,18,2025-11-07T15:15:39,4,Controle consult 2,6000,Verwerkt
+711,106,Revalidatiearts,18,2025-11-29T09:15:39,4,Controle consult 3,6000,Verwerkt
+712,106,Revalidatiearts,18,2025-12-22T11:15:39,4,Controle consult 4,6000,Verwerkt
+713,107,Huisarts,6,2025-02-02T01:41:03,1,Consult i.v.m. knieartrose,3500,Verwerkt
+714,107,Huisarts,6,2025-02-03T01:41:03,1,Consult i.v.m. knieartrose,1500,Verwerkt
+715,107,Huisarts,6,2025-02-10T01:41:03,1,Consult i.v.m. knieartrose,1500,Verwerkt
+716,107,Revalidatiearts,18,2025-02-03T15:00:03,3,Intake revalidatie - Knieartrose,8000,Verwerkt
+717,107,Revalidatiearts,18,2025-02-27T15:15:03,4,Controle consult 1,6000,Verwerkt
+718,107,Revalidatiearts,18,2025-03-22T15:30:03,4,Controle consult 2,6000,Verwerkt
+719,107,Revalidatiearts,18,2025-04-13T16:15:03,4,Controle consult 3,6000,Verwerkt
+720,107,Revalidatiearts,18,2025-05-10T09:00:03,4,Controle consult 4,6000,Verwerkt
+721,107,Revalidatiearts,18,2025-06-06T16:30:03,4,Controle consult 5,6000,Verwerkt
+722,107,Revalidatiearts,18,2025-07-03T14:30:03,4,Controle consult 6,6000,Verwerkt
+723,107,Revalidatiearts,18,2025-07-24T15:15:03,4,Controle consult 7,6000,Verwerkt
+724,108,Huisarts,1,2025-12-24T20:42:07,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Verwerkt
+725,108,Huisarts,1,2026-01-11T20:42:07,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Verwerkt
+726,108,Huisarts,1,2025-12-30T20:42:07,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Verwerkt
+727,108,Revalidatiearts,18,2025-12-31T14:15:07,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Verwerkt
+728,108,Revalidatiearts,18,2026-01-26T10:30:07,4,Controle consult 1,6000,Verwerkt
+729,108,Revalidatiearts,18,2026-02-15T11:15:07,4,Controle consult 2,6000,Verwerkt
+730,108,Revalidatiearts,18,2026-03-07T11:30:07,4,Controle consult 3,6000,Verwerkt
+731,109,Huisarts,10,2026-07-01T03:24:40,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+732,109,Huisarts,10,2026-07-04T03:24:40,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+733,109,Revalidatiearts,13,2026-06-19T15:15:40,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+734,109,Revalidatiearts,13,2026-07-15T09:30:40,4,Controle consult 1,6000,Verwerkt
+735,109,Revalidatiearts,13,2026-08-10T11:15:40,4,Controle consult 2,6000,Verwerkt
+736,109,Revalidatiearts,13,2026-09-06T15:00:40,4,Controle consult 3,6000,Nieuw
+737,109,Revalidatiearts,13,2026-09-24T09:15:40,4,Controle consult 4,6000,Nieuw
+738,109,Revalidatiearts,13,2026-10-22T14:00:40,4,Controle consult 5,6000,Nieuw
+739,109,Revalidatiearts,13,2026-11-11T16:00:40,4,Controle consult 6,6000,Nieuw
+740,109,Revalidatiearts,13,2026-12-05T16:00:40,4,Controle consult 7,6000,Nieuw
+741,110,Huisarts,3,2026-03-03T09:24:25,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Verwerkt
+742,110,Huisarts,3,2026-02-23T09:24:25,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Verwerkt
+743,110,Huisarts,3,2026-02-06T09:24:25,1,Consult i.v.m. postoperatief herstel heupfractuur,1500,Verwerkt
+744,110,Revalidatiearts,16,2026-02-15T09:30:25,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+745,110,Revalidatiearts,16,2026-03-15T09:15:25,4,Controle consult 1,6000,Verwerkt
+746,110,Revalidatiearts,16,2026-04-07T15:15:25,4,Controle consult 2,6000,Verwerkt
+747,110,Revalidatiearts,16,2026-04-27T15:15:25,4,Controle consult 3,6000,Verwerkt
+748,110,Revalidatiearts,16,2026-05-16T10:15:25,4,Controle consult 4,6000,Verwerkt
+749,110,Revalidatiearts,16,2026-06-13T13:15:25,4,Controle consult 5,6000,Verwerkt
+750,110,Revalidatiearts,16,2026-07-07T15:30:25,4,Controle consult 6,6000,Verwerkt
+751,110,Revalidatiearts,16,2026-07-25T16:30:25,4,Controle consult 7,6000,Verwerkt
+752,111,Huisarts,5,2025-05-24T07:34:38,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,3500,Verwerkt
+753,111,Huisarts,5,2025-05-21T07:34:38,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Verwerkt
+754,111,Revalidatiearts,17,2025-05-05T11:00:38,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Verwerkt
+755,111,Revalidatiearts,17,2025-06-01T13:15:38,4,Controle consult 1,6000,Verwerkt
+756,111,Revalidatiearts,17,2025-06-19T15:00:38,4,Controle consult 2,6000,Verwerkt
+757,111,Revalidatiearts,17,2025-07-07T16:30:38,4,Controle consult 3,6000,Verwerkt
+758,111,Revalidatiearts,17,2025-08-03T10:15:38,4,Controle consult 4,6000,Verwerkt
+759,111,Revalidatiearts,17,2025-08-27T15:30:38,4,Controle consult 5,6000,Verwerkt
+760,111,Revalidatiearts,17,2025-09-17T16:30:38,4,Controle consult 6,6000,Verwerkt
+761,112,Huisarts,6,2026-06-06T07:46:21,1,Consult i.v.m. knieartrose,3500,Verwerkt
+762,112,Revalidatiearts,15,2026-06-01T09:30:21,3,Intake revalidatie - Knieartrose,8000,Verwerkt
+763,112,Revalidatiearts,15,2026-06-26T14:30:21,4,Controle consult 1,6000,Verwerkt
+764,112,Revalidatiearts,15,2026-07-15T14:15:21,4,Controle consult 2,6000,Verwerkt
+765,112,Revalidatiearts,15,2026-08-11T16:30:21,4,Controle consult 3,6000,Verwerkt
+766,112,Revalidatiearts,15,2026-08-29T14:00:21,4,Controle consult 4,6000,Nieuw
+767,112,Revalidatiearts,15,2026-09-19T13:15:21,4,Controle consult 5,6000,Nieuw
+768,113,Huisarts,7,2026-06-08T20:51:02,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Verwerkt
+769,113,Huisarts,7,2026-06-12T20:51:02,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Verwerkt
+770,113,Revalidatiearts,18,2026-05-28T11:15:02,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Verwerkt
+771,113,Revalidatiearts,18,2026-06-17T10:15:02,4,Controle consult 1,6000,Verwerkt
+772,113,Revalidatiearts,18,2026-07-07T16:15:02,4,Controle consult 2,6000,Verwerkt
+773,114,Huisarts,2,2026-07-04T22:40:54,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Verwerkt
+774,114,Huisarts,2,2026-06-29T22:40:54,1,Consult i.v.m. postoperatief herstel heupfractuur,1500,Verwerkt
+775,114,Revalidatiearts,18,2026-06-20T11:00:54,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+776,114,Revalidatiearts,18,2026-07-17T09:30:54,4,Controle consult 1,6000,Verwerkt
+777,114,Revalidatiearts,18,2026-08-14T09:30:54,4,Controle consult 2,6000,Nieuw
+778,114,Revalidatiearts,18,2026-09-04T14:30:54,4,Controle consult 3,6000,Nieuw
+779,115,Huisarts,2,2026-07-01T13:32:45,1,Consult i.v.m. meniscusscheur knie,1500,Verwerkt
+780,115,Huisarts,2,2026-07-13T13:32:45,1,Consult i.v.m. meniscusscheur knie,1500,Verwerkt
+781,115,Revalidatiearts,17,2026-07-11T14:00:45,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+782,115,Revalidatiearts,17,2026-07-29T11:15:45,4,Controle consult 1,6000,Verwerkt
+783,116,Huisarts,3,2026-02-13T22:33:17,1,Consult i.v.m. sportblessure hamstring,2500,Nieuw
+784,116,Huisarts,3,2026-02-07T22:33:17,1,Consult i.v.m. sportblessure hamstring,2500,Nieuw
+785,116,Revalidatiearts,19,2026-01-30T10:30:17,3,Intake revalidatie - Sportblessure hamstring,8000,Nieuw
+786,116,Revalidatiearts,19,2026-02-17T09:15:17,4,Controle consult 1,6000,Nieuw
+787,116,Revalidatiearts,19,2026-03-16T13:00:17,4,Controle consult 2,6000,Nieuw
+788,116,Revalidatiearts,19,2026-04-03T15:30:17,4,Controle consult 3,6000,Nieuw
+789,116,Revalidatiearts,19,2026-04-27T13:15:17,4,Controle consult 4,6000,Nieuw
+790,117,Huisarts,5,2026-01-30T02:56:10,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+791,117,Huisarts,5,2026-01-15T02:56:10,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+792,117,Revalidatiearts,16,2026-01-16T13:15:10,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+793,117,Revalidatiearts,16,2026-02-11T16:00:10,4,Controle consult 1,6000,Verwerkt
+794,117,Revalidatiearts,16,2026-03-03T16:30:10,4,Controle consult 2,6000,Verwerkt
+795,117,Revalidatiearts,16,2026-03-30T15:15:10,4,Controle consult 3,6000,Verwerkt
+796,118,Huisarts,3,2026-03-05T17:39:57,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Nieuw
+797,118,Huisarts,3,2026-03-05T17:39:57,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Nieuw
+798,118,Revalidatiearts,18,2026-03-14T14:15:57,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Nieuw
+799,118,Revalidatiearts,18,2026-04-09T15:30:57,4,Controle consult 1,6000,Nieuw
+800,118,Revalidatiearts,18,2026-05-06T14:15:57,4,Controle consult 2,6000,Nieuw
+801,118,Revalidatiearts,18,2026-05-26T09:00:57,4,Controle consult 3,6000,Nieuw
+802,118,Revalidatiearts,18,2026-06-16T10:15:57,4,Controle consult 4,6000,Nieuw
+803,119,Huisarts,8,2025-05-15T06:52:13,1,Consult i.v.m. schouder impingement,2500,Verwerkt
+804,119,Revalidatiearts,17,2025-04-27T13:30:13,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+805,119,Revalidatiearts,17,2025-05-25T16:30:13,4,Controle consult 1,6000,Verwerkt
+806,119,Revalidatiearts,17,2025-06-16T15:00:13,4,Controle consult 2,6000,Verwerkt
+807,119,Revalidatiearts,17,2025-07-14T14:00:13,4,Controle consult 3,6000,Verwerkt
+808,119,Revalidatiearts,17,2025-08-02T09:00:13,4,Controle consult 4,6000,Verwerkt
+809,119,Revalidatiearts,17,2025-08-27T10:15:13,4,Controle consult 5,6000,Verwerkt
+810,119,Revalidatiearts,17,2025-09-18T14:00:13,4,Controle consult 6,6000,Verwerkt
+811,119,Revalidatiearts,17,2025-10-07T15:15:13,4,Controle consult 7,6000,Verwerkt
+812,120,Huisarts,1,2026-08-13T12:04:16,1,Consult i.v.m. meniscusscheur knie,3500,Verwerkt
+813,120,Huisarts,1,2026-08-14T12:04:16,1,Consult i.v.m. meniscusscheur knie,3500,Verwerkt
+814,120,Revalidatiearts,17,2026-08-06T16:00:16,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+815,120,Revalidatiearts,17,2026-08-29T09:15:16,4,Controle consult 1,6000,Nieuw
+816,120,Revalidatiearts,17,2026-09-25T09:30:16,4,Controle consult 2,6000,Nieuw
+817,120,Revalidatiearts,17,2026-10-18T15:15:16,4,Controle consult 3,6000,Nieuw
+818,120,Revalidatiearts,17,2026-11-12T13:15:16,4,Controle consult 4,6000,Nieuw
+819,121,Huisarts,10,2025-09-30T08:17:14,1,Consult i.v.m. fibromyalgie,1500,Verwerkt
+820,121,Huisarts,10,2025-09-29T08:17:14,1,Consult i.v.m. fibromyalgie,3500,Verwerkt
+821,121,Revalidatiearts,14,2025-09-23T16:30:14,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+822,121,Revalidatiearts,14,2025-10-12T13:15:14,4,Controle consult 1,6000,Verwerkt
+823,121,Revalidatiearts,14,2025-10-31T14:30:14,4,Controle consult 2,6000,Verwerkt
+824,122,Huisarts,10,2026-05-02T09:41:35,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+825,122,Huisarts,10,2026-05-01T09:41:35,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+826,122,Revalidatiearts,11,2026-04-29T09:15:35,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+827,122,Revalidatiearts,11,2026-05-23T15:15:35,4,Controle consult 1,6000,Verwerkt
+828,122,Revalidatiearts,11,2026-06-13T16:30:35,4,Controle consult 2,6000,Verwerkt
+829,123,Huisarts,4,2026-11-01T23:32:14,1,Consult i.v.m. nekhernia c5-c6,3500,Nieuw
+830,123,Huisarts,4,2026-10-20T23:32:14,1,Consult i.v.m. nekhernia c5-c6,2500,Nieuw
+831,123,Revalidatiearts,20,2026-10-26T14:00:14,3,Intake revalidatie - Nekhernia C5-C6,8000,Nieuw
+832,123,Revalidatiearts,20,2026-11-14T16:00:14,4,Controle consult 1,6000,Nieuw
+833,123,Revalidatiearts,20,2026-12-11T09:00:14,4,Controle consult 2,6000,Nieuw
+834,123,Revalidatiearts,20,2026-01-03T14:30:14,4,Controle consult 3,6000,Nieuw
+835,124,Huisarts,2,2025-01-21T02:11:56,1,Consult i.v.m. hernia l5-s1,3500,Verwerkt
+836,124,Huisarts,2,2025-01-28T02:11:56,1,Consult i.v.m. hernia l5-s1,2500,Verwerkt
+837,124,Revalidatiearts,18,2025-01-25T13:30:56,3,Intake revalidatie - Hernia L5-S1,8000,Verwerkt
+838,124,Revalidatiearts,18,2025-02-14T11:15:56,4,Controle consult 1,6000,Verwerkt
+839,124,Revalidatiearts,18,2025-03-09T14:30:56,4,Controle consult 2,6000,Verwerkt
+840,124,Revalidatiearts,18,2025-03-28T16:00:56,4,Controle consult 3,6000,Verwerkt
+841,125,Huisarts,9,2026-02-12T06:17:48,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+842,125,Huisarts,9,2026-02-27T06:17:48,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+843,125,Revalidatiearts,12,2026-02-16T16:15:48,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+844,125,Revalidatiearts,12,2026-03-08T11:15:48,4,Controle consult 1,6000,Verwerkt
+845,125,Revalidatiearts,12,2026-04-03T13:15:48,4,Controle consult 2,6000,Verwerkt
+846,125,Revalidatiearts,12,2026-04-30T09:30:48,4,Controle consult 3,6000,Verwerkt
+847,126,Huisarts,1,2026-03-04T02:15:16,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+848,126,Huisarts,1,2026-02-20T02:15:16,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Verwerkt
+849,126,Revalidatiearts,12,2026-02-16T14:00:16,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+850,126,Revalidatiearts,12,2026-03-11T11:30:16,4,Controle consult 1,6000,Verwerkt
+851,126,Revalidatiearts,12,2026-04-02T11:30:16,4,Controle consult 2,6000,Verwerkt
+852,126,Revalidatiearts,12,2026-04-26T10:30:16,4,Controle consult 3,6000,Verwerkt
+853,126,Revalidatiearts,12,2026-05-19T10:00:16,4,Controle consult 4,6000,Verwerkt
+854,126,Revalidatiearts,12,2026-06-12T11:00:16,4,Controle consult 5,6000,Verwerkt
+855,126,Revalidatiearts,12,2026-07-08T16:30:16,4,Controle consult 6,6000,Verwerkt
+856,127,Huisarts,1,2025-08-17T00:35:08,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+857,127,Huisarts,1,2025-08-04T00:35:08,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+858,127,Revalidatiearts,12,2025-08-10T14:30:08,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+859,127,Revalidatiearts,12,2025-09-05T15:30:08,4,Controle consult 1,6000,Verwerkt
+860,128,Huisarts,8,2026-01-02T04:57:34,1,Consult i.v.m. knieartrose,2500,Nieuw
+861,128,Huisarts,8,2026-12-12T04:57:34,1,Consult i.v.m. knieartrose,1500,Nieuw
+862,128,Huisarts,8,2026-12-14T04:57:34,1,Consult i.v.m. knieartrose,3500,Nieuw
+863,128,Revalidatiearts,13,2026-12-15T16:00:34,3,Intake revalidatie - Knieartrose,8000,Nieuw
+864,128,Revalidatiearts,13,2026-01-03T15:30:34,4,Controle consult 1,6000,Nieuw
+865,128,Revalidatiearts,13,2026-01-31T13:00:34,4,Controle consult 2,6000,Nieuw
+866,129,Huisarts,9,2026-04-07T14:57:10,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Nieuw
+867,129,Revalidatiearts,14,2026-03-27T16:30:10,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Nieuw
+868,129,Revalidatiearts,14,2026-04-23T15:30:10,4,Controle consult 1,6000,Nieuw
+869,129,Revalidatiearts,14,2026-05-15T14:30:10,4,Controle consult 2,6000,Nieuw
+870,129,Revalidatiearts,14,2026-06-04T15:00:10,4,Controle consult 3,6000,Nieuw
+871,130,Huisarts,6,2026-03-24T15:17:17,1,Consult i.v.m. knieartrose,3500,Verwerkt
+872,130,Revalidatiearts,17,2026-03-26T16:00:17,3,Intake revalidatie - Knieartrose,8000,Verwerkt
+873,130,Revalidatiearts,17,2026-04-22T10:15:17,4,Controle consult 1,6000,Verwerkt
+874,130,Revalidatiearts,17,2026-05-18T09:00:17,4,Controle consult 2,6000,Verwerkt
+875,130,Revalidatiearts,17,2026-06-15T09:15:17,4,Controle consult 3,6000,Verwerkt
+876,130,Revalidatiearts,17,2026-07-12T15:15:17,4,Controle consult 4,6000,Verwerkt
+877,131,Huisarts,10,2025-03-08T17:59:50,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Verwerkt
+878,131,Huisarts,10,2025-03-31T17:59:50,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Verwerkt
+879,131,Revalidatiearts,14,2025-03-13T11:15:50,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Verwerkt
+880,131,Revalidatiearts,14,2025-03-31T13:00:50,4,Controle consult 1,6000,Verwerkt
+881,131,Revalidatiearts,14,2025-04-28T16:15:50,4,Controle consult 2,6000,Verwerkt
+882,131,Revalidatiearts,14,2025-05-19T11:30:50,4,Controle consult 3,6000,Verwerkt
+883,131,Revalidatiearts,14,2025-06-07T13:15:50,4,Controle consult 4,6000,Verwerkt
+884,131,Revalidatiearts,14,2025-07-04T10:00:50,4,Controle consult 5,6000,Verwerkt
+885,132,Huisarts,2,2026-11-05T23:22:34,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Nieuw
+886,132,Huisarts,2,2026-11-03T23:22:34,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,3500,Nieuw
+887,132,Huisarts,2,2026-10-10T23:22:34,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Nieuw
+888,132,Revalidatiearts,19,2026-10-20T13:00:34,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Nieuw
+889,132,Revalidatiearts,19,2026-11-12T10:15:34,4,Controle consult 1,6000,Nieuw
+890,132,Revalidatiearts,19,2026-12-09T10:30:34,4,Controle consult 2,6000,Nieuw
+891,132,Revalidatiearts,19,2026-12-31T11:15:34,4,Controle consult 3,6000,Nieuw
+892,132,Revalidatiearts,19,2026-01-23T09:30:34,4,Controle consult 4,6000,Nieuw
+893,132,Revalidatiearts,19,2026-02-19T09:15:34,4,Controle consult 5,6000,Nieuw
+894,132,Revalidatiearts,19,2026-03-16T13:15:34,4,Controle consult 6,6000,Nieuw
+895,132,Revalidatiearts,19,2026-04-13T10:00:34,4,Controle consult 7,6000,Nieuw
+896,133,Huisarts,8,2026-01-29T16:15:01,1,Consult i.v.m. enkelverstuiking graad 2,3500,Nieuw
+897,133,Huisarts,8,2026-01-25T16:15:01,1,Consult i.v.m. enkelverstuiking graad 2,3500,Nieuw
+898,133,Revalidatiearts,18,2026-02-03T11:00:01,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Nieuw
+899,133,Revalidatiearts,18,2026-03-01T10:00:01,4,Controle consult 1,6000,Nieuw
+900,133,Revalidatiearts,18,2026-03-27T15:30:01,4,Controle consult 2,6000,Nieuw
+901,133,Revalidatiearts,18,2026-04-22T15:15:01,4,Controle consult 3,6000,Nieuw
+902,133,Revalidatiearts,18,2026-05-11T13:15:01,4,Controle consult 4,6000,Nieuw
+903,133,Revalidatiearts,18,2026-06-04T10:00:01,4,Controle consult 5,6000,Nieuw
+904,134,Huisarts,4,2026-12-24T17:17:52,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Nieuw
+905,134,Huisarts,4,2026-12-03T17:17:52,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,3500,Nieuw
+906,134,Huisarts,4,2026-12-12T17:17:52,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Nieuw
+907,134,Revalidatiearts,13,2026-12-12T09:00:52,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Nieuw
+908,134,Revalidatiearts,13,2026-01-05T14:15:52,4,Controle consult 1,6000,Nieuw
+909,134,Revalidatiearts,13,2026-01-27T16:00:52,4,Controle consult 2,6000,Nieuw
+910,134,Revalidatiearts,13,2026-02-24T14:00:52,4,Controle consult 3,6000,Nieuw
+911,134,Revalidatiearts,13,2026-03-20T16:30:52,4,Controle consult 4,6000,Nieuw
+912,134,Revalidatiearts,13,2026-04-14T15:00:52,4,Controle consult 5,6000,Nieuw
+913,135,Huisarts,9,2026-07-10T02:22:20,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+914,135,Huisarts,9,2026-07-08T02:22:20,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+915,135,Huisarts,9,2026-07-14T02:22:20,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+916,135,Revalidatiearts,13,2026-07-14T14:30:20,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+917,135,Revalidatiearts,13,2026-08-08T13:30:20,4,Controle consult 1,6000,Verwerkt
+918,135,Revalidatiearts,13,2026-09-05T09:30:20,4,Controle consult 2,6000,Nieuw
+919,135,Revalidatiearts,13,2026-09-29T11:30:20,4,Controle consult 3,6000,Nieuw
+920,135,Revalidatiearts,13,2026-10-21T09:00:20,4,Controle consult 4,6000,Nieuw
+921,135,Revalidatiearts,13,2026-11-09T10:00:20,4,Controle consult 5,6000,Nieuw
+922,135,Revalidatiearts,13,2026-12-01T14:15:20,4,Controle consult 6,6000,Nieuw
+923,135,Revalidatiearts,13,2026-12-19T11:30:20,4,Controle consult 7,6000,Nieuw
+924,136,Huisarts,5,2025-02-10T03:24:33,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Verwerkt
+925,136,Huisarts,5,2025-03-05T03:24:33,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Verwerkt
+926,136,Huisarts,5,2025-02-06T03:24:33,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Verwerkt
+927,136,Revalidatiearts,12,2025-02-15T14:30:33,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Verwerkt
+928,136,Revalidatiearts,12,2025-03-07T10:00:33,4,Controle consult 1,6000,Verwerkt
+929,136,Revalidatiearts,12,2025-03-31T11:00:33,4,Controle consult 2,6000,Verwerkt
+930,136,Revalidatiearts,12,2025-04-19T13:15:33,4,Controle consult 3,6000,Verwerkt
+931,137,Huisarts,10,2026-02-28T02:33:54,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+932,137,Revalidatiearts,18,2026-02-13T16:00:54,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+933,137,Revalidatiearts,18,2026-03-09T10:30:54,4,Controle consult 1,6000,Verwerkt
+934,137,Revalidatiearts,18,2026-03-27T16:30:54,4,Controle consult 2,6000,Verwerkt
+935,138,Huisarts,9,2026-04-17T13:38:00,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Verwerkt
+936,138,Huisarts,9,2026-04-15T13:38:00,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Verwerkt
+937,138,Revalidatiearts,17,2026-04-05T10:30:00,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Verwerkt
+938,138,Revalidatiearts,17,2026-05-01T09:30:00,4,Controle consult 1,6000,Verwerkt
+939,138,Revalidatiearts,17,2026-05-25T14:15:00,4,Controle consult 2,6000,Verwerkt
+940,138,Revalidatiearts,17,2026-06-13T16:15:00,4,Controle consult 3,6000,Verwerkt
+941,138,Revalidatiearts,17,2026-07-06T13:30:00,4,Controle consult 4,6000,Verwerkt
+942,138,Revalidatiearts,17,2026-07-29T11:30:00,4,Controle consult 5,6000,Verwerkt
+943,138,Revalidatiearts,17,2026-08-23T10:30:00,4,Controle consult 6,6000,Nieuw
+944,138,Revalidatiearts,17,2026-09-11T11:30:00,4,Controle consult 7,6000,Nieuw
+945,139,Huisarts,7,2025-02-28T20:04:07,1,Consult i.v.m. postoperatief herstel heupfractuur,1500,Verwerkt
+946,139,Huisarts,7,2025-02-17T20:04:07,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+947,139,Revalidatiearts,12,2025-02-12T10:00:07,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+948,139,Revalidatiearts,12,2025-03-07T09:30:07,4,Controle consult 1,6000,Verwerkt
+949,140,Huisarts,10,2025-04-16T18:46:31,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Verwerkt
+950,140,Revalidatiearts,20,2025-04-22T13:00:31,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Verwerkt
+951,140,Revalidatiearts,20,2025-05-11T15:00:31,4,Controle consult 1,6000,Verwerkt
+952,140,Revalidatiearts,20,2025-06-05T09:00:31,4,Controle consult 2,6000,Verwerkt
+953,140,Revalidatiearts,20,2025-06-29T15:00:31,4,Controle consult 3,6000,Verwerkt
+954,140,Revalidatiearts,20,2025-07-23T13:00:31,4,Controle consult 4,6000,Verwerkt
+955,140,Revalidatiearts,20,2025-08-16T15:15:31,4,Controle consult 5,6000,Verwerkt
+956,140,Revalidatiearts,20,2025-09-05T16:15:31,4,Controle consult 6,6000,Verwerkt
+957,141,Huisarts,4,2026-05-24T07:05:13,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Nieuw
+958,141,Revalidatiearts,16,2026-05-27T15:15:13,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Nieuw
+959,141,Revalidatiearts,16,2026-06-17T11:30:13,4,Controle consult 1,6000,Nieuw
+960,141,Revalidatiearts,16,2026-07-14T15:15:13,4,Controle consult 2,6000,Nieuw
+961,142,Huisarts,1,2026-10-29T09:31:24,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Nieuw
+962,142,Revalidatiearts,12,2026-10-30T09:00:24,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Nieuw
+963,142,Revalidatiearts,12,2026-11-23T15:15:24,4,Controle consult 1,6000,Nieuw
+964,142,Revalidatiearts,12,2026-12-11T15:15:24,4,Controle consult 2,6000,Nieuw
+965,142,Revalidatiearts,12,2026-01-07T11:30:24,4,Controle consult 3,6000,Nieuw
+966,142,Revalidatiearts,12,2026-01-25T16:15:24,4,Controle consult 4,6000,Nieuw
+967,142,Revalidatiearts,12,2026-02-13T14:15:24,4,Controle consult 5,6000,Nieuw
+968,143,Huisarts,1,2025-08-11T08:35:05,1,Consult i.v.m. hernia l5-s1,2500,Verwerkt
+969,143,Huisarts,1,2025-08-02T08:35:05,1,Consult i.v.m. hernia l5-s1,2500,Verwerkt
+970,143,Huisarts,1,2025-08-10T08:35:05,1,Consult i.v.m. hernia l5-s1,1500,Verwerkt
+971,143,Revalidatiearts,12,2025-07-31T09:15:05,3,Intake revalidatie - Hernia L5-S1,8000,Verwerkt
+972,143,Revalidatiearts,12,2025-08-28T15:30:05,4,Controle consult 1,6000,Verwerkt
+973,143,Revalidatiearts,12,2025-09-16T14:15:05,4,Controle consult 2,6000,Verwerkt
+974,144,Huisarts,9,2026-09-24T22:55:02,1,Consult i.v.m. knieartrose,2500,Nieuw
+975,144,Huisarts,9,2026-10-04T22:55:02,1,Consult i.v.m. knieartrose,1500,Nieuw
+976,144,Huisarts,9,2026-09-21T22:55:02,1,Consult i.v.m. knieartrose,2500,Nieuw
+977,144,Revalidatiearts,12,2026-09-18T15:15:02,3,Intake revalidatie - Knieartrose,8000,Nieuw
+978,144,Revalidatiearts,12,2026-10-12T13:30:02,4,Controle consult 1,6000,Nieuw
+979,145,Huisarts,3,2025-06-15T03:44:25,1,Consult i.v.m. nekhernia c5-c6,2500,Verwerkt
+980,145,Revalidatiearts,17,2025-06-10T15:30:25,3,Intake revalidatie - Nekhernia C5-C6,8000,Verwerkt
+981,145,Revalidatiearts,17,2025-07-05T11:30:25,4,Controle consult 1,6000,Verwerkt
+982,145,Revalidatiearts,17,2025-08-01T11:15:25,4,Controle consult 2,6000,Verwerkt
+983,145,Revalidatiearts,17,2025-08-23T10:15:25,4,Controle consult 3,6000,Verwerkt
+984,146,Huisarts,10,2026-11-02T19:59:03,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Nieuw
+985,146,Revalidatiearts,12,2026-11-09T11:30:03,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Nieuw
+986,146,Revalidatiearts,12,2026-11-29T16:30:03,4,Controle consult 1,6000,Nieuw
+987,146,Revalidatiearts,12,2026-12-18T11:00:03,4,Controle consult 2,6000,Nieuw
+988,147,Huisarts,7,2026-07-03T14:07:29,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+989,147,Revalidatiearts,15,2026-07-03T10:30:29,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+990,147,Revalidatiearts,15,2026-07-25T15:15:29,4,Controle consult 1,6000,Verwerkt
+991,147,Revalidatiearts,15,2026-08-22T10:00:29,4,Controle consult 2,6000,Nieuw
+992,147,Revalidatiearts,15,2026-09-13T13:00:29,4,Controle consult 3,6000,Nieuw
+993,147,Revalidatiearts,15,2026-10-01T09:15:29,4,Controle consult 4,6000,Nieuw
+994,147,Revalidatiearts,15,2026-10-28T14:00:29,4,Controle consult 5,6000,Nieuw
+995,147,Revalidatiearts,15,2026-11-20T14:00:29,4,Controle consult 6,6000,Nieuw
+996,148,Huisarts,10,2026-01-07T05:02:54,1,Consult i.v.m. fibromyalgie,2500,Verwerkt
+997,148,Huisarts,10,2026-01-21T05:02:54,1,Consult i.v.m. fibromyalgie,2500,Verwerkt
+998,148,Huisarts,10,2026-01-15T05:02:54,1,Consult i.v.m. fibromyalgie,2500,Verwerkt
+999,148,Revalidatiearts,17,2026-01-06T11:30:54,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+1000,148,Revalidatiearts,17,2026-02-03T10:15:54,4,Controle consult 1,6000,Verwerkt
+1001,148,Revalidatiearts,17,2026-02-21T16:30:54,4,Controle consult 2,6000,Verwerkt
+1002,148,Revalidatiearts,17,2026-03-17T15:00:54,4,Controle consult 3,6000,Verwerkt
+1003,148,Revalidatiearts,17,2026-04-06T10:00:54,4,Controle consult 4,6000,Verwerkt
+1004,148,Revalidatiearts,17,2026-04-24T15:00:54,4,Controle consult 5,6000,Verwerkt
+1005,148,Revalidatiearts,17,2026-05-19T09:30:54,4,Controle consult 6,6000,Verwerkt
+1006,149,Huisarts,10,2026-02-25T12:14:55,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Verwerkt
+1007,149,Huisarts,10,2026-02-11T12:14:55,1,Consult i.v.m. postoperatief herstel heupfractuur,1500,Verwerkt
+1008,149,Huisarts,10,2026-02-28T12:14:55,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+1009,149,Revalidatiearts,11,2026-02-17T14:15:55,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+1010,149,Revalidatiearts,11,2026-03-17T11:15:55,4,Controle consult 1,6000,Verwerkt
+1011,149,Revalidatiearts,11,2026-04-10T16:00:55,4,Controle consult 2,6000,Verwerkt
+1012,149,Revalidatiearts,11,2026-05-08T15:30:55,4,Controle consult 3,6000,Verwerkt
+1013,149,Revalidatiearts,11,2026-06-05T13:30:55,4,Controle consult 4,6000,Verwerkt
+1014,150,Huisarts,8,2026-07-30T19:05:49,1,Consult i.v.m. meniscusscheur knie,3500,Verwerkt
+1015,150,Huisarts,8,2026-08-13T19:05:49,1,Consult i.v.m. meniscusscheur knie,2500,Verwerkt
+1016,150,Huisarts,8,2026-08-13T19:05:49,1,Consult i.v.m. meniscusscheur knie,1500,Verwerkt
+1017,150,Revalidatiearts,14,2026-07-26T15:30:49,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+1018,150,Revalidatiearts,14,2026-08-22T10:30:49,4,Controle consult 1,6000,Nieuw
+1019,150,Revalidatiearts,14,2026-09-16T10:15:49,4,Controle consult 2,6000,Nieuw
+1020,150,Revalidatiearts,14,2026-10-14T15:30:49,4,Controle consult 3,6000,Nieuw
+1021,150,Revalidatiearts,14,2026-11-03T09:30:49,4,Controle consult 4,6000,Nieuw
+1022,150,Revalidatiearts,14,2026-12-01T11:15:49,4,Controle consult 5,6000,Nieuw
+1023,150,Revalidatiearts,14,2026-12-24T13:30:49,4,Controle consult 6,6000,Nieuw
+1024,151,Huisarts,6,2025-05-17T18:54:03,1,Consult i.v.m. meniscusscheur knie,3500,Verwerkt
+1025,151,Revalidatiearts,18,2025-04-27T15:15:03,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+1026,151,Revalidatiearts,18,2025-05-21T11:30:03,4,Controle consult 1,6000,Verwerkt
+1027,151,Revalidatiearts,18,2025-06-15T15:00:03,4,Controle consult 2,6000,Verwerkt
+1028,151,Revalidatiearts,18,2025-07-09T11:00:03,4,Controle consult 3,6000,Verwerkt
+1029,151,Revalidatiearts,18,2025-07-29T10:15:03,4,Controle consult 4,6000,Verwerkt
+1030,152,Huisarts,1,2026-07-21T20:48:37,1,Consult i.v.m. sportblessure hamstring,3500,Nieuw
+1031,152,Huisarts,1,2026-07-09T20:48:37,1,Consult i.v.m. sportblessure hamstring,1500,Nieuw
+1032,152,Revalidatiearts,13,2026-07-09T14:00:37,3,Intake revalidatie - Sportblessure hamstring,8000,Nieuw
+1033,152,Revalidatiearts,13,2026-07-28T14:00:37,4,Controle consult 1,6000,Nieuw
+1034,152,Revalidatiearts,13,2026-08-18T09:30:37,4,Controle consult 2,6000,Nieuw
+1035,153,Huisarts,4,2025-09-11T03:38:00,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+1036,153,Huisarts,4,2025-09-30T03:38:00,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+1037,153,Huisarts,4,2025-09-13T03:38:00,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+1038,153,Revalidatiearts,18,2025-09-16T15:30:00,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+1039,153,Revalidatiearts,18,2025-10-09T10:15:00,4,Controle consult 1,6000,Verwerkt
+1040,153,Revalidatiearts,18,2025-10-29T11:15:00,4,Controle consult 2,6000,Verwerkt
+1041,153,Revalidatiearts,18,2025-11-20T14:15:00,4,Controle consult 3,6000,Verwerkt
+1042,153,Revalidatiearts,18,2025-12-09T10:00:00,4,Controle consult 4,6000,Verwerkt
+1043,153,Revalidatiearts,18,2026-01-02T14:15:00,4,Controle consult 5,6000,Verwerkt
+1044,153,Revalidatiearts,18,2026-01-21T11:30:00,4,Controle consult 6,6000,Verwerkt
+1045,153,Revalidatiearts,18,2026-02-18T10:15:00,4,Controle consult 7,6000,Verwerkt
+1046,154,Huisarts,10,2025-08-11T01:22:26,1,Consult i.v.m. nekhernia c5-c6,1500,Verwerkt
+1047,154,Huisarts,10,2025-08-26T01:22:26,1,Consult i.v.m. nekhernia c5-c6,2500,Verwerkt
+1048,154,Huisarts,10,2025-08-08T01:22:26,1,Consult i.v.m. nekhernia c5-c6,2500,Verwerkt
+1049,154,Revalidatiearts,15,2025-08-15T13:00:26,3,Intake revalidatie - Nekhernia C5-C6,8000,Verwerkt
+1050,154,Revalidatiearts,15,2025-09-04T10:15:26,4,Controle consult 1,6000,Verwerkt
+1051,154,Revalidatiearts,15,2025-09-26T13:00:26,4,Controle consult 2,6000,Verwerkt
+1052,154,Revalidatiearts,15,2025-10-22T16:00:26,4,Controle consult 3,6000,Verwerkt
+1053,154,Revalidatiearts,15,2025-11-19T10:00:26,4,Controle consult 4,6000,Verwerkt
+1054,154,Revalidatiearts,15,2025-12-11T15:00:26,4,Controle consult 5,6000,Verwerkt
+1055,154,Revalidatiearts,15,2025-12-31T15:15:26,4,Controle consult 6,6000,Verwerkt
+1056,154,Revalidatiearts,15,2026-01-18T16:30:26,4,Controle consult 7,6000,Verwerkt
+1057,155,Huisarts,4,2026-02-07T15:56:41,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+1058,155,Huisarts,4,2026-02-13T15:56:41,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+1059,155,Huisarts,4,2026-02-15T15:56:41,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+1060,155,Revalidatiearts,17,2026-02-17T15:00:41,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+1061,155,Revalidatiearts,17,2026-03-13T09:15:41,4,Controle consult 1,6000,Verwerkt
+1062,155,Revalidatiearts,17,2026-04-09T10:00:41,4,Controle consult 2,6000,Verwerkt
+1063,155,Revalidatiearts,17,2026-04-30T16:00:41,4,Controle consult 3,6000,Verwerkt
+1064,155,Revalidatiearts,17,2026-05-21T13:00:41,4,Controle consult 4,6000,Verwerkt
+1065,155,Revalidatiearts,17,2026-06-12T11:00:41,4,Controle consult 5,6000,Verwerkt
+1066,156,Huisarts,7,2025-12-16T06:10:23,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+1067,156,Huisarts,7,2025-12-20T06:10:23,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+1068,156,Huisarts,7,2025-11-30T06:10:23,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+1069,156,Revalidatiearts,14,2025-12-07T16:00:23,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+1070,156,Revalidatiearts,14,2025-12-30T09:30:23,4,Controle consult 1,6000,Verwerkt
+1071,156,Revalidatiearts,14,2026-01-17T09:30:23,4,Controle consult 2,6000,Verwerkt
+1072,157,Huisarts,10,2026-05-12T02:09:10,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Nieuw
+1073,157,Revalidatiearts,17,2026-05-13T09:15:10,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Nieuw
+1074,157,Revalidatiearts,17,2026-06-04T09:00:10,4,Controle consult 1,6000,Nieuw
+1075,157,Revalidatiearts,17,2026-06-30T09:30:10,4,Controle consult 2,6000,Nieuw
+1076,157,Revalidatiearts,17,2026-07-28T09:00:10,4,Controle consult 3,6000,Nieuw
+1077,157,Revalidatiearts,17,2026-08-22T15:00:10,4,Controle consult 4,6000,Nieuw
+1078,157,Revalidatiearts,17,2025-09-18T14:30:10,4,Controle consult 5,6000,Nieuw
+1079,157,Revalidatiearts,17,2025-10-12T13:00:10,4,Controle consult 6,6000,Nieuw
+1080,158,Huisarts,7,2025-07-03T23:48:44,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+1081,158,Huisarts,7,2025-06-21T23:48:44,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+1082,158,Huisarts,7,2025-07-04T23:48:44,1,Consult i.v.m. enkelverstuiking graad 2,3500,Verwerkt
+1083,158,Revalidatiearts,18,2025-06-24T11:00:44,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+1084,158,Revalidatiearts,18,2025-07-13T09:15:44,4,Controle consult 1,6000,Verwerkt
+1085,158,Revalidatiearts,18,2025-08-02T09:30:44,4,Controle consult 2,6000,Verwerkt
+1086,158,Revalidatiearts,18,2025-08-29T15:00:44,4,Controle consult 3,6000,Verwerkt
+1087,158,Revalidatiearts,18,2025-09-22T15:30:44,4,Controle consult 4,6000,Verwerkt
+1088,158,Revalidatiearts,18,2025-10-13T13:00:44,4,Controle consult 5,6000,Verwerkt
+1089,158,Revalidatiearts,18,2025-11-09T14:15:44,4,Controle consult 6,6000,Verwerkt
+1090,158,Revalidatiearts,18,2025-11-27T13:00:44,4,Controle consult 7,6000,Verwerkt
+1091,159,Huisarts,9,2025-04-22T20:14:39,1,Consult i.v.m. nekhernia c5-c6,2500,Verwerkt
+1092,159,Huisarts,9,2025-04-21T20:14:39,1,Consult i.v.m. nekhernia c5-c6,3500,Verwerkt
+1093,159,Revalidatiearts,11,2025-04-17T10:00:39,3,Intake revalidatie - Nekhernia C5-C6,8000,Verwerkt
+1094,159,Revalidatiearts,11,2025-05-15T10:15:39,4,Controle consult 1,6000,Verwerkt
+1095,159,Revalidatiearts,11,2025-06-03T09:30:39,4,Controle consult 2,6000,Verwerkt
+1096,159,Revalidatiearts,11,2025-07-01T15:30:39,4,Controle consult 3,6000,Verwerkt
+1097,159,Revalidatiearts,11,2025-07-19T13:30:39,4,Controle consult 4,6000,Verwerkt
+1098,159,Revalidatiearts,11,2025-08-07T09:30:39,4,Controle consult 5,6000,Verwerkt
+1099,159,Revalidatiearts,11,2025-08-27T15:30:39,4,Controle consult 6,6000,Verwerkt
+1100,160,Huisarts,9,2026-08-14T22:57:41,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Nieuw
+1101,160,Huisarts,9,2026-08-13T22:57:41,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Nieuw
+1102,160,Huisarts,9,2026-08-02T22:57:41,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Nieuw
+1103,160,Revalidatiearts,19,2026-08-02T09:30:41,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Nieuw
+1104,160,Revalidatiearts,19,2026-08-22T15:30:41,4,Controle consult 1,6000,Nieuw
+1105,160,Revalidatiearts,19,2025-09-15T09:00:41,4,Controle consult 2,6000,Nieuw
+1106,160,Revalidatiearts,19,2025-10-13T11:00:41,4,Controle consult 3,6000,Nieuw
+1107,160,Revalidatiearts,19,2025-10-31T13:00:41,4,Controle consult 4,6000,Nieuw
+1108,160,Revalidatiearts,19,2025-11-18T16:30:41,4,Controle consult 5,6000,Nieuw
+1109,160,Revalidatiearts,19,2025-12-10T09:00:41,4,Controle consult 6,6000,Nieuw
+1110,160,Revalidatiearts,19,2025-12-31T16:30:00,4,Controle consult 7,6000,Nieuw
+1111,161,Huisarts,1,2025-05-28T10:03:28,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,3500,Verwerkt
+1112,161,Revalidatiearts,12,2025-05-10T11:00:28,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Verwerkt
+1113,161,Revalidatiearts,12,2025-06-02T16:15:28,4,Controle consult 1,6000,Verwerkt
+1114,161,Revalidatiearts,12,2025-06-24T11:30:28,4,Controle consult 2,6000,Verwerkt
+1115,161,Revalidatiearts,12,2025-07-19T16:00:28,4,Controle consult 3,6000,Verwerkt
+1116,162,Huisarts,8,2025-01-01T00:00:00,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+1117,162,Huisarts,8,2025-01-27T00:47:38,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+1118,162,Revalidatiearts,14,2025-01-08T14:15:38,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+1119,162,Revalidatiearts,14,2025-02-05T10:00:38,4,Controle consult 1,6000,Verwerkt
+1120,162,Revalidatiearts,14,2025-02-28T15:15:38,4,Controle consult 2,6000,Verwerkt
+1121,162,Revalidatiearts,14,2025-03-28T10:00:38,4,Controle consult 3,6000,Verwerkt
+1122,162,Revalidatiearts,14,2025-04-21T16:15:38,4,Controle consult 4,6000,Verwerkt
+1123,162,Revalidatiearts,14,2025-05-09T16:30:38,4,Controle consult 5,6000,Verwerkt
+1124,162,Revalidatiearts,14,2025-06-03T13:00:38,4,Controle consult 6,6000,Verwerkt
+1125,162,Revalidatiearts,14,2025-06-29T16:00:38,4,Controle consult 7,6000,Verwerkt
+1126,163,Huisarts,9,2025-11-28T02:01:48,1,Consult i.v.m. hernia l5-s1,1500,Verwerkt
+1127,163,Huisarts,9,2025-12-01T02:01:48,1,Consult i.v.m. hernia l5-s1,1500,Verwerkt
+1128,163,Revalidatiearts,11,2025-11-27T10:30:48,3,Intake revalidatie - Hernia L5-S1,8000,Verwerkt
+1129,163,Revalidatiearts,11,2025-12-15T14:15:48,4,Controle consult 1,6000,Verwerkt
+1130,163,Revalidatiearts,11,2026-01-09T10:30:48,4,Controle consult 2,6000,Verwerkt
+1131,163,Revalidatiearts,11,2026-02-02T13:15:48,4,Controle consult 3,6000,Verwerkt
+1132,163,Revalidatiearts,11,2026-02-25T09:30:48,4,Controle consult 4,6000,Verwerkt
+1133,164,Huisarts,4,2026-07-29T18:16:35,1,Consult i.v.m. chronische lage rugpijn,1500,Nieuw
+1134,164,Huisarts,4,2026-07-10T18:16:35,1,Consult i.v.m. chronische lage rugpijn,2500,Nieuw
+1135,164,Huisarts,4,2026-08-01T18:16:35,1,Consult i.v.m. chronische lage rugpijn,1500,Nieuw
+1136,164,Revalidatiearts,20,2026-07-14T14:00:35,3,Intake revalidatie - Chronische lage rugpijn,8000,Nieuw
+1137,164,Revalidatiearts,20,2026-08-08T10:00:35,4,Controle consult 1,6000,Nieuw
+1138,164,Revalidatiearts,20,2026-09-02T09:00:35,4,Controle consult 2,6000,Nieuw
+1139,164,Revalidatiearts,20,2025-09-26T15:15:35,4,Controle consult 3,6000,Nieuw
+1140,164,Revalidatiearts,20,2025-10-23T14:30:35,4,Controle consult 4,6000,Nieuw
+1141,165,Huisarts,4,2025-02-13T08:24:22,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+1142,165,Revalidatiearts,13,2025-02-04T11:00:22,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+1143,165,Revalidatiearts,13,2025-03-04T11:00:22,4,Controle consult 1,6000,Verwerkt
+1144,166,Huisarts,10,2026-10-18T12:41:36,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Nieuw
+1145,166,Revalidatiearts,11,2026-10-08T09:00:36,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Nieuw
+1146,166,Revalidatiearts,11,2026-10-26T10:00:36,4,Controle consult 1,6000,Nieuw
+1147,166,Revalidatiearts,11,2026-11-18T11:15:36,4,Controle consult 2,6000,Nieuw
+1148,166,Revalidatiearts,11,2026-12-13T13:15:36,4,Controle consult 3,6000,Nieuw
+1149,166,Revalidatiearts,11,2026-01-02T09:15:36,4,Controle consult 4,6000,Nieuw
+1150,166,Revalidatiearts,11,2026-01-23T11:30:36,4,Controle consult 5,6000,Nieuw
+1151,167,Huisarts,3,2026-11-10T00:08:32,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Nieuw
+1152,167,Huisarts,3,2026-10-29T00:08:32,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Nieuw
+1153,167,Huisarts,3,2026-11-15T00:08:32,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Nieuw
+1154,167,Revalidatiearts,14,2026-10-27T10:15:32,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Nieuw
+1155,167,Revalidatiearts,14,2026-11-17T09:00:32,4,Controle consult 1,6000,Nieuw
+1156,167,Revalidatiearts,14,2026-12-11T16:00:32,4,Controle consult 2,6000,Nieuw
+1157,167,Revalidatiearts,14,2026-01-06T09:00:32,4,Controle consult 3,6000,Nieuw
+1158,167,Revalidatiearts,14,2026-01-24T16:30:32,4,Controle consult 4,6000,Nieuw
+1159,167,Revalidatiearts,14,2026-02-14T14:15:32,4,Controle consult 5,6000,Nieuw
+1160,168,Huisarts,4,2026-02-16T04:34:53,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Verwerkt
+1161,168,Huisarts,4,2026-02-20T04:34:53,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Verwerkt
+1162,168,Revalidatiearts,12,2026-02-16T11:00:53,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Verwerkt
+1163,168,Revalidatiearts,12,2026-03-13T11:00:53,4,Controle consult 1,6000,Verwerkt
+1164,168,Revalidatiearts,12,2026-04-04T11:15:53,4,Controle consult 2,6000,Verwerkt
+1165,168,Revalidatiearts,12,2026-04-26T11:15:53,4,Controle consult 3,6000,Verwerkt
+1166,168,Revalidatiearts,12,2026-05-17T09:30:53,4,Controle consult 4,6000,Verwerkt
+1167,168,Revalidatiearts,12,2026-06-06T14:00:53,4,Controle consult 5,6000,Verwerkt
+1168,168,Revalidatiearts,12,2026-06-27T14:00:53,4,Controle consult 6,6000,Verwerkt
+1169,169,Huisarts,7,2025-12-27T19:32:02,1,Consult i.v.m. fibromyalgie,1500,Verwerkt
+1170,169,Revalidatiearts,17,2026-01-04T11:00:02,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+1171,169,Revalidatiearts,17,2026-01-27T16:15:02,4,Controle consult 1,6000,Verwerkt
+1172,169,Revalidatiearts,17,2026-02-15T15:15:02,4,Controle consult 2,6000,Verwerkt
+1173,169,Revalidatiearts,17,2026-03-13T10:00:02,4,Controle consult 3,6000,Verwerkt
+1174,170,Huisarts,1,2026-06-23T03:41:52,1,Consult i.v.m. fibromyalgie,2500,Verwerkt
+1175,170,Revalidatiearts,14,2026-06-14T16:30:52,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+1176,170,Revalidatiearts,14,2026-07-08T14:15:52,4,Controle consult 1,6000,Verwerkt
+1177,170,Revalidatiearts,14,2026-08-02T11:00:52,4,Controle consult 2,6000,Verwerkt
+1178,170,Revalidatiearts,14,2026-08-29T09:15:52,4,Controle consult 3,6000,Nieuw
+1179,170,Revalidatiearts,14,2026-09-26T14:00:52,4,Controle consult 4,6000,Nieuw
+1180,171,Huisarts,6,2026-12-04T10:02:39,1,Consult i.v.m. postoperatief herstel heupfractuur,1500,Nieuw
+1181,171,Revalidatiearts,18,2026-12-11T15:00:39,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Nieuw
+1182,171,Revalidatiearts,18,2026-01-02T13:30:39,4,Controle consult 1,6000,Nieuw
+1183,171,Revalidatiearts,18,2026-01-29T15:15:39,4,Controle consult 2,6000,Nieuw
+1184,171,Revalidatiearts,18,2026-02-20T14:00:39,4,Controle consult 3,6000,Nieuw
+1185,171,Revalidatiearts,18,2026-03-18T14:15:39,4,Controle consult 4,6000,Nieuw
+1186,171,Revalidatiearts,18,2026-04-08T16:30:39,4,Controle consult 5,6000,Nieuw
+1187,171,Revalidatiearts,18,2026-05-05T15:30:39,4,Controle consult 6,6000,Nieuw
+1188,171,Revalidatiearts,18,2026-06-01T13:30:39,4,Controle consult 7,6000,Nieuw
+1189,172,Huisarts,1,2025-07-28T02:16:19,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+1190,172,Huisarts,1,2025-08-04T02:16:19,1,Consult i.v.m. schouder impingement,2500,Verwerkt
+1191,172,Huisarts,1,2025-08-03T02:16:19,1,Consult i.v.m. schouder impingement,2500,Verwerkt
+1192,172,Revalidatiearts,12,2025-07-21T11:00:19,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+1193,172,Revalidatiearts,12,2025-08-13T10:30:19,4,Controle consult 1,6000,Verwerkt
+1194,172,Revalidatiearts,12,2025-09-05T11:00:19,4,Controle consult 2,6000,Verwerkt
+1195,172,Revalidatiearts,12,2025-09-24T14:15:19,4,Controle consult 3,6000,Verwerkt
+1196,172,Revalidatiearts,12,2025-10-12T15:30:19,4,Controle consult 4,6000,Verwerkt
+1197,172,Revalidatiearts,12,2025-11-04T16:00:19,4,Controle consult 5,6000,Verwerkt
+1198,173,Huisarts,9,2025-11-28T05:07:06,1,Consult i.v.m. fibromyalgie,1500,Verwerkt
+1199,173,Huisarts,9,2025-11-22T05:07:06,1,Consult i.v.m. fibromyalgie,1500,Verwerkt
+1200,173,Revalidatiearts,17,2025-11-26T15:00:06,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+1201,173,Revalidatiearts,17,2025-12-15T15:30:06,4,Controle consult 1,6000,Verwerkt
+1202,174,Huisarts,7,2026-09-26T12:12:52,1,Consult i.v.m. sportblessure hamstring,3500,Nieuw
+1203,174,Revalidatiearts,12,2026-09-08T15:30:52,3,Intake revalidatie - Sportblessure hamstring,8000,Nieuw
+1204,174,Revalidatiearts,12,2026-09-26T09:30:52,4,Controle consult 1,6000,Nieuw
+1205,174,Revalidatiearts,12,2026-10-20T09:15:52,4,Controle consult 2,6000,Nieuw
+1206,174,Revalidatiearts,12,2026-11-07T10:15:52,4,Controle consult 3,6000,Nieuw
+1207,175,Huisarts,10,2026-07-20T01:57:12,1,Consult i.v.m. postoperatief herstel heupfractuur,1500,Verwerkt
+1208,175,Huisarts,10,2026-07-23T01:57:12,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+1209,175,Huisarts,10,2026-07-16T01:57:12,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Verwerkt
+1210,175,Revalidatiearts,19,2026-07-24T16:00:12,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+1211,175,Revalidatiearts,19,2026-08-11T10:30:12,4,Controle consult 1,6000,Nieuw
+1212,175,Revalidatiearts,19,2026-09-01T11:30:12,4,Controle consult 2,6000,Nieuw
+1213,175,Revalidatiearts,19,2026-09-20T09:00:12,4,Controle consult 3,6000,Nieuw
+1214,175,Revalidatiearts,19,2026-10-11T10:15:12,4,Controle consult 4,6000,Nieuw
+1215,175,Revalidatiearts,19,2026-11-08T11:00:12,4,Controle consult 5,6000,Nieuw
+1216,176,Huisarts,6,2025-10-10T07:44:09,1,Consult i.v.m. nekhernia c5-c6,1500,Verwerkt
+1217,176,Huisarts,6,2025-09-15T07:44:09,1,Consult i.v.m. nekhernia c5-c6,1500,Verwerkt
+1218,176,Revalidatiearts,18,2025-09-20T09:30:09,3,Intake revalidatie - Nekhernia C5-C6,8000,Verwerkt
+1219,176,Revalidatiearts,18,2025-10-08T14:00:09,4,Controle consult 1,6000,Verwerkt
+1220,176,Revalidatiearts,18,2025-10-26T09:00:09,4,Controle consult 2,6000,Verwerkt
+1221,176,Revalidatiearts,18,2025-11-21T15:00:09,4,Controle consult 3,6000,Verwerkt
+1222,177,Huisarts,8,2026-03-27T07:20:14,1,Consult i.v.m. fibromyalgie,2500,Verwerkt
+1223,177,Huisarts,8,2026-03-21T07:20:14,1,Consult i.v.m. fibromyalgie,1500,Verwerkt
+1224,177,Revalidatiearts,13,2026-03-08T09:00:14,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+1225,177,Revalidatiearts,13,2026-03-27T09:15:14,4,Controle consult 1,6000,Verwerkt
+1226,178,Huisarts,1,2026-08-27T17:28:55,1,Consult i.v.m. meniscusscheur knie,3500,Nieuw
+1227,178,Huisarts,1,2026-08-29T17:28:55,1,Consult i.v.m. meniscusscheur knie,1500,Nieuw
+1228,178,Huisarts,1,2026-08-23T17:28:55,1,Consult i.v.m. meniscusscheur knie,3500,Nieuw
+1229,178,Revalidatiearts,14,2026-08-22T13:00:55,3,Intake revalidatie - Meniscusscheur knie,8000,Nieuw
+1230,178,Revalidatiearts,14,2026-09-11T14:30:55,4,Controle consult 1,6000,Nieuw
+1231,179,Huisarts,3,2025-01-25T05:32:47,1,Consult i.v.m. meniscusscheur knie,1500,Verwerkt
+1232,179,Revalidatiearts,14,2025-01-12T13:15:47,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+1233,179,Revalidatiearts,14,2025-02-02T10:30:47,4,Controle consult 1,6000,Verwerkt
+1234,179,Revalidatiearts,14,2025-02-22T14:00:47,4,Controle consult 2,6000,Verwerkt
+1235,179,Revalidatiearts,14,2025-03-19T09:00:47,4,Controle consult 3,6000,Verwerkt
+1236,180,Huisarts,5,2026-01-15T06:16:58,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+1237,180,Revalidatiearts,18,2026-01-03T16:15:58,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+1238,180,Revalidatiearts,18,2026-01-29T16:15:58,4,Controle consult 1,6000,Verwerkt
+1239,180,Revalidatiearts,18,2026-02-24T14:30:58,4,Controle consult 2,6000,Verwerkt
+1240,180,Revalidatiearts,18,2026-03-17T16:30:58,4,Controle consult 3,6000,Verwerkt
+1241,180,Revalidatiearts,18,2026-04-10T14:30:58,4,Controle consult 4,6000,Verwerkt
+1242,181,Huisarts,9,2026-06-16T23:05:54,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Verwerkt
+1243,181,Huisarts,9,2026-06-20T23:05:54,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Verwerkt
+1244,181,Huisarts,9,2026-06-29T23:05:54,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Verwerkt
+1245,181,Revalidatiearts,11,2026-06-19T09:15:54,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Verwerkt
+1246,181,Revalidatiearts,11,2026-07-09T15:30:54,4,Controle consult 1,6000,Verwerkt
+1247,181,Revalidatiearts,11,2026-07-31T14:30:54,4,Controle consult 2,6000,Verwerkt
+1248,181,Revalidatiearts,11,2026-08-27T14:00:54,4,Controle consult 3,6000,Nieuw
+1249,181,Revalidatiearts,11,2026-09-17T15:30:54,4,Controle consult 4,6000,Nieuw
+1250,181,Revalidatiearts,11,2026-10-06T09:30:54,4,Controle consult 5,6000,Nieuw
+1251,181,Revalidatiearts,11,2026-11-01T14:15:54,4,Controle consult 6,6000,Nieuw
+1252,182,Huisarts,2,2025-11-17T20:46:54,1,Consult i.v.m. knieartrose,1500,Verwerkt
+1253,182,Huisarts,2,2025-12-02T20:46:54,1,Consult i.v.m. knieartrose,2500,Verwerkt
+1254,182,Revalidatiearts,17,2025-11-27T10:30:54,3,Intake revalidatie - Knieartrose,8000,Verwerkt
+1255,182,Revalidatiearts,17,2025-12-19T15:15:54,4,Controle consult 1,6000,Verwerkt
+1256,182,Revalidatiearts,17,2026-01-12T15:15:54,4,Controle consult 2,6000,Verwerkt
+1257,182,Revalidatiearts,17,2026-02-08T11:15:54,4,Controle consult 3,6000,Verwerkt
+1258,182,Revalidatiearts,17,2026-03-04T15:30:54,4,Controle consult 4,6000,Verwerkt
+1259,182,Revalidatiearts,17,2026-03-27T13:30:54,4,Controle consult 5,6000,Verwerkt
+1260,183,Huisarts,7,2026-04-13T07:06:47,1,Consult i.v.m. schouder impingement,3500,Verwerkt
+1261,183,Huisarts,7,2026-05-06T07:06:47,1,Consult i.v.m. schouder impingement,2500,Verwerkt
+1262,183,Revalidatiearts,15,2026-04-20T11:30:47,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+1263,183,Revalidatiearts,15,2026-05-13T16:30:47,4,Controle consult 1,6000,Verwerkt
+1264,184,Huisarts,4,2026-09-22T04:54:35,1,Consult i.v.m. sportblessure hamstring,1500,Nieuw
+1265,184,Huisarts,4,2026-10-17T04:54:35,1,Consult i.v.m. sportblessure hamstring,1500,Nieuw
+1266,184,Revalidatiearts,13,2026-09-28T09:15:35,3,Intake revalidatie - Sportblessure hamstring,8000,Nieuw
+1267,184,Revalidatiearts,13,2026-10-22T10:30:35,4,Controle consult 1,6000,Nieuw
+1268,184,Revalidatiearts,13,2026-11-14T15:30:35,4,Controle consult 2,6000,Nieuw
+1269,185,Huisarts,3,2026-02-06T17:19:56,1,Consult i.v.m. sportblessure hamstring,1500,Verwerkt
+1270,185,Huisarts,3,2026-01-20T17:19:56,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+1271,185,Huisarts,3,2026-01-21T17:19:56,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+1272,185,Revalidatiearts,13,2026-01-18T10:00:56,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+1273,185,Revalidatiearts,13,2026-02-09T10:15:56,4,Controle consult 1,6000,Verwerkt
+1274,186,Huisarts,7,2026-10-27T18:50:12,1,Consult i.v.m. chronische lage rugpijn,2500,Nieuw
+1275,186,Revalidatiearts,20,2026-10-30T11:30:12,3,Intake revalidatie - Chronische lage rugpijn,8000,Nieuw
+1276,186,Revalidatiearts,20,2026-11-27T15:00:12,4,Controle consult 1,6000,Nieuw
+1277,186,Revalidatiearts,20,2026-12-21T14:00:12,4,Controle consult 2,6000,Nieuw
+1278,186,Revalidatiearts,20,2026-01-13T14:30:12,4,Controle consult 3,6000,Nieuw
+1279,186,Revalidatiearts,20,2026-02-02T16:00:12,4,Controle consult 4,6000,Nieuw
+1280,186,Revalidatiearts,20,2026-03-01T09:00:12,4,Controle consult 5,6000,Nieuw
+1281,187,Huisarts,8,2026-07-08T05:01:57,1,Consult i.v.m. knieartrose,3500,Nieuw
+1282,187,Revalidatiearts,14,2026-06-22T14:30:57,3,Intake revalidatie - Knieartrose,8000,Nieuw
+1283,187,Revalidatiearts,14,2026-07-12T16:15:57,4,Controle consult 1,6000,Nieuw
+1284,187,Revalidatiearts,14,2026-08-03T09:00:57,4,Controle consult 2,6000,Nieuw
+1285,187,Revalidatiearts,14,2026-08-24T16:30:57,4,Controle consult 3,6000,Nieuw
+1286,187,Revalidatiearts,14,2025-09-13T16:00:57,4,Controle consult 4,6000,Nieuw
+1287,187,Revalidatiearts,14,2025-10-04T10:30:57,4,Controle consult 5,6000,Nieuw
+1288,188,Huisarts,9,2025-11-06T17:56:01,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+1289,188,Huisarts,9,2025-10-26T17:56:01,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+1290,188,Huisarts,9,2025-11-09T17:56:01,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+1291,188,Revalidatiearts,15,2025-10-21T11:00:01,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+1292,188,Revalidatiearts,15,2025-11-18T16:15:01,4,Controle consult 1,6000,Verwerkt
+1293,188,Revalidatiearts,15,2025-12-10T14:00:01,4,Controle consult 2,6000,Verwerkt
+1294,189,Huisarts,1,2026-11-27T13:00:40,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Nieuw
+1295,189,Huisarts,1,2026-11-17T13:00:40,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Nieuw
+1296,189,Revalidatiearts,17,2026-11-07T09:00:40,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Nieuw
+1297,189,Revalidatiearts,17,2026-11-26T16:00:40,4,Controle consult 1,6000,Nieuw
+1298,189,Revalidatiearts,17,2026-12-23T14:30:40,4,Controle consult 2,6000,Nieuw
+1299,190,Huisarts,3,2026-06-17T03:29:20,1,Consult i.v.m. nekhernia c5-c6,1500,Nieuw
+1300,190,Huisarts,3,2026-07-12T03:29:20,1,Consult i.v.m. nekhernia c5-c6,3500,Nieuw
+1301,190,Revalidatiearts,15,2026-06-22T14:00:20,3,Intake revalidatie - Nekhernia C5-C6,8000,Nieuw
+1302,190,Revalidatiearts,15,2026-07-15T16:30:20,4,Controle consult 1,6000,Nieuw
+1303,191,Huisarts,8,2026-07-24T06:14:37,1,Consult i.v.m. chronische lage rugpijn,3500,Nieuw
+1304,191,Huisarts,8,2026-07-14T06:14:37,1,Consult i.v.m. chronische lage rugpijn,2500,Nieuw
+1305,191,Revalidatiearts,14,2026-07-12T16:15:37,3,Intake revalidatie - Chronische lage rugpijn,8000,Nieuw
+1306,191,Revalidatiearts,14,2026-08-05T16:00:37,4,Controle consult 1,6000,Nieuw
+1307,191,Revalidatiearts,14,2026-08-27T10:30:37,4,Controle consult 2,6000,Nieuw
+1308,191,Revalidatiearts,14,2025-09-24T11:00:37,4,Controle consult 3,6000,Nieuw
+1309,191,Revalidatiearts,14,2025-10-17T13:15:37,4,Controle consult 4,6000,Nieuw
+1310,191,Revalidatiearts,14,2025-11-10T10:00:37,4,Controle consult 5,6000,Nieuw
+1311,191,Revalidatiearts,14,2025-12-04T13:15:37,4,Controle consult 6,6000,Nieuw
+1312,191,Revalidatiearts,14,2025-12-24T13:00:37,4,Controle consult 7,6000,Nieuw
+1313,192,Huisarts,2,2026-01-29T14:48:13,1,Consult i.v.m. sportblessure hamstring,2500,Nieuw
+1314,192,Huisarts,2,2026-01-24T14:48:13,1,Consult i.v.m. sportblessure hamstring,1500,Nieuw
+1315,192,Huisarts,2,2026-01-27T14:48:13,1,Consult i.v.m. sportblessure hamstring,3500,Nieuw
+1316,192,Revalidatiearts,17,2026-01-15T16:00:13,3,Intake revalidatie - Sportblessure hamstring,8000,Nieuw
+1317,192,Revalidatiearts,17,2026-02-10T13:15:13,4,Controle consult 1,6000,Nieuw
+1318,193,Huisarts,8,2026-02-06T19:42:04,1,Consult i.v.m. meniscusscheur knie,1500,Verwerkt
+1319,193,Revalidatiearts,19,2026-01-20T13:30:04,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+1320,193,Revalidatiearts,19,2026-02-15T13:00:04,4,Controle consult 1,6000,Verwerkt
+1321,193,Revalidatiearts,19,2026-03-15T13:30:04,4,Controle consult 2,6000,Verwerkt
+1322,193,Revalidatiearts,19,2026-04-07T16:15:04,4,Controle consult 3,6000,Verwerkt
+1323,194,Huisarts,1,2026-04-14T10:22:50,1,Consult i.v.m. hernia l5-s1,1500,Verwerkt
+1324,194,Huisarts,1,2026-04-03T10:22:50,1,Consult i.v.m. hernia l5-s1,1500,Verwerkt
+1325,194,Revalidatiearts,20,2026-04-10T09:00:50,3,Intake revalidatie - Hernia L5-S1,8000,Verwerkt
+1326,194,Revalidatiearts,20,2026-05-06T16:00:50,4,Controle consult 1,6000,Verwerkt
+1327,194,Revalidatiearts,20,2026-06-02T09:00:50,4,Controle consult 2,6000,Verwerkt
+1328,195,Huisarts,2,2025-08-16T06:25:39,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+1329,195,Huisarts,2,2025-08-26T06:25:39,1,Consult i.v.m. sportblessure hamstring,1500,Verwerkt
+1330,195,Huisarts,2,2025-08-29T06:25:39,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+1331,195,Revalidatiearts,14,2025-08-09T13:30:39,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+1332,195,Revalidatiearts,14,2025-09-01T16:00:39,4,Controle consult 1,6000,Verwerkt
+1333,195,Revalidatiearts,14,2025-09-24T10:30:39,4,Controle consult 2,6000,Verwerkt
+1334,195,Revalidatiearts,14,2025-10-20T11:00:39,4,Controle consult 3,6000,Verwerkt
+1335,196,Huisarts,9,2025-01-08T08:56:09,1,Consult i.v.m. schouder impingement,3500,Verwerkt
+1336,196,Revalidatiearts,11,2025-01-02T09:30:09,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+1337,196,Revalidatiearts,11,2025-01-30T15:15:09,4,Controle consult 1,6000,Verwerkt
+1338,196,Revalidatiearts,11,2025-02-21T13:00:09,4,Controle consult 2,6000,Verwerkt
+1339,197,Huisarts,2,2026-07-03T03:38:42,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Nieuw
+1340,197,Revalidatiearts,17,2026-07-10T11:15:42,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Nieuw
+1341,197,Revalidatiearts,17,2026-07-30T09:30:42,4,Controle consult 1,6000,Nieuw
+1342,197,Revalidatiearts,17,2026-08-23T10:00:42,4,Controle consult 2,6000,Nieuw
+1343,197,Revalidatiearts,17,2025-09-17T13:15:42,4,Controle consult 3,6000,Nieuw
+1344,197,Revalidatiearts,17,2025-10-14T16:15:42,4,Controle consult 4,6000,Nieuw
+1345,197,Revalidatiearts,17,2025-11-03T09:15:42,4,Controle consult 5,6000,Nieuw
+1346,197,Revalidatiearts,17,2025-11-21T09:30:42,4,Controle consult 6,6000,Nieuw
+1347,198,Huisarts,9,2025-05-09T03:50:55,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+1348,198,Revalidatiearts,13,2025-05-17T16:00:55,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+1349,198,Revalidatiearts,13,2025-06-12T09:15:55,4,Controle consult 1,6000,Verwerkt
+1350,198,Revalidatiearts,13,2025-07-07T15:30:55,4,Controle consult 2,6000,Verwerkt
+1351,198,Revalidatiearts,13,2025-07-27T15:30:55,4,Controle consult 3,6000,Verwerkt
+1352,198,Revalidatiearts,13,2025-08-21T14:15:55,4,Controle consult 4,6000,Verwerkt
+1353,198,Revalidatiearts,13,2025-09-14T16:15:55,4,Controle consult 5,6000,Verwerkt
+1354,198,Revalidatiearts,13,2025-10-03T16:00:55,4,Controle consult 6,6000,Verwerkt
+1355,199,Huisarts,9,2026-01-31T17:28:37,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Nieuw
+1356,199,Huisarts,9,2026-01-16T17:28:37,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Nieuw
+1357,199,Revalidatiearts,16,2026-01-25T09:15:37,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Nieuw
+1358,199,Revalidatiearts,16,2026-02-19T14:15:37,4,Controle consult 1,6000,Nieuw
+1359,199,Revalidatiearts,16,2026-03-14T09:30:37,4,Controle consult 2,6000,Nieuw
+1360,200,Huisarts,2,2026-12-30T22:28:29,1,Consult i.v.m. schouder impingement,2500,Nieuw
+1361,200,Revalidatiearts,20,2026-12-16T13:30:29,3,Intake revalidatie - Schouder impingement,8000,Nieuw
+1362,200,Revalidatiearts,20,2026-01-13T14:15:29,4,Controle consult 1,6000,Nieuw
+1363,200,Revalidatiearts,20,2026-02-02T14:30:29,4,Controle consult 2,6000,Nieuw
+1364,201,Huisarts,2,2025-10-06T23:18:40,1,Consult i.v.m. sportblessure hamstring,1500,Verwerkt
+1365,201,Huisarts,2,2025-10-12T23:18:40,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+1366,201,Revalidatiearts,14,2025-10-11T10:15:40,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+1367,201,Revalidatiearts,14,2025-11-01T10:30:40,4,Controle consult 1,6000,Verwerkt
+1368,201,Revalidatiearts,14,2025-11-26T14:15:40,4,Controle consult 2,6000,Verwerkt
+1369,201,Revalidatiearts,14,2025-12-14T10:15:40,4,Controle consult 3,6000,Verwerkt
+1370,202,Huisarts,3,2026-12-07T11:55:59,1,Consult i.v.m. knieartrose,1500,Nieuw
+1371,202,Huisarts,3,2026-12-11T11:55:59,1,Consult i.v.m. knieartrose,2500,Nieuw
+1372,202,Revalidatiearts,19,2026-12-16T15:00:59,3,Intake revalidatie - Knieartrose,8000,Nieuw
+1373,202,Revalidatiearts,19,2026-01-12T16:30:59,4,Controle consult 1,6000,Nieuw
+1374,202,Revalidatiearts,19,2026-02-05T14:30:59,4,Controle consult 2,6000,Nieuw
+1375,203,Huisarts,1,2025-03-18T14:34:09,1,Consult i.v.m. hernia l5-s1,3500,Verwerkt
+1376,203,Huisarts,1,2025-04-08T14:34:09,1,Consult i.v.m. hernia l5-s1,3500,Verwerkt
+1377,203,Huisarts,1,2025-04-07T14:34:09,1,Consult i.v.m. hernia l5-s1,2500,Verwerkt
+1378,203,Revalidatiearts,20,2025-03-24T10:30:09,3,Intake revalidatie - Hernia L5-S1,8000,Verwerkt
+1379,203,Revalidatiearts,20,2025-04-11T13:30:09,4,Controle consult 1,6000,Verwerkt
+1380,204,Huisarts,9,2026-05-20T07:20:18,1,Consult i.v.m. schouder impingement,3500,Nieuw
+1381,204,Huisarts,9,2026-05-12T07:20:18,1,Consult i.v.m. schouder impingement,1500,Nieuw
+1382,204,Revalidatiearts,17,2026-05-03T09:30:18,3,Intake revalidatie - Schouder impingement,8000,Nieuw
+1383,204,Revalidatiearts,17,2026-05-30T15:30:18,4,Controle consult 1,6000,Nieuw
+1384,204,Revalidatiearts,17,2026-06-26T16:00:18,4,Controle consult 2,6000,Nieuw
+1385,204,Revalidatiearts,17,2026-07-16T14:15:18,4,Controle consult 3,6000,Nieuw
+1386,204,Revalidatiearts,17,2026-08-03T16:00:18,4,Controle consult 4,6000,Nieuw
+1387,204,Revalidatiearts,17,2026-08-28T14:00:18,4,Controle consult 5,6000,Nieuw
+1388,205,Huisarts,9,2026-05-06T19:39:47,1,Consult i.v.m. nekhernia c5-c6,1500,Nieuw
+1389,205,Revalidatiearts,15,2026-04-16T16:15:47,3,Intake revalidatie - Nekhernia C5-C6,8000,Nieuw
+1390,205,Revalidatiearts,15,2026-05-09T10:30:47,4,Controle consult 1,6000,Nieuw
+1391,205,Revalidatiearts,15,2026-05-28T11:30:47,4,Controle consult 2,6000,Nieuw
+1392,205,Revalidatiearts,15,2026-06-15T14:00:47,4,Controle consult 3,6000,Nieuw
+1393,206,Huisarts,10,2025-12-16T16:09:58,1,Consult i.v.m. knieartrose,2500,Verwerkt
+1394,206,Huisarts,10,2025-12-01T16:09:58,1,Consult i.v.m. knieartrose,1500,Verwerkt
+1395,206,Revalidatiearts,12,2025-12-01T15:00:58,3,Intake revalidatie - Knieartrose,8000,Verwerkt
+1396,206,Revalidatiearts,12,2025-12-21T13:00:58,4,Controle consult 1,6000,Verwerkt
+1397,206,Revalidatiearts,12,2026-01-17T14:00:58,4,Controle consult 2,6000,Verwerkt
+1398,206,Revalidatiearts,12,2026-02-04T14:30:58,4,Controle consult 3,6000,Verwerkt
+1399,207,Huisarts,7,2026-01-16T13:34:47,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+1400,207,Huisarts,7,2026-01-05T13:34:47,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+1401,207,Huisarts,7,2025-12-28T13:34:47,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+1402,207,Revalidatiearts,13,2025-12-30T16:30:47,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+1403,207,Revalidatiearts,13,2026-01-22T13:15:47,4,Controle consult 1,6000,Verwerkt
+1404,207,Revalidatiearts,13,2026-02-18T14:15:47,4,Controle consult 2,6000,Verwerkt
+1405,207,Revalidatiearts,13,2026-03-09T11:30:47,4,Controle consult 3,6000,Verwerkt
+1406,208,Huisarts,7,2026-03-20T22:17:11,1,Consult i.v.m. nekhernia c5-c6,2500,Nieuw
+1407,208,Huisarts,7,2026-04-01T22:17:11,1,Consult i.v.m. nekhernia c5-c6,2500,Nieuw
+1408,208,Huisarts,7,2026-03-31T22:17:11,1,Consult i.v.m. nekhernia c5-c6,1500,Nieuw
+1409,208,Revalidatiearts,18,2026-03-28T09:00:11,3,Intake revalidatie - Nekhernia C5-C6,8000,Nieuw
+1410,208,Revalidatiearts,18,2026-04-19T11:15:11,4,Controle consult 1,6000,Nieuw
+1411,208,Revalidatiearts,18,2026-05-12T16:00:11,4,Controle consult 2,6000,Nieuw
+1412,208,Revalidatiearts,18,2026-06-02T14:15:11,4,Controle consult 3,6000,Nieuw
+1413,209,Huisarts,4,2026-10-09T00:46:59,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Nieuw
+1414,209,Huisarts,4,2026-10-17T00:46:59,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Nieuw
+1415,209,Huisarts,4,2026-10-10T00:46:59,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Nieuw
+1416,209,Revalidatiearts,17,2026-09-29T13:30:59,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Nieuw
+1417,209,Revalidatiearts,17,2026-10-21T11:30:59,4,Controle consult 1,6000,Nieuw
+1418,209,Revalidatiearts,17,2026-11-14T11:00:59,4,Controle consult 2,6000,Nieuw
+1419,209,Revalidatiearts,17,2026-12-03T16:00:59,4,Controle consult 3,6000,Nieuw
+1420,209,Revalidatiearts,17,2026-12-26T15:30:59,4,Controle consult 4,6000,Nieuw
+1421,210,Huisarts,9,2025-11-19T14:58:50,1,Consult i.v.m. schouder impingement,2500,Verwerkt
+1422,210,Huisarts,9,2025-11-24T14:58:50,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+1423,210,Huisarts,9,2025-11-24T14:58:50,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+1424,210,Revalidatiearts,12,2025-11-28T14:30:50,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+1425,210,Revalidatiearts,12,2025-12-26T16:30:50,4,Controle consult 1,6000,Verwerkt
+1426,210,Revalidatiearts,12,2026-01-19T13:00:50,4,Controle consult 2,6000,Verwerkt
+1427,210,Revalidatiearts,12,2026-02-15T13:30:50,4,Controle consult 3,6000,Verwerkt
+1428,210,Revalidatiearts,12,2026-03-11T09:00:50,4,Controle consult 4,6000,Verwerkt
+1429,210,Revalidatiearts,12,2026-04-06T13:30:50,4,Controle consult 5,6000,Verwerkt
+1430,210,Revalidatiearts,12,2026-04-24T15:15:50,4,Controle consult 6,6000,Verwerkt
+1431,211,Huisarts,3,2026-12-13T07:52:47,1,Consult i.v.m. chronische lage rugpijn,1500,Nieuw
+1432,211,Huisarts,3,2026-11-26T07:52:47,1,Consult i.v.m. chronische lage rugpijn,3500,Nieuw
+1433,211,Huisarts,3,2026-12-09T07:52:47,1,Consult i.v.m. chronische lage rugpijn,3500,Nieuw
+1434,211,Revalidatiearts,14,2026-11-23T15:30:47,3,Intake revalidatie - Chronische lage rugpijn,8000,Nieuw
+1435,211,Revalidatiearts,14,2026-12-14T14:00:47,4,Controle consult 1,6000,Nieuw
+1436,211,Revalidatiearts,14,2026-01-03T11:30:47,4,Controle consult 2,6000,Nieuw
+1437,211,Revalidatiearts,14,2026-01-21T09:30:47,4,Controle consult 3,6000,Nieuw
+1438,211,Revalidatiearts,14,2026-02-10T10:15:47,4,Controle consult 4,6000,Nieuw
+1439,212,Huisarts,9,2026-03-24T19:05:48,1,Consult i.v.m. hernia l5-s1,2500,Nieuw
+1440,212,Revalidatiearts,13,2026-03-15T14:30:48,3,Intake revalidatie - Hernia L5-S1,8000,Nieuw
+1441,212,Revalidatiearts,13,2026-04-08T16:15:48,4,Controle consult 1,6000,Nieuw
+1442,213,Huisarts,1,2026-05-04T06:01:02,1,Consult i.v.m. meniscusscheur knie,1500,Verwerkt
+1443,213,Revalidatiearts,11,2026-05-05T11:00:02,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+1444,213,Revalidatiearts,11,2026-05-27T11:30:02,4,Controle consult 1,6000,Verwerkt
+1445,213,Revalidatiearts,11,2026-06-15T14:15:02,4,Controle consult 2,6000,Verwerkt
+1446,213,Revalidatiearts,11,2026-07-05T16:00:02,4,Controle consult 3,6000,Verwerkt
+1447,213,Revalidatiearts,11,2026-08-01T13:00:02,4,Controle consult 4,6000,Verwerkt
+1448,214,Huisarts,9,2026-03-30T09:21:40,1,Consult i.v.m. chronische lage rugpijn,2500,Verwerkt
+1449,214,Revalidatiearts,20,2026-04-02T14:30:40,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+1450,214,Revalidatiearts,20,2026-04-20T14:15:40,4,Controle consult 1,6000,Verwerkt
+1451,214,Revalidatiearts,20,2026-05-09T11:30:40,4,Controle consult 2,6000,Verwerkt
+1452,214,Revalidatiearts,20,2026-06-02T10:00:40,4,Controle consult 3,6000,Verwerkt
+1453,214,Revalidatiearts,20,2026-06-29T11:30:40,4,Controle consult 4,6000,Verwerkt
+1454,215,Huisarts,1,2026-03-03T15:34:35,1,Consult i.v.m. meniscusscheur knie,1500,Nieuw
+1455,215,Huisarts,1,2026-02-26T15:34:35,1,Consult i.v.m. meniscusscheur knie,2500,Nieuw
+1456,215,Revalidatiearts,11,2026-02-24T10:15:35,3,Intake revalidatie - Meniscusscheur knie,8000,Nieuw
+1457,215,Revalidatiearts,11,2026-03-16T09:00:35,4,Controle consult 1,6000,Nieuw
+1458,215,Revalidatiearts,11,2026-04-13T09:30:35,4,Controle consult 2,6000,Nieuw
+1459,215,Revalidatiearts,11,2026-05-03T10:00:35,4,Controle consult 3,6000,Nieuw
+1460,215,Revalidatiearts,11,2026-05-30T09:30:35,4,Controle consult 4,6000,Nieuw
+1461,215,Revalidatiearts,11,2026-06-23T09:00:35,4,Controle consult 5,6000,Nieuw
+1462,215,Revalidatiearts,11,2026-07-11T14:30:35,4,Controle consult 6,6000,Nieuw
+1463,216,Huisarts,5,2025-04-16T22:02:25,1,Consult i.v.m. carpaal tunnelsyndroom,2500,Verwerkt
+1464,216,Revalidatiearts,14,2025-04-20T15:15:25,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Verwerkt
+1465,216,Revalidatiearts,14,2025-05-16T10:30:25,4,Controle consult 1,6000,Verwerkt
+1466,216,Revalidatiearts,14,2025-06-07T10:30:25,4,Controle consult 2,6000,Verwerkt
+1467,216,Revalidatiearts,14,2025-06-25T09:00:25,4,Controle consult 3,6000,Verwerkt
+1468,216,Revalidatiearts,14,2025-07-17T09:30:25,4,Controle consult 4,6000,Verwerkt
+1469,216,Revalidatiearts,14,2025-08-06T13:30:25,4,Controle consult 5,6000,Verwerkt
+1470,217,Huisarts,9,2026-12-05T20:37:52,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Nieuw
+1471,217,Huisarts,9,2026-12-04T20:37:52,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Nieuw
+1472,217,Revalidatiearts,11,2026-12-10T15:30:52,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Nieuw
+1473,217,Revalidatiearts,11,2026-12-30T10:15:52,4,Controle consult 1,6000,Nieuw
+1474,217,Revalidatiearts,11,2026-01-22T15:15:52,4,Controle consult 2,6000,Nieuw
+1475,217,Revalidatiearts,11,2026-02-18T14:30:52,4,Controle consult 3,6000,Nieuw
+1476,217,Revalidatiearts,11,2026-03-09T11:15:52,4,Controle consult 4,6000,Nieuw
+1477,217,Revalidatiearts,11,2026-04-04T11:15:52,4,Controle consult 5,6000,Nieuw
+1478,217,Revalidatiearts,11,2026-04-26T14:00:52,4,Controle consult 6,6000,Nieuw
+1479,217,Revalidatiearts,11,2026-05-16T13:00:52,4,Controle consult 7,6000,Nieuw
+1480,218,Huisarts,5,2026-06-09T18:41:14,1,Consult i.v.m. enkelverstuiking graad 2,1500,Nieuw
+1481,218,Huisarts,5,2026-06-18T18:41:14,1,Consult i.v.m. enkelverstuiking graad 2,2500,Nieuw
+1482,218,Revalidatiearts,20,2026-06-10T11:00:14,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Nieuw
+1483,218,Revalidatiearts,20,2026-07-02T16:15:14,4,Controle consult 1,6000,Nieuw
+1484,218,Revalidatiearts,20,2026-07-22T09:30:14,4,Controle consult 2,6000,Nieuw
+1485,218,Revalidatiearts,20,2026-08-14T09:00:14,4,Controle consult 3,6000,Nieuw
+1486,218,Revalidatiearts,20,2026-09-01T10:30:14,4,Controle consult 4,6000,Nieuw
+1487,218,Revalidatiearts,20,2025-09-25T16:00:14,4,Controle consult 5,6000,Nieuw
+1488,218,Revalidatiearts,20,2025-10-19T11:00:14,4,Controle consult 6,6000,Nieuw
+1489,218,Revalidatiearts,20,2025-11-09T13:15:14,4,Controle consult 7,6000,Nieuw
+1490,219,Huisarts,10,2025-10-15T15:38:16,1,Consult i.v.m. nekhernia c5-c6,1500,Verwerkt
+1491,219,Huisarts,10,2025-09-27T15:38:16,1,Consult i.v.m. nekhernia c5-c6,3500,Verwerkt
+1492,219,Huisarts,10,2025-10-15T15:38:16,1,Consult i.v.m. nekhernia c5-c6,1500,Verwerkt
+1493,219,Revalidatiearts,12,2025-09-29T14:00:16,3,Intake revalidatie - Nekhernia C5-C6,8000,Verwerkt
+1494,219,Revalidatiearts,12,2025-10-24T09:00:16,4,Controle consult 1,6000,Verwerkt
+1495,219,Revalidatiearts,12,2025-11-17T16:30:16,4,Controle consult 2,6000,Verwerkt
+1496,219,Revalidatiearts,12,2025-12-12T13:15:16,4,Controle consult 3,6000,Verwerkt
+1497,219,Revalidatiearts,12,2026-01-04T15:15:16,4,Controle consult 4,6000,Verwerkt
+1498,219,Revalidatiearts,12,2026-02-01T14:00:16,4,Controle consult 5,6000,Verwerkt
+1499,219,Revalidatiearts,12,2026-02-20T09:00:16,4,Controle consult 6,6000,Verwerkt
+1500,220,Huisarts,6,2025-11-19T12:48:56,1,Consult i.v.m. postoperatief herstel heupfractuur,1500,Verwerkt
+1501,220,Huisarts,6,2025-11-17T12:48:56,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Verwerkt
+1502,220,Revalidatiearts,15,2025-11-06T09:30:56,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+1503,220,Revalidatiearts,15,2025-11-30T15:15:56,4,Controle consult 1,6000,Verwerkt
+1504,220,Revalidatiearts,15,2025-12-26T16:15:56,4,Controle consult 2,6000,Verwerkt
+1505,220,Revalidatiearts,15,2026-01-14T09:00:56,4,Controle consult 3,6000,Verwerkt
+1506,221,Huisarts,9,2026-04-26T13:01:15,1,Consult i.v.m. fibromyalgie,1500,Verwerkt
+1507,221,Revalidatiearts,11,2026-05-04T16:30:15,3,Intake revalidatie - Fibromyalgie,8000,Verwerkt
+1508,221,Revalidatiearts,11,2026-05-31T11:30:15,4,Controle consult 1,6000,Verwerkt
+1509,221,Revalidatiearts,11,2026-06-20T13:00:15,4,Controle consult 2,6000,Verwerkt
+1510,221,Revalidatiearts,11,2026-07-18T13:30:15,4,Controle consult 3,6000,Verwerkt
+1511,222,Huisarts,3,2026-09-08T07:33:42,1,Consult i.v.m. chronische lage rugpijn,1500,Nieuw
+1512,222,Revalidatiearts,20,2026-09-03T14:15:42,3,Intake revalidatie - Chronische lage rugpijn,8000,Nieuw
+1513,222,Revalidatiearts,20,2026-09-30T10:00:42,4,Controle consult 1,6000,Nieuw
+1514,222,Revalidatiearts,20,2026-10-27T13:30:42,4,Controle consult 2,6000,Nieuw
+1515,222,Revalidatiearts,20,2026-11-18T10:15:42,4,Controle consult 3,6000,Nieuw
+1516,223,Huisarts,10,2026-09-12T09:54:15,1,Consult i.v.m. sportblessure hamstring,1500,Nieuw
+1517,223,Revalidatiearts,16,2026-09-15T11:00:15,3,Intake revalidatie - Sportblessure hamstring,8000,Nieuw
+1518,223,Revalidatiearts,16,2026-10-13T10:15:15,4,Controle consult 1,6000,Nieuw
+1519,223,Revalidatiearts,16,2026-11-06T15:15:15,4,Controle consult 2,6000,Nieuw
+1520,223,Revalidatiearts,16,2026-12-01T14:30:15,4,Controle consult 3,6000,Nieuw
+1521,224,Huisarts,5,2025-10-28T08:18:47,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+1522,224,Huisarts,5,2025-11-04T08:18:47,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+1523,224,Huisarts,5,2025-10-26T08:18:47,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+1524,224,Revalidatiearts,15,2025-10-15T16:00:47,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+1525,224,Revalidatiearts,15,2025-11-04T09:30:47,4,Controle consult 1,6000,Verwerkt
+1526,224,Revalidatiearts,15,2025-11-24T09:30:47,4,Controle consult 2,6000,Verwerkt
+1527,224,Revalidatiearts,15,2025-12-12T15:00:47,4,Controle consult 3,6000,Verwerkt
+1528,225,Huisarts,3,2026-06-27T18:28:58,1,Consult i.v.m. chronische lage rugpijn,3500,Nieuw
+1529,225,Huisarts,3,2026-07-18T18:28:58,1,Consult i.v.m. chronische lage rugpijn,3500,Nieuw
+1530,225,Huisarts,3,2026-07-21T18:28:58,1,Consult i.v.m. chronische lage rugpijn,3500,Nieuw
+1531,225,Revalidatiearts,18,2026-07-06T11:00:58,3,Intake revalidatie - Chronische lage rugpijn,8000,Nieuw
+1532,225,Revalidatiearts,18,2026-08-03T14:30:58,4,Controle consult 1,6000,Nieuw
+1533,225,Revalidatiearts,18,2026-08-25T09:00:58,4,Controle consult 2,6000,Nieuw
+1534,226,Huisarts,10,2025-04-03T15:00:30,1,Consult i.v.m. enkelverstuiking graad 2,3500,Verwerkt
+1535,226,Revalidatiearts,19,2025-03-15T15:00:30,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+1536,226,Revalidatiearts,19,2025-04-04T09:15:30,4,Controle consult 1,6000,Verwerkt
+1537,227,Huisarts,1,2025-03-20T15:06:53,1,Consult i.v.m. knieartrose,1500,Verwerkt
+1538,227,Huisarts,1,2025-03-21T15:06:53,1,Consult i.v.m. knieartrose,1500,Verwerkt
+1539,227,Huisarts,1,2025-03-15T15:06:53,1,Consult i.v.m. knieartrose,2500,Verwerkt
+1540,227,Revalidatiearts,12,2025-03-21T11:00:53,3,Intake revalidatie - Knieartrose,8000,Verwerkt
+1541,227,Revalidatiearts,12,2025-04-17T10:00:53,4,Controle consult 1,6000,Verwerkt
+1542,227,Revalidatiearts,12,2025-05-08T15:30:53,4,Controle consult 2,6000,Verwerkt
+1543,227,Revalidatiearts,12,2025-06-04T11:15:53,4,Controle consult 3,6000,Verwerkt
+1544,227,Revalidatiearts,12,2025-06-29T09:30:53,4,Controle consult 4,6000,Verwerkt
+1545,227,Revalidatiearts,12,2025-07-24T15:30:53,4,Controle consult 5,6000,Verwerkt
+1546,228,Huisarts,5,2025-09-17T05:41:16,1,Consult i.v.m. sportblessure hamstring,1500,Verwerkt
+1547,228,Huisarts,5,2025-08-24T05:41:16,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+1548,228,Huisarts,5,2025-09-06T05:41:16,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+1549,228,Revalidatiearts,11,2025-09-01T11:00:16,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+1550,228,Revalidatiearts,11,2025-09-27T16:15:16,4,Controle consult 1,6000,Verwerkt
+1551,228,Revalidatiearts,11,2025-10-15T15:00:16,4,Controle consult 2,6000,Verwerkt
+1552,228,Revalidatiearts,11,2025-11-05T15:15:16,4,Controle consult 3,6000,Verwerkt
+1553,228,Revalidatiearts,11,2025-11-26T10:15:16,4,Controle consult 4,6000,Verwerkt
+1554,228,Revalidatiearts,11,2025-12-18T11:15:16,4,Controle consult 5,6000,Verwerkt
+1555,228,Revalidatiearts,11,2026-01-11T14:30:16,4,Controle consult 6,6000,Verwerkt
+1556,229,Huisarts,9,2026-09-22T11:07:11,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Nieuw
+1557,229,Huisarts,9,2026-09-15T11:07:11,1,Consult i.v.m. postoperatief herstel heupfractuur,1500,Nieuw
+1558,229,Huisarts,9,2026-10-11T11:07:11,1,Consult i.v.m. postoperatief herstel heupfractuur,3500,Nieuw
+1559,229,Revalidatiearts,18,2026-09-25T15:15:11,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Nieuw
+1560,229,Revalidatiearts,18,2026-10-20T10:00:11,4,Controle consult 1,6000,Nieuw
+1561,229,Revalidatiearts,18,2026-11-09T16:30:11,4,Controle consult 2,6000,Nieuw
+1562,229,Revalidatiearts,18,2026-11-29T09:30:11,4,Controle consult 3,6000,Nieuw
+1563,229,Revalidatiearts,18,2026-12-23T15:30:11,4,Controle consult 4,6000,Nieuw
+1564,229,Revalidatiearts,18,2026-01-13T15:00:11,4,Controle consult 5,6000,Nieuw
+1565,229,Revalidatiearts,18,2026-02-09T14:15:11,4,Controle consult 6,6000,Nieuw
+1566,230,Huisarts,4,2026-06-11T18:21:03,1,Consult i.v.m. carpaal tunnelsyndroom,3500,Verwerkt
+1567,230,Huisarts,4,2026-06-11T18:21:03,1,Consult i.v.m. carpaal tunnelsyndroom,1500,Verwerkt
+1568,230,Revalidatiearts,11,2026-05-23T15:00:03,3,Intake revalidatie - Carpaal tunnelsyndroom,8000,Verwerkt
+1569,230,Revalidatiearts,11,2026-06-11T15:15:03,4,Controle consult 1,6000,Verwerkt
+1570,231,Huisarts,9,2025-01-24T23:34:47,1,Consult i.v.m. sportblessure hamstring,2500,Verwerkt
+1571,231,Huisarts,9,2025-02-11T23:34:47,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+1572,231,Huisarts,9,2025-01-30T23:34:47,1,Consult i.v.m. sportblessure hamstring,1500,Verwerkt
+1573,231,Revalidatiearts,15,2025-01-31T16:30:47,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+1574,231,Revalidatiearts,15,2025-02-23T15:30:47,4,Controle consult 1,6000,Verwerkt
+1575,231,Revalidatiearts,15,2025-03-19T09:15:47,4,Controle consult 2,6000,Verwerkt
+1576,231,Revalidatiearts,15,2025-04-14T11:00:47,4,Controle consult 3,6000,Verwerkt
+1577,231,Revalidatiearts,15,2025-05-07T14:30:47,4,Controle consult 4,6000,Verwerkt
+1578,232,Huisarts,4,2025-03-22T09:08:04,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Verwerkt
+1579,232,Huisarts,4,2025-03-20T09:08:04,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,3500,Verwerkt
+1580,232,Huisarts,4,2025-03-10T09:08:04,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Verwerkt
+1581,232,Revalidatiearts,14,2025-03-16T13:15:04,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Verwerkt
+1582,232,Revalidatiearts,14,2025-04-04T13:00:04,4,Controle consult 1,6000,Verwerkt
+1583,232,Revalidatiearts,14,2025-04-29T09:15:04,4,Controle consult 2,6000,Verwerkt
+1584,232,Revalidatiearts,14,2025-05-24T13:30:04,4,Controle consult 3,6000,Verwerkt
+1585,232,Revalidatiearts,14,2025-06-11T14:15:04,4,Controle consult 4,6000,Verwerkt
+1586,232,Revalidatiearts,14,2025-06-29T10:30:04,4,Controle consult 5,6000,Verwerkt
+1587,232,Revalidatiearts,14,2025-07-17T09:15:04,4,Controle consult 6,6000,Verwerkt
+1588,232,Revalidatiearts,14,2025-08-12T09:00:04,4,Controle consult 7,6000,Verwerkt
+1589,233,Huisarts,2,2026-07-02T22:01:07,1,Consult i.v.m. schouder impingement,1500,Verwerkt
+1590,233,Huisarts,2,2026-07-11T22:01:07,1,Consult i.v.m. schouder impingement,2500,Verwerkt
+1591,233,Revalidatiearts,15,2026-06-30T13:30:07,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+1592,233,Revalidatiearts,15,2026-07-21T10:00:07,4,Controle consult 1,6000,Verwerkt
+1593,233,Revalidatiearts,15,2026-08-15T10:15:07,4,Controle consult 2,6000,Verwerkt
+1594,233,Revalidatiearts,15,2026-09-12T10:00:07,4,Controle consult 3,6000,Nieuw
+1595,233,Revalidatiearts,15,2026-10-02T15:15:07,4,Controle consult 4,6000,Nieuw
+1596,233,Revalidatiearts,15,2026-10-26T14:15:07,4,Controle consult 5,6000,Nieuw
+1597,233,Revalidatiearts,15,2026-11-19T09:30:07,4,Controle consult 6,6000,Nieuw
+1598,233,Revalidatiearts,15,2026-12-11T13:30:07,4,Controle consult 7,6000,Nieuw
+1599,234,Huisarts,10,2026-07-02T07:47:13,1,Consult i.v.m. knieartrose,2500,Verwerkt
+1600,234,Revalidatiearts,15,2026-06-25T14:30:13,3,Intake revalidatie - Knieartrose,8000,Verwerkt
+1601,234,Revalidatiearts,15,2026-07-13T16:15:13,4,Controle consult 1,6000,Verwerkt
+1602,234,Revalidatiearts,15,2026-07-31T11:00:13,4,Controle consult 2,6000,Verwerkt
+1603,234,Revalidatiearts,15,2026-08-27T10:30:13,4,Controle consult 3,6000,Nieuw
+1604,234,Revalidatiearts,15,2026-09-16T13:15:13,4,Controle consult 4,6000,Nieuw
+1605,235,Huisarts,8,2025-08-19T09:30:30,1,Consult i.v.m. sportblessure hamstring,1500,Verwerkt
+1606,235,Revalidatiearts,14,2025-08-21T16:15:30,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+1607,235,Revalidatiearts,14,2025-09-10T16:30:30,4,Controle consult 1,6000,Verwerkt
+1608,235,Revalidatiearts,14,2025-09-30T10:00:30,4,Controle consult 2,6000,Verwerkt
+1609,235,Revalidatiearts,14,2025-10-26T14:30:30,4,Controle consult 3,6000,Verwerkt
+1610,235,Revalidatiearts,14,2025-11-13T15:00:30,4,Controle consult 4,6000,Verwerkt
+1611,235,Revalidatiearts,14,2025-12-06T11:30:30,4,Controle consult 5,6000,Verwerkt
+1612,235,Revalidatiearts,14,2026-01-01T14:15:30,4,Controle consult 6,6000,Verwerkt
+1613,236,Huisarts,10,2026-01-06T13:00:49,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+1614,236,Huisarts,10,2026-01-07T13:00:49,1,Consult i.v.m. chronische lage rugpijn,1500,Verwerkt
+1615,236,Huisarts,10,2025-12-30T13:00:49,1,Consult i.v.m. chronische lage rugpijn,3500,Verwerkt
+1616,236,Revalidatiearts,18,2026-01-08T13:00:49,3,Intake revalidatie - Chronische lage rugpijn,8000,Verwerkt
+1617,236,Revalidatiearts,18,2026-02-05T13:00:49,4,Controle consult 1,6000,Verwerkt
+1618,236,Revalidatiearts,18,2026-02-23T11:00:49,4,Controle consult 2,6000,Verwerkt
+1619,236,Revalidatiearts,18,2026-03-21T16:15:49,4,Controle consult 3,6000,Verwerkt
+1620,237,Huisarts,10,2025-07-19T01:10:52,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Verwerkt
+1621,237,Revalidatiearts,14,2025-07-03T16:00:52,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+1622,237,Revalidatiearts,14,2025-07-30T09:00:52,4,Controle consult 1,6000,Verwerkt
+1623,237,Revalidatiearts,14,2025-08-26T15:00:52,4,Controle consult 2,6000,Verwerkt
+1624,238,Huisarts,1,2025-10-18T01:13:52,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+1625,238,Huisarts,1,2025-11-11T01:13:52,1,Consult i.v.m. enkelverstuiking graad 2,3500,Verwerkt
+1626,238,Huisarts,1,2025-11-06T01:13:52,1,Consult i.v.m. enkelverstuiking graad 2,2500,Verwerkt
+1627,238,Revalidatiearts,18,2025-10-25T10:30:52,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+1628,238,Revalidatiearts,18,2025-11-15T10:30:52,4,Controle consult 1,6000,Verwerkt
+1629,238,Revalidatiearts,18,2025-12-04T10:00:52,4,Controle consult 2,6000,Verwerkt
+1630,238,Revalidatiearts,18,2025-12-24T11:15:52,4,Controle consult 3,6000,Verwerkt
+1631,238,Revalidatiearts,18,2026-01-13T13:00:52,4,Controle consult 4,6000,Verwerkt
+1632,239,Huisarts,10,2025-07-23T01:51:47,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+1633,239,Huisarts,10,2025-07-30T01:51:47,1,Consult i.v.m. enkelverstuiking graad 2,3500,Verwerkt
+1634,239,Huisarts,10,2025-07-24T01:51:47,1,Consult i.v.m. enkelverstuiking graad 2,1500,Verwerkt
+1635,239,Revalidatiearts,20,2025-07-24T14:15:47,3,Intake revalidatie - Enkelverstuiking graad 2,8000,Verwerkt
+1636,239,Revalidatiearts,20,2025-08-13T14:00:47,4,Controle consult 1,6000,Verwerkt
+1637,239,Revalidatiearts,20,2025-09-04T13:00:47,4,Controle consult 2,6000,Verwerkt
+1638,239,Revalidatiearts,20,2025-10-01T13:00:47,4,Controle consult 3,6000,Verwerkt
+1639,240,Huisarts,10,2026-09-26T06:35:19,1,Consult i.v.m. sportblessure hamstring,1500,Nieuw
+1640,240,Huisarts,10,2026-09-25T06:35:19,1,Consult i.v.m. sportblessure hamstring,3500,Nieuw
+1641,240,Revalidatiearts,13,2026-09-25T09:30:19,3,Intake revalidatie - Sportblessure hamstring,8000,Nieuw
+1642,240,Revalidatiearts,13,2026-10-22T10:00:19,4,Controle consult 1,6000,Nieuw
+1643,241,Huisarts,3,2026-05-03T13:40:01,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Nieuw
+1644,241,Huisarts,3,2026-05-06T13:40:01,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Nieuw
+1645,241,Revalidatiearts,11,2026-04-28T09:15:01,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Nieuw
+1646,241,Revalidatiearts,11,2026-05-24T15:15:01,4,Controle consult 1,6000,Nieuw
+1647,241,Revalidatiearts,11,2026-06-15T11:15:01,4,Controle consult 2,6000,Nieuw
+1648,241,Revalidatiearts,11,2026-07-07T15:15:01,4,Controle consult 3,6000,Nieuw
+1649,242,Huisarts,9,2026-06-26T22:50:29,1,Consult i.v.m. hernia l5-s1,2500,Verwerkt
+1650,242,Huisarts,9,2026-07-04T22:50:29,1,Consult i.v.m. hernia l5-s1,3500,Verwerkt
+1651,242,Huisarts,9,2026-06-14T22:50:29,1,Consult i.v.m. hernia l5-s1,1500,Verwerkt
+1652,242,Revalidatiearts,17,2026-06-20T09:15:29,3,Intake revalidatie - Hernia L5-S1,8000,Verwerkt
+1653,242,Revalidatiearts,17,2026-07-12T10:00:29,4,Controle consult 1,6000,Verwerkt
+1654,242,Revalidatiearts,17,2026-08-01T16:00:29,4,Controle consult 2,6000,Verwerkt
+1655,242,Revalidatiearts,17,2026-08-27T09:30:29,4,Controle consult 3,6000,Nieuw
+1656,242,Revalidatiearts,17,2026-09-15T15:30:29,4,Controle consult 4,6000,Nieuw
+1657,242,Revalidatiearts,17,2026-10-04T13:15:29,4,Controle consult 5,6000,Nieuw
+1658,242,Revalidatiearts,17,2026-10-30T09:30:29,4,Controle consult 6,6000,Nieuw
+1659,242,Revalidatiearts,17,2026-11-23T15:15:29,4,Controle consult 7,6000,Nieuw
+1660,243,Huisarts,10,2026-01-28T13:00:42,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+1661,243,Huisarts,10,2026-02-10T13:00:42,1,Consult i.v.m. sportblessure hamstring,3500,Verwerkt
+1662,243,Revalidatiearts,14,2026-01-24T14:00:42,3,Intake revalidatie - Sportblessure hamstring,8000,Verwerkt
+1663,243,Revalidatiearts,14,2026-02-15T10:00:42,4,Controle consult 1,6000,Verwerkt
+1664,243,Revalidatiearts,14,2026-03-12T11:00:42,4,Controle consult 2,6000,Verwerkt
+1665,243,Revalidatiearts,14,2026-04-04T15:15:42,4,Controle consult 3,6000,Verwerkt
+1666,243,Revalidatiearts,14,2026-04-24T14:00:42,4,Controle consult 4,6000,Verwerkt
+1667,243,Revalidatiearts,14,2026-05-14T10:15:42,4,Controle consult 5,6000,Verwerkt
+1668,244,Huisarts,4,2026-04-17T19:55:19,1,Consult i.v.m. postoperatief herstel heupfractuur,2500,Verwerkt
+1669,244,Revalidatiearts,13,2026-04-06T16:00:19,3,Intake revalidatie - Postoperatief herstel heupfractuur,8000,Verwerkt
+1670,244,Revalidatiearts,13,2026-05-02T14:30:19,4,Controle consult 1,6000,Verwerkt
+1671,244,Revalidatiearts,13,2026-05-29T10:15:19,4,Controle consult 2,6000,Verwerkt
+1672,244,Revalidatiearts,13,2026-06-16T15:00:19,4,Controle consult 3,6000,Verwerkt
+1673,244,Revalidatiearts,13,2026-07-04T16:00:19,4,Controle consult 4,6000,Verwerkt
+1674,244,Revalidatiearts,13,2026-07-26T13:00:19,4,Controle consult 5,6000,Verwerkt
+1675,244,Revalidatiearts,13,2026-08-19T15:15:19,4,Controle consult 6,6000,Verwerkt
+1676,245,Huisarts,2,2025-08-15T23:43:02,1,Consult i.v.m. schouder impingement,2500,Verwerkt
+1677,245,Huisarts,2,2025-08-18T23:43:02,1,Consult i.v.m. schouder impingement,3500,Verwerkt
+1678,245,Huisarts,2,2025-08-23T23:43:02,1,Consult i.v.m. schouder impingement,3500,Verwerkt
+1679,245,Revalidatiearts,17,2025-08-08T14:00:02,3,Intake revalidatie - Schouder impingement,8000,Verwerkt
+1680,245,Revalidatiearts,17,2025-09-01T16:15:02,4,Controle consult 1,6000,Verwerkt
+1681,245,Revalidatiearts,17,2025-09-21T14:00:02,4,Controle consult 2,6000,Verwerkt
+1682,245,Revalidatiearts,17,2025-10-18T14:30:02,4,Controle consult 3,6000,Verwerkt
+1683,246,Huisarts,3,2025-07-16T10:40:55,1,Consult i.v.m. meniscusscheur knie,1500,Verwerkt
+1684,246,Huisarts,3,2025-07-13T10:40:55,1,Consult i.v.m. meniscusscheur knie,3500,Verwerkt
+1685,246,Revalidatiearts,11,2025-07-09T11:30:55,3,Intake revalidatie - Meniscusscheur knie,8000,Verwerkt
+1686,246,Revalidatiearts,11,2025-08-04T13:15:55,4,Controle consult 1,6000,Verwerkt
+1687,247,Huisarts,7,2026-12-16T15:44:22,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Nieuw
+1688,247,Revalidatiearts,19,2026-12-09T16:15:22,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Nieuw
+1689,247,Revalidatiearts,19,2026-12-30T09:30:22,4,Controle consult 1,6000,Nieuw
+1690,247,Revalidatiearts,19,2026-01-20T10:15:22,4,Controle consult 2,6000,Nieuw
+1691,247,Revalidatiearts,19,2026-02-08T14:30:22,4,Controle consult 3,6000,Nieuw
+1692,247,Revalidatiearts,19,2026-03-02T10:30:22,4,Controle consult 4,6000,Nieuw
+1693,247,Revalidatiearts,19,2026-03-23T10:15:22,4,Controle consult 5,6000,Nieuw
+1694,247,Revalidatiearts,19,2026-04-15T15:00:22,4,Controle consult 6,6000,Nieuw
+1695,247,Revalidatiearts,19,2026-05-13T13:30:22,4,Controle consult 7,6000,Nieuw
+1696,248,Huisarts,4,2025-12-04T10:32:01,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,2500,Verwerkt
+1697,248,Huisarts,4,2025-12-16T10:32:01,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Verwerkt
+1698,248,Huisarts,4,2025-12-22T10:32:01,1,Consult i.v.m. gescheurde kruisbanden (acl) knie,1500,Verwerkt
+1699,248,Revalidatiearts,13,2025-12-12T09:00:01,3,Intake revalidatie - Gescheurde kruisbanden (ACL) knie,8000,Verwerkt
+1700,248,Revalidatiearts,13,2026-01-05T15:15:01,4,Controle consult 1,6000,Verwerkt
+1701,248,Revalidatiearts,13,2026-01-25T16:00:01,4,Controle consult 2,6000,Verwerkt
+1702,248,Revalidatiearts,13,2026-02-14T09:00:01,4,Controle consult 3,6000,Verwerkt
+1703,248,Revalidatiearts,13,2026-03-07T10:00:01,4,Controle consult 4,6000,Verwerkt
+1704,248,Revalidatiearts,13,2026-03-25T11:30:01,4,Controle consult 5,6000,Verwerkt
+1705,248,Revalidatiearts,13,2026-04-14T11:15:01,4,Controle consult 6,6000,Verwerkt
+1706,249,Huisarts,10,2026-05-15T07:56:27,1,Consult i.v.m. nekhernia c5-c6,1500,Nieuw
+1707,249,Revalidatiearts,17,2026-04-25T14:30:27,3,Intake revalidatie - Nekhernia C5-C6,8000,Nieuw
+1708,249,Revalidatiearts,17,2026-05-14T14:15:27,4,Controle consult 1,6000,Nieuw
+1709,250,Huisarts,7,2026-01-04T18:51:13,1,Consult i.v.m. knieartrose,1500,Nieuw
+1710,250,Huisarts,7,2026-01-13T18:51:13,1,Consult i.v.m. knieartrose,2500,Nieuw
+1711,250,Revalidatiearts,17,2026-12-26T13:30:13,3,Intake revalidatie - Knieartrose,8000,Nieuw
+1712,250,Revalidatiearts,17,2026-01-16T13:15:13,4,Controle consult 1,6000,Nieuw
+1713,250,Revalidatiearts,17,2026-02-09T15:15:13,4,Controle consult 2,6000,Nieuw
+1714,250,Revalidatiearts,17,2026-03-02T14:30:13,4,Controle consult 3,6000,Nieuw
+1715,250,Revalidatiearts,17,2026-03-30T16:00:13,4,Controle consult 4,6000,Nieuw
+1716,250,Revalidatiearts,17,2026-04-20T13:30:13,4,Controle consult 5,6000,Nieuw
+1717,250,Revalidatiearts,17,2026-05-15T15:00:13,4,Controle consult 6,6000,Nieuw
+1718,250,Revalidatiearts,17,2026-06-05T09:00:13,4,Controle consult 7,6000,Nieuw

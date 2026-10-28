@@ -1,0 +1,29 @@
+GebruikerID,Gebruikersnaam,WachtwoordHash,Rol,Voornaam,Achternaam,OrganisatieID
+1,ha_heere,$2b$12$K5oNjknRKwoRxLOFmb5hqeEqOwwY4eU8um7zOK6H8d9bFABXjGbSa,Huisarts,Floortje,Heere,
+2,ha_schellekens,$2b$12$iYd2T6hboqXwM7uGWAloPO4Yf/BV6jeOT9VqihxkyNJHyxpzVMasK,Huisarts,Ayden,Schellekens,
+3,ha_nek,$2b$12$Oc193SP7X78yAw.4LMgODuSwbRRnkXlcjtZBEG31MEB.h9r2PqqAG,Huisarts,Liam,Nek,
+4,ha_goyaertsvanwaderle,$2b$12$HMmV9nBoBDaevpMyhUOHuuLZuszxxe3ro3nlDs0Eq8dtHRyC72Ye2,Huisarts,Imran,Goyaerts van Waderle,
+5,ha_vanderspaendonc,$2b$12$9cqCHO0f6Rr.D2B3jrtZPOLJ4sbt50ohgDFcj/1cEdEy/Ept1Zv02,Huisarts,Ivy,van der Spaendonc,
+6,ha_vanbrenen,$2b$12$pqUb0ubaj2dZOOxOr6rBgudxHv6nbIR1EKLRDEXvViSt3uP/mrpeq,Huisarts,Dean,van Brenen,
+7,ha_bolkesteijn,$2b$12$abhC9nqi3A59Pguo8aOv3euaXmsLUqz0bvxiulGBQiJof/LsNYVCi,Huisarts,Bastiaan,Bolkesteijn,
+8,ha_molenaar,$2b$12$VfpvMZN8P/1x6N9TtjJ/lOngmKZZtR1B43NKeo9LUR8WV3W1l80sG,Huisarts,Dirk,Molenaar,
+9,ha_vandeelzas,$2b$12$.OmUILhgQ8lpjG5QLaeag.e1DXtcI4RU96pdtmDyNOkoU3lOxY7Xi,Huisarts,Lars,van de Elzas,
+10,ha_blonk,$2b$12$ahZyJOVtw7Z9mMkQEf3Nm.e8fm2Ek5PZIYMhPpYUnees5nITWHNZG,Huisarts,Esther,Blonk,
+11,ra_manne,$2b$12$GxDJ7rpgc9Gu4UcuNeHCv.nYfEvSn.1FATcvWOW.yXK1t12dR6j8O,Revalidatiearts,Daphne,Manne,
+12,ra_vanderspaendonc,$2b$12$VnKrwYZAqSWQh02LOMaOl.G/.hWiFD7Wf9hNMjE4rxVu75i.dY59y,Revalidatiearts,Julia,van der Spaendonc,
+13,ra_muijs,$2b$12$I4KaS7E3z0KHpYaOrX/Lc.aVSzNdKL46AZYtt6KFj4rmdnOE1PeIa,Revalidatiearts,Sten,Muijs,
+14,ra_schilt,$2b$12$JrQ25nonVTbElbS5Uf/S0eNFIxDBoCpsL3am6ikuy2Syq3dUzG6Fa,Revalidatiearts,Tobias,Schilt,
+15,ra_amalrada,$2b$12$3XPixCcq6ovKeoJ.lU.dmu2G9RwuHpO4jGBUS258aVjTW/BsaN4uu,Revalidatiearts,Maja,Amalrada,
+16,ra_klompjan,$2b$12$Xc5s/t10VET8ZH4I1wvql.34Z9E1wa7khMd2WE7ZwlkSphlf35vrK,Revalidatiearts,Linde,Klomp Jan,
+17,ra_vanbreugel,$2b$12$7RyHcZ.0tSAeSuXonMVWaOo91E8bxF7CBJE8075lJ09OAQk0loDtu,Revalidatiearts,Jet,van Breugel,
+18,ra_schilt2,$2b$12$oEDrgXn1Dj5.NiAAI.IEF.l1PSN3CZ/lj2qsCr9AU/02yE.MVgHei,Revalidatiearts,Olivier,Schilt,
+19,ra_moenen,$2b$12$0NvpM0FweNyUKZSY9SqcQ.XfufUNk3S261B.jqIHzYx6JJbVwNtNe,Revalidatiearts,Jari,Moenen,
+20,ra_verwoert,$2b$12$cwHg6Nwck8FC8cGz.lK3Zu4snvPX2Fskh4TOBb9bvj9jjXgYw0Xrq,Revalidatiearts,Veerle,Verwoert,
+21,zvm_geertsen,$2b$12$OgaJx/c4WmgRVSgG1/GnFuXOEf3IDnGb6yaiXC.Y6ne951PSP1BSC,Zorgverzekeraar,Emir,Geertsen,1
+22,zvm_gerritsen,$2b$12$ekmEaJYHN4LKRJ8C5jRueOEqq9seSejnj1d9X/frS9ON1ruYjzPFy,Zorgverzekeraar,Ruben,Gerritsen,2
+23,zvm_waltradewalderade,$2b$12$p45Kh1GK37JVDHWzUhKvHex5Mpda.5zO4wAnkBeMADDZtcAnsSbzO,Zorgverzekeraar,Raf,Waltrade Walderade,3
+24,zvm_rotteveel,$2b$12$SXmqQe408f3XSPuXnp9t4On6pHpNTXDSdHRF3nQ/RktIPRYvjEgBC,Zorgverzekeraar,Eva,Rotteveel,4
+25,zvm_broekhoven,$2b$12$KpnQA6si.e070p1NBAjiceTVn6o113.rZPvrNDXwkdCsuJ9ELtR4C,Zorgverzekeraar,Madelief,Broekhoven,5
+26,zvm_vanlaar,$2b$12$r1g5VVilbV6Cg3vKbEqnTuCo4HDIw33eHEtq.7om11lJeySfkgWiS,Zorgverzekeraar,Kayleigh,van Laar,1
+27,zvm_hoes,$2b$12$LOaPyDQKEZNENNK57mzY3OAF/xMDGWz3eEvVcsbOLl3G7H5sWuZoK,Zorgverzekeraar,Bibi,Hoes,2
+28,zvm_degroot,$2b$12$gNCzTDKPR2dl/DHnSdb4lO1YOHmie/2odnWiHzRqemQYXx0X0ZfYe,Zorgverzekeraar,Zara,de Groot,3

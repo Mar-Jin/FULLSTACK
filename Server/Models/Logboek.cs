@@ -1,7 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 
 namespace RevaliNow.Models
 {
+    // Een regel in het activiteitenlogboek van een patiënt
     public class Logboek
     {
         [Key]
@@ -10,12 +11,12 @@ namespace RevaliNow.Models
         [Required]
         public int PatientId { get; set; }
 
+        public Patient? Patient { get; set; }
+
         [Required]
         public DateTime DatumTijdActiviteit { get; set; }
 
-        [Required]
-        public string Beschrijving { get; set; }
-
-        public Patient? Patient { get; set; }
+        [Required, MaxLength(500)]
+        public string Beschrijving { get; set; } = string.Empty;
     }
 }

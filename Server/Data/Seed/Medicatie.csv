@@ -1,0 +1,292 @@
+MedicatieID,PatientID,HuisartsID,Naam,Dosering,Frequentie,StartDatum,EindDatum,Status
+1,1,10,Ibuprofen,400mg,3x daags,2025-02-16T06:55:15,2025-03-02T06:55:15,Afgerond
+2,2,7,Diclofenac,50mg,2x daags,2026-01-05T06:26:37,2026-01-26T06:26:37,Afgerond
+3,3,6,Ibuprofen,400mg,3x daags,2026-09-03T19:06:04,2026-10-08T19:06:04,Actief
+4,4,5,Diclofenac,50mg,2x daags,2026-02-20T07:16:18,2026-03-06T07:16:18,Afgerond
+5,4,5,Paracetamol,500mg,4x daags max,2026-02-22T07:16:18,2026-04-19T07:16:18,Afgerond
+6,5,9,Ibuprofen,400mg,3x daags,2025-07-09T10:32:23,2025-08-20T10:32:23,Afgerond
+7,6,9,Paracetamol,500mg,3x daags,2026-08-25T11:33:19,2026-09-15T11:33:19,Actief
+8,6,9,Amitriptyline,10mg,1x daags avond,2026-08-31T11:33:19,2026-09-28T11:33:19,Actief
+9,7,7,Paracetamol,500mg,3x daags,2025-05-29T12:41:41,2025-06-19T12:41:41,Afgerond
+10,7,7,Diclofenac,50mg,2x daags,2025-05-31T12:41:41,2025-07-19T12:41:41,Afgerond
+11,8,7,Ibuprofen,400mg,3x daags,2027-01-18T12:27:21,2027-03-08T12:27:21,Actief
+12,9,2,Diclofenac,50mg,2x daags,2025-06-27T00:34:44,2025-07-25T00:34:44,Afgerond
+13,10,2,Diclofenac,50mg,2x daags,2026-04-11T21:28:07,2026-05-23T21:28:07,Afgerond
+14,11,5,Diclofenac,50mg,2x daags,2025-09-06T14:15:06,2025-10-04T14:15:06,Afgerond
+15,12,10,Ibuprofen,400mg,3x daags,2027-05-09T19:49:17,2027-06-13T19:49:17,Actief
+16,13,9,Amitriptyline,10mg,1x daags avond,2027-05-30T22:43:37,2027-06-13T22:43:37,Actief
+17,14,3,Paracetamol,500mg,3x daags,2027-01-22T00:32:46,2027-02-05T00:32:46,Actief
+18,14,3,Diclofenac,50mg,2x daags,2027-01-22T00:32:46,2027-02-12T00:32:46,Actief
+19,15,5,Ibuprofen,400mg,3x daags,2027-05-02T04:47:32,2027-06-20T04:47:32,Actief
+20,15,5,Paracetamol,500mg,4x daags max,2027-04-30T04:47:32,2027-06-11T04:47:32,Actief
+21,16,3,Ibuprofen,400mg,3x daags,2025-10-09T12:33:30,2025-10-23T12:33:30,Afgerond
+22,17,7,Ibuprofen,400mg,3x daags,2025-03-25T22:18:25,2025-05-20T22:18:25,Afgerond
+23,18,10,Naproxen,250mg,2x daags,2027-05-23T11:28:43,2027-06-06T11:28:43,Actief
+24,19,9,Naproxen,250mg,2x daags,2027-06-16T17:06:14,2027-07-07T17:06:14,Actief
+25,20,7,Ibuprofen,400mg,3x daags,2025-06-08T08:53:49,2025-07-06T08:53:49,Afgerond
+26,21,10,Paracetamol,500mg,4x daags max,2027-05-11T16:32:07,2027-05-25T16:32:07,Actief
+27,21,10,Ibuprofen,400mg,3x daags,2027-05-08T16:32:07,2027-05-29T16:32:07,Actief
+28,22,4,Paracetamol,500mg,4x daags max,2027-07-01T09:15:32,2027-08-05T09:15:32,Actief
+29,23,5,Paracetamol,500mg,3x daags,2025-12-28T21:27:16,2026-02-01T21:27:16,Afgerond
+30,24,3,Diclofenac,50mg,2x daags,2026-10-04T02:23:47,2026-11-01T02:23:47,Actief
+31,25,7,Ibuprofen,400mg,3x daags,2026-01-17T04:17:23,2026-02-28T04:17:23,Afgerond
+32,26,1,Paracetamol,500mg,4x daags max,2027-05-15T08:08:12,2027-06-05T08:08:12,Actief
+33,27,3,Paracetamol,500mg,4x daags max,2026-05-26T00:36:05,2026-06-23T00:36:05,Afgerond
+34,28,5,Ibuprofen,400mg,3x daags,2027-02-03T13:56:54,2027-03-17T13:56:54,Actief
+35,28,5,Paracetamol,500mg,4x daags max,2027-01-28T13:56:54,2027-03-18T13:56:54,Actief
+36,29,3,Paracetamol,500mg,4x daags max,2025-05-04T14:08:54,2025-06-01T14:08:54,Afgerond
+37,29,3,Ibuprofen,400mg,3x daags,2025-05-07T14:08:54,2025-06-04T14:08:54,Afgerond
+38,30,1,Paracetamol,500mg,4x daags max,2026-04-05T11:37:46,2026-05-03T11:37:46,Afgerond
+39,30,1,Ibuprofen,400mg,3x daags,2026-04-04T11:37:46,2026-04-18T11:37:46,Afgerond
+40,31,5,Ibuprofen,400mg,3x daags,2026-12-25T10:45:09,2027-02-19T10:45:09,Actief
+41,32,5,Ibuprofen,400mg,2x daags,2027-05-05T04:08:16,2027-06-30T04:08:16,Actief
+42,33,9,Amitriptyline,10mg,1x daags avond,2027-08-01T03:20:49,2027-08-22T03:20:49,Actief
+43,34,10,Diclofenac,50mg,2x daags,2025-10-30T12:03:14,2025-12-04T12:03:14,Afgerond
+44,35,9,Paracetamol,500mg,3x daags,2025-12-23T12:42:39,2026-02-03T12:42:39,Afgerond
+45,36,3,Diclofenac,50mg,2x daags,2025-03-17T05:34:38,2025-05-05T05:34:38,Afgerond
+46,37,6,Naproxen,250mg,2x daags,2026-10-15T15:29:11,2026-10-29T15:29:11,Actief
+47,38,5,Paracetamol,500mg,4x daags max,2027-03-18T11:53:04,2027-04-08T11:53:04,Actief
+48,39,2,Naproxen,250mg,2x daags,2027-05-08T06:25:10,2027-05-29T06:25:10,Actief
+49,40,3,Ibuprofen,400mg,3x daags,2027-06-03T06:22:57,2027-07-15T06:22:57,Actief
+50,41,10,Ibuprofen,400mg,3x daags,2027-06-25T08:55:24,2027-07-09T08:55:24,Actief
+51,42,2,Paracetamol,500mg,3x daags,2025-06-18T20:14:33,2025-07-23T20:14:33,Afgerond
+52,43,4,Paracetamol,500mg,4x daags max,2026-12-29T02:58:14,2027-01-12T02:58:14,Actief
+53,44,8,Naproxen,250mg,2x daags,2026-07-14T03:38:58,2026-08-04T03:38:58,Afgerond
+54,45,1,Ibuprofen,400mg,3x daags,2026-10-17T04:09:36,2026-12-05T04:09:36,Actief
+55,46,5,Paracetamol,500mg,4x daags max,2025-05-30T02:11:16,2025-06-27T02:11:16,Afgerond
+56,46,5,Amoxicilline,500mg,3x daags,2025-05-31T02:11:16,2025-07-12T02:11:16,Afgerond
+57,47,5,Ibuprofen,400mg,3x daags,2025-06-24T07:02:32,2025-07-15T07:02:32,Afgerond
+58,48,5,Naproxen,250mg,2x daags,2025-03-26T01:41:49,2025-04-30T01:41:49,Afgerond
+59,49,4,Ibuprofen,400mg,3x daags,2025-06-15T04:05:56,2025-08-10T04:05:56,Afgerond
+60,50,2,Diclofenac,50mg,2x daags,2027-04-14T04:34:53,2027-05-12T04:34:53,Actief
+61,51,8,Ibuprofen,400mg,3x daags,2026-08-29T11:50:59,2026-09-12T11:50:59,Actief
+62,52,1,Diclofenac,50mg,2x daags,2025-10-06T07:17:25,2025-10-27T07:17:25,Afgerond
+63,53,2,Ibuprofen,400mg,3x daags,2027-07-12T08:01:22,2027-08-02T08:01:22,Actief
+64,54,7,Ibuprofen,400mg,3x daags,2025-06-11T19:51:13,2025-08-06T19:51:13,Afgerond
+65,55,5,Ibuprofen,400mg,2x daags,2027-03-11T08:13:11,2027-04-22T08:13:11,Actief
+66,56,3,Naproxen,250mg,2x daags,2026-02-13T23:36:31,2026-03-06T23:36:31,Afgerond
+67,57,2,Diclofenac,50mg,2x daags,2025-01-29T13:04:20,2025-02-19T13:04:20,Afgerond
+68,57,2,Paracetamol,500mg,4x daags max,2025-01-27T13:04:20,2025-02-10T13:04:20,Afgerond
+69,58,8,Amitriptyline,10mg,1x daags avond,2025-07-30T14:32:06,2025-09-24T14:32:06,Afgerond
+70,58,8,Paracetamol,500mg,3x daags,2025-07-31T14:32:06,2025-09-25T14:32:06,Afgerond
+71,59,6,Ibuprofen,400mg,3x daags,2026-06-01T15:54:17,2026-06-29T15:54:17,Afgerond
+72,60,1,Ibuprofen,400mg,3x daags,2026-10-09T23:50:22,2026-11-27T23:50:22,Actief
+73,61,3,Paracetamol,500mg,4x daags max,2026-09-09T15:09:39,2026-10-14T15:09:39,Actief
+74,61,3,Diclofenac,50mg,2x daags,2026-09-14T15:09:39,2026-10-26T15:09:39,Actief
+75,62,3,Naproxen,250mg,2x daags,2026-02-03T12:06:46,2026-02-24T12:06:46,Afgerond
+76,63,2,Amitriptyline,10mg,1x daags avond,2025-10-11T09:40:06,2025-10-25T09:40:06,Afgerond
+77,64,1,Naproxen,250mg,2x daags,2027-05-02T13:22:26,2027-05-16T13:22:26,Actief
+78,65,6,Paracetamol,500mg,3x daags,2025-11-19T07:09:45,2025-12-10T07:09:45,Afgerond
+79,66,2,Naproxen,250mg,2x daags,2027-03-12T14:24:32,2027-05-07T14:24:32,Actief
+80,67,1,Amitriptyline,10mg,1x daags avond,2026-08-31T17:54:35,2026-09-14T17:54:35,Actief
+81,68,5,Diclofenac,50mg,2x daags,2026-03-11T05:31:10,2026-04-01T05:31:10,Afgerond
+82,69,4,Naproxen,250mg,2x daags,2026-11-02T22:44:55,2026-12-28T22:44:55,Actief
+83,70,7,Paracetamol,500mg,3x daags,2026-12-18T21:12:08,2027-01-29T21:12:08,Actief
+84,70,7,Diclofenac,50mg,2x daags,2026-12-18T21:12:08,2027-02-05T21:12:08,Actief
+85,71,2,Amoxicilline,500mg,3x daags,2025-07-17T11:56:22,2025-08-28T11:56:22,Afgerond
+86,72,8,Diclofenac,50mg,2x daags,2026-04-20T11:11:20,2026-06-08T11:11:20,Afgerond
+87,73,7,Ibuprofen,400mg,3x daags,2026-07-14T12:39:28,2026-08-18T12:39:28,Afgerond
+88,74,1,Ibuprofen,400mg,3x daags,2025-01-13T05:27:02,2025-02-03T05:27:02,Afgerond
+89,75,6,Diclofenac,50mg,2x daags,2026-02-26T12:27:11,2026-03-12T12:27:11,Afgerond
+90,76,8,Diclofenac,50mg,2x daags,2026-07-19T00:07:47,2026-08-23T00:07:47,Afgerond
+91,77,10,Naproxen,250mg,2x daags,2025-11-02T22:59:48,2025-11-16T22:59:48,Afgerond
+92,78,2,Ibuprofen,400mg,3x daags,2025-08-02T16:17:41,2025-09-06T16:17:41,Afgerond
+93,79,5,Ibuprofen,400mg,3x daags,2027-01-17T10:12:04,2027-02-28T10:12:04,Actief
+94,80,5,Diclofenac,50mg,2x daags,2026-11-27T09:22:04,2027-01-22T09:22:04,Actief
+95,80,5,Paracetamol,500mg,4x daags max,2026-11-26T09:22:04,2027-01-07T09:22:04,Actief
+96,81,8,Ibuprofen,400mg,3x daags,2026-03-19T18:25:07,2026-04-23T18:25:07,Afgerond
+97,82,1,Ibuprofen,400mg,3x daags,2027-02-06T22:06:21,2027-03-20T22:06:21,Actief
+98,83,4,Naproxen,250mg,2x daags,2026-09-14T08:01:19,2026-11-09T08:01:19,Actief
+99,84,2,Ibuprofen,400mg,3x daags,2026-07-18T03:22:42,2026-08-29T03:22:42,Afgerond
+100,85,3,Amitriptyline,10mg,1x daags avond,2025-02-07T16:34:09,2025-04-04T16:34:09,Afgerond
+101,86,6,Amoxicilline,500mg,3x daags,2026-02-08T17:33:10,2026-03-08T17:33:10,Afgerond
+102,86,6,Paracetamol,500mg,4x daags max,2026-02-07T17:33:10,2026-03-07T17:33:10,Afgerond
+103,87,6,Ibuprofen,400mg,2x daags,2027-07-06T03:06:33,2027-08-10T03:06:33,Actief
+104,88,5,Paracetamol,500mg,3x daags,2027-03-26T21:23:01,2027-04-23T21:23:01,Actief
+105,88,5,Amitriptyline,10mg,1x daags avond,2027-03-21T21:23:01,2027-04-25T21:23:01,Actief
+106,89,8,Diclofenac,50mg,2x daags,2025-01-23T11:57:09,2025-02-13T11:57:09,Afgerond
+107,90,6,Paracetamol,500mg,4x daags max,2027-05-27T21:52:28,2027-07-15T21:52:28,Actief
+108,91,6,Ibuprofen,400mg,3x daags,2025-11-22T23:44:54,2025-12-06T23:44:54,Afgerond
+109,92,4,Ibuprofen,400mg,3x daags,2025-05-06T14:48:47,2025-06-24T14:48:47,Afgerond
+110,93,6,Amitriptyline,10mg,1x daags avond,2025-01-01T22:17:12,2025-02-19T22:17:12,Afgerond
+111,94,10,Diclofenac,50mg,2x daags,2025-07-22T10:30:52,2025-09-16T10:30:52,Afgerond
+112,94,10,Paracetamol,500mg,4x daags max,2025-07-22T10:30:52,2025-09-16T10:30:52,Afgerond
+113,95,8,Ibuprofen,400mg,2x daags,2025-08-30T16:53:48,2025-10-04T16:53:48,Afgerond
+114,96,9,Paracetamol,500mg,4x daags max,2026-07-12T19:20:15,2026-08-23T19:20:15,Afgerond
+115,96,9,Diclofenac,50mg,2x daags,2026-07-16T19:20:15,2026-07-30T19:20:15,Afgerond
+116,97,2,Ibuprofen,400mg,3x daags,2027-03-06T03:24:50,2027-05-01T03:24:50,Actief
+117,98,10,Paracetamol,500mg,3x daags,2027-06-08T06:25:38,2027-07-13T06:25:38,Actief
+118,98,10,Amitriptyline,10mg,1x daags avond,2027-06-07T06:25:38,2027-07-26T06:25:38,Actief
+119,99,10,Paracetamol,500mg,4x daags max,2026-05-25T15:34:00,2026-06-08T15:34:00,Afgerond
+120,100,9,Ibuprofen,400mg,3x daags,2027-03-01T21:49:30,2027-03-22T21:49:30,Actief
+121,101,4,Diclofenac,50mg,2x daags,2026-02-26T17:46:16,2026-04-02T17:46:16,Afgerond
+122,102,3,Ibuprofen,400mg,2x daags,2025-04-19T23:50:18,2025-05-31T23:50:18,Afgerond
+123,103,2,Ibuprofen,400mg,3x daags,2025-01-03T08:15:30,2025-02-21T08:15:30,Afgerond
+124,104,8,Ibuprofen,400mg,2x daags,2025-10-22T02:37:52,2025-11-12T02:37:52,Afgerond
+125,105,9,Ibuprofen,400mg,3x daags,2025-12-04T00:11:03,2026-01-29T00:11:03,Afgerond
+126,106,5,Ibuprofen,400mg,3x daags,2025-09-19T23:30:39,2025-10-03T23:30:39,Afgerond
+127,107,6,Diclofenac,50mg,2x daags,2025-02-02T01:41:03,2025-03-02T01:41:03,Afgerond
+128,108,1,Ibuprofen,400mg,2x daags,2025-12-28T20:42:07,2026-02-15T20:42:07,Afgerond
+129,109,10,Diclofenac,50mg,2x daags,2026-06-22T03:24:40,2026-07-27T03:24:40,Afgerond
+130,110,3,Amoxicilline,500mg,3x daags,2026-02-17T09:24:25,2026-03-03T09:24:25,Afgerond
+131,111,5,Paracetamol,500mg,4x daags max,2025-05-02T07:34:38,2025-05-23T07:34:38,Afgerond
+132,112,6,Paracetamol,500mg,4x daags max,2026-05-29T07:46:21,2026-07-03T07:46:21,Afgerond
+133,113,7,Paracetamol,500mg,4x daags max,2026-05-31T20:51:02,2026-07-05T20:51:02,Afgerond
+134,114,2,Paracetamol,500mg,4x daags max,2026-06-18T22:40:54,2026-07-09T22:40:54,Afgerond
+135,115,2,Ibuprofen,400mg,3x daags,2026-07-10T13:32:45,2026-07-24T13:32:45,Afgerond
+136,116,3,Ibuprofen,400mg,3x daags,2027-02-02T22:33:17,2027-03-16T22:33:17,Actief
+137,117,5,Ibuprofen,400mg,3x daags,2026-01-18T02:56:10,2026-02-22T02:56:10,Afgerond
+138,118,3,Paracetamol,500mg,4x daags max,2027-03-16T17:39:57,2027-04-20T17:39:57,Actief
+139,119,8,Ibuprofen,400mg,3x daags,2025-04-29T06:52:13,2025-06-17T06:52:13,Afgerond
+140,120,1,Ibuprofen,400mg,3x daags,2026-08-08T12:04:16,2026-08-29T12:04:16,Afgerond
+141,121,10,Paracetamol,500mg,3x daags,2025-09-20T08:17:14,2025-11-01T08:17:14,Afgerond
+142,121,10,Amitriptyline,10mg,1x daags avond,2025-09-23T08:17:14,2025-10-21T08:17:14,Afgerond
+143,122,10,Naproxen,250mg,2x daags,2026-04-27T09:41:35,2026-05-18T09:41:35,Afgerond
+144,123,4,Paracetamol,500mg,4x daags max,2026-10-23T23:32:14,2026-12-18T23:32:14,Actief
+145,124,2,Diclofenac,50mg,2x daags,2025-01-25T02:11:56,2025-02-08T02:11:56,Afgerond
+146,125,9,Naproxen,250mg,2x daags,2026-02-18T06:17:48,2026-04-08T06:17:48,Afgerond
+147,126,1,Amoxicilline,500mg,3x daags,2026-02-13T02:15:16,2026-03-20T02:15:16,Afgerond
+148,127,1,Ibuprofen,400mg,3x daags,2025-08-08T00:35:08,2025-09-26T00:35:08,Afgerond
+149,128,8,Diclofenac,50mg,2x daags,2026-12-18T04:57:34,2027-01-01T04:57:34,Actief
+150,129,9,Ibuprofen,400mg,2x daags,2027-03-24T14:57:10,2027-05-05T14:57:10,Actief
+151,130,6,Paracetamol,500mg,4x daags max,2026-03-24T15:17:17,2026-04-07T15:17:17,Afgerond
+152,130,6,Diclofenac,50mg,2x daags,2026-03-23T15:17:17,2026-04-27T15:17:17,Afgerond
+153,131,10,Ibuprofen,400mg,2x daags,2025-03-12T17:59:50,2025-04-09T17:59:50,Afgerond
+154,132,2,Paracetamol,500mg,4x daags max,2026-10-18T23:22:34,2026-11-15T23:22:34,Actief
+155,133,8,Naproxen,250mg,2x daags,2027-02-02T16:15:01,2027-03-16T16:15:01,Actief
+156,134,4,Paracetamol,500mg,4x daags max,2026-12-15T17:17:52,2027-01-12T17:17:52,Actief
+157,135,9,Naproxen,250mg,2x daags,2026-07-16T02:22:20,2026-08-13T02:22:20,Afgerond
+158,136,5,Paracetamol,500mg,4x daags max,2025-02-17T03:24:33,2025-03-03T03:24:33,Afgerond
+159,136,5,Ibuprofen,400mg,3x daags,2025-02-15T03:24:33,2025-04-05T03:24:33,Afgerond
+160,137,10,Diclofenac,50mg,2x daags,2026-02-13T02:33:54,2026-02-27T02:33:54,Afgerond
+161,138,9,Ibuprofen,400mg,2x daags,2026-04-05T13:38:00,2026-05-24T13:38:00,Afgerond
+162,139,7,Paracetamol,500mg,4x daags max,2025-02-15T20:04:07,2025-04-05T20:04:07,Afgerond
+163,140,10,Ibuprofen,400mg,2x daags,2025-04-21T18:46:31,2025-06-09T18:46:31,Afgerond
+164,141,4,Ibuprofen,400mg,2x daags,2027-05-26T07:05:13,2027-06-16T07:05:13,Actief
+165,142,1,Ibuprofen,400mg,2x daags,2026-10-31T09:31:24,2026-12-05T09:31:24,Actief
+166,143,1,Paracetamol,500mg,3x daags,2025-08-03T08:35:05,2025-09-07T08:35:05,Afgerond
+167,143,1,Diclofenac,50mg,2x daags,2025-08-02T08:35:05,2025-08-30T08:35:05,Afgerond
+168,144,9,Paracetamol,500mg,4x daags max,2026-09-19T22:55:02,2026-10-03T22:55:02,Actief
+169,145,3,Diclofenac,50mg,2x daags,2025-06-09T03:44:25,2025-07-14T03:44:25,Afgerond
+170,146,10,Paracetamol,500mg,4x daags max,2026-11-09T19:59:03,2026-12-28T19:59:03,Actief
+171,147,7,Ibuprofen,400mg,3x daags,2026-07-04T14:07:29,2026-07-25T14:07:29,Afgerond
+172,148,10,Amitriptyline,10mg,1x daags avond,2026-01-08T05:02:54,2026-01-22T05:02:54,Afgerond
+173,149,10,Amoxicilline,500mg,3x daags,2026-02-16T12:14:55,2026-04-13T12:14:55,Afgerond
+174,149,10,Paracetamol,500mg,4x daags max,2026-02-16T12:14:55,2026-04-06T12:14:55,Afgerond
+175,150,8,Ibuprofen,400mg,3x daags,2026-07-24T19:05:49,2026-08-21T19:05:49,Afgerond
+176,151,6,Ibuprofen,400mg,3x daags,2025-04-28T18:54:03,2025-05-12T18:54:03,Afgerond
+177,152,1,Ibuprofen,400mg,3x daags,2027-07-10T20:48:37,2027-07-31T20:48:37,Actief
+178,153,4,Naproxen,250mg,2x daags,2025-09-16T03:38:00,2025-11-11T03:38:00,Afgerond
+179,154,10,Diclofenac,50mg,2x daags,2025-08-14T01:22:26,2025-08-28T01:22:26,Afgerond
+180,155,4,Naproxen,250mg,2x daags,2026-02-16T15:56:41,2026-03-30T15:56:41,Afgerond
+181,156,7,Diclofenac,50mg,2x daags,2025-12-10T06:10:23,2026-01-28T06:10:23,Afgerond
+182,157,10,Ibuprofen,400mg,2x daags,2027-05-11T02:09:10,2027-06-08T02:09:10,Actief
+183,158,7,Naproxen,250mg,2x daags,2025-06-22T23:48:44,2025-07-27T23:48:44,Afgerond
+184,159,9,Paracetamol,500mg,4x daags max,2025-04-18T20:14:39,2025-05-02T20:14:39,Afgerond
+185,160,9,Ibuprofen,400mg,2x daags,2027-08-04T22:57:41,2027-09-01T22:57:41,Actief
+186,161,1,Ibuprofen,400mg,3x daags,2025-05-08T10:03:28,2025-05-29T10:03:28,Afgerond
+187,162,8,Ibuprofen,400mg,3x daags,2025-01-06T00:47:38,2025-01-27T00:47:38,Afgerond
+188,163,9,Paracetamol,500mg,3x daags,2025-11-26T02:01:48,2025-12-17T02:01:48,Afgerond
+189,163,9,Diclofenac,50mg,2x daags,2025-11-24T02:01:48,2026-01-05T02:01:48,Afgerond
+190,164,4,Diclofenac,50mg,2x daags,2027-07-13T18:16:35,2027-08-31T18:16:35,Actief
+191,165,4,Ibuprofen,400mg,3x daags,2025-02-04T08:24:22,2025-03-25T08:24:22,Afgerond
+192,166,10,Paracetamol,500mg,4x daags max,2026-10-07T12:41:36,2026-11-11T12:41:36,Actief
+193,167,3,Ibuprofen,400mg,2x daags,2026-10-26T00:08:32,2026-12-21T00:08:32,Actief
+194,168,4,Ibuprofen,400mg,3x daags,2026-02-16T04:34:53,2026-04-06T04:34:53,Afgerond
+195,169,7,Paracetamol,500mg,3x daags,2026-01-04T19:32:02,2026-02-22T19:32:02,Afgerond
+196,170,1,Paracetamol,500mg,3x daags,2026-06-17T03:41:52,2026-07-01T03:41:52,Afgerond
+197,170,1,Amitriptyline,10mg,1x daags avond,2026-06-14T03:41:52,2026-07-05T03:41:52,Afgerond
+198,171,6,Amoxicilline,500mg,3x daags,2026-12-10T10:02:39,2027-01-14T10:02:39,Actief
+199,172,1,Ibuprofen,400mg,3x daags,2025-07-20T02:16:19,2025-08-03T02:16:19,Afgerond
+200,173,9,Amitriptyline,10mg,1x daags avond,2025-11-25T05:07:06,2025-12-09T05:07:06,Afgerond
+201,173,9,Paracetamol,500mg,3x daags,2025-11-25T05:07:06,2025-12-23T05:07:06,Afgerond
+202,174,7,Ibuprofen,400mg,3x daags,2026-09-05T12:12:52,2026-10-31T12:12:52,Actief
+203,175,10,Paracetamol,500mg,4x daags max,2026-07-24T01:57:12,2026-09-18T01:57:12,Actief
+204,175,10,Amoxicilline,500mg,3x daags,2026-07-26T01:57:12,2026-08-30T01:57:12,Afgerond
+205,176,6,Diclofenac,50mg,2x daags,2025-09-18T07:44:09,2025-10-09T07:44:09,Afgerond
+206,176,6,Paracetamol,500mg,4x daags max,2025-09-18T07:44:09,2025-10-23T07:44:09,Afgerond
+207,177,8,Amitriptyline,10mg,1x daags avond,2026-03-11T07:20:14,2026-05-06T07:20:14,Afgerond
+208,177,8,Paracetamol,500mg,3x daags,2026-03-09T07:20:14,2026-03-23T07:20:14,Afgerond
+209,178,1,Ibuprofen,400mg,3x daags,2026-08-24T17:28:55,2026-09-07T17:28:55,Actief
+210,179,3,Ibuprofen,400mg,3x daags,2025-01-13T05:32:47,2025-01-27T05:32:47,Afgerond
+211,180,5,Ibuprofen,400mg,3x daags,2026-01-01T06:16:58,2026-02-26T06:16:58,Afgerond
+212,181,9,Ibuprofen,400mg,2x daags,2026-06-16T23:05:54,2026-08-11T23:05:54,Afgerond
+213,182,2,Diclofenac,50mg,2x daags,2025-11-30T20:46:54,2026-01-04T20:46:54,Afgerond
+214,183,7,Ibuprofen,400mg,3x daags,2026-04-17T07:06:47,2026-05-22T07:06:47,Afgerond
+215,184,4,Ibuprofen,400mg,3x daags,2026-09-27T04:54:35,2026-10-18T04:54:35,Actief
+216,185,3,Ibuprofen,400mg,3x daags,2026-01-18T17:19:56,2026-02-01T17:19:56,Afgerond
+217,186,7,Diclofenac,50mg,2x daags,2026-10-30T18:50:12,2026-11-20T18:50:12,Actief
+218,187,8,Diclofenac,50mg,2x daags,2027-06-19T05:01:57,2027-08-14T05:01:57,Actief
+219,187,8,Paracetamol,500mg,4x daags max,2027-06-21T05:01:57,2027-07-05T05:01:57,Actief
+220,188,9,Naproxen,250mg,2x daags,2025-10-21T17:56:01,2025-11-18T17:56:01,Afgerond
+221,189,1,Amoxicilline,500mg,3x daags,2026-11-04T13:00:40,2026-11-25T13:00:40,Actief
+222,190,3,Diclofenac,50mg,2x daags,2027-06-24T03:29:20,2027-07-08T03:29:20,Actief
+223,190,3,Paracetamol,500mg,4x daags max,2027-06-22T03:29:20,2027-07-20T03:29:20,Actief
+224,191,8,Diclofenac,50mg,2x daags,2027-07-13T06:14:37,2027-09-07T06:14:37,Actief
+225,192,2,Ibuprofen,400mg,3x daags,2027-01-15T14:48:13,2027-03-12T14:48:13,Actief
+226,193,8,Ibuprofen,400mg,3x daags,2026-01-19T19:42:04,2026-03-16T19:42:04,Afgerond
+227,194,1,Diclofenac,50mg,2x daags,2026-04-09T10:22:50,2026-05-14T10:22:50,Afgerond
+228,195,2,Ibuprofen,400mg,3x daags,2025-08-06T06:25:39,2025-08-27T06:25:39,Afgerond
+229,196,9,Ibuprofen,400mg,3x daags,2025-01-01T08:56:09,2025-01-22T08:56:09,Afgerond
+230,197,2,Ibuprofen,400mg,2x daags,2027-07-11T03:38:42,2027-08-15T03:38:42,Actief
+231,198,9,Diclofenac,50mg,2x daags,2025-05-16T03:50:55,2025-06-06T03:50:55,Afgerond
+232,199,9,Amoxicilline,500mg,3x daags,2027-01-26T17:28:37,2027-03-23T17:28:37,Actief
+233,199,9,Paracetamol,500mg,4x daags max,2027-01-24T17:28:37,2027-02-14T17:28:37,Actief
+234,200,2,Ibuprofen,400mg,3x daags,2026-12-14T22:28:29,2027-01-11T22:28:29,Actief
+235,201,2,Ibuprofen,400mg,3x daags,2025-10-10T23:18:40,2025-10-31T23:18:40,Afgerond
+236,202,3,Paracetamol,500mg,4x daags max,2026-12-18T11:55:59,2027-01-22T11:55:59,Actief
+237,202,3,Diclofenac,50mg,2x daags,2026-12-18T11:55:59,2027-01-29T11:55:59,Actief
+238,203,1,Paracetamol,500mg,3x daags,2025-03-21T14:34:09,2025-04-25T14:34:09,Afgerond
+239,203,1,Diclofenac,50mg,2x daags,2025-03-24T14:34:09,2025-04-14T14:34:09,Afgerond
+240,204,9,Ibuprofen,400mg,3x daags,2027-04-30T07:20:18,2027-06-18T07:20:18,Actief
+241,205,9,Diclofenac,50mg,2x daags,2027-04-14T19:39:47,2027-05-26T19:39:47,Actief
+242,206,10,Diclofenac,50mg,2x daags,2025-12-04T16:09:58,2025-12-25T16:09:58,Afgerond
+243,207,7,Amoxicilline,500mg,3x daags,2025-12-31T13:34:47,2026-01-14T13:34:47,Afgerond
+244,207,7,Paracetamol,500mg,4x daags max,2026-01-01T13:34:47,2026-02-12T13:34:47,Afgerond
+245,208,7,Diclofenac,50mg,2x daags,2027-03-26T22:17:11,2027-04-23T22:17:11,Actief
+246,208,7,Paracetamol,500mg,4x daags max,2027-03-28T22:17:11,2027-05-23T22:17:11,Actief
+247,209,4,Ibuprofen,400mg,2x daags,2026-09-30T00:46:59,2026-10-21T00:46:59,Actief
+248,210,9,Ibuprofen,400mg,3x daags,2025-11-29T14:58:50,2026-01-10T14:58:50,Afgerond
+249,211,3,Diclofenac,50mg,2x daags,2026-11-20T07:52:47,2027-01-15T07:52:47,Actief
+250,212,9,Diclofenac,50mg,2x daags,2027-03-18T19:05:48,2027-04-15T19:05:48,Actief
+251,213,1,Ibuprofen,400mg,3x daags,2026-05-03T06:01:02,2026-06-14T06:01:02,Afgerond
+252,214,9,Diclofenac,50mg,2x daags,2026-03-31T09:21:40,2026-05-05T09:21:40,Afgerond
+253,215,1,Ibuprofen,400mg,3x daags,2027-02-25T15:34:35,2027-04-22T15:34:35,Actief
+254,216,5,Ibuprofen,400mg,2x daags,2025-04-18T22:02:25,2025-06-13T22:02:25,Afgerond
+255,217,9,Ibuprofen,400mg,3x daags,2026-12-08T20:37:52,2027-01-12T20:37:52,Actief
+256,218,5,Naproxen,250mg,2x daags,2027-06-08T18:41:14,2027-07-06T18:41:14,Actief
+257,219,10,Paracetamol,500mg,4x daags max,2025-10-01T15:38:16,2025-10-15T15:38:16,Afgerond
+258,220,6,Amoxicilline,500mg,3x daags,2025-11-03T12:48:56,2025-11-17T12:48:56,Afgerond
+259,221,9,Amitriptyline,10mg,1x daags avond,2026-05-01T13:01:15,2026-05-22T13:01:15,Afgerond
+260,221,9,Paracetamol,500mg,3x daags,2026-05-03T13:01:15,2026-05-31T13:01:15,Afgerond
+261,222,3,Diclofenac,50mg,2x daags,2026-09-01T07:33:42,2026-09-22T07:33:42,Actief
+262,223,10,Ibuprofen,400mg,3x daags,2026-09-16T09:54:15,2026-10-21T09:54:15,Actief
+263,224,5,Ibuprofen,400mg,3x daags,2025-10-14T08:18:47,2025-10-28T08:18:47,Afgerond
+264,225,3,Diclofenac,50mg,2x daags,2027-07-08T18:28:58,2027-08-05T18:28:58,Actief
+265,226,10,Naproxen,250mg,2x daags,2025-03-15T15:00:30,2025-04-26T15:00:30,Afgerond
+266,227,1,Diclofenac,50mg,2x daags,2025-03-20T15:06:53,2025-04-10T15:06:53,Afgerond
+267,228,5,Ibuprofen,400mg,3x daags,2025-09-02T05:41:16,2025-10-21T05:41:16,Afgerond
+268,229,9,Paracetamol,500mg,4x daags max,2026-09-22T11:07:11,2026-10-20T11:07:11,Actief
+269,230,4,Ibuprofen,400mg,2x daags,2026-05-24T18:21:03,2026-07-12T18:21:03,Afgerond
+270,231,9,Ibuprofen,400mg,3x daags,2025-01-28T23:34:47,2025-02-11T23:34:47,Afgerond
+271,232,4,Ibuprofen,400mg,3x daags,2025-03-17T09:08:04,2025-05-12T09:08:04,Afgerond
+272,232,4,Paracetamol,500mg,4x daags max,2025-03-18T09:08:04,2025-04-08T09:08:04,Afgerond
+273,233,2,Ibuprofen,400mg,3x daags,2026-07-01T22:01:07,2026-08-12T22:01:07,Afgerond
+274,234,10,Paracetamol,500mg,4x daags max,2026-06-23T07:47:13,2026-08-18T07:47:13,Afgerond
+275,235,8,Ibuprofen,400mg,3x daags,2025-08-23T09:30:30,2025-10-11T09:30:30,Afgerond
+276,236,10,Diclofenac,50mg,2x daags,2026-01-05T13:00:49,2026-01-19T13:00:49,Afgerond
+277,237,10,Amoxicilline,500mg,3x daags,2025-07-02T01:10:52,2025-08-27T01:10:52,Afgerond
+278,238,1,Naproxen,250mg,2x daags,2025-10-27T01:13:52,2025-12-08T01:13:52,Afgerond
+279,239,10,Naproxen,250mg,2x daags,2025-07-25T01:51:47,2025-09-19T01:51:47,Afgerond
+280,240,10,Ibuprofen,400mg,3x daags,2026-09-28T06:35:19,2026-10-19T06:35:19,Actief
+281,241,3,Ibuprofen,400mg,3x daags,2027-04-30T13:40:01,2027-06-11T13:40:01,Actief
+282,242,9,Paracetamol,500mg,3x daags,2026-06-21T22:50:29,2026-07-05T22:50:29,Afgerond
+283,242,9,Diclofenac,50mg,2x daags,2026-06-19T22:50:29,2026-08-14T22:50:29,Afgerond
+284,243,10,Ibuprofen,400mg,3x daags,2026-01-24T13:00:42,2026-03-07T13:00:42,Afgerond
+285,244,4,Paracetamol,500mg,4x daags max,2026-04-06T19:55:19,2026-05-18T19:55:19,Afgerond
+286,245,2,Ibuprofen,400mg,3x daags,2025-08-08T23:43:02,2025-09-19T23:43:02,Afgerond
+287,246,3,Ibuprofen,400mg,3x daags,2025-07-10T10:40:55,2025-07-24T10:40:55,Afgerond
+288,247,7,Paracetamol,500mg,4x daags max,2026-12-06T15:44:22,2027-01-24T15:44:22,Actief
+289,248,4,Paracetamol,500mg,4x daags max,2025-12-11T10:32:01,2026-01-22T10:32:01,Afgerond
+290,249,10,Paracetamol,500mg,4x daags max,2027-04-22T07:56:27,2027-05-27T07:56:27,Actief
+291,250,7,Paracetamol,500mg,4x daags max,2026-12-26T18:51:13,2027-02-20T18:51:13,Actief

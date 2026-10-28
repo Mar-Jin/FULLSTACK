@@ -33,11 +33,27 @@
             >
             Afspraken
             </router-link>
+            <button
+            type="button"
+            @click="uitloggen"
+            class="text-blue-700 underline hover:text-red-600 border-gray-400 rounded-sm px-2 py-1"
+            >
+            Uitloggen
+            </button>
         </nav>
         </div>
     </header>
 </template>
 
 <script setup>
-import { RouterLink } from 'vue-router';
+import { RouterLink, useRouter } from 'vue-router';
+import { useAuthStore } from '@/stores/authStore';
+
+const router = useRouter();
+const authStore = useAuthStore();
+
+function uitloggen() {
+  authStore.logout();
+  router.push({ name: 'login' });
+}
 </script>

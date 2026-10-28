@@ -53,7 +53,7 @@
         <p><b>Datum:</b> {{ nextAppointment.datumTijdAfspraak }}</p>
         <p><b>Duur:</b> {{ nextAppointment.duurMinuten }}</p>
         <p><b>Type:</b> {{ nextAppointment.typeAfspraak }}</p>
-        <p><b>Arts:</b> {{ nextAppointment.revalidatiearts }}</p>
+        <p><b>Arts:</b> {{ nextAppointment.revalidatiearts?.voornaam }} {{ nextAppointment.revalidatiearts?.achternaam }}</p>
         <p><b>Status:</b> {{ nextAppointment.status }}</p>
       </div>
       <div v-else class="italic mt-2">

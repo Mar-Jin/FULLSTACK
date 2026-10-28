@@ -1,39 +1,38 @@
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RevaliNow.Data;
-using RevaliNow.Models;
 using RevaliNow.Dtos;
+using RevaliNow.Services;
 
 namespace RevaliNow.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-public class AuthController : ControllerBase
+public class AuthController(RevaliNowDbContext context, ITokenService tokenService) : ControllerBase
 {
-    private readonly RevaliNowDbContext _context;
-    private readonly PasswordHasher<Gebruiker> _passwordHasher = new();
-
-    public AuthController(RevaliNowDbContext context) => _context = context;
-
     [HttpPost("login")]
-    public async Task<IActionResult> Login([FromBody] LoginRequest request)
+    public async Task<ActionResult<LoginResponse>> Login([FromBody] LoginRequest request)
     {
         // 1. Validatie (Defensief programmeren)
-        if (string.IsNullOrEmpty(request.Username) || string.IsNullOrEmpty(request.Password))
+        if (string.IsNullOrWhiteSpace(request.Username) || string.IsNullOrWhiteSpace(request.Password))
             return BadRequest(new { message = "Vul alle velden in." });
 
-        var user = await _context.Gebruikers
+        var user = await context.Gebruikers
+            .AsNoTracking()
             .FirstOrDefaultAsync(u => u.Gebruikersnaam == request.Username);
 
-        // 2. Wachtwoord controleren tegen de opgeslagen hash
-        if (user == null || _passwordHasher.VerifyHashedPassword(user, user.WachtwoordHash, request.Password) == PasswordVerificationResult.Failed)
+        // 2. Wachtwoord controleren tegen de bcrypt-hash.
+        // Bij een onbekende gebruiker en een fout wachtwoord dezelfde melding, zodat je niet kunt raden welke accounts bestaan.
+        if (user == null || !BCrypt.Net.BCrypt.Verify(request.Password, user.WachtwoordHash))
             return Unauthorized(new { message = "Ongeldige inloggegevens." });
 
-        return Ok(new {
-            user.Id,
-            user.Voornaam,
-            user.Rol
+        return Ok(new LoginResponse
+        {
+            Token = tokenService.MaakToken(user),
+            Id = user.Id,
+            Voornaam = user.Voornaam,
+            Rol = user.Rol,
+            PatientId = user.PatientId
         });
     }
 }

@@ -14,10 +14,16 @@ Je hebt alleen [Docker Desktop](https://www.docker.com/products/docker-desktop/)
    ```
 3. Ga naar <http://localhost>.
 
-De eerste keer duurt het even, want de database wordt dan aangemaakt en gevuld met testdata.
+De eerste keer duurt het even, want de database wordt dan aangemaakt en gevuld met de dataset van de opdracht.
 
 Stoppen doe je met `Ctrl+C`.
 
 ## Inloggen
 
-Log in met bijvoorbeeld `ra_smit`. Het wachtwoord is `password123`, en dat is voor alle testaccounts hetzelfde.
+Elke patiënt logt in met zijn e-mailadres. Het wachtwoord is `Welkom123!`, en dat is voor alle patiënten hetzelfde.
+
+Een goede patiënt om mee te beginnen is `nout.b@example.com`, die heeft lopende oefeningen en geplande afspraken.
+
+## Lokaal zonder Docker
+
+Kopieer `Server/appsettings.Development.example.json` naar `Server/appsettings.Development.json` en vul je eigen JWT-sleutel in. Daarna draai je `dotnet run` in `Server/` en `npm run dev` in `Client/`.

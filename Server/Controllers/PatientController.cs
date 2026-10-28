@@ -1,23 +1,28 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using RevaliNow.Authorization;
 using RevaliNow.Data;
-using RevaliNow.Models;
 using RevaliNow.Dtos;
+using RevaliNow.Models;
 
 namespace RevaliNow.Controllers
 {
-    [Route("[controller]")]
+    [Route("patienten/{patientId:int}")]
     [ApiController]
-    public class PatientController(RevaliNowDbContext context) : Controller
+    [Authorize(Roles = Rollen.Patient)]
+    [AlleenEigenPatient]
+    public class PatientController(RevaliNowDbContext context) : ControllerBase
     {
         private readonly RevaliNowDbContext _context = context;
 
-        [HttpGet("{id}")]
-        public ActionResult<Patient> Get(int id)
+        [HttpGet]
+        public ActionResult<Patient> Get(int patientId)
         {
             var patient = _context.Patienten
+                .AsNoTracking()
                 .Include(p => p.Huisarts)
-                .FirstOrDefault(p => p.Id == id);
+                .FirstOrDefault(p => p.Id == patientId);
 
             if (patient == null)
             {
@@ -27,10 +32,10 @@ namespace RevaliNow.Controllers
             return Ok(patient);
         }
 
-        [HttpGet("{id}/dashboard")]
-        public ActionResult<DashboardResponseDto> GetDashboard(int id)
+        [HttpGet("dashboard")]
+        public ActionResult<DashboardResponseDto> GetDashboard(int patientId)
         {
-            var user = _context.Patienten.FirstOrDefault(p => p.Id == id);
+            var user = _context.Patienten.AsNoTracking().FirstOrDefault(p => p.Id == patientId);
 
             if (user == null)
             {
@@ -38,7 +43,8 @@ namespace RevaliNow.Controllers
             }
 
             var painData = _context.PijnIndicaties
-                .Where(p => p.PatientId == id)
+                .AsNoTracking()
+                .Where(p => p.PatientId == patientId)
                 .OrderByDescending(p => p.DatumTijdRegistratie)
                 .ToList();
 
@@ -47,19 +53,23 @@ namespace RevaliNow.Controllers
                 .ToList();
 
             var upcomingExercises = _context.Oefenplannen
+                .AsNoTracking()
                 .Include(op => op.Oefening)
-                .Where(op => op.PatientId == id && op.EindDatum >= DateTime.Now && op.StartDatum <= DateTime.Now)
+                .Where(op => op.PatientId == patientId && op.EindDatum >= DateTime.Now && op.StartDatum <= DateTime.Now)
                 .OrderBy(op => op.FrequentiePerDag)
                 .ToList();
-            
+
             var nextAppointment = _context.Afspraken
-                .Where(a => a.PatientId == id && a.DatumTijdAfspraak >= DateTime.Now)
+                .AsNoTracking()
+                .Include(a => a.Revalidatiearts)
+                .Where(a => a.PatientId == patientId && a.DatumTijdAfspraak >= DateTime.Now)
                 .OrderBy(a => a.DatumTijdAfspraak)
                 .FirstOrDefault();
 
             var exercises = _context.Oefenplannen
+                .AsNoTracking()
                 .Include(op => op.Oefening)
-                .Where(op => op.PatientId == id)
+                .Where(op => op.PatientId == patientId)
                 .ToList();
 
             var response = new DashboardResponseDto

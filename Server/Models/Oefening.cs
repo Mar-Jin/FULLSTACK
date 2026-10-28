@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 
 namespace RevaliNow.Models
 {
@@ -7,14 +7,13 @@ namespace RevaliNow.Models
         [Key]
         public int Id { get; set; }
 
-        [Required]
-        [MaxLength(100), MinLength(3)]
-        public string Naam { get; set; }
+        [Required, MaxLength(100)]
+        public string Naam { get; set; } = string.Empty;
 
-        [Required]
-        public string Beschrijving { get; set; }
+        [Required, MaxLength(500)]
+        public string Beschrijving { get; set; } = string.Empty;
 
-        [Required]
-        public string InstructieVideoUrl { get; set; }
+        [MaxLength(500), Url]
+        public string? InstructieVideoUrl { get; set; }
     }
 }

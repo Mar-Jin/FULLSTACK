@@ -1,33 +1,38 @@
-﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.Diagnostics.CodeAnalysis;
+using System.Text.Json.Serialization;
 
 namespace RevaliNow.Models
 {
+    // Inlogaccount. Medewerkers komen uit de dataset, patiëntaccounts worden door de seeder toegevoegd (Rol = Patient).
     public class Gebruiker
     {
         [Key]
         public int Id { get; set; }
 
-        [Required]
-        public string Gebruikersnaam { get; set; }
+        [Required, MaxLength(100)]
+        public string Gebruikersnaam { get; set; } = string.Empty;
 
-        [Required]
-        public string WachtwoordHash { get; set; }
+        // Nooit meesturen in een API-response
+        [Required, MaxLength(100), JsonIgnore]
+        public string WachtwoordHash { get; set; } = string.Empty;
 
-        [Required]
-        public string Rol { get; set; }
+        [Required, MaxLength(20)]
+        public string Rol { get; set; } = string.Empty;
 
-        [Required]
-        public string Voornaam { get; set; }
+        [Required, MaxLength(50)]
+        public string Voornaam { get; set; } = string.Empty;
 
-        [Required]
-        public string Achternaam { get; set; }
+        [Required, MaxLength(50)]
+        public string Achternaam { get; set; } = string.Empty;
 
-        [AllowNull]
+        // Alleen gevuld bij medewerkers van een zorgverzekeraar
         public int? OrganisatieId { get; set; }
 
-        [AllowNull]
         public Zorgverzekeraar? Organisatie { get; set; }
+
+        // Alleen gevuld bij patiëntaccounts
+        public int? PatientId { get; set; }
+
+        public Patient? Patient { get; set; }
     }
 }

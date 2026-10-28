@@ -6,7 +6,7 @@
       <form @submit.prevent="handleLogin">
         <div class="mb-4">
           <label class="block text-sm font-bold mb-2">Gebruikersnaam</label>
-          <input v-model="username" type="username" class="w-full p-2 border border-gray-400" required>
+          <input v-model="username" type="text" autocomplete="username" class="w-full p-2 border border-gray-400" required>
         </div>
 
         <div class="mb-6">

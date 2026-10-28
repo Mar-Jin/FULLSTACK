@@ -1,0 +1,981 @@
+NotitieID,PatientID,AuteurGebruikerID,DatumTijdNotitie,Inhoud
+1,1,10,2025-08-13T17:04:15,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+2,1,10,2025-07-13T07:07:01,Patiënt meldt geen nachtelijke pijn meer ter hoogte van de operatiewond.
+3,1,17,2025-07-06T17:36:12,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+4,1,10,2025-03-15T07:13:18,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+5,2,7,2026-04-29T05:22:34,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+6,2,7,2026-04-04T20:51:39,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+7,2,19,2026-01-26T15:50:55,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+8,2,19,2026-01-08T15:37:55,Nog beperkte belastbaarheid van de onderrug; opbouw verloopt volgens schema.
+9,3,6,2026-09-02T23:33:28,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+10,3,6,2026-09-02T20:48:14,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+11,3,20,2026-09-02T19:35:20,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+12,4,15,2026-06-27T09:49:43,Patiënt meldt toename loopafstand zonder toename van kniepijn; mobiliteit merkbaar verbeterd.
+13,4,5,2026-03-28T11:24:53,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+14,4,15,2026-07-09T10:08:58,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+15,4,15,2026-05-15T21:35:37,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+16,4,5,2026-08-31T10:20:57,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+17,5,9,2026-01-06T13:50:34,Patiënt meldt toename loopafstand zonder toename van schouderpijn; mobiliteit merkbaar verbeterd.
+18,5,9,2025-11-01T07:37:08,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+19,5,9,2025-10-16T19:07:03,Patiënt geeft aan medicatie niet altijd op vaste tijden in te nemen; belang van therapietrouw benadrukt.
+20,6,9,2026-08-28T12:51:20,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+21,6,14,2026-09-01T15:48:42,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+22,6,9,2026-08-30T17:38:38,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+23,6,9,2026-08-29T10:31:18,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+24,6,9,2026-09-01T15:27:11,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+25,7,16,2025-06-30T13:56:46,Advies gegeven over aangepaste werkzaamheden gedurende de opbouwperiode.
+26,7,7,2025-10-17T16:46:09,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+27,7,16,2025-10-20T20:39:49,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+28,8,7,2027-01-15T12:27:21,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+29,8,19,2027-01-15T12:27:21,Mobiliteit van de knie verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+30,9,2,2025-11-08T03:54:15,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+31,9,13,2025-08-27T15:11:42,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+32,10,16,2026-08-22T17:55:24,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+33,10,16,2026-07-23T20:49:29,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+34,10,16,2026-08-19T11:15:37,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+35,10,16,2026-05-07T00:48:19,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+36,10,16,2026-08-25T20:44:17,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+37,10,16,2026-04-12T23:40:53,Mobiliteit van de knie verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+38,11,5,2025-12-06T09:46:43,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+39,11,19,2025-12-26T02:18:52,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+40,11,5,2026-01-31T06:21:04,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+41,11,5,2025-10-17T11:02:15,Patiënt rapporteert minder stijfheid in de ochtend.
+42,12,10,2027-05-09T19:49:17,Range of motion van de schouder is verder toegenomen sinds de vorige controle.
+43,12,10,2027-05-09T19:49:17,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+44,12,19,2027-05-09T19:49:17,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+45,12,10,2027-05-09T19:49:17,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+46,13,9,2027-05-31T22:43:37,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+47,13,12,2027-05-31T22:43:37,Patiënt rapporteert minder stijfheid in de ochtend.
+48,13,9,2027-05-31T22:43:37,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+49,13,9,2027-05-31T22:43:37,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+50,13,9,2027-05-31T22:43:37,Bijwerkingen van de huidige medicatie besproken; geen aanpassing nodig.
+51,13,9,2027-05-31T22:43:37,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+52,14,3,2027-01-20T00:32:46,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+53,14,18,2027-01-20T00:32:46,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+54,14,18,2027-01-20T00:32:46,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+55,14,18,2027-01-20T00:32:46,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+56,14,3,2027-01-20T00:32:46,Medicatie-inname geëvalueerd; geen bijwerkingen gerapporteerd.
+57,14,3,2027-01-20T00:32:46,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+58,15,13,2027-05-02T04:47:32,Hechtingen zijn verwijderd; wondranden goed gesloten.
+59,15,5,2027-05-02T04:47:32,"Nog lichte drukpijn rond het litteken, geen alarmsymptomen."
+60,15,5,2027-05-02T04:47:32,Patiënt meldt toename loopafstand zonder toename van kniepijn; mobiliteit merkbaar verbeterd.
+61,15,5,2027-05-02T04:47:32,Kracht in de knie neemt toe; volgende fase van het oefenschema kan worden gestart.
+62,15,5,2027-05-02T04:47:32,Patiënt meldt geen nachtelijke pijn meer ter hoogte van de operatiewond.
+63,16,3,2025-10-21T18:56:36,Patiënt meldt toename loopafstand zonder toename van hamstringpijn; mobiliteit merkbaar verbeterd.
+64,16,3,2026-01-31T22:03:02,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+65,17,17,2025-09-01T02:29:34,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+66,17,7,2025-10-07T22:56:12,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+67,18,16,2027-05-23T11:28:43,Patiënt meldt toename loopafstand zonder toename van enkelpijn; mobiliteit merkbaar verbeterd.
+68,18,16,2027-05-23T11:28:43,Advies gegeven over aangepaste werkzaamheden gedurende de opbouwperiode.
+69,18,10,2027-05-23T11:28:43,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+70,19,9,2027-06-17T17:06:14,Kracht in de enkel neemt toe; volgende fase van het oefenschema kan worden gestart.
+71,19,9,2027-06-17T17:06:14,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+72,19,9,2027-06-17T17:06:14,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+73,19,19,2027-06-17T17:06:14,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+74,19,9,2027-06-17T17:06:14,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+75,20,7,2025-06-14T02:59:28,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+76,20,17,2025-09-04T00:41:32,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+77,21,16,2027-05-10T16:32:07,Nog beperkte belastbaarheid van de knie; opbouw verloopt volgens schema.
+78,21,10,2027-05-10T16:32:07,Medicatie-inname geëvalueerd; geen bijwerkingen gerapporteerd.
+79,22,4,2027-06-28T09:15:32,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+80,22,17,2027-06-28T09:15:32,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+81,22,17,2027-06-28T09:15:32,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+82,23,5,2026-06-17T11:36:35,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+83,23,20,2026-04-08T01:19:08,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+84,24,3,2026-10-06T02:23:47,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+85,24,3,2026-10-06T02:23:47,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+86,24,20,2026-10-06T02:23:47,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+87,24,3,2026-10-06T02:23:47,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+88,24,3,2026-10-06T02:23:47,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+89,24,3,2026-10-06T02:23:47,Nog beperkte belastbaarheid van de onderrug; opbouw verloopt volgens schema.
+90,25,7,2026-03-10T19:17:15,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+91,25,7,2026-02-02T08:42:36,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+92,26,12,2027-05-14T08:08:12,Nog beperkte belastbaarheid van de nek; opbouw verloopt volgens schema.
+93,26,12,2027-05-14T08:08:12,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+94,26,1,2027-05-14T08:08:12,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+95,27,3,2026-06-13T14:02:50,"Nog lichte drukpijn rond het litteken, geen alarmsymptomen."
+96,27,11,2026-07-26T18:56:04,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+97,27,11,2026-07-02T04:19:10,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+98,27,3,2026-07-17T10:06:05,"Lichte zwelling rond het operatiegebied, past bij normaal postoperatief beloop."
+99,28,19,2027-01-31T13:56:54,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+100,28,19,2027-01-31T13:56:54,Range of motion van de knie is verder toegenomen sinds de vorige controle.
+101,28,19,2027-01-31T13:56:54,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+102,29,3,2025-05-29T16:45:40,Medicatie-inname geëvalueerd; geen bijwerkingen gerapporteerd.
+103,29,3,2025-11-12T09:50:41,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+104,29,3,2025-10-18T14:55:20,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+105,29,19,2025-05-09T05:59:11,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+106,30,1,2026-06-26T13:33:43,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+107,30,11,2026-08-16T11:15:11,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+108,30,1,2026-06-18T06:24:19,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+109,30,11,2026-08-30T21:03:22,Re-integratietraject afgestemd met bedrijfsarts.
+110,30,11,2026-05-24T10:45:48,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+111,30,1,2026-04-21T14:16:22,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+112,31,5,2026-12-26T10:45:09,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+113,31,18,2026-12-26T10:45:09,Re-integratietraject afgestemd met bedrijfsarts.
+114,31,18,2026-12-26T10:45:09,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+115,31,5,2026-12-26T10:45:09,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+116,31,5,2026-12-26T10:45:09,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+117,32,20,2027-05-02T04:08:16,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+118,32,5,2027-05-02T04:08:16,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+119,32,20,2027-05-02T04:08:16,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+120,33,12,2027-08-01T03:20:49,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+121,33,12,2027-08-01T03:20:49,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+122,34,20,2026-04-13T08:29:33,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+123,34,20,2025-11-22T09:13:56,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+124,35,9,2026-06-23T09:28:06,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+125,35,16,2026-02-23T09:36:55,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+126,35,9,2026-06-28T15:38:32,Patiënt meldt toename loopafstand zonder toename van spierpijn; mobiliteit merkbaar verbeterd.
+127,36,20,2025-03-25T03:11:41,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+128,36,20,2025-08-19T15:46:18,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+129,36,3,2025-09-08T09:11:26,Bijwerkingen van de huidige medicatie besproken; geen aanpassing nodig.
+130,36,3,2025-08-19T14:38:03,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+131,36,3,2025-08-20T13:14:24,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+132,36,3,2025-03-22T05:41:30,Bijwerkingen van de huidige medicatie besproken; geen aanpassing nodig.
+133,37,20,2026-10-14T15:29:11,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+134,37,6,2026-10-14T15:29:11,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+135,38,5,2027-03-19T11:53:04,Patiënt geeft aan medicatie niet altijd op vaste tijden in te nemen; belang van therapietrouw benadrukt.
+136,38,5,2027-03-19T11:53:04,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+137,38,5,2027-03-19T11:53:04,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+138,38,5,2027-03-19T11:53:04,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+139,38,5,2027-03-19T11:53:04,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+140,38,5,2027-03-19T11:53:04,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+141,39,15,2027-05-10T06:25:10,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+142,39,15,2027-05-10T06:25:10,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+143,40,14,2027-06-06T06:22:57,Patiënt meldt toename loopafstand zonder toename van hamstringpijn; mobiliteit merkbaar verbeterd.
+144,40,3,2027-06-06T06:22:57,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+145,41,16,2027-06-26T08:55:24,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+146,41,10,2027-06-26T08:55:24,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+147,42,2,2025-09-04T06:53:51,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+148,42,2,2025-10-24T11:08:11,Mobiliteit van de spieren verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+149,42,2,2025-11-20T04:33:31,Nog beperkte belastbaarheid van de spieren; opbouw verloopt volgens schema.
+150,42,16,2025-09-23T13:45:18,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+151,42,16,2025-12-03T11:35:45,Range of motion van de spieren is verder toegenomen sinds de vorige controle.
+152,43,13,2027-01-01T02:58:14,Range of motion van de nek is verder toegenomen sinds de vorige controle.
+153,43,4,2027-01-01T02:58:14,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+154,44,15,2026-08-26T07:01:17,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+155,44,8,2026-08-21T08:30:33,Mobiliteit van de enkel verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+156,45,20,2026-10-18T04:09:36,Kracht in de knie neemt toe; volgende fase van het oefenschema kan worden gestart.
+157,45,1,2026-10-18T04:09:36,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+158,45,1,2026-10-18T04:09:36,"Litteken oogt rustig, geen roodheid of zwelling waargenomen."
+159,45,20,2026-10-18T04:09:36,Nog beperkte belastbaarheid van de knie; opbouw verloopt volgens schema.
+160,45,1,2026-10-18T04:09:36,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+161,45,1,2026-10-18T04:09:36,"Lichte zwelling rond het operatiegebied, past bij normaal postoperatief beloop."
+162,46,5,2025-06-13T02:48:37,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+163,46,5,2025-06-18T18:49:03,Kracht in de heup neemt toe; volgende fase van het oefenschema kan worden gestart.
+164,47,18,2025-09-18T17:41:26,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+165,47,18,2025-09-21T01:33:57,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+166,47,5,2025-07-06T22:32:51,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+167,47,5,2026-01-03T19:08:13,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+168,47,18,2025-08-29T03:42:31,Nog beperkte belastbaarheid van de schouder; opbouw verloopt volgens schema.
+169,47,5,2025-07-26T03:06:41,Medicatie-inname geëvalueerd; geen bijwerkingen gerapporteerd.
+170,48,5,2025-08-21T01:06:14,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+171,48,16,2025-09-05T16:36:30,Advies gegeven over aangepaste werkzaamheden gedurende de opbouwperiode.
+172,48,16,2025-05-07T12:35:13,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+173,48,16,2025-07-31T18:42:17,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+174,49,4,2025-11-13T23:00:39,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+175,49,14,2025-12-04T22:06:47,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+176,50,14,2027-04-16T04:34:53,Patiënt meldt toename loopafstand zonder toename van rugpijn; mobiliteit merkbaar verbeterd.
+177,50,14,2027-04-16T04:34:53,Nog beperkte belastbaarheid van de onderrug; opbouw verloopt volgens schema.
+178,50,2,2027-04-16T04:34:53,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+179,50,2,2027-04-16T04:34:53,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+180,50,14,2027-04-16T04:34:53,Patiënt meldt toename loopafstand zonder toename van rugpijn; mobiliteit merkbaar verbeterd.
+181,50,14,2027-04-16T04:34:53,Re-integratietraject afgestemd met bedrijfsarts.
+182,51,13,2026-09-02T16:59:15,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+183,51,8,2026-08-29T20:01:06,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+184,51,8,2026-08-29T16:28:50,Range of motion van de hamstring is verder toegenomen sinds de vorige controle.
+185,51,13,2026-08-30T22:17:04,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+186,51,13,2026-09-02T20:55:02,"Volledige werkhervatting gepland over enkele weken, mits belastbaarheid dit toelaat."
+187,52,1,2026-02-10T10:49:21,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+188,52,1,2025-12-14T14:36:17,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+189,52,13,2026-01-28T04:40:35,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+190,52,13,2026-01-16T10:51:06,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+191,52,13,2026-04-26T19:16:33,"Volledige werkhervatting gepland over enkele weken, mits belastbaarheid dit toelaat."
+192,52,13,2025-11-27T14:05:59,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+193,53,2,2027-07-14T08:01:22,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+194,53,2,2027-07-14T08:01:22,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+195,53,20,2027-07-14T08:01:22,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+196,53,2,2027-07-14T08:01:22,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+197,54,15,2025-12-05T20:38:34,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+198,54,7,2025-09-19T03:52:54,Patiënt meldt toename loopafstand zonder toename van kniepijn; mobiliteit merkbaar verbeterd.
+199,54,7,2025-11-02T05:09:28,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+200,54,15,2025-07-30T19:35:11,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+201,54,7,2025-12-21T16:12:28,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+202,55,5,2027-03-08T08:13:11,Nog beperkte belastbaarheid van de pols; opbouw verloopt volgens schema.
+203,55,5,2027-03-08T08:13:11,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+204,55,14,2027-03-08T08:13:11,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+205,56,17,2026-08-10T06:29:16,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+206,56,3,2026-05-24T01:05:02,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+207,56,17,2026-08-09T07:16:50,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+208,57,2,2025-03-23T03:26:32,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+209,57,2,2025-02-04T14:17:42,Bijwerkingen van de huidige medicatie besproken; geen aanpassing nodig.
+210,57,19,2025-06-07T04:28:05,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+211,58,20,2025-07-30T00:41:32,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+212,58,20,2025-11-11T13:35:09,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+213,58,8,2025-10-28T04:45:10,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+214,59,11,2026-07-31T00:00:27,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+215,59,6,2026-07-09T09:10:07,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+216,59,6,2026-06-29T23:24:47,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+217,59,11,2026-07-25T17:32:03,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+218,59,11,2026-07-31T21:52:41,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+219,60,20,2026-10-09T23:50:22,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+220,60,20,2026-10-09T23:50:22,Range of motion van de knie is verder toegenomen sinds de vorige controle.
+221,60,1,2026-10-09T23:50:22,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+222,61,12,2026-09-11T15:09:39,Patiënt meldt toename loopafstand zonder toename van nekpijn; mobiliteit merkbaar verbeterd.
+223,61,12,2026-09-11T15:09:39,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+224,61,12,2026-09-11T15:09:39,Mobiliteit van de nek verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+225,62,3,2026-03-30T01:44:52,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+226,62,12,2026-02-07T04:16:02,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+227,62,3,2026-05-28T20:50:48,Patiënt meldt toename loopafstand zonder toename van enkelpijn; mobiliteit merkbaar verbeterd.
+228,62,3,2026-03-28T23:17:19,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+229,63,2,2026-03-24T01:13:45,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+230,63,13,2026-02-19T00:56:10,Range of motion van de spieren is verder toegenomen sinds de vorige controle.
+231,63,2,2025-11-02T11:11:24,Mobiliteit van de spieren verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+232,63,2,2026-04-04T02:54:01,Patiënt meldt toename loopafstand zonder toename van spierpijn; mobiliteit merkbaar verbeterd.
+233,63,13,2025-12-21T01:04:51,Patiënt rapporteert minder stijfheid in de ochtend.
+234,63,2,2026-02-13T12:20:20,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+235,64,1,2027-05-04T13:22:26,Nog beperkte belastbaarheid van de enkel; opbouw verloopt volgens schema.
+236,64,12,2027-05-04T13:22:26,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+237,64,12,2027-05-04T13:22:26,"Volledige werkhervatting gepland over enkele weken, mits belastbaarheid dit toelaat."
+238,64,1,2027-05-04T13:22:26,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+239,64,1,2027-05-04T13:22:26,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+240,65,6,2025-11-19T15:04:15,Range of motion van de spieren is verder toegenomen sinds de vorige controle.
+241,65,6,2025-12-17T02:41:38,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+242,65,16,2025-12-26T21:03:09,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+243,66,17,2027-03-15T14:24:32,Advies gegeven over aangepaste werkzaamheden gedurende de opbouwperiode.
+244,66,17,2027-03-15T14:24:32,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+245,66,2,2027-03-15T14:24:32,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+246,66,17,2027-03-15T14:24:32,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+247,66,17,2027-03-15T14:24:32,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+248,67,14,2026-09-02T05:27:28,Kracht in de spieren neemt toe; volgende fase van het oefenschema kan worden gestart.
+249,67,14,2026-08-31T00:10:25,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+250,68,5,2026-06-21T13:22:54,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+251,68,11,2026-05-28T13:07:38,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+252,68,11,2026-06-10T06:07:43,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+253,68,5,2026-04-17T19:14:08,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+254,69,4,2026-11-02T22:44:55,Kracht in de enkel neemt toe; volgende fase van het oefenschema kan worden gestart.
+255,69,4,2026-11-02T22:44:55,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+256,69,15,2026-11-02T22:44:55,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+257,69,15,2026-11-02T22:44:55,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+258,70,11,2026-12-18T21:12:08,"Volledige werkhervatting gepland over enkele weken, mits belastbaarheid dit toelaat."
+259,70,7,2026-12-18T21:12:08,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+260,71,2,2025-10-11T12:49:10,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+261,71,13,2026-02-03T17:21:45,"Lichte zwelling rond het operatiegebied, past bij normaal postoperatief beloop."
+262,71,2,2025-11-05T00:40:47,Hechtingen zijn verwijderd; wondranden goed gesloten.
+263,71,2,2025-10-28T12:54:24,Medicatie-inname geëvalueerd; geen bijwerkingen gerapporteerd.
+264,71,2,2025-09-21T21:25:26,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+265,71,2,2025-10-28T20:57:59,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+266,72,18,2026-06-25T08:04:27,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+267,72,8,2026-07-04T07:01:08,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+268,72,8,2026-08-01T05:13:51,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+269,72,8,2026-07-23T12:16:15,Medicatie-inname geëvalueerd; geen bijwerkingen gerapporteerd.
+270,72,18,2026-05-21T20:57:54,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+271,72,8,2026-08-30T04:39:57,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+272,73,20,2026-07-26T20:58:02,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+273,73,20,2026-08-24T18:29:22,"Volledige werkhervatting gepland over enkele weken, mits belastbaarheid dit toelaat."
+274,73,7,2026-07-24T06:58:17,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+275,73,7,2026-07-17T14:03:51,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+276,73,7,2026-08-18T07:57:40,Nog beperkte belastbaarheid van de schouder; opbouw verloopt volgens schema.
+277,73,20,2026-08-18T20:36:53,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+278,74,1,2025-01-29T17:38:25,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+279,74,1,2025-06-22T16:40:36,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+280,74,18,2025-03-04T12:23:23,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+281,75,6,2026-03-06T11:15:23,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+282,75,14,2026-03-06T10:06:46,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+283,76,19,2026-08-25T07:02:48,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+284,76,8,2026-08-24T03:11:09,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+285,76,19,2026-07-25T08:29:07,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+286,77,20,2026-03-20T12:00:37,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+287,77,20,2026-01-03T08:51:05,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+288,78,2,2025-08-27T12:36:36,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+289,78,16,2025-09-07T05:27:40,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+290,78,16,2025-10-27T18:03:10,Patiënt meldt toename loopafstand zonder toename van hamstringpijn; mobiliteit merkbaar verbeterd.
+291,79,20,2027-01-15T10:12:04,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+292,79,20,2027-01-15T10:12:04,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+293,80,5,2026-11-28T09:22:04,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+294,80,19,2026-11-28T09:22:04,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+295,80,19,2026-11-28T09:22:04,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+296,80,19,2026-11-28T09:22:04,Range of motion van de nek is verder toegenomen sinds de vorige controle.
+297,81,11,2026-05-17T05:46:00,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+298,81,8,2026-08-17T09:56:48,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+299,82,1,2027-02-05T22:06:21,Medicatie-inname geëvalueerd; geen bijwerkingen gerapporteerd.
+300,82,1,2027-02-05T22:06:21,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+301,82,1,2027-02-05T22:06:21,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+302,83,4,2026-09-17T08:01:19,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+303,83,4,2026-09-17T08:01:19,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+304,83,17,2026-09-17T08:01:19,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+305,83,17,2026-09-17T08:01:19,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+306,84,11,2026-07-22T07:30:06,Patiënt meldt toename loopafstand zonder toename van kniepijn; mobiliteit merkbaar verbeterd.
+307,84,11,2026-08-30T06:15:09,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+308,84,2,2026-07-28T15:29:13,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+309,84,2,2026-08-06T19:29:13,Patiënt meldt toename loopafstand zonder toename van kniepijn; mobiliteit merkbaar verbeterd.
+310,84,11,2026-07-31T17:55:20,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+311,85,3,2025-07-02T05:53:24,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+312,85,15,2025-03-12T04:34:05,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+313,85,3,2025-04-25T12:00:47,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+314,85,3,2025-06-15T09:30:32,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+315,86,11,2026-08-04T11:54:28,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+316,86,6,2026-07-24T06:10:44,Bijwerkingen van de huidige medicatie besproken; geen aanpassing nodig.
+317,86,6,2026-08-22T11:12:28,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+318,86,6,2026-08-01T12:00:42,Hechtingen zijn verwijderd; wondranden goed gesloten.
+319,86,11,2026-05-02T20:39:23,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+320,87,6,2027-07-05T03:06:33,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+321,87,17,2027-07-05T03:06:33,Patiënt meldt toename loopafstand zonder toename van polspijn; mobiliteit merkbaar verbeterd.
+322,87,6,2027-07-05T03:06:33,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+323,87,17,2027-07-05T03:06:33,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+324,88,16,2027-03-24T21:23:01,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+325,88,16,2027-03-24T21:23:01,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+326,88,5,2027-03-24T21:23:01,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+327,89,15,2025-07-24T07:27:07,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+328,89,8,2025-06-23T19:36:12,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+329,90,6,2027-05-27T21:52:28,Patiënt meldt toename loopafstand zonder toename van nekpijn; mobiliteit merkbaar verbeterd.
+330,90,13,2027-05-27T21:52:28,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+331,90,6,2027-05-27T21:52:28,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+332,91,13,2026-04-04T02:24:19,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+333,91,13,2026-01-29T17:30:36,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+334,91,13,2026-02-03T18:02:17,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+335,91,13,2026-04-22T00:14:01,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+336,92,4,2025-08-10T06:09:12,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+337,92,16,2025-09-10T08:47:41,"Volledige werkhervatting gepland over enkele weken, mits belastbaarheid dit toelaat."
+338,92,16,2025-09-14T05:14:16,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+339,93,6,2025-03-08T03:41:38,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+340,93,6,2025-02-26T18:56:27,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+341,93,13,2025-05-03T02:26:16,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+342,93,6,2025-06-04T19:45:36,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+343,93,6,2025-01-27T20:23:57,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+344,94,14,2025-10-25T04:50:41,Range of motion van de knie is verder toegenomen sinds de vorige controle.
+345,94,14,2026-01-11T01:32:44,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+346,94,10,2025-12-17T07:18:15,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+347,94,10,2025-09-28T10:24:33,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+348,94,14,2025-10-23T04:01:54,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+349,95,20,2026-02-11T23:28:00,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+350,95,20,2025-09-17T12:58:32,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+351,95,20,2026-03-05T09:48:01,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+352,95,20,2026-01-15T20:30:26,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+353,95,8,2026-01-04T18:06:06,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+354,95,8,2025-08-31T20:54:31,Patiënt rapporteert minder stijfheid in de ochtend.
+355,96,9,2026-07-23T08:37:54,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+356,96,17,2026-09-02T09:10:38,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+357,96,17,2026-08-03T12:56:03,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+358,97,12,2027-03-06T03:24:50,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+359,97,2,2027-03-06T03:24:50,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+360,97,2,2027-03-06T03:24:50,Range of motion van de knie is verder toegenomen sinds de vorige controle.
+361,97,2,2027-03-06T03:24:50,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+362,98,10,2027-06-06T06:25:38,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+363,98,10,2027-06-06T06:25:38,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+364,98,10,2027-06-06T06:25:38,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+365,98,10,2027-06-06T06:25:38,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+366,98,10,2027-06-06T06:25:38,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+367,98,16,2027-06-06T06:25:38,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+368,99,10,2026-08-09T01:39:58,"Postoperatieve controle: wond genezen, mobilisatie kan verder worden opgebouwd."
+369,99,10,2026-07-02T05:39:58,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+370,99,13,2026-07-21T19:25:31,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+371,99,13,2026-06-17T18:19:11,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+372,100,14,2027-03-01T21:49:30,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+373,100,14,2027-03-01T21:49:30,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+374,101,14,2026-08-09T03:25:31,Kracht in de onderrug neemt toe; volgende fase van het oefenschema kan worden gestart.
+375,101,14,2026-08-04T08:49:53,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+376,101,4,2026-04-13T07:48:35,Kracht in de onderrug neemt toe; volgende fase van het oefenschema kan worden gestart.
+377,101,14,2026-08-03T05:06:07,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+378,101,4,2026-07-29T17:55:36,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+379,101,4,2026-07-27T18:53:57,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+380,102,3,2025-07-21T03:26:04,Bijwerkingen van de huidige medicatie besproken; geen aanpassing nodig.
+381,102,3,2025-06-07T23:40:04,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+382,102,3,2025-08-06T04:43:45,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+383,102,3,2025-07-21T11:06:07,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+384,102,3,2025-05-29T05:52:38,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+385,103,20,2025-02-26T09:12:27,Re-integratietraject afgestemd met bedrijfsarts.
+386,103,2,2025-06-26T23:02:48,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+387,103,20,2025-03-21T05:25:35,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+388,104,15,2026-04-12T18:37:50,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+389,104,8,2025-11-13T14:24:23,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+390,104,15,2026-04-10T08:22:38,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+391,105,18,2026-02-19T21:21:51,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+392,105,18,2025-12-14T12:07:27,Patiënt meldt toename loopafstand zonder toename van hamstringpijn; mobiliteit merkbaar verbeterd.
+393,106,5,2026-02-27T02:39:52,Nog beperkte belastbaarheid van de knie; opbouw verloopt volgens schema.
+394,106,18,2025-09-26T18:36:26,Re-integratietraject afgestemd met bedrijfsarts.
+395,106,5,2026-01-03T17:47:01,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+396,106,5,2025-11-12T09:53:14,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+397,106,18,2026-02-26T03:47:24,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+398,106,5,2025-11-28T04:26:02,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+399,107,18,2025-03-09T18:34:54,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+400,107,6,2025-03-29T05:56:04,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+401,107,6,2025-03-15T11:56:19,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+402,107,6,2025-04-22T15:27:48,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+403,107,6,2025-06-18T14:12:31,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+404,108,1,2026-01-31T17:41:06,Bijwerkingen van de huidige medicatie besproken; geen aanpassing nodig.
+405,108,1,2026-07-16T13:06:33,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+406,108,1,2026-05-02T13:38:17,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+407,108,18,2026-04-20T06:37:25,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+408,108,1,2026-02-08T07:56:02,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+409,109,13,2026-08-25T01:07:15,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+410,109,10,2026-07-17T00:47:03,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+411,109,13,2026-08-05T04:08:22,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+412,109,13,2026-07-26T15:38:44,"Volledige werkhervatting gepland over enkele weken, mits belastbaarheid dit toelaat."
+413,110,3,2026-08-20T04:56:11,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+414,110,16,2026-04-14T09:30:58,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+415,111,5,2025-10-14T17:01:32,Wondgenezing verloopt voorspoedig; geen tekenen van infectie.
+416,111,17,2025-09-15T01:42:22,Nog beperkte belastbaarheid van de knie; opbouw verloopt volgens schema.
+417,111,5,2025-09-28T12:07:34,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+418,111,17,2025-10-03T04:35:49,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+419,111,17,2025-09-25T22:41:13,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+420,111,17,2025-08-13T16:34:45,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+421,112,15,2026-08-27T02:35:09,Re-integratietraject afgestemd met bedrijfsarts.
+422,112,6,2026-08-12T08:30:41,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+423,113,18,2026-06-11T17:03:06,Range of motion van de knie is verder toegenomen sinds de vorige controle.
+424,113,7,2026-09-01T06:52:16,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+425,113,18,2026-06-20T00:22:44,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+426,113,18,2026-07-01T03:28:14,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+427,113,18,2026-07-02T12:56:08,"Postoperatieve controle: wond genezen, mobilisatie kan verder worden opgebouwd."
+428,114,18,2026-08-12T09:32:00,Hechtingen zijn verwijderd; wondranden goed gesloten.
+429,114,2,2026-07-08T05:27:48,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+430,114,18,2026-08-15T21:58:57,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+431,115,2,2026-08-01T11:56:44,Nog beperkte belastbaarheid van de knie; opbouw verloopt volgens schema.
+432,115,17,2026-09-01T17:52:48,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+433,116,19,2027-01-30T22:33:17,Patiënt meldt toename loopafstand zonder toename van hamstringpijn; mobiliteit merkbaar verbeterd.
+434,116,19,2027-01-30T22:33:17,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+435,117,5,2026-06-07T00:56:54,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+436,117,16,2026-07-22T05:50:04,Kracht in de hamstring neemt toe; volgende fase van het oefenschema kan worden gestart.
+437,117,5,2026-05-16T18:55:39,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+438,117,5,2026-02-15T19:08:13,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+439,117,5,2026-06-12T20:58:35,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+440,117,5,2026-02-11T23:18:28,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+441,118,3,2027-03-14T17:39:57,Wondcontrole toont goede genezing zonder complicaties.
+442,118,18,2027-03-14T17:39:57,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+443,118,18,2027-03-14T17:39:57,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+444,118,18,2027-03-14T17:39:57,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+445,119,17,2025-06-01T23:29:45,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+446,119,17,2025-11-01T08:16:30,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+447,119,17,2025-08-28T04:03:43,Patiënt meldt toename loopafstand zonder toename van schouderpijn; mobiliteit merkbaar verbeterd.
+448,120,17,2026-08-07T09:22:04,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+449,120,1,2026-08-07T19:25:10,Bijwerkingen van de huidige medicatie besproken; geen aanpassing nodig.
+450,120,17,2026-08-27T00:25:15,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+451,120,17,2026-08-09T23:04:44,Mobiliteit van de knie verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+452,120,1,2026-08-18T16:41:55,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+453,120,1,2026-08-14T16:11:52,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+454,121,14,2025-12-08T04:40:16,Re-integratietraject afgestemd met bedrijfsarts.
+455,121,14,2025-11-21T04:12:13,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+456,122,11,2026-08-26T07:24:05,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+457,122,10,2026-06-18T01:09:02,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+458,122,11,2026-07-07T09:26:47,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+459,122,11,2026-06-29T15:01:25,Patiënt rapporteert minder stijfheid in de ochtend.
+460,122,10,2026-08-31T22:23:14,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+461,122,11,2026-06-02T15:14:12,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+462,123,20,2026-10-26T23:32:14,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+463,123,4,2026-10-26T23:32:14,Mobiliteit van de nek verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+464,123,4,2026-10-26T23:32:14,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+465,124,18,2025-06-06T05:45:11,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+466,124,18,2025-04-12T11:16:58,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+467,124,18,2025-02-17T16:53:36,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+468,125,12,2026-03-21T13:58:29,Range of motion van de enkel is verder toegenomen sinds de vorige controle.
+469,125,9,2026-06-12T11:18:10,Patiënt rapporteert minder stijfheid in de ochtend.
+470,125,9,2026-04-24T10:31:11,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+471,126,12,2026-07-09T07:25:53,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+472,126,12,2026-08-05T01:33:42,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+473,126,1,2026-08-04T05:58:28,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+474,127,1,2026-02-20T03:08:04,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+475,127,12,2026-01-27T09:16:00,Advies gegeven over aangepaste werkzaamheden gedurende de opbouwperiode.
+476,127,12,2025-10-27T05:02:38,Re-integratietraject afgestemd met bedrijfsarts.
+477,127,1,2025-10-12T23:05:20,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+478,128,13,2026-12-15T04:57:34,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+479,128,8,2026-12-15T04:57:34,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+480,128,13,2026-12-15T04:57:34,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+481,128,8,2026-12-15T04:57:34,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+482,128,13,2026-12-15T04:57:34,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+483,128,8,2026-12-15T04:57:34,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+484,129,9,2027-03-27T14:57:10,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+485,129,9,2027-03-27T14:57:10,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+486,129,14,2027-03-27T14:57:10,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+487,129,9,2027-03-27T14:57:10,Patiënt geeft aan medicatie niet altijd op vaste tijden in te nemen; belang van therapietrouw benadrukt.
+488,129,9,2027-03-27T14:57:10,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+489,130,17,2026-05-30T06:55:05,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+490,130,17,2026-06-22T22:12:52,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+491,130,17,2026-06-27T19:51:44,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+492,130,17,2026-04-17T08:41:32,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+493,131,10,2025-09-13T08:17:51,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+494,131,14,2025-09-28T09:17:23,Nog beperkte belastbaarheid van de pols; opbouw verloopt volgens schema.
+495,131,14,2025-08-23T13:41:56,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+496,131,10,2025-08-17T21:43:01,Patiënt geeft aan medicatie niet altijd op vaste tijden in te nemen; belang van therapietrouw benadrukt.
+497,132,2,2026-10-20T23:22:34,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+498,132,2,2026-10-20T23:22:34,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+499,132,2,2026-10-20T23:22:34,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+500,133,18,2027-02-03T16:15:01,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+501,133,8,2027-02-03T16:15:01,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+502,133,18,2027-02-03T16:15:01,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+503,133,18,2027-02-03T16:15:01,Advies gegeven over aangepaste werkzaamheden gedurende de opbouwperiode.
+504,134,13,2026-12-12T17:17:52,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+505,134,13,2026-12-12T17:17:52,"Postoperatieve controle: wond genezen, mobilisatie kan verder worden opgebouwd."
+506,135,13,2026-08-31T09:37:19,Kracht in de enkel neemt toe; volgende fase van het oefenschema kan worden gestart.
+507,135,13,2026-08-12T10:54:09,Advies gegeven over aangepaste werkzaamheden gedurende de opbouwperiode.
+508,135,13,2026-07-18T10:31:45,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+509,135,9,2026-08-24T21:49:02,Patiënt geeft aan medicatie niet altijd op vaste tijden in te nemen; belang van therapietrouw benadrukt.
+510,135,13,2026-07-25T13:00:25,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+511,135,13,2026-08-10T05:45:22,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+512,136,5,2025-02-23T15:07:56,Range of motion van de knie is verder toegenomen sinds de vorige controle.
+513,136,12,2025-08-05T12:00:24,Patiënt meldt geen nachtelijke pijn meer ter hoogte van de operatiewond.
+514,136,5,2025-07-15T06:11:46,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+515,136,5,2025-04-20T09:04:51,Wondcontrole toont goede genezing zonder complicaties.
+516,136,12,2025-06-09T22:13:53,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+517,137,18,2026-02-19T08:23:19,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+518,137,10,2026-06-09T02:54:45,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+519,137,10,2026-07-22T09:33:48,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+520,138,17,2026-07-31T11:58:55,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+521,138,9,2026-09-02T07:44:23,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+522,138,17,2026-06-20T22:23:43,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+523,138,17,2026-08-15T13:40:17,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+524,138,17,2026-06-15T17:32:44,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+525,138,17,2026-06-01T22:43:06,"Volledige werkhervatting gepland over enkele weken, mits belastbaarheid dit toelaat."
+526,139,12,2025-06-10T07:33:05,Advies gegeven over aangepaste werkzaamheden gedurende de opbouwperiode.
+527,139,12,2025-06-13T20:56:07,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+528,140,10,2025-07-30T21:27:00,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+529,140,20,2025-07-28T01:29:19,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+530,141,16,2027-05-27T07:05:13,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+531,141,4,2027-05-27T07:05:13,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+532,141,16,2027-05-27T07:05:13,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+533,142,12,2026-10-30T09:31:24,Mobiliteit van de pols verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+534,142,1,2026-10-30T09:31:24,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+535,143,12,2025-11-01T07:55:00,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+536,143,12,2025-11-10T09:30:45,Kracht in de onderrug neemt toe; volgende fase van het oefenschema kan worden gestart.
+537,143,1,2025-09-18T07:11:14,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+538,144,9,2026-09-18T22:55:02,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+539,144,12,2026-09-18T22:55:02,Kracht in de knie neemt toe; volgende fase van het oefenschema kan worden gestart.
+540,144,12,2026-09-18T22:55:02,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+541,144,9,2026-09-18T22:55:02,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+542,145,3,2025-09-18T02:21:50,Patiënt geeft aan medicatie niet altijd op vaste tijden in te nemen; belang van therapietrouw benadrukt.
+543,145,17,2025-07-08T23:11:17,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+544,145,3,2025-06-19T22:48:20,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+545,145,3,2025-08-14T14:14:34,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+546,145,3,2025-06-18T18:30:37,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+547,146,10,2026-11-09T19:59:03,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+548,146,10,2026-11-09T19:59:03,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+549,146,10,2026-11-09T19:59:03,Wondcontrole toont goede genezing zonder complicaties.
+550,147,7,2026-09-01T17:32:05,Patiënt meldt toename loopafstand zonder toename van hamstringpijn; mobiliteit merkbaar verbeterd.
+551,147,7,2026-07-07T02:51:52,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+552,147,15,2026-08-24T21:52:21,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+553,147,15,2026-07-12T10:43:29,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+554,148,10,2026-06-21T05:17:52,Patiënt meldt toename loopafstand zonder toename van spierpijn; mobiliteit merkbaar verbeterd.
+555,148,10,2026-02-24T17:11:26,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+556,148,17,2026-02-20T11:30:22,Kracht in de spieren neemt toe; volgende fase van het oefenschema kan worden gestart.
+557,148,17,2026-05-15T18:09:51,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+558,148,17,2026-01-13T22:09:05,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+559,149,11,2026-04-23T21:28:43,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+560,149,10,2026-06-17T14:27:46,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+561,149,11,2026-03-27T00:04:00,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+562,149,10,2026-03-25T03:16:34,Wondcontrole toont goede genezing zonder complicaties.
+563,150,14,2026-07-28T21:47:18,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+564,150,8,2026-07-27T14:08:27,Range of motion van de knie is verder toegenomen sinds de vorige controle.
+565,150,14,2026-08-22T09:40:17,Mobiliteit van de knie verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+566,150,14,2026-08-22T13:10:17,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+567,151,18,2025-06-04T05:05:13,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+568,151,6,2025-05-07T19:19:09,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+569,151,18,2025-10-30T13:10:50,Patiënt rapporteert minder stijfheid in de ochtend.
+570,152,13,2027-07-09T20:48:37,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+571,152,13,2027-07-09T20:48:37,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+572,152,1,2027-07-09T20:48:37,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+573,153,4,2025-12-27T06:03:11,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+574,153,4,2025-09-18T14:12:32,Kracht in de enkel neemt toe; volgende fase van het oefenschema kan worden gestart.
+575,153,4,2025-10-29T12:34:18,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+576,153,4,2026-01-08T12:49:44,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+577,153,18,2026-03-23T06:20:26,Range of motion van de enkel is verder toegenomen sinds de vorige controle.
+578,153,18,2025-09-26T02:43:28,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+579,154,10,2025-12-31T09:25:05,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+580,154,15,2026-01-05T22:42:12,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+581,154,10,2026-03-02T04:34:01,Kracht in de nek neemt toe; volgende fase van het oefenschema kan worden gestart.
+582,154,10,2025-10-11T21:43:23,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+583,154,10,2026-02-21T09:12:52,Kracht in de nek neemt toe; volgende fase van het oefenschema kan worden gestart.
+584,155,17,2026-06-14T19:37:49,Patiënt rapporteert minder stijfheid in de ochtend.
+585,155,4,2026-08-25T16:30:16,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+586,155,17,2026-03-26T18:01:35,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+587,155,4,2026-08-01T04:02:01,Medicatie-inname geëvalueerd; geen bijwerkingen gerapporteerd.
+588,155,4,2026-04-12T17:07:11,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+589,156,7,2026-02-09T18:10:46,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+590,156,14,2026-04-18T20:38:59,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+591,156,7,2026-06-23T20:37:07,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+592,156,14,2026-05-02T12:28:25,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+593,156,14,2026-04-11T09:30:53,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+594,156,14,2026-03-24T06:57:29,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+595,157,17,2027-05-13T02:09:10,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+596,157,10,2027-05-13T02:09:10,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+597,158,7,2025-11-14T13:55:49,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+598,158,7,2026-01-08T09:11:19,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+599,158,7,2025-12-10T19:21:56,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+600,159,9,2025-10-25T13:01:14,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+601,159,9,2025-08-20T00:42:20,Patiënt geeft aan medicatie niet altijd op vaste tijden in te nemen; belang van therapietrouw benadrukt.
+602,159,11,2025-08-09T03:57:37,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+603,159,11,2025-07-24T23:44:04,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+604,159,9,2025-06-15T12:14:37,Patiënt rapporteert minder stijfheid in de ochtend.
+605,160,19,2027-08-02T22:57:41,"Volledige werkhervatting gepland over enkele weken, mits belastbaarheid dit toelaat."
+606,160,19,2027-08-02T22:57:41,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+607,160,9,2027-08-02T22:57:41,Patiënt geeft aan medicatie niet altijd op vaste tijden in te nemen; belang van therapietrouw benadrukt.
+608,160,9,2027-08-02T22:57:41,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+609,160,19,2027-08-02T22:57:41,Re-integratietraject afgestemd met bedrijfsarts.
+610,161,1,2025-10-11T10:34:33,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+611,161,1,2025-05-20T00:19:15,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+612,161,12,2025-10-30T02:57:15,Patiënt rapporteert minder stijfheid in de ochtend.
+613,161,1,2025-05-29T21:40:38,"Nog lichte drukpijn rond het litteken, geen alarmsymptomen."
+614,161,12,2025-07-14T02:57:08,"Litteken oogt rustig, geen roodheid of zwelling waargenomen."
+615,162,8,2025-07-06T08:12:14,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+616,162,8,2025-02-20T23:05:19,Patiënt meldt toename loopafstand zonder toename van hamstringpijn; mobiliteit merkbaar verbeterd.
+617,163,11,2026-05-12T20:31:32,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+618,163,9,2026-04-12T04:28:12,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+619,164,20,2027-07-14T18:16:35,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+620,164,20,2027-07-14T18:16:35,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+621,164,4,2027-07-14T18:16:35,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+622,164,4,2027-07-14T18:16:35,Mobiliteit van de onderrug verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+623,164,4,2027-07-14T18:16:35,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+624,164,20,2027-07-14T18:16:35,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+625,165,4,2025-06-09T13:51:52,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+626,165,4,2025-07-29T17:51:09,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+627,165,13,2025-03-06T12:23:35,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+628,166,10,2026-10-08T12:41:36,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+629,166,11,2026-10-08T12:41:36,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+630,166,11,2026-10-08T12:41:36,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+631,166,10,2026-10-08T12:41:36,"Lichte zwelling rond het operatiegebied, past bij normaal postoperatief beloop."
+632,167,3,2026-10-27T00:08:32,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+633,167,3,2026-10-27T00:08:32,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+634,167,3,2026-10-27T00:08:32,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+635,167,3,2026-10-27T00:08:32,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+636,167,3,2026-10-27T00:08:32,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+637,168,4,2026-07-01T00:12:07,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+638,168,4,2026-03-22T00:10:39,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+639,168,12,2026-06-11T03:18:13,Hechtingen zijn verwijderd; wondranden goed gesloten.
+640,168,4,2026-05-19T20:08:49,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+641,169,17,2026-01-29T10:19:04,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+642,169,17,2026-05-27T10:44:47,Kracht in de spieren neemt toe; volgende fase van het oefenschema kan worden gestart.
+643,169,17,2026-07-19T21:11:20,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+644,169,7,2026-06-22T11:32:04,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+645,169,7,2026-05-02T09:12:57,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+646,170,14,2026-06-25T13:21:03,Mobiliteit van de spieren verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+647,170,14,2026-07-30T20:18:28,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+648,170,1,2026-07-18T01:39:55,Patiënt rapporteert minder stijfheid in de ochtend.
+649,171,18,2026-12-11T10:02:39,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+650,171,6,2026-12-11T10:02:39,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+651,171,6,2026-12-11T10:02:39,Mobiliteit van de heup verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+652,171,6,2026-12-11T10:02:39,Wondcontrole toont goede genezing zonder complicaties.
+653,171,6,2026-12-11T10:02:39,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+654,171,18,2026-12-11T10:02:39,Re-integratietraject afgestemd met bedrijfsarts.
+655,172,1,2026-02-04T02:34:32,Patiënt meldt toename loopafstand zonder toename van schouderpijn; mobiliteit merkbaar verbeterd.
+656,172,12,2025-11-17T19:13:37,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+657,172,1,2025-09-02T17:12:03,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+658,172,1,2025-09-11T21:52:29,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+659,173,17,2025-12-04T20:47:48,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+660,173,9,2025-12-02T05:01:06,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+661,173,9,2025-11-30T01:24:15,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+662,173,9,2026-01-31T11:35:11,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+663,173,9,2025-12-11T13:09:23,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+664,173,9,2025-12-07T22:01:12,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+665,174,7,2026-09-08T12:12:52,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+666,174,12,2026-09-08T12:12:52,Patiënt rapporteert minder stijfheid in de ochtend.
+667,174,12,2026-09-08T12:12:52,Advies gegeven over aangepaste werkzaamheden gedurende de opbouwperiode.
+668,174,7,2026-09-08T12:12:52,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+669,175,10,2026-08-19T08:15:28,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+670,175,19,2026-08-04T17:59:23,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+671,175,19,2026-08-25T14:07:41,"Postoperatieve controle: wond genezen, mobilisatie kan verder worden opgebouwd."
+672,175,10,2026-08-05T18:07:15,"Litteken oogt rustig, geen roodheid of zwelling waargenomen."
+673,175,10,2026-08-16T23:24:03,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+674,176,18,2026-02-23T00:31:19,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+675,176,18,2025-10-04T04:57:07,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+676,176,18,2025-10-03T06:18:46,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+677,176,18,2026-01-12T07:51:05,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+678,177,8,2026-03-28T12:08:46,Nog beperkte belastbaarheid van de spieren; opbouw verloopt volgens schema.
+679,177,13,2026-05-26T02:53:42,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+680,177,13,2026-04-30T23:13:38,Mobiliteit van de spieren verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+681,177,13,2026-05-31T01:00:34,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+682,178,1,2026-08-26T17:42:28,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+683,178,14,2026-08-24T22:00:46,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+684,178,14,2026-08-30T19:23:24,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+685,178,1,2026-08-23T23:06:52,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+686,178,1,2026-08-26T19:33:01,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+687,178,14,2026-08-25T20:08:11,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+688,179,14,2025-06-20T05:42:50,Nog beperkte belastbaarheid van de knie; opbouw verloopt volgens schema.
+689,179,14,2025-03-30T12:22:03,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+690,180,18,2026-01-12T02:10:36,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+691,180,18,2026-02-23T16:11:20,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+692,180,5,2026-04-16T12:18:52,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+693,180,5,2026-05-16T12:19:05,Patiënt rapporteert minder stijfheid in de ochtend.
+694,181,11,2026-08-25T08:44:17,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+695,181,11,2026-07-21T14:53:51,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+696,181,11,2026-08-27T05:09:47,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+697,181,11,2026-07-06T11:45:38,Kracht in de pols neemt toe; volgende fase van het oefenschema kan worden gestart.
+698,182,2,2026-03-20T01:37:35,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+699,182,17,2026-01-31T06:28:47,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+700,182,17,2026-03-15T13:14:52,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+701,182,17,2026-02-22T10:15:37,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+702,183,15,2026-08-16T04:39:43,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+703,183,15,2026-05-25T08:51:02,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+704,183,7,2026-07-29T08:34:28,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+705,184,13,2026-09-28T04:54:35,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+706,184,4,2026-09-28T04:54:35,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+707,184,13,2026-09-28T04:54:35,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+708,184,13,2026-09-28T04:54:35,"Volledige werkhervatting gepland over enkele weken, mits belastbaarheid dit toelaat."
+709,184,13,2026-09-28T04:54:35,Re-integratietraject afgestemd met bedrijfsarts.
+710,184,4,2026-09-28T04:54:35,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+711,185,13,2026-04-30T00:26:34,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+712,185,13,2026-06-21T04:22:43,Nog beperkte belastbaarheid van de hamstring; opbouw verloopt volgens schema.
+713,185,13,2026-07-19T06:11:37,Nog beperkte belastbaarheid van de hamstring; opbouw verloopt volgens schema.
+714,186,20,2026-10-30T18:50:12,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+715,186,7,2026-10-30T18:50:12,Pijnstilling wordt afgebouwd conform schema; patiënt reageert goed.
+716,186,20,2026-10-30T18:50:12,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+717,186,7,2026-10-30T18:50:12,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+718,186,20,2026-10-30T18:50:12,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+719,186,20,2026-10-30T18:50:12,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+720,187,14,2027-06-22T05:01:57,Patiënt meldt toename loopafstand zonder toename van kniepijn; mobiliteit merkbaar verbeterd.
+721,187,8,2027-06-22T05:01:57,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+722,187,8,2027-06-22T05:01:57,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+723,188,15,2025-12-12T05:20:09,Nog beperkte belastbaarheid van de enkel; opbouw verloopt volgens schema.
+724,188,9,2025-11-07T21:49:06,Range of motion van de enkel is verder toegenomen sinds de vorige controle.
+725,188,9,2026-04-07T19:29:31,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+726,188,15,2026-04-12T11:06:50,Mobiliteit van de enkel verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+727,188,9,2026-03-23T18:05:51,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+728,189,1,2026-11-07T13:00:40,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+729,189,1,2026-11-07T13:00:40,"Litteken oogt rustig, geen roodheid of zwelling waargenomen."
+730,189,1,2026-11-07T13:00:40,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+731,189,1,2026-11-07T13:00:40,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+732,189,1,2026-11-07T13:00:40,Hechtingen zijn verwijderd; wondranden goed gesloten.
+733,190,3,2027-06-22T03:29:20,Kracht in de nek neemt toe; volgende fase van het oefenschema kan worden gestart.
+734,190,3,2027-06-22T03:29:20,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+735,190,15,2027-06-22T03:29:20,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+736,190,15,2027-06-22T03:29:20,Nog beperkte belastbaarheid van de nek; opbouw verloopt volgens schema.
+737,191,8,2027-07-12T06:14:37,Medicatie-inname geëvalueerd; geen bijwerkingen gerapporteerd.
+738,191,14,2027-07-12T06:14:37,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+739,191,8,2027-07-12T06:14:37,Range of motion van de onderrug is verder toegenomen sinds de vorige controle.
+740,191,14,2027-07-12T06:14:37,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+741,191,14,2027-07-12T06:14:37,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+742,192,17,2027-01-15T14:48:13,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+743,192,2,2027-01-15T14:48:13,Patiënt meldt toename loopafstand zonder toename van hamstringpijn; mobiliteit merkbaar verbeterd.
+744,192,17,2027-01-15T14:48:13,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+745,192,2,2027-01-15T14:48:13,Mobiliteit van de hamstring verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+746,192,2,2027-01-15T14:48:13,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+747,193,8,2026-05-27T09:51:19,Nog beperkte belastbaarheid van de knie; opbouw verloopt volgens schema.
+748,193,8,2026-06-20T00:24:27,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+749,193,19,2026-06-02T00:06:49,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+750,194,1,2026-06-06T15:06:16,Mobiliteit van de onderrug verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+751,194,20,2026-05-27T19:25:50,Patiënt meldt toename loopafstand zonder toename van rugpijn met uitstraling naar het been; mobiliteit merkbaar verbeterd.
+752,194,20,2026-06-15T08:32:58,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+753,194,1,2026-07-01T18:30:05,Mobiliteit van de onderrug verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+754,195,2,2026-01-26T16:37:31,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+755,195,14,2025-08-29T07:29:27,Mobiliteit van de hamstring verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+756,195,2,2025-10-03T22:40:20,Patiënt geeft aan medicatie niet altijd op vaste tijden in te nemen; belang van therapietrouw benadrukt.
+757,195,14,2026-01-17T06:11:22,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+758,196,11,2025-07-03T19:13:57,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+759,196,9,2025-04-28T01:44:28,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+760,196,11,2025-04-17T04:06:04,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+761,196,9,2025-01-22T06:54:02,Mobiliteit van de schouder verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+762,196,11,2025-03-14T01:36:26,Mobiliteit van de schouder verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+763,197,2,2027-07-10T03:38:42,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+764,197,2,2027-07-10T03:38:42,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+765,197,17,2027-07-10T03:38:42,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+766,197,17,2027-07-10T03:38:42,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+767,197,2,2027-07-10T03:38:42,Range of motion van de pols is verder toegenomen sinds de vorige controle.
+768,197,17,2027-07-10T03:38:42,Kracht in de pols neemt toe; volgende fase van het oefenschema kan worden gestart.
+769,198,13,2025-10-03T12:34:33,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+770,198,13,2025-09-14T14:09:54,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+771,198,13,2025-06-09T19:46:27,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+772,198,13,2025-11-22T22:02:15,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+773,198,13,2025-11-15T16:19:45,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+774,198,9,2025-08-07T16:14:22,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+775,199,9,2027-01-25T17:28:37,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+776,199,16,2027-01-25T17:28:37,Wondcontrole toont goede genezing zonder complicaties.
+777,199,16,2027-01-25T17:28:37,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+778,200,2,2026-12-16T22:28:29,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+779,200,2,2026-12-16T22:28:29,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+780,200,2,2026-12-16T22:28:29,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+781,200,2,2026-12-16T22:28:29,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+782,201,2,2026-02-15T06:13:09,Patiënt meldt toename loopafstand zonder toename van hamstringpijn; mobiliteit merkbaar verbeterd.
+783,201,2,2026-04-22T23:38:32,Ibuprofengebruik verminderd naar zo nodig; patiënt ervaart voldoende pijnstilling.
+784,201,2,2026-02-13T12:51:28,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+785,201,14,2025-11-11T01:43:56,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+786,202,19,2026-12-16T11:55:59,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+787,202,19,2026-12-16T11:55:59,Advies gegeven over aangepaste werkzaamheden gedurende de opbouwperiode.
+788,202,3,2026-12-16T11:55:59,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+789,202,19,2026-12-16T11:55:59,Re-integratietraject afgestemd met bedrijfsarts.
+790,203,1,2025-07-01T18:08:45,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+791,203,20,2025-07-24T14:57:34,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+792,203,20,2025-03-29T07:38:51,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+793,203,1,2025-10-02T13:08:30,Bijwerkingen van de huidige medicatie besproken; geen aanpassing nodig.
+794,203,1,2025-08-13T18:56:43,Range of motion van de onderrug is verder toegenomen sinds de vorige controle.
+795,204,9,2027-05-03T07:20:18,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+796,204,9,2027-05-03T07:20:18,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+797,204,9,2027-05-03T07:20:18,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+798,205,9,2027-04-16T19:39:47,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+799,205,9,2027-04-16T19:39:47,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+800,205,15,2027-04-16T19:39:47,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+801,206,12,2026-04-30T00:28:31,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+802,206,10,2025-12-07T05:16:27,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+803,206,12,2026-02-01T17:24:51,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+804,207,13,2026-07-01T09:23:52,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+805,207,7,2026-07-14T01:34:09,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+806,207,7,2026-05-11T02:10:57,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+807,207,7,2026-07-05T06:48:43,"Nog lichte drukpijn rond het litteken, geen alarmsymptomen."
+808,208,7,2027-03-28T22:17:11,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+809,208,7,2027-03-28T22:17:11,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+810,208,18,2027-03-28T22:17:11,Patiënt meldt toename loopafstand zonder toename van nekpijn; mobiliteit merkbaar verbeterd.
+811,208,7,2027-03-28T22:17:11,Patiënt meldt toename loopafstand zonder toename van nekpijn; mobiliteit merkbaar verbeterd.
+812,208,18,2027-03-28T22:17:11,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+813,209,17,2026-09-29T00:46:59,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+814,209,4,2026-09-29T00:46:59,Kracht in de pols neemt toe; volgende fase van het oefenschema kan worden gestart.
+815,209,17,2026-09-29T00:46:59,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+816,210,12,2026-01-27T03:31:19,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+817,210,9,2026-01-14T04:49:56,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+818,210,9,2026-06-03T18:42:02,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+819,210,9,2026-04-20T12:13:38,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+820,211,3,2026-11-23T07:52:47,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+821,211,3,2026-11-23T07:52:47,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+822,211,14,2026-11-23T07:52:47,Re-integratietraject afgestemd met bedrijfsarts.
+823,211,3,2026-11-23T07:52:47,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+824,212,13,2027-03-15T19:05:48,Patiënt meldt toename loopafstand zonder toename van rugpijn met uitstraling naar het been; mobiliteit merkbaar verbeterd.
+825,212,9,2027-03-15T19:05:48,Mobiliteit van de onderrug verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+826,212,13,2027-03-15T19:05:48,Patiënt rapporteert minder stijfheid in de ochtend.
+827,212,13,2027-03-15T19:05:48,Kracht in de onderrug neemt toe; volgende fase van het oefenschema kan worden gestart.
+828,213,1,2026-07-01T11:00:20,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+829,213,1,2026-07-06T23:58:50,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+830,213,1,2026-06-16T21:29:57,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+831,213,1,2026-07-31T13:41:53,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+832,214,9,2026-05-03T14:34:34,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+833,214,9,2026-08-23T00:28:31,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+834,214,9,2026-04-25T04:34:44,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+835,214,9,2026-06-15T17:22:28,Range of motion van de onderrug is verder toegenomen sinds de vorige controle.
+836,215,11,2027-02-24T15:34:35,Patiënt rapporteert minder stijfheid in de ochtend.
+837,215,11,2027-02-24T15:34:35,Patiënt meldt toename loopafstand zonder toename van kniepijn; mobiliteit merkbaar verbeterd.
+838,215,11,2027-02-24T15:34:35,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+839,216,14,2025-10-24T15:27:44,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+840,216,14,2025-08-09T17:42:42,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+841,216,14,2025-09-07T12:33:12,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+842,216,5,2025-06-27T14:45:49,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+843,216,14,2025-09-13T02:02:26,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+844,216,14,2025-07-07T04:57:55,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+845,217,9,2026-12-10T20:37:52,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+846,217,9,2026-12-10T20:37:52,Pijnmedicatie wordt nog dagelijks gebruikt; evaluatie bij volgende controle.
+847,217,9,2026-12-10T20:37:52,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+848,218,5,2027-06-10T18:41:14,Medicatie-inname geëvalueerd; geen bijwerkingen gerapporteerd.
+849,218,20,2027-06-10T18:41:14,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+850,218,5,2027-06-10T18:41:14,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+851,218,20,2027-06-10T18:41:14,Mobiliteit van de enkel verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+852,219,12,2026-02-25T09:10:36,Patiënt meldt toename loopafstand zonder toename van nekpijn; mobiliteit merkbaar verbeterd.
+853,219,10,2025-11-01T23:41:15,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+854,219,12,2025-10-04T21:31:04,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+855,220,6,2026-05-04T08:08:38,Patiënt rapporteert minder stijfheid in de ochtend.
+856,220,6,2025-12-15T10:39:41,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+857,220,6,2025-11-15T14:33:06,"Litteken oogt rustig, geen roodheid of zwelling waargenomen."
+858,220,6,2026-01-28T19:24:14,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+859,220,15,2025-11-21T15:26:42,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+860,221,9,2026-08-21T17:23:30,Range of motion van de spieren is verder toegenomen sinds de vorige controle.
+861,221,11,2026-08-04T10:29:40,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+862,221,9,2026-06-30T03:00:46,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+863,221,9,2026-08-04T11:06:40,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+864,221,11,2026-09-02T08:59:27,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+865,222,20,2026-09-03T07:33:42,Patiënt meldt toename loopafstand zonder toename van rugpijn; mobiliteit merkbaar verbeterd.
+866,222,3,2026-09-03T07:33:42,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+867,222,20,2026-09-03T07:33:42,Re-integratietraject afgestemd met bedrijfsarts.
+868,222,20,2026-09-03T07:33:42,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+869,222,3,2026-09-03T07:33:42,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+870,223,10,2026-09-15T09:54:15,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+871,223,10,2026-09-15T09:54:15,Range of motion van de hamstring is verder toegenomen sinds de vorige controle.
+872,224,15,2025-12-22T12:41:52,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+873,224,5,2025-11-30T14:35:59,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+874,224,15,2026-04-04T05:45:42,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+875,225,3,2027-07-06T18:28:58,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+876,225,18,2027-07-06T18:28:58,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+877,225,18,2027-07-06T18:28:58,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+878,225,18,2027-07-06T18:28:58,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+879,225,18,2027-07-06T18:28:58,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+880,225,18,2027-07-06T18:28:58,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+881,226,10,2025-08-08T00:09:48,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+882,226,19,2025-07-02T20:45:00,Patiënt heeft moeite met therapietrouw deze week door drukke werkweek; schema besproken en aangepast.
+883,226,19,2025-04-17T19:33:40,Patiënt meldt toename loopafstand zonder toename van enkelpijn; mobiliteit merkbaar verbeterd.
+884,226,19,2025-06-21T17:23:00,Mobiliteit van de enkel verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+885,227,1,2025-06-26T08:56:50,Patiënt meldt toename loopafstand zonder toename van kniepijn; mobiliteit merkbaar verbeterd.
+886,227,1,2025-05-20T14:24:16,Mobiliteit van de knie verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+887,227,12,2025-06-14T04:32:22,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+888,227,12,2025-08-17T00:04:52,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+889,228,11,2026-03-09T23:14:09,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+890,228,5,2025-11-03T00:19:17,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+891,228,11,2026-03-13T09:53:18,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+892,229,9,2026-09-25T11:07:11,Bijwerkingen van de huidige medicatie besproken; geen aanpassing nodig.
+893,229,9,2026-09-25T11:07:11,Nog beperkte belastbaarheid van de heup; opbouw verloopt volgens schema.
+894,230,11,2026-06-20T07:45:53,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+895,230,11,2026-08-11T12:05:12,Sporthervatting besproken; eerst focus op functioneel herstel voordat belasting wordt opgebouwd.
+896,230,4,2026-08-14T21:55:14,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+897,230,11,2026-08-04T23:35:05,"Volledige werkhervatting gepland over enkele weken, mits belastbaarheid dit toelaat."
+898,230,11,2026-06-29T07:21:25,Range of motion van de pols is verder toegenomen sinds de vorige controle.
+899,230,4,2026-07-08T23:55:23,Diclofenac afgebouwd i.v.m. afname nachtelijke pijnklachten; maagbescherming besproken.
+900,231,15,2025-05-30T03:16:53,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+901,231,9,2025-03-07T19:54:31,Patiënt klaagt over vermoeidheid na de oefensessies; frequentie tijdelijk verlaagd.
+902,232,4,2025-07-17T14:42:19,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+903,232,4,2025-07-02T14:47:54,"Postoperatieve controle: wond genezen, mobilisatie kan verder worden opgebouwd."
+904,232,4,2025-09-03T02:09:33,Kracht in de knie neemt toe; volgende fase van het oefenschema kan worden gestart.
+905,232,4,2025-03-26T15:35:31,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+906,232,4,2025-04-21T19:49:11,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+907,232,4,2025-03-19T01:06:31,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+908,233,15,2026-07-31T01:49:33,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+909,233,2,2026-07-26T12:11:45,Medicatiegebruik afgestemd met huisarts; geen wijzigingen doorgevoerd.
+910,233,2,2026-09-01T13:54:28,Kracht in de schouder neemt toe; volgende fase van het oefenschema kan worden gestart.
+911,233,15,2026-08-08T16:23:34,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+912,234,15,2026-08-31T14:17:52,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+913,234,15,2026-07-24T15:38:50,Range of motion van de knie is verder toegenomen sinds de vorige controle.
+914,234,15,2026-07-20T13:28:43,Advies gegeven over aangepaste werkzaamheden gedurende de opbouwperiode.
+915,234,10,2026-07-27T01:30:25,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+916,234,15,2026-07-13T09:39:32,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+917,234,15,2026-08-07T01:16:14,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+918,235,14,2026-02-10T22:29:36,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+919,235,14,2026-02-13T20:28:42,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+920,235,8,2026-01-12T23:46:42,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+921,236,18,2026-03-13T20:54:26,Patiënt rapporteert minder stijfheid in de ochtend.
+922,236,18,2026-06-26T16:24:26,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+923,236,10,2026-05-22T00:06:13,Patiënt meldt toename loopafstand zonder toename van rugpijn; mobiliteit merkbaar verbeterd.
+924,236,10,2026-05-25T03:39:11,"Lichte terugval na intensieve activiteit afgelopen week; verder normaal beeld, geen alarmsignalen."
+925,236,10,2026-04-30T16:21:47,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+926,236,18,2026-06-12T12:03:05,Patiënt is gestart met lichte huishoudelijke taken zonder toename van klachten.
+927,237,10,2025-09-02T05:57:33,Kracht in de heup neemt toe; volgende fase van het oefenschema kan worden gestart.
+928,237,14,2025-12-03T16:58:50,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+929,237,10,2025-11-11T10:14:54,Patiënt meldt toename loopafstand zonder toename van heuppijn; mobiliteit merkbaar verbeterd.
+930,237,10,2025-10-05T11:17:14,Wondgenezing verloopt voorspoedig; geen tekenen van infectie.
+931,237,10,2025-07-21T08:52:49,Ophoging van de dosering besproken vanwege aanhoudende pijnklachten.
+932,238,18,2026-03-30T14:49:58,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+933,238,18,2025-11-13T06:35:00,Functionele testen laten vooruitgang zien ten opzichte van de vorige meting.
+934,238,18,2026-04-09T01:00:45,Werkhervatting verloopt voorspoedig; geen toename van klachten gerapporteerd.
+935,238,18,2026-01-23T11:48:05,Kracht in de enkel neemt toe; volgende fase van het oefenschema kan worden gestart.
+936,238,18,2025-12-14T14:30:05,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+937,239,20,2026-02-01T04:20:18,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+938,239,10,2025-09-12T22:04:14,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+939,240,10,2026-09-25T06:35:19,Oefenschema wordt trouw gevolgd; advies gegeven over dosering van rustmomenten.
+940,240,13,2026-09-25T06:35:19,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+941,240,13,2026-09-25T06:35:19,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+942,240,13,2026-09-25T06:35:19,Patiënt rapporteert minder stijfheid in de ochtend.
+943,240,13,2026-09-25T06:35:19,Patiënt ervaart nog beperkingen bij fysiek zwaar werk; aangepast takenpakket geadviseerd.
+944,240,13,2026-09-25T06:35:19,Patiënt geeft aan minder pijn te ervaren bij dagelijkse activiteiten zoals traplopen en tillen.
+945,241,11,2027-04-28T13:40:01,Kracht in de knie neemt toe; volgende fase van het oefenschema kan worden gestart.
+946,241,11,2027-04-28T13:40:01,"Lichte zwelling rond het operatiegebied, past bij normaal postoperatief beloop."
+947,241,11,2027-04-28T13:40:01,Patiënt meldt geen nachtelijke pijn meer ter hoogte van de operatiewond.
+948,241,11,2027-04-28T13:40:01,Hechtingen zijn verwijderd; wondranden goed gesloten.
+949,241,11,2027-04-28T13:40:01,"Stabiel beeld deze week, geen nieuwe klachten gemeld."
+950,242,9,2026-07-14T23:00:01,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+951,242,9,2026-07-19T03:26:44,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+952,242,9,2026-08-31T03:36:59,Bijwerkingen van de huidige medicatie besproken; geen aanpassing nodig.
+953,243,10,2026-03-08T16:22:54,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+954,243,10,2026-05-16T01:37:03,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+955,244,4,2026-08-23T10:52:07,Range of motion van de heup is verder toegenomen sinds de vorige controle.
+956,244,13,2026-05-13T08:42:40,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+957,244,4,2026-04-19T11:29:07,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+958,245,2,2025-10-17T02:12:05,Overstap naar alternatieve pijnstilling besproken vanwege maagklachten.
+959,245,17,2025-10-11T18:09:50,Terugkeer naar sport gepland in overleg met revalidatiearts; stapsgewijze opbouw.
+960,245,2,2026-02-02T00:10:35,Bijwerkingen van de huidige medicatie besproken; geen aanpassing nodig.
+961,245,17,2025-10-03T22:50:29,Patiënt is gemotiveerd en volgt het oefenschema nauwgezet op.
+962,245,17,2026-01-25T07:38:36,Extra uitleg gegeven over het belang van consistente uitvoering van de oefeningen.
+963,245,2,2025-12-05T16:46:28,Mobiliteit van de schouder verbetert langzaam maar gestaag; patiënt merkt dit zelf ook op.
+964,246,3,2025-11-02T23:42:23,Patiënt is enthousiast over de voortgang en blijft gemotiveerd om door te zetten.
+965,246,3,2025-09-24T08:09:18,Patiënt rapporteert minder stijfheid in de ochtend.
+966,246,11,2026-01-06T03:42:31,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+967,246,11,2025-11-22T21:46:42,Duidelijke vooruitgang zichtbaar ten opzichte van vorige controle; belastbaarheid neemt gestaag toe.
+968,247,19,2026-12-09T15:44:22,Wondcontrole toont goede genezing zonder complicaties.
+969,247,19,2026-12-09T15:44:22,Patiënt hervat geleidelijk sportactiviteiten onder begeleiding van de trainer.
+970,247,19,2026-12-09T15:44:22,Wondcontrole toont goede genezing zonder complicaties.
+971,248,4,2026-01-06T21:59:10,"Lichte zwelling rond het operatiegebied, past bij normaal postoperatief beloop."
+972,248,13,2026-02-07T13:54:42,Hechtingen zijn verwijderd; wondranden goed gesloten.
+973,248,4,2026-01-24T12:10:00,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+974,249,17,2027-04-25T07:56:27,"Voortgang is positief, pijnscore neemt geleidelijk af bij dagelijkse activiteiten."
+975,249,17,2027-04-25T07:56:27,Start gemaakt met lichte werkhervatting (halve dagen). Ergonomische werkplekinstructies meegegeven.
+976,250,17,2026-12-26T18:51:13,Therapietrouw met het thuisoefenprogramma is goed; logboek volledig bijgehouden.
+977,250,17,2026-12-26T18:51:13,Motivatie neemt toe nu de eerste resultaten zichtbaar worden.
+978,250,17,2026-12-26T18:51:13,Aandachtspunt: houding tijdens oefeningen nogmaals besproken en gecorrigeerd.
+979,250,7,2026-12-26T18:51:13,Patiënt geeft aan het oefenschema soms te vergeten; herinnering via app geadviseerd.
+980,250,17,2026-12-26T18:51:13,Range of motion van de knie is verder toegenomen sinds de vorige controle.
