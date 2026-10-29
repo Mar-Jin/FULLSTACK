@@ -1,10 +1,9 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using RevaliNow.Authorization;
-using RevaliNow.Data;
 using RevaliNow.Dtos;
 using RevaliNow.Models;
+using RevaliNow.Services;
 
 namespace RevaliNow.Controllers
 {
@@ -12,37 +11,27 @@ namespace RevaliNow.Controllers
     [ApiController]
     [Authorize(Roles = Rollen.Patient)]
     [AlleenEigenPatient]
-    public class PijnIndicatieController(RevaliNowDbContext context, TimeProvider tijd) : ControllerBase
+    public class PijnIndicatieController(IPijnIndicatieService pijnIndicatieService) : ControllerBase
     {
-        private readonly RevaliNowDbContext _context = context;
-
+        // GET patienten/5/pijnindicaties
         [HttpGet]
-        public ActionResult<List<PijnIndicatie>> Get(int patientId)
+        public async Task<ActionResult<List<PijnIndicatieDto>>> Get(int patientId)
         {
-            var pijnindicaties = _context.PijnIndicaties
-                .AsNoTracking()
-                .Where(p => p.PatientId == patientId)
-                .OrderByDescending(p => p.DatumTijdRegistratie)
-                .ToList();
-
-            return Ok(pijnindicaties);
+            return Ok(await pijnIndicatieService.GetPijnIndicatiesAsync(patientId));
         }
 
-        // GET patienten/5/pijnindicaties/per-week: weekgemiddelde, berekend in de database (sp_PijnverloopPerWeek)
+        // GET patienten/5/pijnindicaties/per-week
         [HttpGet("per-week")]
         public async Task<ActionResult<List<PijnWeekDto>>> GetPerWeek(int patientId)
         {
-            return Ok(await _context.Database
-                .SqlQuery<PijnWeekDto>($"EXEC sp_PijnverloopPerWeek @PatientId = {patientId}")
-                .ToListAsync());
+            return Ok(await pijnIndicatieService.GetPerWeekAsync(patientId));
         }
 
+        // GET patienten/5/pijnindicaties/12
         [HttpGet("{id:int}")]
-        public ActionResult<PijnIndicatie> GetById(int patientId, int id)
+        public async Task<ActionResult<PijnIndicatieDto>> GetById(int patientId, int id)
         {
-            var pijnIndicatie = _context.PijnIndicaties
-                .AsNoTracking()
-                .FirstOrDefault(p => p.Id == id && p.PatientId == patientId);
+            var pijnIndicatie = await pijnIndicatieService.GetPijnIndicatieAsync(patientId, id);
 
             if (pijnIndicatie == null)
             {
@@ -52,19 +41,12 @@ namespace RevaliNow.Controllers
             return Ok(pijnIndicatie);
         }
 
+        // POST patienten/5/pijnindicaties  { "pijnScore": 4, "toelichting": "..." }
         [HttpPost]
-        public ActionResult<PijnIndicatie> Create(int patientId, [FromBody] PijnIndicatie pijnIndicatie)
+        public async Task<ActionResult<PijnIndicatieDto>> Create(int patientId, [FromBody] PijnIndicatieInvoerDto invoer)
         {
-            // De patiënt en het tijdstip komen niet uit de request, maar uit de route en de server,
-            // zodat een cliënt nooit voor iemand anders of met een verzonnen datum kan registreren.
-            pijnIndicatie.Id = 0;
-            pijnIndicatie.PatientId = patientId;
-            pijnIndicatie.DatumTijdRegistratie = tijd.GetLocalNow().DateTime;
-
-            _context.PijnIndicaties.Add(pijnIndicatie);
-            _context.SaveChanges();
-
-            return CreatedAtAction(nameof(GetById), new { patientId, id = pijnIndicatie.Id }, pijnIndicatie);
+            var nieuw = await pijnIndicatieService.RegistreerAsync(patientId, invoer);
+            return CreatedAtAction(nameof(GetById), new { patientId, id = nieuw.Id }, nieuw);
         }
     }
 }

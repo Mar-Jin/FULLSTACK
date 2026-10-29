@@ -23,3 +23,21 @@ a {
 .material-icons {
   vertical-align: middle;
 }
+/* Duidelijk zichtbare focus voor wie met het toetsenbord werkt (WCAG 2.4.7).
+   :focus-visible = alleen bij toetsenbordgebruik, niet bij een muisklik. */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible,
+summary:focus-visible {
+  outline: 3px solid #f59e0b;
+  outline-offset: 2px;
+}
+
+/* Koppen en de inhoud krijgen alleen focus om de plek op de pagina aan te geven, niet om te bedienen */
+main[tabindex="-1"]:focus,
+h1[tabindex="-1"]:focus,
+h2[tabindex="-1"]:focus {
+  outline: none;
+}

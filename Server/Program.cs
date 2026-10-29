@@ -32,6 +32,9 @@ builder.Services.AddDbContext<RevaliNowDbContext>((serviceProvider, options) =>
         .AddInterceptors(serviceProvider.GetRequiredService<SessieContextInterceptor>()));
 
 builder.Services.AddScoped<ITokenService, TokenService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IPatientService, PatientService>();
+builder.Services.AddScoped<IPijnIndicatieService, PijnIndicatieService>();
 builder.Services.AddScoped<IOefenplanService, OefenplanService>();
 builder.Services.AddScoped<ILogboekService, LogboekService>();
 builder.Services.AddScoped<IAfspraakService, AfspraakService>();

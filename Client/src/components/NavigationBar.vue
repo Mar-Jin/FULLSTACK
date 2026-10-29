@@ -8,7 +8,7 @@
             v-for="link in links"
             :key="link.to"
             :to="link.to"
-            class="text-blue-700 underline hover:text-red-600 border-2 border-transparent rounded-sm px-2 py-1"
+            class="text-blue-700 underline hover:text-red-700 border-2 border-transparent rounded-sm px-2 py-1"
             active-class="!border-gray-400"
             >
             {{ link.label }}
@@ -16,7 +16,7 @@
             <button
             type="button"
             @click="uitloggen"
-            class="text-blue-700 underline hover:text-red-600 border-2 border-transparent rounded-sm px-2 py-1"
+            class="text-blue-700 underline hover:text-red-700 border-2 border-transparent rounded-sm px-2 py-1"
             >
             Uitloggen
             </button>

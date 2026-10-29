@@ -1,10 +1,9 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using RevaliNow.Authorization;
-using RevaliNow.Data;
 using RevaliNow.Dtos;
 using RevaliNow.Models;
+using RevaliNow.Services;
 
 namespace RevaliNow.Controllers
 {
@@ -12,17 +11,13 @@ namespace RevaliNow.Controllers
     [ApiController]
     [Authorize(Roles = Rollen.Patient)]
     [AlleenEigenPatient]
-    public class PatientController(RevaliNowDbContext context, TimeProvider tijd) : ControllerBase
+    public class PatientController(IPatientService patientService) : ControllerBase
     {
-        private readonly RevaliNowDbContext _context = context;
-
+        // GET patienten/5
         [HttpGet]
-        public ActionResult<Patient> Get(int patientId)
+        public async Task<ActionResult<PatientDto>> Get(int patientId)
         {
-            var patient = _context.Patienten
-                .AsNoTracking()
-                .Include(p => p.Huisarts)
-                .FirstOrDefault(p => p.Id == patientId);
+            var patient = await patientService.GetPatientAsync(patientId);
 
             if (patient == null)
             {
@@ -32,41 +27,18 @@ namespace RevaliNow.Controllers
             return Ok(patient);
         }
 
-        // De oefeningen van vandaag haalt de frontend apart op (GET oefenplannen), zodat het dashboard en de
-        // oefenpagina dezelfde state delen.
+        // GET patienten/5/dashboard
         [HttpGet("dashboard")]
         public async Task<ActionResult<DashboardResponseDto>> GetDashboard(int patientId)
         {
-            var user = await _context.Patienten.AsNoTracking().FirstOrDefaultAsync(p => p.Id == patientId);
+            var dashboard = await patientService.GetDashboardAsync(patientId);
 
-            if (user == null)
+            if (dashboard == null)
             {
                 return NotFound();
             }
 
-            // Registraties 'in de toekomst' (komen voor in de dataset) horen niet in de grafiek of bij 'recent'
-            var nu = tijd.GetLocalNow().DateTime;
-            var painData = await _context.PijnIndicaties
-                .AsNoTracking()
-                .Where(p => p.PatientId == patientId && p.DatumTijdRegistratie <= nu)
-                .OrderByDescending(p => p.DatumTijdRegistratie)
-                .ToListAsync();
-
-            // Laatste pijnscore, gemiddelde van 7 dagen en volgende afspraak in één aanroep
-            var samenvatting = (await _context.Database
-                    .SqlQuery<DashboardSamenvattingDto>($"EXEC sp_DashboardSamenvatting @PatientId = {patientId}")
-                    .ToListAsync())
-                .Single();
-
-            var response = new DashboardResponseDto
-            {
-                User = user,
-                RecentPains = painData.Take(2).ToList(),
-                PainData = painData,
-                Samenvatting = samenvatting
-            };
-
-            return Ok(response);
+            return Ok(dashboard);
         }
     }
 }

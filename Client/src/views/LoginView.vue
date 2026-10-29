@@ -1,20 +1,20 @@
 <template>
   <div class="login-container flex items-center justify-center min-h-screen bg-gray-100">
     <div class="p-8 bg-white border-2 border-navy shadow-lg w-96">
-      <h2 class="text-2xl font-bold text-navy mb-6">Inloggen RevaliNow</h2>
+      <h1 class="text-2xl font-bold text-navy mb-6">Inloggen RevaliNow</h1>
       
       <form @submit.prevent="handleLogin">
         <div class="mb-4">
-          <label class="block text-sm font-bold mb-2">Gebruikersnaam</label>
-          <input v-model="username" type="text" autocomplete="username" class="w-full p-2 border border-gray-400" required>
+          <label for="gebruikersnaam" class="block text-sm font-bold mb-2">Gebruikersnaam (je e-mailadres)</label>
+          <input id="gebruikersnaam" v-model="username" type="text" autocomplete="username" class="w-full p-2 border border-gray-400" required>
         </div>
 
         <div class="mb-6">
-          <label class="block text-sm font-bold mb-2">Wachtwoord</label>
-          <input v-model="password" type="password" class="w-full p-2 border border-gray-400" required>
+          <label for="wachtwoord" class="block text-sm font-bold mb-2">Wachtwoord</label>
+          <input id="wachtwoord" v-model="password" type="password" autocomplete="current-password" class="w-full p-2 border border-gray-400" required>
         </div>
 
-        <button :disabled="authStore.loading" class="bg-navy text-white w-full py-2 font-bold hover:bg-blue-900 transition">
+        <button type="submit" :disabled="authStore.loading" class="bg-navy text-white w-full py-2 font-bold hover:bg-blue-900 transition">
           {{ authStore.loading ? 'Bezig met inloggen...' : 'Inloggen' }}
         </button>
 

@@ -82,7 +82,7 @@ async function verwijderen() {
 </script>
 
 <template>
-  <main class="w-4/5 mx-auto my-6 bg-white border-2 border-gray-500 shadow-[4px_4px_0_#404040] p-4 font-['Verdana'] text-[#000080] bg-[url('https://www.transparenttextures.com/patterns/grey-wash-wall.png')]">
+  <div class="w-4/5 mx-auto my-6 bg-white border-2 border-gray-500 shadow-[4px_4px_0_#404040] p-4 font-['Verdana'] text-[#000080] bg-[url('https://www.transparenttextures.com/patterns/grey-wash-wall.png')]">
     <h1 class="text-2xl font-bold mb-4 font-['Times_New_Roman']">Mijn Logboek</h1>
 
     <StatusMelding :type="melding.type" :tekst="melding.tekst" @sluiten="sluit" />
@@ -148,5 +148,5 @@ async function verwijderen() {
       <p>Weet je zeker dat je deze activiteit wilt verwijderen? Dit kun je niet ongedaan maken.</p>
       <p v-if="teVerwijderen" class="mt-2 italic">"{{ teVerwijderen.beschrijving }}"</p>
     </BevestigDialoog>
-  </main>
+  </div>
 </template>

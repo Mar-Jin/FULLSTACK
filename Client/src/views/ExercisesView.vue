@@ -46,7 +46,7 @@ async function afvinken(oefening, isAfgevinkt) {
 </script>
 
 <template>
-  <main class="w-4/5 mx-auto my-6 bg-white border-2 border-gray-500 shadow-[4px_4px_0_#404040] p-4 font-['Verdana'] text-[#000080] bg-[url('https://www.transparenttextures.com/patterns/grey-wash-wall.png')]">
+  <div class="w-4/5 mx-auto my-6 bg-white border-2 border-gray-500 shadow-[4px_4px_0_#404040] p-4 font-['Verdana'] text-[#000080] bg-[url('https://www.transparenttextures.com/patterns/grey-wash-wall.png')]">
     <h1 class="text-2xl font-bold mb-4 font-['Times_New_Roman']">Mijn Oefeningen</h1>
 
     <FilterTabs v-model="statusFilter" :opties="filterOpties" label="Filter oefeningen op status" />
@@ -81,7 +81,7 @@ async function afvinken(oefening, isAfgevinkt) {
             :href="item.instructieVideoUrl"
             target="_blank"
             rel="noopener noreferrer"
-            class="text-blue-700 underline hover:text-red-600"
+            class="text-blue-700 underline hover:text-red-700"
           >
             Bekijk instructievideo<span class="sr-only"> van {{ item.naam }} (opent in nieuw tabblad)</span>
           </a>
@@ -112,5 +112,5 @@ async function afvinken(oefening, isAfgevinkt) {
         </div>
       </template>
     </DataList>
-  </main>
+  </div>
 </template>

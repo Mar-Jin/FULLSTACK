@@ -24,9 +24,19 @@ watch(() => authStore.patientId, async (patientId) => {
 </script>
 
 <template>
+  <!-- Skip-link: wie met het toetsenbord werkt, hoeft niet op elke pagina eerst door het menu te tabben -->
+  <a
+    href="#inhoud"
+    class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 bg-white border-2 border-[#000080] px-3 py-2 font-['Verdana'] text-[#000080]"
+  >
+    Naar de inhoud
+  </a>
+
   <NavigationBar v-if="route.name && route.name !== 'login' "/>
 
-  <RouterView/>
+  <main id="inhoud" tabindex="-1" class="focus:outline-none">
+    <RouterView/>
+  </main>
 </template>
 
 

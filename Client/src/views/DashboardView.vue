@@ -6,7 +6,7 @@
   const store = usePatientStore();
   // oefeningenVandaag komt uit dezelfde state als de oefenpagina: afvinken daar is hier direct zichtbaar
   // samenvatting komt uit één database-aanroep (sp_DashboardSamenvatting)
-  const { user, recentPains, oefeningenVandaag, samenvatting } = storeToRefs(store);
+  const { user, recentPains, oefeningenVandaag, samenvatting, loading } = storeToRefs(store);
 </script>
 
 <template>
@@ -14,9 +14,7 @@
     
     <!-- Welkomsttekst -->
     <div class="mb-4">
-      <h1 class="text-3xl font-bold text-[#000080] mb-1 font-['Times_New_Roman']">
-        <div>Welkom, {{ user?.voornaam }}!</div>
-      </h1>
+      <h1 class="text-3xl font-bold text-[#000080] mb-1 font-['Times_New_Roman']">Welkom, {{ user?.voornaam }}!</h1>
       <p class="text-gray-600 italic">Hier is je revalidatie-overzicht</p>
     </div>
 
@@ -27,7 +25,7 @@
       </div>
       <ul class="list-square list-inside mt-2">
         <li v-for="pain in recentPains" :key="pain.id" class="my-1">
-          <p>{{ formatDatumTijd(pain.datumTijdRegistratie) }}: <span class="text-red-600 font-bold">{{ pain.pijnScore }}/10</span> - {{ pain.toelichting }}</p>
+          <p>{{ formatDatumTijd(pain.datumTijdRegistratie) }}: <span class="text-red-700 font-bold">{{ pain.pijnScore }}/10</span> - {{ pain.toelichting }}</p>
         </li>
       </ul>
       <p class="mt-2">
@@ -37,7 +35,7 @@
         </template>
         <span v-else class="italic">Je hebt de afgelopen 7 dagen geen pijn geregistreerd.</span>
       </p>
-      <router-link to="/pain" class="inline-block mt-2 text-blue-700 underline hover:text-red-600">Pijn registreren</router-link>
+      <router-link to="/pain" class="inline-block mt-2 text-blue-700 underline hover:text-red-700">Pijn registreren</router-link>
     </section>
 
     <!-- Geplande Oefeningen -->
@@ -48,7 +46,7 @@
       <ul v-if="oefeningenVandaag.length" class="list-square list-inside mt-2">
         <li v-for="exercise in oefeningenVandaag" :key="exercise.id" class="my-1">
           <p class="flex flex-row flex-wrap justify-between gap-2">
-            <span class="text-red-600 font-bold" :class="{ 'line-through': exercise.isAfgerondVandaag }">{{ exercise.naam }}</span>
+            <span class="text-red-700 font-bold" :class="{ 'line-through': exercise.isAfgerondVandaag }">{{ exercise.naam }}</span>
             <span>({{ exercise.frequentiePerDag }}x per dag, {{ exercise.sets }} sets, {{ exercise.herhalingen }} keer)</span>
             <span :class="exercise.isAfgerondVandaag ? 'text-green-800 font-semibold' : ''">
               {{ exercise.isAfgerondVandaag ? 'Afgerond' : `${exercise.keerGedaanVandaag} van ${exercise.frequentiePerDag} gedaan` }}
@@ -57,7 +55,7 @@
         </li>
       </ul>
       <p v-else class="italic mt-2">Vandaag staan er geen oefeningen gepland.</p>
-      <router-link to="/exercises" class="inline-block mt-2 text-blue-700 underline hover:text-red-600">Naar mijn oefeningen</router-link>
+      <router-link to="/exercises" class="inline-block mt-2 text-blue-700 underline hover:text-red-700">Naar mijn oefeningen</router-link>
     </section>
 
     <!-- Eerstvolgende Afspraak -->
@@ -80,9 +78,7 @@
   <div v-else class="w-4/5 mx-auto my-6 bg-white border-2 border-gray-500 shadow-[4px_4px_0_#404040] p-4 font-['Verdana'] text-[#000080] bg-[url('https://www.transparenttextures.com/patterns/grey-wash-wall.png')]">
     <!-- Welkomsttekst -->
     <div class="mb-4">
-      <h1 class="text-3xl font-bold text-[#000080] mb-1 font-['Times_New_Roman']">
-        <div>Geen gebruiker gevonden!</div>
-      </h1>
+      <h1 class="text-3xl font-bold text-[#000080] mb-1 font-['Times_New_Roman']">{{ loading ? 'Bezig met laden...' : 'Je gegevens konden niet worden geladen.' }}</h1>
     </div>
   </div>
 </template>

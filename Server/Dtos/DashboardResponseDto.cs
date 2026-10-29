@@ -1,12 +1,10 @@
-﻿using RevaliNow.Models;
-
-namespace RevaliNow.Dtos
+﻿namespace RevaliNow.Dtos
 {
     public class DashboardResponseDto
     {
-        public Patient User { get; set; } = null!;
-        public List<PijnIndicatie> RecentPains { get; set; } = [];
-        public List<PijnIndicatie> PainData { get; set; } = [];
+        public PatientDto User { get; set; } = null!;
+        public List<PijnIndicatieDto> RecentPains { get; set; } = [];
+        public List<PijnIndicatieDto> PainData { get; set; } = [];
         public DashboardSamenvattingDto Samenvatting { get; set; } = new();
     }
 

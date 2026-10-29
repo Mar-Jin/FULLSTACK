@@ -44,7 +44,7 @@ const zichtbareAfspraken = computed(() =>
 </script>
 
 <template>
-  <main class="w-4/5 mx-auto my-6 bg-white border-2 border-gray-500 shadow-[4px_4px_0_#404040] p-4 font-['Verdana'] text-[#000080] bg-[url('https://www.transparenttextures.com/patterns/grey-wash-wall.png')]">
+  <div class="w-4/5 mx-auto my-6 bg-white border-2 border-gray-500 shadow-[4px_4px_0_#404040] p-4 font-['Verdana'] text-[#000080] bg-[url('https://www.transparenttextures.com/patterns/grey-wash-wall.png')]">
     <h1 class="text-2xl font-bold mb-4 font-['Times_New_Roman']">Mijn Afspraken</h1>
 
     <FilterTabs v-model="tabblad" :opties="tabbladen" label="Kies welke afspraken je wilt zien" />
@@ -64,5 +64,5 @@ const zichtbareAfspraken = computed(() =>
         <p><b>Status:</b> {{ toonStatus(item) }}</p>
       </template>
     </DataList>
-  </main>
+  </div>
 </template>

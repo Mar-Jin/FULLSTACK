@@ -60,7 +60,7 @@ async function submitPijnindicatie() {
 </script>
 
 <template>
-  <main class="w-4/5 mx-auto my-6 bg-white border-2 border-gray-500 shadow-[4px_4px_0_#404040] p-4 font-['Verdana'] text-[#000080] bg-[url('https://www.transparenttextures.com/patterns/grey-wash-wall.png')]">
+  <div class="w-4/5 mx-auto my-6 bg-white border-2 border-gray-500 shadow-[4px_4px_0_#404040] p-4 font-['Verdana'] text-[#000080] bg-[url('https://www.transparenttextures.com/patterns/grey-wash-wall.png')]">
     <h1 class="text-3xl font-bold mb-4 font-['Times_New_Roman']">Pijnindicatie Registreren</h1>
 
     <StatusMelding :type="melding.type" :tekst="melding.tekst" @sluiten="sluit" />
@@ -81,7 +81,7 @@ async function submitPijnindicatie() {
         />
         <p id="painScoreUitleg" class="flex justify-between text-sm"><span>0 = geen pijn</span><span>10 = ondraaglijke pijn</span></p>
         <div class="text-center mt-2 font-bold text-lg" aria-hidden="true">{{ painScore }}</div>
-        <p v-if="error" class="text-red-600 mt-1" role="alert">{{ error }}</p>
+        <p v-if="error" class="text-red-700 mt-1" role="alert">{{ error }}</p>
       </div>
 
       <div class="mb-4">
@@ -111,5 +111,5 @@ async function submitPijnindicatie() {
       :eenheid="weergave === 'week' ? 'week' : 'day'"
       class="mt-4"
     />
-  </main>
+  </div>
 </template>

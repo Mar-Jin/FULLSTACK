@@ -24,6 +24,11 @@ Elke patiënt logt in met zijn e-mailadres. Het wachtwoord is `Welkom123!`, en d
 
 Een goede patiënt om mee te beginnen is `nout.b@example.com`, die heeft lopende oefeningen en geplande afspraken.
 
+## Testen
+
+Backend (xUnit): `dotnet test` in `Tests/RevaliNow.Tests`.
+Frontend (Vitest): `npx vitest run` in `Client/`.
+
 ## Lokaal zonder Docker
 
 Kopieer `Server/appsettings.Development.example.json` naar `Server/appsettings.Development.json` en vul je eigen JWT-sleutel in. Daarna draai je `dotnet run` in `Server/` en `npm run dev` in `Client/`.
