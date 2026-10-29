@@ -98,18 +98,24 @@ namespace RevaliNow.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("PatientId");
-
                     b.HasIndex("RevalidatieartsId");
+
+                    b.HasIndex("PatientId", "DatumTijdAfspraak");
+
+                    SqlServerIndexBuilderExtensions.IncludeProperties(b.HasIndex("PatientId", "DatumTijdAfspraak"), new[] { "RevalidatieartsId", "DuurMinuten", "TypeAfspraak", "Status" });
 
                     b.ToTable("Afspraken", t =>
                         {
+                            t.HasTrigger("TR_Afspraken_Rolcontrole");
+
                             t.HasCheckConstraint("CK_Afspraken_DuurMinuten", "[DuurMinuten] BETWEEN 1 AND 480");
 
                             t.HasCheckConstraint("CK_Afspraken_Status", "[Status] IN ('Gepland', 'Afgerond')");
 
                             t.HasCheckConstraint("CK_Afspraken_TypeAfspraak", "[TypeAfspraak] IN ('Intake', 'Controle')");
                         });
+
+                    b.HasAnnotation("SqlServer:UseSqlOutputClause", false);
                 });
 
             modelBuilder.Entity("RevaliNow.Models.AuditLog", b =>
@@ -382,19 +388,43 @@ namespace RevaliNow.Migrations
                     b.Property<DateTime>("DatumTijdActiviteit")
                         .HasColumnType("datetime2");
 
+                    b.Property<DateTime>("GeldigTot")
+                        .ValueGeneratedOnAddOrUpdate()
+                        .HasColumnType("datetime2")
+                        .HasColumnName("GeldigTot");
+
+                    b.Property<DateTime>("GeldigVanaf")
+                        .ValueGeneratedOnAddOrUpdate()
+                        .HasColumnType("datetime2")
+                        .HasColumnName("GeldigVanaf");
+
                     b.Property<int>("PatientId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("PatientId");
+                    b.HasIndex("PatientId", "DatumTijdActiviteit")
+                        .IsDescending(false, true);
+
+                    SqlServerIndexBuilderExtensions.IncludeProperties(b.HasIndex("PatientId", "DatumTijdActiviteit"), new[] { "Beschrijving" });
 
                     b.ToTable("Logboek", t =>
                         {
                             t.HasTrigger("TR_Logboek_Audit");
                         });
 
-                    b.HasAnnotation("SqlServer:UseSqlOutputClause", false);
+                    b
+                        .ToTable(tb => tb.IsTemporal(ttb =>
+                            {
+                                ttb.UseHistoryTable("LogboekHistorie");
+                                ttb
+                                    .HasPeriodStart("GeldigVanaf")
+                                    .HasColumnName("GeldigVanaf");
+                                ttb
+                                    .HasPeriodEnd("GeldigTot")
+                                    .HasColumnName("GeldigTot");
+                            }))
+                        .HasAnnotation("SqlServer:UseSqlOutputClause", false);
                 });
 
             modelBuilder.Entity("RevaliNow.Models.Medicatie", b =>
@@ -558,6 +588,8 @@ namespace RevaliNow.Migrations
 
                     b.ToTable("Oefenplannen", t =>
                         {
+                            t.HasTrigger("TR_Oefenplannen_Rolcontrole");
+
                             t.HasCheckConstraint("CK_Oefenplannen_FrequentiePerDag", "[FrequentiePerDag] BETWEEN 1 AND 10");
 
                             t.HasCheckConstraint("CK_Oefenplannen_Herhalingen", "[Herhalingen] BETWEEN 1 AND 100");
@@ -566,6 +598,8 @@ namespace RevaliNow.Migrations
 
                             t.HasCheckConstraint("CK_Oefenplannen_Sets", "[Sets] BETWEEN 1 AND 20");
                         });
+
+                    b.HasAnnotation("SqlServer:UseSqlOutputClause", false);
                 });
 
             modelBuilder.Entity("RevaliNow.Models.Patient", b =>
@@ -621,8 +655,12 @@ namespace RevaliNow.Migrations
 
                     b.ToTable("Patienten", t =>
                         {
+                            t.HasTrigger("TR_Patienten_Rolcontrole");
+
                             t.HasCheckConstraint("CK_Patienten_Email", "[Email] LIKE '%_@_%._%'");
                         });
+
+                    b.HasAnnotation("SqlServer:UseSqlOutputClause", false);
                 });
 
             modelBuilder.Entity("RevaliNow.Models.PatientRevalidatiearts", b =>
@@ -660,6 +698,16 @@ namespace RevaliNow.Migrations
                     b.Property<DateTime>("DatumTijdRegistratie")
                         .HasColumnType("datetime2");
 
+                    b.Property<DateTime>("GeldigTot")
+                        .ValueGeneratedOnAddOrUpdate()
+                        .HasColumnType("datetime2")
+                        .HasColumnName("GeldigTot");
+
+                    b.Property<DateTime>("GeldigVanaf")
+                        .ValueGeneratedOnAddOrUpdate()
+                        .HasColumnType("datetime2")
+                        .HasColumnName("GeldigVanaf");
+
                     b.Property<int>("PatientId")
                         .HasColumnType("int");
 
@@ -672,16 +720,32 @@ namespace RevaliNow.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("PatientId");
+                    b.HasIndex("PatientId", "DatumTijdRegistratie")
+                        .IsDescending(false, true);
+
+                    SqlServerIndexBuilderExtensions.IncludeProperties(b.HasIndex("PatientId", "DatumTijdRegistratie"), new[] { "PijnScore", "Toelichting" });
 
                     b.ToTable("PijnIndicaties", t =>
                         {
                             t.HasTrigger("TR_PijnIndicaties_Audit");
 
+                            t.HasTrigger("TR_PijnIndicaties_Validatie");
+
                             t.HasCheckConstraint("CK_PijnIndicaties_PijnScore", "[PijnScore] BETWEEN 0 AND 10");
                         });
 
-                    b.HasAnnotation("SqlServer:UseSqlOutputClause", false);
+                    b
+                        .ToTable(tb => tb.IsTemporal(ttb =>
+                            {
+                                ttb.UseHistoryTable("PijnIndicatiesHistorie");
+                                ttb
+                                    .HasPeriodStart("GeldigVanaf")
+                                    .HasColumnName("GeldigVanaf");
+                                ttb
+                                    .HasPeriodEnd("GeldigTot")
+                                    .HasColumnName("GeldigTot");
+                            }))
+                        .HasAnnotation("SqlServer:UseSqlOutputClause", false);
                 });
 
             modelBuilder.Entity("RevaliNow.Models.UitgevoerdeOefening", b =>
@@ -703,11 +767,15 @@ namespace RevaliNow.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("OefenplanId");
+                    b.HasIndex("OefenplanId", "DatumTijdAfgevinkt");
+
+                    SqlServerIndexBuilderExtensions.IncludeProperties(b.HasIndex("OefenplanId", "DatumTijdAfgevinkt"), new[] { "IsAfgevinkt" });
 
                     b.ToTable("UitgevoerdeOefeningen", t =>
                         {
                             t.HasTrigger("TR_UitgevoerdeOefeningen_Audit");
+
+                            t.HasTrigger("TR_UitgevoerdeOefeningen_Validatie");
                         });
 
                     b.HasAnnotation("SqlServer:UseSqlOutputClause", false);

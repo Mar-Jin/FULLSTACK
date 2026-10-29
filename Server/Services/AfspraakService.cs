@@ -9,27 +9,16 @@ public interface IAfspraakService
     Task<List<AfspraakDto>> GetAfsprakenAsync(int patientId);
 }
 
-public class AfspraakService(RevaliNowDbContext context, TimeProvider tijd) : IAfspraakService
+// Afspraken komen uit de view vw_AfspraakOverzicht (afspraak + naam van de arts in één query)
+public class AfspraakService(RevaliNowDbContext context) : IAfspraakService
 {
     // Alle afspraken op volgorde van datum; de frontend splitst ze in 'gepland' en 'eerder'
-    public async Task<List<AfspraakDto>> GetAfsprakenAsync(int patientId)
-    {
-        var nu = tijd.GetLocalNow().DateTime;
-
-        return await context.Afspraken
-            .AsNoTracking()
-            .Where(a => a.PatientId == patientId)
-            .OrderBy(a => a.DatumTijdAfspraak)
-            .Select(a => new AfspraakDto
-            {
-                Id = a.Id,
-                DatumTijdAfspraak = a.DatumTijdAfspraak,
-                DuurMinuten = a.DuurMinuten,
-                TypeAfspraak = a.TypeAfspraak,
-                Status = a.Status,
-                Revalidatiearts = a.Revalidatiearts!.Voornaam + " " + a.Revalidatiearts.Achternaam,
-                IsToekomstig = a.DatumTijdAfspraak >= nu
-            })
+    public async Task<List<AfspraakDto>> GetAfsprakenAsync(int patientId) =>
+        await context.Database.SqlQuery<AfspraakDto>($"""
+                SELECT Id, DatumTijdAfspraak, DuurMinuten, TypeAfspraak, Status, Revalidatiearts, IsToekomstig
+                FROM vw_AfspraakOverzicht
+                WHERE PatientId = {patientId}
+                ORDER BY DatumTijdAfspraak
+                """)
             .ToListAsync();
-    }
 }

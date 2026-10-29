@@ -5,7 +5,6 @@ using RevaliNow.Authorization;
 using RevaliNow.Data;
 using RevaliNow.Dtos;
 using RevaliNow.Models;
-using RevaliNow.Services;
 
 namespace RevaliNow.Controllers
 {
@@ -13,8 +12,7 @@ namespace RevaliNow.Controllers
     [ApiController]
     [Authorize(Roles = Rollen.Patient)]
     [AlleenEigenPatient]
-    public class PatientController(RevaliNowDbContext context, IOefenplanService oefenplanService,
-        IAfspraakService afspraakService) : ControllerBase
+    public class PatientController(RevaliNowDbContext context, TimeProvider tijd) : ControllerBase
     {
         private readonly RevaliNowDbContext _context = context;
 
@@ -34,41 +32,38 @@ namespace RevaliNow.Controllers
             return Ok(patient);
         }
 
+        // De oefeningen van vandaag haalt de frontend apart op (GET oefenplannen), zodat het dashboard en de
+        // oefenpagina dezelfde state delen.
         [HttpGet("dashboard")]
         public async Task<ActionResult<DashboardResponseDto>> GetDashboard(int patientId)
         {
-            var user = _context.Patienten.AsNoTracking().FirstOrDefault(p => p.Id == patientId);
+            var user = await _context.Patienten.AsNoTracking().FirstOrDefaultAsync(p => p.Id == patientId);
 
             if (user == null)
             {
                 return NotFound();
             }
 
-            var painData = _context.PijnIndicaties
+            // Registraties 'in de toekomst' (komen voor in de dataset) horen niet in de grafiek of bij 'recent'
+            var nu = tijd.GetLocalNow().DateTime;
+            var painData = await _context.PijnIndicaties
                 .AsNoTracking()
-                .Where(p => p.PatientId == patientId)
+                .Where(p => p.PatientId == patientId && p.DatumTijdRegistratie <= nu)
                 .OrderByDescending(p => p.DatumTijdRegistratie)
-                .ToList();
+                .ToListAsync();
 
-            var recentPains = painData
-                .Take(2)
-                .ToList();
-
-            // Zelfde berekening als op de oefenpagina, zodat de status van vandaag overal gelijk is
-            var upcomingExercises = (await oefenplanService.GetOefenplannenAsync(patientId))
-                .Where(op => op.IsActief)
-                .ToList();
-
-            var nextAppointment = (await afspraakService.GetAfsprakenAsync(patientId))
-                .FirstOrDefault(a => a.IsToekomstig);
+            // Laatste pijnscore, gemiddelde van 7 dagen en volgende afspraak in één aanroep
+            var samenvatting = (await _context.Database
+                    .SqlQuery<DashboardSamenvattingDto>($"EXEC sp_DashboardSamenvatting @PatientId = {patientId}")
+                    .ToListAsync())
+                .Single();
 
             var response = new DashboardResponseDto
             {
                 User = user,
-                RecentPains = recentPains,
+                RecentPains = painData.Take(2).ToList(),
                 PainData = painData,
-                UpcomingExercises = upcomingExercises,
-                NextAppointment = nextAppointment
+                Samenvatting = samenvatting
             };
 
             return Ok(response);

@@ -5,7 +5,8 @@
 
   const store = usePatientStore();
   // oefeningenVandaag komt uit dezelfde state als de oefenpagina: afvinken daar is hier direct zichtbaar
-  const { user, recentPains, oefeningenVandaag, nextAppointment } = storeToRefs(store);
+  // samenvatting komt uit één database-aanroep (sp_DashboardSamenvatting)
+  const { user, recentPains, oefeningenVandaag, samenvatting } = storeToRefs(store);
 </script>
 
 <template>
@@ -29,6 +30,14 @@
           <p>{{ formatDatumTijd(pain.datumTijdRegistratie) }}: <span class="text-red-600 font-bold">{{ pain.pijnScore }}/10</span> - {{ pain.toelichting }}</p>
         </li>
       </ul>
+      <p class="mt-2">
+        <template v-if="samenvatting.aantalMetingen7Dagen > 0">
+          <b>Gemiddeld de afgelopen 7 dagen:</b> {{ samenvatting.gemiddeldePijn7Dagen }}/10
+          ({{ samenvatting.aantalMetingen7Dagen }} {{ samenvatting.aantalMetingen7Dagen === 1 ? 'meting' : 'metingen' }})
+        </template>
+        <span v-else class="italic">Je hebt de afgelopen 7 dagen geen pijn geregistreerd.</span>
+      </p>
+      <router-link to="/pain" class="inline-block mt-2 text-blue-700 underline hover:text-red-600">Pijn registreren</router-link>
     </section>
 
     <!-- Geplande Oefeningen -->
@@ -56,12 +65,12 @@
       <div class="bg-[#003366] text-white px-3 py-1 border-b-2 border-gray-400 flex items-center">
         <h2 class="text-base font-['Times_New_Roman']">Eerstvolgende Afspraak</h2>
       </div>
-      <div v-if="nextAppointment" class="mt-2">
-        <p><b>Datum:</b> {{ formatDatumTijd(nextAppointment.datumTijdAfspraak) }}</p>
-        <p><b>Duur:</b> {{ nextAppointment.duurMinuten }} minuten</p>
-        <p><b>Type:</b> {{ nextAppointment.typeAfspraak }}</p>
-        <p><b>Arts:</b> {{ nextAppointment.revalidatiearts }}</p>
-        <p><b>Status:</b> {{ nextAppointment.status }}</p>
+      <div v-if="samenvatting.volgendeAfspraakDatum" class="mt-2">
+        <p><b>Datum:</b> {{ formatDatumTijd(samenvatting.volgendeAfspraakDatum) }}</p>
+        <p><b>Duur:</b> {{ samenvatting.volgendeAfspraakDuur }} minuten</p>
+        <p><b>Type:</b> {{ samenvatting.volgendeAfspraakType }}</p>
+        <p><b>Arts:</b> {{ samenvatting.volgendeAfspraakArts }}</p>
+        <p><b>Status:</b> {{ samenvatting.volgendeAfspraakStatus }}</p>
       </div>
       <div v-else class="italic mt-2">
         Geen afspraken gepland.

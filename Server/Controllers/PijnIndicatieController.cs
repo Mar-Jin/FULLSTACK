@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RevaliNow.Authorization;
 using RevaliNow.Data;
+using RevaliNow.Dtos;
 using RevaliNow.Models;
 
 namespace RevaliNow.Controllers
@@ -11,7 +12,7 @@ namespace RevaliNow.Controllers
     [ApiController]
     [Authorize(Roles = Rollen.Patient)]
     [AlleenEigenPatient]
-    public class PijnIndicatieController(RevaliNowDbContext context) : ControllerBase
+    public class PijnIndicatieController(RevaliNowDbContext context, TimeProvider tijd) : ControllerBase
     {
         private readonly RevaliNowDbContext _context = context;
 
@@ -25,6 +26,15 @@ namespace RevaliNow.Controllers
                 .ToList();
 
             return Ok(pijnindicaties);
+        }
+
+        // GET patienten/5/pijnindicaties/per-week: weekgemiddelde, berekend in de database (sp_PijnverloopPerWeek)
+        [HttpGet("per-week")]
+        public async Task<ActionResult<List<PijnWeekDto>>> GetPerWeek(int patientId)
+        {
+            return Ok(await _context.Database
+                .SqlQuery<PijnWeekDto>($"EXEC sp_PijnverloopPerWeek @PatientId = {patientId}")
+                .ToListAsync());
         }
 
         [HttpGet("{id:int}")]
@@ -49,7 +59,7 @@ namespace RevaliNow.Controllers
             // zodat een cliënt nooit voor iemand anders of met een verzonnen datum kan registreren.
             pijnIndicatie.Id = 0;
             pijnIndicatie.PatientId = patientId;
-            pijnIndicatie.DatumTijdRegistratie = DateTime.Now;
+            pijnIndicatie.DatumTijdRegistratie = tijd.GetLocalNow().DateTime;
 
             _context.PijnIndicaties.Add(pijnIndicatie);
             _context.SaveChanges();

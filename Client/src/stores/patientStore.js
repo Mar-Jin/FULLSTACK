@@ -15,7 +15,8 @@ export const usePatientStore = defineStore('patient', {
     user: {},
     recentPains: [],
     painData: [],
-    nextAppointment: null,
+    pijnPerWeek: [],
+    samenvatting: {},
     oefenplannen: [],
     logboek: [],
     afspraken: [],
@@ -43,7 +44,7 @@ export const usePatientStore = defineStore('patient', {
         this.user = dashboard.data.user
         this.recentPains = dashboard.data.recentPains
         this.painData = dashboard.data.painData
-        this.nextAppointment = dashboard.data.nextAppointment
+        this.samenvatting = dashboard.data.samenvatting
         this.oefenplannen = oefenplannen.data
       } catch (err) {
         console.error(err)
@@ -55,7 +56,12 @@ export const usePatientStore = defineStore('patient', {
 
     async registreerPijn(pijnScore, toelichting) {
       await api.post(`${basisUrl()}/pijnindicaties`, { pijnScore, toelichting })
-      await this.fetchData()
+      await Promise.all([this.fetchData(), this.fetchPijnPerWeek()])
+    },
+
+    async fetchPijnPerWeek() {
+      const response = await api.get(`${basisUrl()}/pijnindicaties/per-week`)
+      this.pijnPerWeek = response.data
     },
 
     // Afvinken (true) of ongedaan maken (false); de server geeft de bijgewerkte voortgang terug

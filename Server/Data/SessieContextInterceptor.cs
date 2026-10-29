@@ -6,7 +6,7 @@ using RevaliNow.Services;
 namespace RevaliNow.Data;
 
 // Geeft bij elke databaseverbinding door wie er is ingelogd (SESSION_CONTEXT in SQL Server).
-// De audit-triggers lezen dit uit om vast te leggen welke gebruiker een wijziging deed.
+// Row-level security gebruikt dit om rijen te filteren, en de audit-triggers om vast te leggen wie iets wijzigde.
 // SQL Server wist de sessiecontext zelf zodra een verbinding terug in de pool gaat (sp_reset_connection),
 // dus de gegevens van de ene gebruiker kunnen niet bij een volgend verzoek terechtkomen.
 public class SessieContextInterceptor(IHttpContextAccessor httpContextAccessor) : DbConnectionInterceptor
@@ -32,10 +32,12 @@ public class SessieContextInterceptor(IHttpContextAccessor httpContextAccessor) 
             return null;
 
         var command = connection.CreateCommand();
+        // @read_only = 1: binnen deze verbinding kan niemand de waarden daarna nog aanpassen
+        // (ook niet via een SQL-injectie), dus row-level security kan er blind op vertrouwen.
         command.CommandText = """
-            EXEC sp_set_session_context @key = N'GebruikerId', @value = @gebruikerId;
-            EXEC sp_set_session_context @key = N'PatientId', @value = @patientId;
-            EXEC sp_set_session_context @key = N'Rol', @value = @rol;
+            EXEC sp_set_session_context @key = N'GebruikerId', @value = @gebruikerId, @read_only = 1;
+            EXEC sp_set_session_context @key = N'PatientId', @value = @patientId, @read_only = 1;
+            EXEC sp_set_session_context @key = N'Rol', @value = @rol, @read_only = 1;
             """;
         VoegParameterToe(command, "@gebruikerId", ParseInt(user.FindFirstValue(ClaimTypes.NameIdentifier)));
         VoegParameterToe(command, "@patientId", ParseInt(user.FindFirstValue(TokenService.PatientIdClaim)));

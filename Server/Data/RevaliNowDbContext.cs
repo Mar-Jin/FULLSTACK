@@ -61,7 +61,11 @@ namespace RevaliNow.Data
             {
                 e.HasIndex(p => p.Email).IsUnique();
                 e.HasOne(p => p.Huisarts).WithMany().HasForeignKey(p => p.HuisartsId);
-                e.ToTable(t => t.HasCheckConstraint("CK_Patienten_Email", "[Email] LIKE '%_@_%._%'"));
+                e.ToTable(t =>
+                {
+                    t.HasCheckConstraint("CK_Patienten_Email", "[Email] LIKE '%_@_%._%'");
+                    t.HasTrigger("TR_Patienten_Rolcontrole");
+                });
             });
 
             modelBuilder.Entity<PatientRevalidatiearts>(e =>
@@ -81,11 +85,15 @@ namespace RevaliNow.Data
             modelBuilder.Entity<Afspraak>(e =>
             {
                 e.HasOne(a => a.Revalidatiearts).WithMany().HasForeignKey(a => a.RevalidatieartsId);
+                // Eerstvolgende afspraak / overzicht per cliënt: zoeken op patiënt, gesorteerd op datum
+                e.HasIndex(a => new { a.PatientId, a.DatumTijdAfspraak })
+                    .IncludeProperties(a => new { a.RevalidatieartsId, a.DuurMinuten, a.TypeAfspraak, a.Status });
                 e.ToTable(t =>
                 {
                     t.HasCheckConstraint("CK_Afspraken_DuurMinuten", "[DuurMinuten] BETWEEN 1 AND 480");
                     t.HasCheckConstraint("CK_Afspraken_TypeAfspraak", "[TypeAfspraak] IN ('Intake', 'Controle')");
                     t.HasCheckConstraint("CK_Afspraken_Status", "[Status] IN ('Gepland', 'Afgerond')");
+                    t.HasTrigger("TR_Afspraken_Rolcontrole");
                 });
             });
 
@@ -101,22 +109,67 @@ namespace RevaliNow.Data
                     t.HasCheckConstraint("CK_Oefenplannen_Herhalingen", "[Herhalingen] BETWEEN 1 AND 100");
                     t.HasCheckConstraint("CK_Oefenplannen_Sets", "[Sets] BETWEEN 1 AND 20");
                     t.HasCheckConstraint("CK_Oefenplannen_FrequentiePerDag", "[FrequentiePerDag] BETWEEN 1 AND 10");
+                    t.HasTrigger("TR_Oefenplannen_Rolcontrole");
                 });
             });
 
-            modelBuilder.Entity<PijnIndicatie>()
-                .ToTable(t =>
+            // Tabellen met triggers (audit: migratie AuditTrail, validatie: migratie ValidatieTriggers).
+            // EF moet dat weten, omdat SQL Server anders de OUTPUT-clausule weigert die EF standaard
+            // gebruikt bij INSERT/UPDATE.
+            //
+            // Temporal tables: SQL Server bewaart automatisch elke vorige versie van een rij in een
+            // historietabel, met de periode waarin die versie geldig was. Voor de tabellen die de cliënt
+            // zelf wijzigt, zodat altijd terug te zien is hoe iets eruitzag vóór een bewerking of verwijdering.
+            modelBuilder.Entity<PijnIndicatie>(e =>
+            {
+                // Dashboard en grafiek: pijn van één cliënt, nieuwste eerst
+                e.HasIndex(p => new { p.PatientId, p.DatumTijdRegistratie })
+                    .IsDescending(false, true)
+                    .IncludeProperties(p => new { p.PijnScore, p.Toelichting });
+                e.ToTable(t =>
                 {
                     t.HasCheckConstraint("CK_PijnIndicaties_PijnScore", "[PijnScore] BETWEEN 0 AND 10");
                     t.HasTrigger("TR_PijnIndicaties_Audit");
+                    t.HasTrigger("TR_PijnIndicaties_Validatie");
+                    t.IsTemporal(h =>
+                    {
+                        h.HasPeriodStart("GeldigVanaf");
+                        h.HasPeriodEnd("GeldigTot");
+                        h.UseHistoryTable("PijnIndicatiesHistorie");
+                    });
                 });
+            });
 
-            // Tabellen met een audit-trigger (zie migratie AuditTrail). EF moet dat weten, omdat SQL Server
-            // anders de OUTPUT-clausule weigert die EF standaard gebruikt bij INSERT/UPDATE.
-            modelBuilder.Entity<Logboek>()
-                .ToTable(t => t.HasTrigger("TR_Logboek_Audit"));
-            modelBuilder.Entity<UitgevoerdeOefening>()
-                .ToTable(t => t.HasTrigger("TR_UitgevoerdeOefeningen_Audit"));
+            modelBuilder.Entity<Logboek>(e =>
+            {
+                // Logboek van één cliënt, nieuwste eerst
+                e.HasIndex(l => new { l.PatientId, l.DatumTijdActiviteit })
+                    .IsDescending(false, true)
+                    .IncludeProperties(l => l.Beschrijving);
+                e.ToTable(t =>
+                {
+                    t.HasTrigger("TR_Logboek_Audit");
+                    t.IsTemporal(h =>
+                    {
+                        h.HasPeriodStart("GeldigVanaf");
+                        h.HasPeriodEnd("GeldigTot");
+                        h.UseHistoryTable("LogboekHistorie");
+                    });
+                });
+            });
+
+            modelBuilder.Entity<UitgevoerdeOefening>(e =>
+            {
+                // Grootste tabel (28.000+ rijen). De voortgang van vandaag zoekt per oefenplan binnen één dag;
+                // IsAfgevinkt zit in de index zodat SQL Server de tabel zelf niet hoeft te lezen.
+                e.HasIndex(u => new { u.OefenplanId, u.DatumTijdAfgevinkt })
+                    .IncludeProperties(u => u.IsAfgevinkt);
+                e.ToTable(t =>
+                {
+                    t.HasTrigger("TR_UitgevoerdeOefeningen_Audit");
+                    t.HasTrigger("TR_UitgevoerdeOefeningen_Validatie");
+                });
+            });
 
             modelBuilder.Entity<AuditLog>(e =>
             {

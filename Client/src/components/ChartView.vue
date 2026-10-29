@@ -20,17 +20,21 @@ ChartJS.register(
   LineElement, CategoryScale, LinearScale, PointElement, TimeScale
 );
 
+// Generieke pijngrafiek: de parent zet de data om naar punten { datum, score, toelichting },
+// zodat dezelfde component werkt voor losse metingen en voor weekgemiddelden.
 const props = defineProps({
-  painData: { type: Array, default: () => [] }
+  punten: { type: Array, default: () => [] },
+  label: { type: String, default: 'Pijnscore' },
+  eenheid: { type: String, default: 'day' } // tijdseenheid van de x-as: 'day' of 'week'
 });
 
 // computed: de grafiek werkt zichzelf bij zodra de data binnenkomt of er een nieuwe registratie bij komt
 const chartData = computed(() => ({
-  labels: props.painData.map(d => d.datumTijdRegistratie),
+  labels: props.punten.map(p => p.datum),
   datasets: [
     {
-      label: 'Pijnscore',
-      data: props.painData.map(d => d.pijnScore),
+      label: props.label,
+      data: props.punten.map(p => p.score),
       fill: false,
       borderColor: 'rgb(75, 192, 192)',
       tension: 0.3,
@@ -39,15 +43,14 @@ const chartData = computed(() => ({
 }));
 
 
-const chartOptions = {
+const chartOptions = computed(() => ({
   responsive: true,
   plugins: {
     tooltip: {
       callbacks: {
         label(context) {
-          const index = context.dataIndex;
-          const toelichting = props.painData[index].toelichting || '';
-          return `Pijnscore: ${context.parsed.y} (${toelichting})`;
+          const toelichting = props.punten[context.dataIndex]?.toelichting;
+          return `${props.label}: ${context.parsed.y}${toelichting ? ` (${toelichting})` : ''}`;
         }
       }
     }
@@ -56,7 +59,7 @@ const chartOptions = {
     x: {
       type: 'time',
       time: {
-        unit: 'day'
+        unit: props.eenheid
       },
       title: {
         display: true,
@@ -72,7 +75,7 @@ const chartOptions = {
       }
     }
   }
-};
+}));
 </script>
 
 <template>

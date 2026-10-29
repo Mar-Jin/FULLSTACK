@@ -18,6 +18,9 @@ public class FoutAfhandeling(ILogger<FoutAfhandeling> logger) : IExceptionHandle
             // 547 = een CHECK- of FOREIGN KEY-constraint in de database weigert de wijziging
             DbUpdateException { InnerException: SqlException { Number: 547 } } =>
                 (StatusCodes.Status400BadRequest, "De gegevens voldoen niet aan de regels van de database."),
+            // Eigen foutnummers uit triggers en stored procedures (THROW 50xxx): de melding is voor de gebruiker bedoeld
+            DbUpdateException { InnerException: SqlException e } when IsEigenFout(e) => VanEigenFout(e),
+            SqlException e when IsEigenFout(e) => VanEigenFout(e),
             _ => (StatusCodes.Status500InternalServerError, "Er ging iets mis op de server.")
         };
 
@@ -34,4 +37,10 @@ public class FoutAfhandeling(ILogger<FoutAfhandeling> logger) : IExceptionHandle
 
         return true;
     }
+
+    private static bool IsEigenFout(SqlException e) => e.Number is >= 50000 and <= 50999;
+
+    // 50404 = 'niet gevonden' (bijv. een oefenplan dat niet bij deze patiënt hoort), de rest = bedrijfsregel
+    private static (int, string) VanEigenFout(SqlException e) =>
+        (e.Number == 50404 ? StatusCodes.Status404NotFound : StatusCodes.Status400BadRequest, e.Message);
 }

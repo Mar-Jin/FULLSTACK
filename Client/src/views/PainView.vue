@@ -1,14 +1,40 @@
 <script setup>
 import ChartView from '@/components/ChartView.vue';
-import { ref } from 'vue';
+import FilterTabs from '@/components/FilterTabs.vue';
+import { ref, computed, onMounted } from 'vue';
 import { usePatientStore } from '@/stores/patientStore';
 import { useMelding } from '@/composables/useMelding';
 import StatusMelding from '@/components/StatusMelding.vue';
 import { storeToRefs } from 'pinia';
 
 const store = usePatientStore();
-const { painData } = storeToRefs(store);
+const { painData, pijnPerWeek } = storeToRefs(store);
 const { melding, toonSucces, toonFout, sluit } = useMelding();
+
+// Grafiek: elke meting apart, of het weekgemiddelde (berekend in de database)
+const weergave = ref('metingen');
+const weergaveOpties = [
+  { waarde: 'metingen', label: 'Per meting' },
+  { waarde: 'week', label: 'Weekgemiddelde' }
+];
+
+onMounted(async () => {
+  try {
+    await store.fetchPijnPerWeek();
+  } catch (err) {
+    toonFout(err, 'Het weekoverzicht kon niet worden geladen.');
+  }
+});
+
+const grafiekPunten = computed(() =>
+  weergave.value === 'week'
+    ? pijnPerWeek.value.map((w) => ({
+        datum: w.weekStart,
+        score: w.gemiddeldePijn,
+        toelichting: `${w.aantalMetingen} metingen, laagste ${w.laagstePijn}, hoogste ${w.hoogstePijn}`
+      }))
+    : painData.value.map((p) => ({ datum: p.datumTijdRegistratie, score: p.pijnScore, toelichting: p.toelichting }))
+);
 const painScore = ref(5);
 const toelichting = ref('');
 const error = ref('');
@@ -78,6 +104,12 @@ async function submitPijnindicatie() {
     </form>
 
     <h2 class="text-3xl font-bold mt-10 mb-4 font-['Times_New_Roman']">Eerdere pijnindicaties</h2>
-    <ChartView :pain-data="painData" class="mt-8" />
+    <FilterTabs v-model="weergave" :opties="weergaveOpties" label="Kies hoe de grafiek de pijnscores toont" />
+    <ChartView
+      :punten="grafiekPunten"
+      :label="weergave === 'week' ? 'Gemiddelde pijnscore' : 'Pijnscore'"
+      :eenheid="weergave === 'week' ? 'week' : 'day'"
+      class="mt-4"
+    />
   </main>
 </template>

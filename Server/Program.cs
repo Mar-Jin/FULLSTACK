@@ -15,7 +15,10 @@ string Verplicht(string sleutel) =>
         ? waarde
         : throw new InvalidOperationException($"Configuratiewaarde '{sleutel}' ontbreekt. Zie de README.");
 
+// Twee verbindingen: de API zelf draait met een beperkte login (rol_api, row-level security),
+// migraties en seeden draaien met de beheerverbinding
 var connectionString = Verplicht("ConnectionStrings:DefaultConnection");
+var beheerConnectionString = Verplicht("ConnectionStrings:Beheer");
 var jwtKey = Verplicht("Jwt:Key");
 if (Encoding.UTF8.GetByteCount(jwtKey) < 32)
     throw new InvalidOperationException("Jwt:Key moet minstens 32 tekens lang zijn.");
@@ -97,16 +100,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-using (var scope = app.Services.CreateScope())
-{
-    var context = scope.ServiceProvider.GetRequiredService<RevaliNowDbContext>();
-
-    // Maakt de database aan (migraties) en vult hem bij de eerste start met de dataset
-    context.Database.Migrate();
-    DbSeeder.Seed(context, Verplicht("Seed:PatientWachtwoord"));
-
-    Console.WriteLine("--- Database gemigreerd en gevuld met testdata ---");
-}
+// Maakt de database aan (migraties), vult hem bij de eerste start met de dataset en zet de API-login klaar
+DatabaseInitializer.Initialiseer(beheerConnectionString, connectionString, Verplicht("Seed:PatientWachtwoord"));
+Console.WriteLine("--- Database gemigreerd en gevuld met testdata ---");
 
 // app.UseHttpsRedirection(); // Optioneel: in Docker dev vaak uitgezet om SSL gedoe te voorkomen
 
