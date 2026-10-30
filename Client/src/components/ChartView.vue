@@ -14,6 +14,7 @@ import {
   TimeScale,
 } from 'chart.js';
 import 'chartjs-adapter-date-fns';
+import { nl } from 'date-fns/locale';
 
 ChartJS.register(
   Title, Tooltip, Legend,
@@ -50,8 +51,10 @@ const chartData = computed(() => ({
       label: props.label,
       data: props.punten.map(p => p.score),
       fill: false,
-      borderColor: 'rgb(75, 192, 192)',
-      tension: 0.3,
+      borderColor: '#003366',
+      backgroundColor: '#003366',
+      // Rechte lijnen: een vloeiende curve zou tussen twee metingen waarden tonen die nooit gemeten zijn
+      tension: 0,
     }
   ]
 }));
@@ -72,6 +75,8 @@ const chartOptions = computed(() => ({
   scales: {
     x: {
       type: 'time',
+      // Nederlandse datums op de as ('1 okt.' in plaats van 'Oct 1')
+      adapters: { date: { locale: nl } },
       time: {
         unit: props.eenheid
       },
@@ -99,8 +104,8 @@ const chartOptions = computed(() => ({
     </div>
     <figcaption class="mt-2 text-sm">{{ samenvatting }}</figcaption>
     <details v-if="punten.length" class="mt-2">
-      <summary class="cursor-pointer underline text-blue-700">Toon de gegevens als tabel</summary>
-      <table class="mt-2 border-collapse text-sm">
+      <summary class="cursor-pointer underline text-blue-700 hover:text-red-700">Toon de gegevens als tabel</summary>
+      <table class="mt-2 border-collapse text-sm bg-white">
         <caption class="sr-only">{{ label }} per datum</caption>
         <thead>
           <tr>

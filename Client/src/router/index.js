@@ -33,7 +33,7 @@ const router = createRouter({
       path: '/pain',
       name: 'pain',
       component: () => import('../views/PainView.vue'),
-      meta: { vereistLogin: true, titel: 'Pijnregistratie' }
+      meta: { vereistLogin: true, titel: 'Mijn pijnindicaties' }
     },
     {
       path: '/appointments',

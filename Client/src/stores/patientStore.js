@@ -48,15 +48,23 @@ export const usePatientStore = defineStore('patient', {
         this.oefenplannen = oefenplannen.data
       } catch (err) {
         console.error(err)
-        this.error = foutmelding(err, 'Fout bij het ophalen van data')
+        this.error = foutmelding(err, 'De gegevens konden niet worden geladen. Controleer je verbinding en probeer het opnieuw.')
       } finally {
         this.loading = false
       }
     },
 
+    // Alleen het dashboard opnieuw ophalen (bijv. na een logboekregel: 'Activiteit loggen' wordt dan 'Gedaan vandaag')
+    async verversDashboard() {
+      const response = await api.get(`${basisUrl()}/dashboard`)
+      this.recentPains = response.data.recentPains
+      this.painData = response.data.painData
+      this.samenvatting = response.data.samenvatting
+    },
+
     async registreerPijn(pijnScore, toelichting) {
       await api.post(`${basisUrl()}/pijnindicaties`, { pijnScore, toelichting })
-      await Promise.all([this.fetchData(), this.fetchPijnPerWeek()])
+      await Promise.all([this.verversDashboard(), this.fetchPijnPerWeek()])
     },
 
     async fetchPijnPerWeek() {
@@ -79,6 +87,7 @@ export const usePatientStore = defineStore('patient', {
     async logboekToevoegen(beschrijving) {
       const response = await api.post(`${basisUrl()}/logboek`, { beschrijving })
       this.logboek.unshift(response.data)
+      await this.verversDashboard()
     },
 
     async logboekBewerken(id, beschrijving) {
@@ -90,6 +99,7 @@ export const usePatientStore = defineStore('patient', {
     async logboekVerwijderen(id) {
       await api.delete(`${basisUrl()}/logboek/${id}`)
       this.logboek = this.logboek.filter((l) => l.id !== id)
+      await this.verversDashboard()
     },
 
     async fetchAfspraken() {

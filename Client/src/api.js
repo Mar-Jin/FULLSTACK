@@ -20,7 +20,8 @@ api.interceptors.response.use(
   (error) => {
     if (error.response?.status === 401 && !error.config.url.includes('/auth/login')) {
       useAuthStore().logout();
-      router.push({ name: 'login' });
+      // De loginpagina legt uit waarom je opnieuw moet inloggen
+      router.push({ name: 'login', query: { sessie: 'verlopen' } });
     }
     return Promise.reject(error);
   }

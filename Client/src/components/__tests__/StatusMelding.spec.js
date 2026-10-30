@@ -17,6 +17,13 @@ describe('StatusMelding', () => {
     expect(wrapper.find('[role="status"]').text()).toBe('')
   })
 
+  it('toont een informatiemelding rustig in de status-region, niet als fout', () => {
+    const wrapper = mount(StatusMelding, { props: { type: 'info', tekst: 'Je sessie is verlopen.' } })
+
+    expect(wrapper.find('[role="status"]').text()).toContain('Je sessie is verlopen.')
+    expect(wrapper.find('[role="alert"]').text()).toBe('')
+  })
+
   it('beide live regions bestaan ook zonder melding (anders lezen schermlezers de eerste melding niet voor)', () => {
     const wrapper = mount(StatusMelding, { props: { tekst: '' } })
 

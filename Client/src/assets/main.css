@@ -1,7 +1,6 @@
-@import './base.css';
 @import "tailwindcss";
-
-/* Eventuele extra globale stijlen */
+/* In de base-layer: anders wint deze (ongelaagde) CSS van elke Tailwind-klasse, zoals mb-3 of font-bold */
+@import './base.css' layer(base);
 
 /* Houd altijd ruimte vrij voor de scrollbalk. Anders wordt de pagina smaller zodra er een scrollbalk
    verschijnt (op lange pagina's) en verspringen de navigatie en de kaders bij het wisselen van pagina. */
@@ -9,20 +8,76 @@ html {
   scrollbar-gutter: stable;
 }
 
-body {
-  font-family: 'Inter', sans-serif; /* mooie moderne font */
-  background-color: #f3f4f6; /* fallback achtergrondkleur */
-}
-
 /* Links mooi laten overgaan bij hover */
 a {
   transition: color 0.2s;
 }
 
-/* Material icons grootte aanpassen indien nodig */
-.material-icons {
-  vertical-align: middle;
+/* De RevaliNow-kaderstijl: wit paneel met grijze rand en harde schaduw.
+   Gebruikt voor de zijbalk en het inhoudspaneel, zodat elke pagina er hetzelfde uitziet. */
+.paneel {
+  background-color: var(--kleur-paneel);
+  border: 2px solid var(--kleur-rand);
+  box-shadow: 4px 4px 0 var(--kleur-schaduw);
 }
+
+@layer components {
+  /* Knoppen uit het design: hoofdactie navy, overige acties wit met grijze rand.
+     Minstens 44px hoog, zodat ze ook met een trillende hand of op een touchscreen goed te raken zijn. */
+  .knop-primair,
+  .knop-secundair {
+    min-height: 44px;
+    padding: 0 14px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .knop-primair {
+    background-color: var(--kleur-primair);
+    border: 2px solid var(--kleur-primair);
+    color: #ffffff;
+    font-weight: 700;
+  }
+  .knop-primair:hover {
+    background-color: var(--kleur-primair-hover);
+  }
+  .knop-secundair {
+    background-color: var(--kleur-paneel);
+    border: 2px solid var(--kleur-rand);
+    color: var(--kleur-tekst);
+  }
+  .knop-secundair:hover {
+    background-color: var(--kleur-achtergrond);
+  }
+  .knop-primair:disabled,
+  .knop-secundair:disabled {
+    opacity: 0.5;
+    cursor: default;
+  }
+
+  /* Invoervelden in dezelfde stijl: witte achtergrond, duidelijke rand */
+  .invoer {
+    width: 100%;
+    box-sizing: border-box;
+    background-color: var(--kleur-paneel);
+    border: 2px solid var(--kleur-rand-licht);
+    padding: 8px 10px;
+    font: inherit;
+    color: inherit;
+  }
+}
+
+/* Korte markering als je via 'Bekijken' op het dashboard bij een oefening komt */
+@keyframes markeer {
+  from { box-shadow: 0 0 0 4px var(--kleur-focus); }
+  to { box-shadow: 0 0 0 4px transparent; }
+}
+.gemarkeerd {
+  animation: markeer 2.5s ease-out;
+}
+@media (prefers-reduced-motion: reduce) {
+  .gemarkeerd { animation: none; box-shadow: 0 0 0 4px var(--kleur-focus); }
+}
+
 /* Duidelijk zichtbare focus voor wie met het toetsenbord werkt (WCAG 2.4.7).
    :focus-visible = alleen bij toetsenbordgebruik, niet bij een muisklik. */
 a:focus-visible,
@@ -31,7 +86,7 @@ input:focus-visible,
 textarea:focus-visible,
 select:focus-visible,
 summary:focus-visible {
-  outline: 3px solid #f59e0b;
+  outline: 3px solid var(--kleur-focus);
   outline-offset: 2px;
 }
 

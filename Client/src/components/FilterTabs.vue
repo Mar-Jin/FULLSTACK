@@ -33,7 +33,7 @@ function onKeydown(event, index) {
 </script>
 
 <template>
-  <div role="tablist" :aria-label="label" class="flex gap-2 mb-4">
+  <div role="tablist" :aria-label="label" class="flex flex-wrap gap-2">
     <button
       v-for="(optie, index) in opties"
       :key="optie.waarde"
@@ -42,8 +42,8 @@ function onKeydown(event, index) {
       role="tab"
       :aria-selected="model === optie.waarde"
       :tabindex="model === optie.waarde ? 0 : -1"
-      class="border-2 border-gray-500 px-3 py-1 font-['Verdana'] focus:outline-none focus-visible:ring-4 focus-visible:ring-yellow-400"
-      :class="model === optie.waarde ? 'bg-[#003366] text-white' : 'bg-gray-100 text-[#000080]'"
+      class="min-h-11 border-2 border-gray-500 px-3.5 font-['Verdana'] text-sm"
+      :class="model === optie.waarde ? 'bg-[#003366] text-white font-bold' : 'bg-white text-[#000080]'"
       @click="kies(index)"
       @keydown="onKeydown($event, index)"
     >

@@ -7,7 +7,9 @@ defineProps({
   itemKey: { type: String, default: 'id' },
   label: { type: String, required: true },
   leegTekst: { type: String, default: 'Er is nog niets om te tonen.' },
-  laden: { type: Boolean, default: false }
+  laden: { type: Boolean, default: false },
+  // Optioneel: extra opmaak per item, bijv. een lichtere kaart voor eerdere afspraken
+  itemKlasse: { type: Function, default: () => 'border-gray-400 bg-gray-100' }
 });
 </script>
 
@@ -18,7 +20,8 @@ defineProps({
     <li
       v-for="item in items"
       :key="item[itemKey]"
-      class="mb-4 border border-gray-400 p-3 bg-gray-100 rounded"
+      class="mb-3 border p-3"
+      :class="itemKlasse(item)"
     >
       <slot name="item" :item="item" />
     </li>

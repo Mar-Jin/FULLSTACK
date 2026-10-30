@@ -20,6 +20,10 @@
         public string? VolgendeAfspraakType { get; set; }
         public string? VolgendeAfspraakStatus { get; set; }
         public string? VolgendeAfspraakArts { get; set; }
+
+        // Aantal pijnregistraties en logboekregels van vandaag ('Vandaag te doen' op het dashboard)
+        public int PijnVandaag { get; set; }
+        public int LogboekVandaag { get; set; }
     }
 
     // Resultaat van sp_PijnverloopPerWeek

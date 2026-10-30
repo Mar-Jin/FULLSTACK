@@ -33,18 +33,18 @@ watch(() => props.open, async (open) => {
     ref="dialoog"
     aria-labelledby="bevestigTitel"
     aria-describedby="bevestigTekst"
-    class="m-auto max-w-md border-2 border-gray-500 bg-white p-4 shadow-[4px_4px_0_#404040] font-['Verdana'] text-[#000080] backdrop:bg-black/40"
+    class="m-auto w-full max-w-[460px] border-2 border-gray-500 bg-white p-6 shadow-[4px_4px_0_#404040] font-['Verdana'] text-[#000080] backdrop:bg-gray-900/55"
     @cancel.prevent="emit('annuleer')"
   >
     <h2 id="bevestigTitel" class="text-xl font-bold mb-2 font-['Times_New_Roman']">{{ titel }}</h2>
     <div id="bevestigTekst" class="mb-4">
       <slot />
     </div>
-    <div class="flex justify-end gap-2">
-      <button ref="annuleerKnop" type="button" class="border border-gray-500 px-3 py-1 rounded" @click="emit('annuleer')">
+    <div class="flex flex-wrap justify-end gap-2">
+      <button ref="annuleerKnop" type="button" class="knop-secundair font-bold" @click="emit('annuleer')">
         Annuleren
       </button>
-      <button type="button" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded" @click="emit('bevestig')">
+      <button type="button" class="knop-primair" @click="emit('bevestig')">
         {{ bevestigTekst }}
       </button>
     </div>

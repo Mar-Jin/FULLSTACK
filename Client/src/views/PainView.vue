@@ -5,6 +5,7 @@ import { ref, computed, onMounted } from 'vue';
 import { usePatientStore } from '@/stores/patientStore';
 import { useMelding } from '@/composables/useMelding';
 import StatusMelding from '@/components/StatusMelding.vue';
+import KaderSectie from '@/components/KaderSectie.vue';
 import { storeToRefs } from 'pinia';
 
 const store = usePatientStore();
@@ -60,14 +61,17 @@ async function submitPijnindicatie() {
 </script>
 
 <template>
-  <div class="w-4/5 mx-auto my-6 bg-white border-2 border-gray-500 shadow-[4px_4px_0_#404040] p-4 font-['Verdana'] text-[#000080] bg-[url('https://www.transparenttextures.com/patterns/grey-wash-wall.png')]">
-    <h1 class="text-3xl font-bold mb-4 font-['Times_New_Roman']">Pijnindicatie Registreren</h1>
+  <div class="flex flex-col gap-5">
+    <h1 class="m-0 text-3xl font-bold font-['Times_New_Roman']">Mijn pijnindicaties</h1>
 
     <StatusMelding :type="melding.type" :tekst="melding.tekst" @sluiten="sluit" />
 
+    <!-- Formulier en grafiek naast elkaar: je nieuwe score zie je meteen in het verloop -->
+    <div class="flex flex-wrap gap-6 items-start">
+    <KaderSectie titel="Pijn registreren" kop-id="pijn-invoer-kop" class="flex-[1_1_320px] min-w-0">
     <form @submit.prevent="submitPijnindicatie" novalidate>
       <div class="mb-6">
-        <label for="painScore" class="block mb-2 font-semibold font-['Times_New_Roman']">Pijnscore (0-10)*</label>
+        <label for="painScore" class="block mb-2 font-bold">Hoeveel pijn heb je nu?</label>
         <input
           id="painScore"
           type="range"
@@ -75,41 +79,48 @@ async function submitPijnindicatie() {
           min="0"
           max="10"
           step="1"
-          class="w-full"
+          class="w-full min-h-11 accent-[#003366]"
           :aria-valuetext="`${painScore} van 10`"
           aria-describedby="painScoreUitleg"
         />
         <p id="painScoreUitleg" class="flex justify-between text-sm"><span>0 = geen pijn</span><span>10 = ondraaglijke pijn</span></p>
-        <div class="text-center mt-2 font-bold text-lg" aria-hidden="true">{{ painScore }}</div>
+        <div class="text-center mt-2 font-['Times_New_Roman'] font-bold text-3xl" aria-hidden="true">{{ painScore }}</div>
         <p v-if="error" class="text-red-700 mt-1" role="alert">{{ error }}</p>
       </div>
 
       <div class="mb-4">
-        <label for="toelichting" class="block mb-2 font-semibold font-['Times_New_Roman']">Toelichting (optioneel)</label>
+        <label for="toelichting" class="block mb-2 font-bold">Toelichting (optioneel)</label>
         <textarea
           id="toelichting"
           v-model="toelichting"
           rows="3"
-          class="w-full px-3 py-2 border border-gray-400 rounded font-['Verdana']"
+          class="invoer"
           placeholder="Bijv. pijn na het traplopen"
         ></textarea>
+        <p class="mt-1 mb-0 text-sm text-gray-700">De datum en tijd worden automatisch vastgelegd.</p>
       </div>
 
       <button
         type="submit"
-        class="bg-[#003366] hover:bg-[#002244] text-white font-semibold px-4 py-2 rounded font-['Verdana']"
+        class="knop-primair"
       >
-        Pijnindicatie Opslaan
+        Opslaan
       </button>
     </form>
+    </KaderSectie>
 
-    <h2 class="text-3xl font-bold mt-10 mb-4 font-['Times_New_Roman']">Eerdere pijnindicaties</h2>
-    <FilterTabs v-model="weergave" :opties="weergaveOpties" label="Kies hoe de grafiek de pijnscores toont" />
-    <ChartView
-      :punten="grafiekPunten"
-      :label="weergave === 'week' ? 'Gemiddelde pijnscore' : 'Pijnscore'"
-      :eenheid="weergave === 'week' ? 'week' : 'day'"
-      class="mt-4"
-    />
+    <KaderSectie titel="Verloop" kop-id="pijn-verloop-kop" class="flex-[1.4_1_420px] min-w-0">
+      <template v-if="painData.length">
+        <FilterTabs class="mb-4" v-model="weergave" :opties="weergaveOpties" label="Kies hoe de grafiek de pijnscores toont" />
+        <ChartView
+          :punten="grafiekPunten"
+          :label="weergave === 'week' ? 'Gemiddelde pijnscore' : 'Pijnscore'"
+          :eenheid="weergave === 'week' ? 'week' : 'day'"
+        />
+      </template>
+      <!-- Lege toestand: uitleg in plaats van een lege grafiek -->
+      <p v-else class="m-0 italic">Je hebt nog geen pijn geregistreerd. Je eerste score zie je hier meteen terug.</p>
+    </KaderSectie>
+    </div>
   </div>
 </template>
